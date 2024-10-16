@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Traps - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Traps","wgTitle":"Traps","wgCurRevisionId":40809,"wgRevisionId":40809,"wgArticleId":77,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["World"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Traps","wgRelevantArticleId":77,"wgRequestId":"ZeuZdFt70fEM8GAjjy1znQAAAYA","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Traps rootpage-Traps skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Traps</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="clear: right; float: right; margin: 0 0 1em 1.4em; background: none; width: auto;">
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Avoidance"><span class="tocnumber">1</span> <span class="toctext">Avoidance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Disarming"><span class="tocnumber">2</span> <span class="toctext">Disarming</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#List_of_traps"><span class="tocnumber">3</span> <span class="toctext">List of traps</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trap_tools"><span class="tocnumber">4</span> <span class="toctext">Trap tools</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Trap-like_tools"><span class="tocnumber">5</span> <span class="toctext">Trap-like tools</span></a></li>
+</ul>
+</div>
+
+</div>
+<p><b>Traps</b> can be found as part of environment, stash <a href="/cdda_wiki/index.php/Map" title="Map">map</a> extra, and can be <a href="/cdda_wiki/index.php/Construction" title="Construction">constructed</a> or set up from <a href="/cdda_wiki/index.php/Tools" title="Tools">items</a> by player (most of these can be <a href="/cdda_wiki/index.php/Crafting" title="Crafting">crafted</a>). Traps can be placed only on perfectly flat surface (with 100 moving points cost). One tile can contain only one trap. Movement points required to set up a particular trap are equal to the awarded <a href="/cdda_wiki/index.php/Skills" title="Skills">practice percents</a> multiplied by 25, plus an additional 100.
+</p><p>A given trap is visible to a <a href="/cdda_wiki/index.php/Character" title="Character">character</a> if a <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Normal_distribution">normally distributed</a> random variable with average
+</p>
+<dl><dd><b>(<a href="/cdda_wiki/index.php/Stats" title="Stats">Perception</a>*4 + <a href="/cdda_wiki/index.php/Stats" title="Stats">Intelligence</a>)/5 + <a href="/cdda_wiki/index.php/Skill" class="mw-redirect" title="Skill">Devices</a>/3 + <a href="/cdda_wiki/index.php?title=Proficiencies&amp;action=edit&amp;redlink=1" class="new" title="Proficiencies (page does not exist)">Trapping proficiencies</a></b> is greater than <b><a href="/cdda_wiki/index.php/Clothing#Encumbrance" title="Clothing">Eye encumbrance</a>/10 + trap Distance + trap Visibility</b>.</dd>
+<dd>(with minor adjustments from focus level or being tired)</dd>
+<dd>Trapping proficiencies starts at -2 with +2 for "Principals of Trapping", +1 for "Trap Setting", and +4 for "Spotting and Awareness".</dd>
+<dd>(See <a rel="nofollow" class="external text" href="https://github.com/CleverRaven/Cataclysm-DDA/blob/0.G/src/trap.cpp#L243">trap::detect_trap in trap.cpp</a>)</dd></dl>
+<p>For example, an 8 Perception/Intelligence character with no eye encumbrance and Trapping skill has a 10% of seeing a buried landmine right next to them.
+</p><p>If a player tries to step on a visible trap, the game will ask to confirm that movement.
+</p>
+<h2><span class="mw-headline" id="Avoidance">Avoidance</span></h2>
+<p>Trap avoidance is determined by two dice rolls, one for the trap and another for its victim. If victim's roll is lower than the trap's roll, then the victim springs the trap.
+</p><p>Trap dice is:
+</p>
+<ul><li>3d[ <b>Avoidance</b> ] for <a href="/cdda_wiki/index.php/Enemies" title="Enemies">critters</a>.</li></ul>
+<ul><li>6d[ <b>Avoidance</b> ] for traps you are not aware of.</li>
+<li>3d[ <b>Avoidance</b> ] for traps you are aware of. (or if a <a href="/cdda_wiki/index.php/Enemies" title="Enemies">critter</a> steps on it)</li></ul>
+<p>Victim dice is:
+</p>
+<ul><li>3d[ <b>Dodge</b> skill + 1 ] for <a href="/cdda_wiki/index.php/Enemies" title="Enemies">critters</a>.</li></ul>
+<ul><li>3d[ <b><a href="/cdda_wiki/index.php/Stats" title="Stats">Dexterity</a></b> + <b><a href="/cdda_wiki/index.php/Skills" title="Skills">Dodge skill</a></b> * <b>1.5</b> ]
+<ul><li>+ 2d6 for <a href="/cdda_wiki/index.php/Light_Step" title="Light Step">Light Step</a></li>
+<li>- 2d6 for <a href="/cdda_wiki/index.php/Clumsy" title="Clumsy">Clumsy</a></li></ul></li></ul>
+<p>Flying and digging <a href="/cdda_wiki/index.php/Enemies" title="Enemies">enemies</a> are fully immune to traps.
+</p>
+<h2><span class="mw-headline" id="Disarming">Disarming</span></h2>
+<p>Traps can be disarmed only when visible, though traps with 99 difficulty give no disarm option upon <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamination at all.
+</p><p>The success of a disarm attempt is based on a dice roll. This disarm roll is a random number from the player's <a href="/cdda_wiki/index.php/Skills" title="Skills">traps skill level</a> to their traps skill level multiplied by four. The disarm roll may be increased further (up to 50) based on the player's current perception and dexterity. (If perception is greater than a random number from 5 to 20, or if dexterity is greater than a random number from 1 to 20, the roll will be increased by 1. This process repeats until both checks fail or the roll reaches 50.)
+</p><p>If the disarm roll is greater than or equal to the trap's difficulty, the player successfully disarms the trap and receives its items; if the roll is less than the trap's difficulty, but greater than or equal to 80% of the difficulty, disarming will fail without setting the trap off. In both cases, the character will gain 1.5*(trap_difficulty - traps_skill_level) practice points.
+</p><p>If the player sets off the trap during the disarm attempt (meaning the disarm roll was less than 80% of the amount needed), but the difference between the trap's difficulty and the player's roll is less than or equal to 6, the character will gain 2*trap_difficulty practice points.
+</p><p>Disarming a trap is currently a free action.  For reference purposes, an unmodified human--such as the typical starting character--receives 100 move points per turn, so losing 100 move points would force the player to be there and do nothing for a turn.
+</p>
+<h2><span class="mw-headline" id="List_of_traps">List of traps</span></h2>
+<table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+
+<tbody><tr style="background-color:lightgreen">
+<th class="unsortable" style="background-color: white; border: 1px solid white">
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white">Name<br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Practice points for setting up">P</abbr><br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Visibility">V</abbr><br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Avoidance">A</abbr><br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Difficulty">D</abbr><br />
+</th>
+<th style="border: 1px solid #aaa">Returning items
+</th>
+<th class="unsortable" style="border: 1px solid #aaa; border-right-color: white">Notes
+</th></tr>
+<tr id="bubblewrap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Bubblewrap" title="Bubblewrap">bubblewrap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">8
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bubblewrap
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It creates 18 <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a> and has a good chance to wake you up if placed near a sleeping place.
+</td></tr>
+<tr id="bear_trap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Bear_trap" title="Bear trap">bear trap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">7
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bear trap
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It creates 8 <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a>. Trap deals 10-16 damage to one of legs if activated by player. If activated by monster, trap deals 35 damage, reset moves and adds Trapped status for 8-15 turns. While Trapped monster has no moves and its dodge is halved. It works once, then leaves trap item.
+</td></tr>
+<tr id="buried_bear_trap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Buried_bear_trap" class="mw-redirect" title="Buried bear trap">buried bear trap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">7
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">9
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">8
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bear trap
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It creates 8 <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a>. Trap deals 10-16 damage to one of legs if activated by player. If activated by monster, trap deals 35 damage, reset moves and adds Trapped status for 8-15 turns. While Trapped monster has no moves and its dodge is halved. It works once, then leaves trap item.
+</td></tr>
+<tr id="spiked_board" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Spiked_board&amp;action=edit&amp;redlink=1" class="new" title="Spiked board (page does not exist)">spiked board</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">1
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">6
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">nailboard trap
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It deals 6-10 damage to both of the player's feet. If activated by monster, trap deals 6-10 damage and decreases monster's moves by 80.
+</td></tr>
+<tr id="tripwire" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Tripwire&amp;action=edit&amp;redlink=1" class="new" title="Tripwire (page does not exist)">tripwire</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">6
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">string - 3 ft
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">If activated by player, trap pushes them to a nearby square, decreases their moves by 150 and has a chance to hurt all their body parts on 1-4 (decreased by dexterity). If activated by monster, trap always deals 1-4 damage.
+</td></tr>
+<tr id="crossbow_trap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Crossbow_trap" title="Crossbow trap">crossbow trap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">string - 3 ft,<br />crossbow
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It can miss with 25% chance and will drop a steel bolt in this case. In other 75% player will need to pass dodge skill check. If they fail, trap deals 20-30 damage to a random body part and has a 90% chance to drop a steel bolt. Monsters would not have chance to dodge, though trap can miss anyway. It works once, then leaves trap items.
+</td></tr>
+<tr id="shotgun_trap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Shotgun_trap" title="Shotgun trap">shotgun trap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">6
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">string - 3 ft, sawn-off&#160;shotgun
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It has a chance to shot from both barrels (increased by player's max strength or monster's size). Player will need to pass dodge skill check, monster will not. Trap deals 40-60 (80-120, if double-shot) damage to a random body part. It works until it fires both charges, then leaves trap items.
+</td></tr>
+<tr id="spinning_blade_engine" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Spinning_blade_engine&amp;action=edit&amp;redlink=1" class="new" title="Spinning blade engine (page does not exist)">spinning blade engine</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">12
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">electric motor, 2x&#160;machete
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Passive part of blade trap, which can be disarmed. It does not deal any damage.
+</td></tr>
+<tr id="spinning_blade" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">\</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Spinning_blade&amp;action=edit&amp;redlink=1" class="new" title="Spinning blade (page does not exist)">spinning blade</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Active part of blade trap. It deals 12-30 damage to player's torso or 30 cut and 12 bash damage to a monster.
+</td></tr>
+<tr id="light_snare_trap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Light_snare_trap&amp;action=edit&amp;redlink=1" class="new" title="Light snare trap (page does not exist)">light snare trap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">?
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">10
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">string - 3 ft, snare trigger
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Can trap creatures up to MEDIUM size.
+</td></tr>
+<tr id="heavy_snare_trap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Heavy_snare_trap&amp;action=edit&amp;redlink=1" class="new" title="Heavy snare trap (page does not exist)">heavy snare trap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">?
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">10
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">rope - 6 ft, snare trigger
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Can trap creatures up to LARGE size.
+</td></tr>
+<tr id="land_mine" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Land_mine" title="Land mine">land mine</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">7
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">1
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">14
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">10
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">land mine
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Explodes with 10 power and 8 shrapnel charges. Each shrapnel charge will flee up to 12 squares away and deal 20-60 cut damage to monsters, explosion by itself deals up to 15-45 damage. (Damage to a player varies, but even one shrapnel hit to torso or head will probably kill the character.)
+</td></tr>
+<tr id="buried_land_mine" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Buried_land_mine" class="mw-redirect" title="Buried land mine">buried land mine</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">7
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">10
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">14
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">10
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">land mine
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Explodes with 10 power and 8 shrapnel charges. Each shrapnel charge will flee up to 12 squares away and deal 20-60 cut damage to monsters, explosion by itself deals up to 15-45 damage. (Damage to a player varies, but even one shrapnel hit to torso or head will probably kill the character.)
+</td></tr>
+<tr id="teleport_pad" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Teleport_pad&amp;action=edit&amp;redlink=1" class="new" title="Teleport pad (page does not exist)">teleport pad</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">15
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">20
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It creates 8 <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a>. Can warp target into wall, monster or just explode it, though exploding is rare.
+</td></tr>
+<tr id="goo_pit" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Goo_pit&amp;action=edit&amp;redlink=1" class="new" title="Goo pit (page does not exist)">goo pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">15
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">15
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It infects with <a href="/cdda_wiki/index.php/Slimed" title="Slimed">Slimed</a> disease and with 30% change deals 0-5 damage to both player's feet. To <a href="/cdda_wiki/index.php/Blob" title="Blob">blob</a> monsters it gives additional 15 points of speed and set monster's health equal to speed. Other monsters will be polymorphed to blobs. Trap works once, then disappears.
+</td></tr>
+<tr id="dissector" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">7</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Dissector" title="Dissector">dissector</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">20
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It creates 10 <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a>. Will randomly hurt all player's body parts up to 10 (to hands an feet), 12 (arms &amp; legs), 15 (head) and 20 points (torso). Will deal 60 damage to non robotic monsters.
+</td></tr>
+<tr id="sinkhole" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">_</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Sinkhole&amp;action=edit&amp;redlink=1" class="new" title="Sinkhole (page does not exist)">sinkhole</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">10
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">14
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Way to fall down a level. If character have rope - 30 ft item, you can try to use it to escape from the hole, in this case character will need to pass throw skill check (chance to pass is increased by strength and dexterity) and then unarmed skill check (increased by strength). You have a chance to lose rope at the surface. If you tried to use the rope sinkhole will become a pit trap.
+</td></tr>
+<tr id="pit" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Pit" title="Pit">pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">8
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It deals 10-20 damage. Damage will be applied to all character's body parts (and can be decreased up to half), and once more time to both legs (full damage). Damage can be decreased or avoided by dodge, and the <a href="/cdda_wiki/index.php/Mutation" title="Mutation">Bird Wings</a> mutation will guarantee a safe fall. Anyway, the player will be stuck in the pit. Trap deals 10-20 damage (once and sure) to monsters and decreases monsters' moves by 1000.
+</td></tr>
+<tr id="spiked_pit" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Spiked_pit" title="Spiked pit">spiked pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">8
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">It deals 20-50 damage. For player damage will be applied randomly to one leg, arm or torso. Damage can be avoided by dodge, and <a href="/cdda_wiki/index.php/Mutation" title="Mutation">Bird Wings</a> mutation will guarantee a safe fall. Anyway, the player will be stuck in the pit. If activated by monster, trap deals 20-50 damage (once and sure) and decreases monster's moves by 1000. The spears have a collective 25% chance to break; if they do, each spear has a 30% chance to drop as an item and the trap will revert to a regular pit trap.
+</td></tr>
+<tr id="lava" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Lava" title="Lava">lava</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">For player it deals 20 damage to each of their feet and legs. Its damage to critters depend on the critter's material - for flesh it is 50, for veggy - 80, for steel - 5.
+</td></tr>
+<tr id="shimmering_portal" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">%</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Shimmering_portal&amp;action=edit&amp;redlink=1" class="new" title="Shimmering portal (page does not exist)">shimmering portal</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">30
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Actually randomly cycles through *08&amp;+ symbols.<br />It does nothing yet, but appears as decoration with the portal <a href="/cdda_wiki/index.php/Map#map_extras" title="Map">map extra</a> and in the resonance cascade event.
+</td></tr>
+<tr id="ledge" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:black; border:1px black solid">&#160;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Ledge" class="mw-redirect" title="Ledge">ledge</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Way to fall down a level. This is lethal to any monster.
+</td></tr>
+<tr id="boobytrap" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Boobytrap&amp;action=edit&amp;redlink=1" class="new" title="Boobytrap (page does not exist)">boobytrap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">7
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Explodes with 18 power and 12 shrapnel charges. Each shrapnel charge will fly up to 40 squares away and deal 20-60 cut damage to monsters; the explosion by itself deals up to 27-81 damage. (Damage to a player varies, but even one shrapnel hit to torso or head will probably kill the character.)
+</td></tr>
+<tr id="raised_tile" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php?title=Raised_tile&amp;action=edit&amp;redlink=1" class="new" title="Raised tile (page does not exist)">raised tile</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">9
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">20
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Can be activated only by the player. Will start flooding the room.  Expect neck-deep water in 10 turns.
+</td></tr>
+<tr id=".28Glow_attack.29" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em">(Glow attack)
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">With 30% irradiates player for 10-30 points, or with 25% creates <a href="/cdda_wiki/index.php/Tools#flashbang" title="Tools">flashbang</a> explosion, or harmless flashes. Monsters are hurt by 5-10 and slowed by 10% with 30% chance.
+</td></tr>
+<tr id=".28Hum_attack.29" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em">(Hum attack)
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Creates <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a> with volume up to  200 points, which can cause deafness.
+</td></tr>
+<tr id=".28Shadow_spawn.29" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em">(Shadow spawn)
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Can be activated only by player. It spawns one <a href="/cdda_wiki/index.php/Enemies#shadow" title="Enemies">shadow</a> monster.
+</td></tr>
+<tr id=".28Drain_attack.29" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em">(Drain attack)
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Hurts all body parts by one point.
+</td></tr>
+<tr id=".28Snake_spawn.29" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em">(Snake spawn)
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">99
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">When activated by player it spawns one <a href="/cdda_wiki/index.php/Shadow_snake" title="Shadow snake">shadow snake</a>. It also always creates hiss <a href="/cdda_wiki/index.php/Noise" title="Noise">noise</a> with 10 volume. There is a 16% chance that trap will be destroyed.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trap_tools">Trap tools</span></h2>
+<p>These are the traps you can arm yourself. Activate the item and you will be asked where to place the trap. If you choose a place that already contains an invisible trap, that trap will be triggered. In any case, you can not set a trap on another trap.
+</p>
+<table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+<tbody><tr style="background-color:lightgreen">
+<th class="unsortable" style="background-color: white; border: 1px solid white"></th>
+<th style="border: 1px solid #aaa; border-left-color: white; text-align:left"> Name &amp; charges (default/max) </th>
+<th style="border: 1px solid #aaa"> Price<br /> </th>
+<th style="border: 1px solid #aaa"> <abbr title="Material">Mat.</abbr><br /> </th>
+<th style="border: 1px solid #aaa"> <abbr title="Volume">Vo</abbr><br /> </th>
+<th style="border: 1px solid #aaa; border-right-color: #333"> <abbr title="Weight">We</abbr><br /> </th>
+<th style="border: 1px solid #aaa; border-left-color: #333"> <abbr title="Bash damage">Ba</abbr><br /> </th>
+<th style="border: 1px solid #aaa"> Cut<br /> </th>
+<th style="border: 1px solid #aaa; border-right-color: #333"> Hit<br /> </th>
+<th style="border: 1px solid #aaa; border-left-color: #333"> Use<br /> </th>
+</tr>
+
+<tr id="bubblewrap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Bubblewrap" title="Bubblewrap">bubblewrap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 40 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> plastic </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 2 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; color:darkblue"> 0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -8 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="bear_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Bear_trap" title="Bear trap">bear trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 120 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> iron </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 4 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 12 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkblue"> 9 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: darkblue"> 1 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -2 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="nailboard_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Nailboard_trap" title="Nailboard trap">nailboard trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 30 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> wood </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 18 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 18 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkblue"> 12 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: darkblue"> 6 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -3 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="tripwire_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Tripwire_trap" title="Tripwire trap">tripwire trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 35 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> paper </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 1 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; color:darkblue"> 0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -10 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -1 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="crossbow_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Crossbow_trap" title="Crossbow trap">crossbow trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 600 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> iron / wood </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 7 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 10 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkblue"> 4 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -2 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="shotgun_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Shotgun_trap" title="Shotgun trap">shotgun trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 450 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> iron / wood </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 7 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 11 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkblue"> 12 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -2 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="blade_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Blade_trap" title="Blade trap">blade trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 500 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> iron </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 13 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 21 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkblue"> 4 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: darkblue"> 16 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -4 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="light_snare_kit" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Light_snare_kit" title="Light snare kit">light snare kit</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 100 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> wood </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 1 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 3 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: darkblue"> 10 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="heavy_snare_kit" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Heavy_snare_kit" title="Heavy snare kit">heavy snare kit</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 250 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> wood </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 1 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 5 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: darkblue"> 20 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="land_mine" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Land_mine" title="Land mine">land mine</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 2400 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> iron </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 3 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 6 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkblue"> 10 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -1 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+<tr id="booby_trap" style="text-align:right">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">;</span> </td><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php/Booby_trap" title="Booby trap">booby trap</a>  </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 500 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left; font-size: 0.9em; line-height:100%"> steel / plastic </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em;"> 3 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em;"> 2 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; color: lightgray"> 0 </td><td style="border: 1px solid #aaa; border-right-color: #333; padding: 0.2em 0.5em; white-space:nowrap; color: darkred"> -4 </td><td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:left"> none
+ </td>
+</tr>
+
+
+</tbody></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Trap-like_tools">Trap-like tools</span></h2>
+<p>These are items that share the traps functionality, although they aren't traps themselves. They don't require any skill to being able to arm or disarm them.
+</p>
+<table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+
+<tbody><tr style="background-color:lightgreen">
+<th class="unsortable" style="background-color: white; border: 1px solid white">
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white">Name<br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Practice points for setting up">P</abbr><br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Visibility">V</abbr><br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Avoidance">A</abbr><br />
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Difficulty">D</abbr><br />
+</th>
+<th style="border: 1px solid #aaa">Returning items
+</th>
+<th class="unsortable" style="border: 1px solid #aaa; border-right-color: white">Notes
+</th></tr>
+<tr id="cot" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Cot" title="Cot">cot</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">cot
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Places a cot over the chosen tile.
+</td></tr>
+<tr id="brazier" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Brazier" title="Brazier">brazier</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">brazier
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Places a functional brazier over the chosen tile.
+</td></tr>
+<tr id="roll_mat" style="text-align:left">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Rollmat" title="Rollmat">roll mat</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:right;">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">roll mat
+</td>
+<td style="border: 1px solid #aaa; border-right-color: white; padding: 0.2em 0.5em">Places a roll mat over the chosen tile.
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20240308093049
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.286 seconds
+Real time usage: 0.337 seconds
+Preprocessor visited node count: 4086/1000000
+Preprocessor generated node count: 7688/1000000
+Post‐expand include size: 68771/2097152 bytes
+Template argument size: 10642/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  163.072      1 -total
+ 53.24%   86.819      1 Trap_tools
+ 48.47%   79.048     11 Template:Row/Tools
+ 40.65%   66.288     32 Template:Row/Traps
+ 29.82%   48.628     43 Template:Igs
+ 19.86%   32.380     43 Template:Colors
+ 15.93%   25.973     11 Template:ATtoname
+  1.98%    3.231      1 Template:Tocr
+  1.67%    2.719      1 Template:Key
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:77-0!canonical and timestamp 20240308093049 and revision id 40809
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Traps&amp;oldid=40809">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Traps&amp;oldid=40809</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/cdda_wiki/index.php/Category:World" title="Category:World">World</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Traps" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Traps" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Traps" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Traps" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Traps">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Traps&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Traps&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Traps" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Traps" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Traps&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Traps&amp;oldid=40809" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Traps&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 June 2023, at 08:16.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.286","walltime":"0.337","ppvisitednodes":{"value":4086,"limit":1000000},"ppgeneratednodes":{"value":7688,"limit":1000000},"postexpandincludesize":{"value":68771,"limit":2097152},"templateargumentsize":{"value":10642,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  163.072      1 -total"," 53.24%   86.819      1 Trap_tools"," 48.47%   79.048     11 Template:Row/Tools"," 40.65%   66.288     32 Template:Row/Traps"," 29.82%   48.628     43 Template:Igs"," 19.86%   32.380     43 Template:Colors"," 15.93%   25.973     11 Template:ATtoname","  1.98%    3.231      1 Template:Tocr","  1.67%    2.719      1 Template:Key"]},"cachereport":{"timestamp":"20240308093049","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81});});</script>
+</body>
+</html>

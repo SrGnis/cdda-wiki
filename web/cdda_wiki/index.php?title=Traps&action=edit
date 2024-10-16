@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Traps - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Traps","wgTitle":"Traps","wgCurRevisionId":40115,"wgRevisionId":0,"wgArticleId":77,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Traps","wgRelevantArticleId":77,"wgRequestId":"ZBsJjFNKCaolqpnR5CGBEgAAAIw","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Traps rootpage-Traps skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Traps</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Traps" title="Traps">Traps</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">Note: In Experimental, the formula have been changed: https://github.com/CleverRaven/Cataclysm-DDA/pull/44895
+
+{{tocr}}
+
+'''Traps''' can be found as part of environment, stash [[map]] extra, and can be [[construction|constructed]] or set up from [[tools|items]] by player (most of these can be [[crafting|crafted]]). Traps can be placed only on perfectly flat surface (with 100 moving points cost). One tile can contain only one trap. Movement points required to set up a particular trap are equal to the awarded [[skills|practice percents]] multiplied by 25, plus an additional 100.
+
+A given trap is visible to a [[character]] if
+: '''[[stats|Perception]] + 2 * Trapping''' is greater than '''[[Clothing#Encumbrance|Eye encumbrance]]/10 + trap Distance + trap Visibility'''. 
+: (with minor adjustments from luck, being a police detective, having taken stimulants, or being tired)
+For example, a 8 Perception character with no eye encumbrance and Trapping skill will see a normal landmine from 8 tiles away and won't be able to see a buried landmine at all.
+
+If a player tries to step on a visible trap, the game will ask to confirm that movement.
+
+== Avoidance ==
+Trap avoidance is determined by two dice rolls, one for the trap and another for its victim. If victim's roll is lower than the trap's roll, then the victim springs the trap.
+
+Trap dice is:
+* 3d[ '''Avoidance''' ] for [[Enemies|critters]].
+
+* 6d[ '''Avoidance''' ] for traps you are not aware of.
+* 3d[ '''Avoidance''' ] for traps you are aware of. (or if a [[Enemies|critter]] steps on it)
+
+Victim dice is:
+* 3d[ '''Dodge''' skill + 1 ] for [[Enemies|critters]].
+
+* 3d[ '''[[stats|Dexterity]]''' + '''[[skills|Dodge skill]]''' * '''1.5''' ] 
+** + 2d6 for [[Light Step]] 
+** - 2d6 for [[Clumsy]]
+
+Flying and digging [[enemies]] are fully immune to traps.
+
+== Disarming ==
+Traps can be disarmed only when visible, though traps with 99 difficulty give no disarm option upon {{key|e}}xamination at all.
+
+The success of a disarm attempt is based on a dice roll. This disarm roll is a random number from the player's [[skills|traps skill level]] to their traps skill level multiplied by four. The disarm roll may be increased further (up to 50) based on the player's current perception and dexterity. (If perception is greater than a random number from 5 to 20, or if dexterity is greater than a random number from 1 to 20, the roll will be increased by 1. This process repeats until both checks fail or the roll reaches 50.)&lt;!-- see map::dis-arm_trap() -->
+
+If the disarm roll is greater than or equal to the trap's difficulty, the player successfully disarms the trap and receives its items; if the roll is less than the trap's difficulty, but greater than or equal to 80% of the difficulty, disarming will fail without setting the trap off. In both cases, the character will gain 1.5*(trap_difficulty - traps_skill_level) practice points.
+
+If the player sets off the trap during the disarm attempt (meaning the disarm roll was less than 80% of the amount needed), but the difference between the trap's difficulty and the player's roll is less than or equal to 6, the character will gain 2*trap_difficulty practice points.
+
+Disarming a trap is currently a free action.  For reference purposes, an unmodified human--such as the typical starting character--receives 100 move points per turn, so losing 100 move points would force the player to be there and do nothing for a turn.
+
+== List of traps ==
+&lt;!--
+#define TRAP(name, sym, color, visibility, avoidance, difficulty, action, ...) \
+id++;\
+traps.push_back(new trap(id, sym, color, name, visibility, avoidance,\
+                    difficulty, action, __VA_ARGS__));
+ TRAP("none", '?', c_white, 20, 0, 0, &amp;trapfunc::none, &amp;trapfuncm::none,
+      NULL);
+-->
+{| cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0"
+|- style="background-color:lightgreen"
+! class="unsortable" style="background-color: white; border: 1px solid white" |
+! style="border: 1px solid #aaa; border-left-color: white" | Name&lt;br>
+
+! style="border: 1px solid #aaa" | &lt;abbr title="Practice points for setting up">P&lt;/abbr>&lt;br>
+! style="border: 1px solid #aaa" | &lt;abbr title="Visibility">V&lt;/abbr>&lt;br>
+! style="border: 1px solid #aaa" | &lt;abbr title="Avoidance">A&lt;/abbr>&lt;br>
+! style="border: 1px solid #aaa" | &lt;abbr title="Difficulty">D&lt;/abbr>&lt;br>
+&lt;!--
+! style="border: 1px solid #aaa" |
+! style="border: 1px solid #aaa" |
+-->
+! style="border: 1px solid #aaa" | Returning items
+! class="unsortable" style="border: 1px solid #aaa; border-right-color: white" | Notes
+
+{{row/{{PAGENAME}}|[[bubblewrap]]|_|c_ltcyan|sp=2|0|8|0|&amp;trapfunc::bubble|&amp;trapfuncm::bubble|itm_bubblewrap
+|It creates 18 [[noise]] and has a good chance to wake you up if placed near a sleeping place.}}
+
+{{row/{{PAGENAME}}|[[bear_trap|bear trap]]|^|c_blue|sp=4|2|7|3|&amp;trapfunc::beartrap|&amp;trapfuncm::beartrap|itm_beartrap
+|It creates 8 [[noise]]. Trap deals 10-16 damage to one of legs if activated by player. If activated by monster, trap deals 35 damage, reset moves and adds Trapped status for 8-15 turns. While Trapped monster has no moves and its dodge is halved. It works once, then leaves trap item.}}
+
+{{row/{{PAGENAME}}|[[buried_bear_trap|buried bear trap]]|^|c_blue|sp=7|9|8|4|&amp;trapfunc::beartrap|&amp;trapfuncm::beartrap|itm_beartrap
+|It creates 8 [[noise]]. Trap deals 10-16 damage to one of legs if activated by player. If activated by monster, trap deals 35 damage, reset moves and adds Trapped status for 8-15 turns. While Trapped monster has no moves and its dodge is halved. It works once, then leaves trap item.}}
+
+&lt;!--
+{{row/{{PAGENAME}}|rabbit snare|\|c_brown|5|10|2|&amp;trapfunc::snare|&amp;trapfuncm::snare|heavy stick, string - 3 ft
+|Not implemented?}}
+-->
+{{row/{{PAGENAME}}|[[spiked_board|spiked board]]|_|c_ltgray|sp=2|1|6|0|&amp;trapfunc::board|&amp;trapfuncm::board|itm_board_trap
+|It deals 6-10 damage to both of the player's feet. If activated by monster, trap deals 6-10 damage and decreases monster's moves by 80.}}
+
+{{row/{{PAGENAME}}|[[tripwire]]|^|c_ltred|sp=3|6|4|3|&amp;trapfunc::tripwire|&amp;trapfuncm::tripwire|itm_string_36
+|If activated by player, trap pushes them to a nearby square, decreases their moves by 150 and has a chance to hurt all their body parts on 1-4 (decreased by dexterity). If activated by monster, trap always deals 1-4 damage.}}
+
+{{row/{{PAGENAME}}|[[crossbow_trap|crossbow trap]]|^|c_green|sp=4|5|4|5|&amp;trapfunc::crossbow|&amp;trapfuncm::crossbow|string - 3 ft,&lt;br>crossbow&lt;!--itm_string_36, itm_crossbow-->
+|It can miss with 25% chance and will drop a steel bolt in this case. In other 75% player will need to pass dodge skill check. If they fail, trap deals 20-30 damage to a random body part and has a 90% chance to drop a steel bolt. Monsters would not have chance to dodge, though trap can miss anyway. It works once, then leaves trap items.}}
+	
+&lt;!-- 2 shots
+{{row/{{PAGENAME}}|[[shotgun_trap|shotgun trap]]|^|c_red|4|5|6|&amp;trapfunc::shotgun|&amp;trapfuncm::shotgun|string - 3 ft, sawn-off&amp;nbsp;shotgun&lt;!-itm_string_36, itm_shotgun_sawn->|}}
+	
+     1 shot -->
+{{row/{{PAGENAME}}|[[shotgun_trap|shotgun trap]]|^|c_red|sp=5|4|5|6|&amp;trapfunc::shotgun|&amp;trapfuncm::shotgun|string - 3 ft, sawn-off&amp;nbsp;shotgun&lt;!--itm_string_36, itm_shotgun_sawn-->
+|It has a chance to shot from both barrels (increased by player's max strength or monster's size). Player will need to pass dodge skill check, monster will not. Trap deals 40-60 (80-120, if double-shot) damage to a random body part. It works until it fires both charges, then leaves trap items.}}
+
+{{row/{{PAGENAME}}|[[spinning_blade_engine|spinning blade engine]]|_|c_ltred|sp=12|0|0|2|&amp;trapfunc::none|&amp;trapfuncm::none|electric motor, 2x&amp;nbsp;machete&lt;!--itm_motor, itm_machete, itm_machete-->
+|Passive part of blade trap, which can be disarmed. It does not deal any damage.}}
+
+{{row/{{PAGENAME}}|[[spinning_blade|spinning blade]]|\|c_cyan|0|4|99|&amp;trapfunc::blade|&amp;trapfuncm::blade|
+|Active part of blade trap. It deals 12-30 damage to player's torso or 30 cut and 12 bash damage to a monster.}}
+
+{{row/{{PAGENAME}}|[[light_snare_trap|light snare trap]]|^|c_brown|sp=?|5|10|2|&amp;trapfunc::snare_light|&amp;trapfuncm::snare_light|string - 3 ft, snare trigger
+|Can trap creatures up to MEDIUM size.}}
+
+{{row/{{PAGENAME}}|[[heavy_snare_trap|heavy snare trap]]|^|c_brown|sp=?|3|10|4|&amp;trapfunc::snare_heavy|&amp;trapfuncm::snare_heavy|rope - 6 ft, snare trigger
+|Can trap creatures up to LARGE size.}}
+
+{{row/{{PAGENAME}}|[[land_mine|land mine]]|^|c_red|sp=7|1|14|10|&amp;trapfunc::landmine|&amp;trapfuncm::landmine|itm_landmine
+|Explodes with 10 power and 8 shrapnel charges. Each shrapnel charge will flee up to 12 squares away and deal 20-60 cut damage to monsters, explosion by itself deals up to 15-45 damage. (Damage to a player varies, but even one shrapnel hit to torso or head will probably kill the character.)}}
+
+{{row/{{PAGENAME}}|[[buried_land_mine|buried land mine]]|_|c_red|sp=7|10|14|10|&amp;trapfunc::landmine|&amp;trapfuncm::landmine|itm_landmine
+|Explodes with 10 power and 8 shrapnel charges. Each shrapnel charge will flee up to 12 squares away and deal 20-60 cut damage to monsters, explosion by itself deals up to 15-45 damage. (Damage to a player varies, but even one shrapnel hit to torso or head will probably kill the character.)}}
+
+{{row/{{PAGENAME}}|[[teleport_pad|teleport pad]]|_|c_magenta|0|15|20|&amp;trapfunc::telepad|&amp;trapfuncm::telepad|itm_null
+|It creates 8 [[noise]]. Can warp target into wall, monster or just explode it, though exploding is rare.}}
+
+{{row/{{PAGENAME}}|[[goo_pit|goo pit]]|_|c_dkgray|0|15|15|&amp;trapfunc::goo|&amp;trapfuncm::goo|itm_null
+|It infects with [[Slimed]] disease and with 30% change deals 0-5 damage to both player's feet. To [[blob]] monsters it gives additional 15 points of speed and set monster's health equal to speed. Other monsters will be polymorphed to blobs. Trap works once, then disappears.}}
+
+{{row/{{PAGENAME}}|[[dissector]]|7|c_cyan|2|20|99|&amp;trapfunc::dissector|&amp;trapfuncm::dissector|itm_null
+|It creates 10 [[noise]]. Will randomly hurt all player's body parts up to 10 (to hands an feet), 12 (arms &amp; legs), 15 (head) and 20 points (torso). Will deal 60 damage to non robotic monsters.}}
+
+{{row/{{PAGENAME}}|[[sinkhole]]|_|c_brown|10|14|99|&amp;trapfunc::sinkhole|&amp;trapfuncm::sinkhole|itm_null
+|Way to fall down a level. If character have rope - 30 ft item, you can try to use it to escape from the hole, in this case character will need to pass throw skill check (chance to pass is increased by strength and dexterity) and then unarmed skill check (increased by strength). You have a chance to lose rope at the surface. If you tried to use the rope sinkhole will become a pit trap.}}
+
+{{row/{{PAGENAME}}|[[pit]]|0|c_brown|0|8|99|&amp;trapfunc::pit|&amp;trapfuncm::pit|itm_null
+|It deals 10-20 damage. Damage will be applied to all character's body parts (and can be decreased up to half), and once more time to both legs (full damage). Damage can be decreased or avoided by dodge, and the [[mutation|Bird Wings]] mutation will guarantee a safe fall. Anyway, the player will be stuck in the pit. Trap deals 10-20 damage (once and sure) to monsters and decreases monsters' moves by 1000.}}
+
+{{row/{{PAGENAME}}|[[spiked pit]]|0|c_blue|0|8|99|&amp;trapfunc::pit_spikes|&amp;trapfuncm::pit_spikes|itm_null
+|It deals 20-50 damage. For player damage will be applied randomly to one leg, arm or torso. Damage can be avoided by dodge, and [[mutation|Bird Wings]] mutation will guarantee a safe fall. Anyway, the player will be stuck in the pit. If activated by monster, trap deals 20-50 damage (once and sure) and decreases monster's moves by 1000. The spears have a collective 25% chance to break; if they do, each spear has a 30% chance to drop as an item and the trap will revert to a regular pit trap.}}
+
+{{row/{{PAGENAME}}|[[lava]]|~|c_red|0|99|99|&amp;trapfunc::lava|&amp;trapfuncm::lava|itm_null
+|For player it deals 20 damage to each of their feet and legs. Its damage to critters depend on the critter's material - for flesh it is 50, for veggy - 80, for steel - 5.&lt;!--
+
+default = 30;
+FLESH = 50;
+VEGGY = 80;
+PAPER LIQUID POWDER WOOD COTTON WOOL = 200;
+STONE = 15;
+KEVLAR STEEL = 5;
+-->}}
+
+&lt;!-- The '%' symbol makes the portal cycle through ~*0&amp; -->
+{{row/{{PAGENAME}}|[[shimmering_portal|shimmering portal]]|%|c_magenta|0|30|99|&amp;trapfunc::portal|&amp;trapfuncm::portal|itm_null
+|Actually randomly cycles through *08&amp;+ symbols.&lt;br />It does nothing yet, but appears as decoration with the portal [[Map#map_extras|map extra]] and in the resonance cascade event.}}
+
+{{row/{{PAGENAME}}|[[ledge]]|&amp;nbsp;|c_black|0|99|99|&amp;trapfunc::ledge|&amp;trapfuncm::ledge|itm_null
+|Way to fall down a level. This is lethal to any monster.}}
+
+{{row/{{PAGENAME}}|[[boobytrap]]|^|c_ltcyan|sp=4|5|4|7|&amp;trapfunc::boobytrap|&amp;trapfuncm::boobytrap|itm_null
+|Explodes with 18 power and 12 shrapnel charges. Each shrapnel charge will fly up to 40 squares away and deal 20-60 cut damage to monsters; the explosion by itself deals up to 27-81 damage. (Damage to a player varies, but even one shrapnel hit to torso or head will probably kill the character.)}}
+
+{{row/{{PAGENAME}}|[[raised_tile|raised tile]]|^|c_ltgray|9|20|99|&amp;trapfunc::temple_flood|&amp;trapfuncm::none|itm_null
+|Can be activated only by the player. Will start flooding the room.  Expect neck-deep water in 10 turns.}}
+
+&lt;!-- Toggles through states of RGB walls
+{{row/{{PAGENAME}}||^|c_white|99|99|99|&amp;trapfunc::temple_toggle|&amp;trapfuncm::none|itm_null|}}
+
+-->
+&lt;!--// Glow attack-->
+{{row/{{PAGENAME}}|(Glow attack)|^|c_white|99|99|99|&amp;trapfunc::glow|&amp;trapfuncm::glow|itm_null
+|With 30% irradiates player for 10-30 points, or with 25% creates [[tools#flashbang|flashbang]] explosion, or harmless flashes. Monsters are hurt by 5-10 and slowed by 10% with 30% chance.}}
+
+&lt;!--// Hum attack-->
+{{row/{{PAGENAME}}|(Hum attack)|^|c_white|99|99|99|&amp;trapfunc::hum|&amp;trapfuncm::hum|itm_null|Creates [[noise]] with volume up to  200 points, which can cause deafness.}}
+
+&lt;!--// Shadow spawn-->
+{{row/{{PAGENAME}}|(Shadow spawn)|^|c_white|99|99|99|&amp;trapfunc::shadow|&amp;trapfuncm::none|itm_null|Can be activated only by player. It spawns one [[enemies#shadow|shadow]] monster.}}
+
+&lt;!--// Drain attack-->
+{{row/{{PAGENAME}}|(Drain attack)|^|c_white|99|99|99|&amp;trapfunc::drain|&amp;trapfuncm::drain|itm_null|Hurts all body parts by one point.}}
+
+&lt;!--// Snake spawn / hisssss-->
+{{row/{{PAGENAME}}|(Snake spawn)|^|c_white|99|99|99|&amp;trapfunc::snake|&amp;trapfuncm::snake|itm_null|When activated by player it spawns one [[Shadow_snake|shadow snake]]. It also always creates hiss [[noise]] with 10 volume. There is a 16% chance that trap will be destroyed.}}
+|}
+
+== Trap tools==
+These are the traps you can arm yourself. Activate the item and you will be asked where to place the trap. If you choose a place that already contains an invisible trap, that trap will be triggered. In any case, you can not set a trap on another trap.
+{{:Trap_tools}}
+
+
+== Trap-like tools ==
+These are items that share the traps functionality, although they aren't traps themselves. They don't require any skill to being able to arm or disarm them.
+
+{| cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0"
+|- style="background-color:lightgreen"
+! class="unsortable" style="background-color: white; border: 1px solid white" |
+! style="border: 1px solid #aaa; border-left-color: white" | Name&lt;br>
+
+! style="border: 1px solid #aaa" | &lt;abbr title="Practice points for setting up">P&lt;/abbr>&lt;br>
+! style="border: 1px solid #aaa" | &lt;abbr title="Visibility">V&lt;/abbr>&lt;br>
+! style="border: 1px solid #aaa" | &lt;abbr title="Avoidance">A&lt;/abbr>&lt;br>
+! style="border: 1px solid #aaa" | &lt;abbr title="Difficulty">D&lt;/abbr>&lt;br>
+&lt;!--
+! style="border: 1px solid #aaa" |
+! style="border: 1px solid #aaa" |
+-->
+! style="border: 1px solid #aaa" | Returning items
+! class="unsortable" style="border: 1px solid #aaa; border-right-color: white" | Notes
+
+{{row/{{PAGENAME}}|[[cot]]|#|c_green|0|0|0|&amp;trapfunc::none|&amp;trapfuncm::cot|cot
+|Places a cot over the chosen tile.}}
+
+{{row/{{PAGENAME}}|[[brazier]]|#|c_red|0|0|0|&amp;trapfunc::none|&amp;trapfuncm::none|brazier
+|Places a functional brazier over the chosen tile.}}
+
+{{row/{{PAGENAME}}|[[rollmat|roll mat]]|#|c_blue|0|0|0|&amp;trapfunc::none|&amp;trapfuncm::none|roll mat
+|Places a roll mat over the chosen tile.}}
+
+|}
+
+[[Category:World]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Trap_tools" title="Trap tools">Trap tools</a> (<a href="/cdda_wiki/index.php?title=Trap_tools&amp;action=edit" title="Trap tools">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:ATtoname" title="Template:ATtoname">Template:ATtoname</a> (<a href="/cdda_wiki/index.php?title=Template:ATtoname&amp;action=edit" title="Template:ATtoname">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Key" title="Template:Key">Template:Key</a> (<a href="/cdda_wiki/index.php?title=Template:Key&amp;action=edit" title="Template:Key">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/Tools" title="Template:Row/Tools">Template:Row/Tools</a> (<a href="/cdda_wiki/index.php?title=Template:Row/Tools&amp;action=edit" title="Template:Row/Tools">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/Traps" title="Template:Row/Traps">Template:Row/Traps</a> (<a href="/cdda_wiki/index.php?title=Template:Row/Traps&amp;action=edit" title="Template:Row/Traps">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Tocr" title="Template:Tocr">Template:Tocr</a> (<a href="/cdda_wiki/index.php?title=Template:Tocr&amp;action=edit" title="Template:Tocr">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Traps" title="Traps">Traps</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Traps">http://cddawiki.chezzo.com/cdda_wiki/index.php/Traps</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Traps&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Traps&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Traps" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Traps" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Traps">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Traps&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Traps&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Traps" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Traps" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Traps&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":878});});</script>
+</body>
+</html>

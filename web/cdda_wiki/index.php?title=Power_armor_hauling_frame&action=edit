@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Power armor hauling frame - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Power_armor_hauling_frame","wgTitle":"Power armor hauling frame","wgCurRevisionId":9781,"wgRevisionId":0,"wgArticleId":1229,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Power_armor_hauling_frame","wgRelevantArticleId":1229,"wgRequestId":"ZBCoT08MuXHbNhoDShZPyQAAAYM","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Power_armor_hauling_frame rootpage-Power_armor_hauling_frame skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Power armor hauling frame</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Power_armor_hauling_frame" title="Power armor hauling frame">Power armor hauling frame</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">&lt;noinclude>{{Clothes&lt;/noinclude>
+&lt;includeonly>{{row/Clothing1&lt;/includeonly>
+ |name=power armor hauling frame
+ |glyph=&lt;nowiki>[&lt;/nowiki>
+ |color=c_green
+ |volume=8
+ |weight=2040
+ |bash=1
+ |cut=0
+ |tohit=1
+ |rarity=0
+ |price=1000
+ |mat1=steel
+ |mat2=null
+ |func=
+ |encumber=4
+ |storage=120
+ |thickness=10
+ |bashprotect=0
+ |cutprotect=0
+ |enviprotect=0
+ |warmth=0
+ |coverage=100
+ |description=A heavy duty hauling frame designed to interface with power armor.
+ |flag1=WATERPROOF
+}}&lt;noinclude>
+
+== Notes ==
+You must be wearing a suit of [[basic power armor]] in order to make use of the hauling frame.
+
+
+{{Power Armor}}
+{{clothing}}
+[[Category:Power armor]]
+&lt;/noinclude>
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Acid_resist" title="Template:Acid resist">Template:Acid resist</a> (<a href="/cdda_wiki/index.php?title=Template:Acid_resist&amp;action=edit" title="Template:Acid resist">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Bash_resist" title="Template:Bash resist">Template:Bash resist</a> (<a href="/cdda_wiki/index.php?title=Template:Bash_resist&amp;action=edit" title="Template:Bash resist">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothes" title="Template:Clothes">Template:Clothes</a> (<a href="/cdda_wiki/index.php?title=Template:Clothes&amp;action=edit" title="Template:Clothes">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothing" title="Template:Clothing">Template:Clothing</a> (<a href="/cdda_wiki/index.php?title=Template:Clothing&amp;action=edit" title="Template:Clothing">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingbashcutprot" title="Template:Clothingbashcutprot">Template:Clothingbashcutprot</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingbashcutprot&amp;action=edit" title="Template:Clothingbashcutprot">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingencumbrance" title="Template:Clothingencumbrance">Template:Clothingencumbrance</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingencumbrance&amp;action=edit" title="Template:Clothingencumbrance">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingenviprot" title="Template:Clothingenviprot">Template:Clothingenviprot</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingenviprot&amp;action=edit" title="Template:Clothingenviprot">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingflags" title="Template:Clothingflags">Template:Clothingflags</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingflags&amp;action=edit" title="Template:Clothingflags">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingstorate" title="Template:Clothingstorate">Template:Clothingstorate</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingstorate&amp;action=edit" title="Template:Clothingstorate">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingvolume" title="Template:Clothingvolume">Template:Clothingvolume</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingvolume&amp;action=edit" title="Template:Clothingvolume">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingwarmth" title="Template:Clothingwarmth">Template:Clothingwarmth</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingwarmth&amp;action=edit" title="Template:Clothingwarmth">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Clothingweight" title="Template:Clothingweight">Template:Clothingweight</a> (<a href="/cdda_wiki/index.php?title=Template:Clothingweight&amp;action=edit" title="Template:Clothingweight">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Cut_resist" title="Template:Cut resist">Template:Cut resist</a> (<a href="/cdda_wiki/index.php?title=Template:Cut_resist&amp;action=edit" title="Template:Cut resist">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Infobox" title="Template:Infobox">Template:Infobox</a> (<a href="/cdda_wiki/index.php?title=Template:Infobox&amp;action=edit" title="Template:Infobox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Matacidres" title="Template:Matacidres">Template:Matacidres</a> (<a href="/cdda_wiki/index.php?title=Template:Matacidres&amp;action=edit" title="Template:Matacidres">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Matbashres" title="Template:Matbashres">Template:Matbashres</a> (<a href="/cdda_wiki/index.php?title=Template:Matbashres&amp;action=edit" title="Template:Matbashres">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Matcutres" title="Template:Matcutres">Template:Matcutres</a> (<a href="/cdda_wiki/index.php?title=Template:Matcutres&amp;action=edit" title="Template:Matcutres">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Materialtoname" title="Template:Materialtoname">Template:Materialtoname</a> (<a href="/cdda_wiki/index.php?title=Template:Materialtoname&amp;action=edit" title="Template:Materialtoname">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Materialtoweight" title="Template:Materialtoweight">Template:Materialtoweight</a> (<a href="/cdda_wiki/index.php?title=Template:Materialtoweight&amp;action=edit" title="Template:Materialtoweight">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Mtn" class="mw-redirect" title="Template:Mtn">Template:Mtn</a> (<a href="/cdda_wiki/index.php?title=Template:Mtn&amp;action=edit" class="mw-redirect" title="Template:Mtn">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Power_Armor" title="Template:Power Armor">Template:Power Armor</a> (<a href="/cdda_wiki/index.php?title=Template:Power_Armor&amp;action=edit" title="Template:Power Armor">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Quote" title="Template:Quote">Template:Quote</a> (<a href="/cdda_wiki/index.php?title=Template:Quote&amp;action=edit" title="Template:Quote">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Power_armor_hauling_frame" title="Power armor hauling frame">Power armor hauling frame</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Power_armor_hauling_frame">http://cddawiki.chezzo.com/cdda_wiki/index.php/Power_armor_hauling_frame</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Power+armor+hauling+frame&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Power+armor+hauling+frame&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Power_armor_hauling_frame" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Power_armor_hauling_frame&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Power_armor_hauling_frame">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Power_armor_hauling_frame&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Power_armor_hauling_frame&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Power_armor_hauling_frame" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Power_armor_hauling_frame" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Power_armor_hauling_frame&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1137});});</script>
+</body>
+</html>

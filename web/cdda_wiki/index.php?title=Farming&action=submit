@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Farming - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Farming","wgTitle":"Farming","wgCurRevisionId":38189,"wgRevisionId":0,"wgArticleId":3268,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"submit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Farming","wgRelevantArticleId":3268,"wgRequestId":"X6y3RjpS2rYVvMf-UHxs3QAAASE","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Farming rootpage-Farming skin-vector action-submit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Farming</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php?title=Farming" title="Farming">Farming</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{tocr}}
+
+ '''Guide initially based on {{InlineVer|0.C}}, various updates for {{InlineVer|0.D}} have been made.'''
+ Some of the information present here might not apply to future versions.
+
+Farming in Cataclysm can be a rewarding way of providing sustenance for your character. As of {{inlineVer|0.C}}, farming has received some solid updates and is now more than capable of providing all the food your character will need - despite the farming system being a work-in-progress (like everything else). Finding an actual [[farm]] in-game can be both tricky, and helpful - but is not necessary. If you can find a [[farm]], it's a good thing, as the earth is already dug up for easy planting, and you can often find relevant tools, or vehicles - plus fruits, veggies, grains, herbs and occasionally seeds just sitting out in the fields (assuming they haven't rotted away yet). Otherwise you can just make your own garden in any old vacant lot or field.
+
+The process of farming is pretty easy. It occurs in three steps - Planting, growing (read: waiting), and harvest. 
+
+== Planting ==
+The first order of business is to find yourself some [[Seeds]]. [[Seeds]] can be found in Gardening Supply buildings, Home Improvement Superstores, Hardware Stores, in [[Farm]]s themselves, rarely in Houses, and some can be crafted by the player, using the crafting menu {{k|&amp;}}. They also drop when a grown plant is successfully harvested. To get you started, you can get some early seeds by foraging underbrush in forests ({{k|e}}xamine [[underbrush]]) - [[wild vegetables]] or [[rhubarb]] you find can be crafted into [[wild vegetable stems]] or [[rhubarb stems]] (requires Survival 2), which can be planted like seeds. In summer, you can find strawberry or blueberry bushes in open fields that can be harvested for seeds &amp; fruit as well. 
+
+To plant seeds, you must {{k|e}}xamine a dirt mound with seeds in inventory. You can find some [[Mound of dirt|dirt mounds]] at a [[farm]], but be wary of monsters if you're visiting the farm for the first time. Clear the farm first then look around for some tools, if the farm has some farming tools or seeds then you can start right there.
+
+[[File:1 farming location.png|frame|none|A screen shot of a farm in Cataclysm: Dark Days Ahead.]]
+
+So find a nice set of [[Mound of dirt|dirt mounds]] on your farm to work with or just create your own [[Mound of dirt|dirt mounds]]. You can accomplish this with any digging tool, but the ideal implement by far would be a [[hoe]]. If you can't find or craft one, you can use a [[Shovel]], [[Entrenching Tool]] or even a simple [[Digging stick]] (any tool with Digging of 1 or higher). Make mounds by entering the {{k|*}}Construction menu and choosing Till Soil. This process takes about 30 minutes per mound, a steep price to pay. A hoe is quicker.
+
+[http://i.imgur.com/4QV1DR9.png Where to find hoe]
+
+It's much faster to use the [[hoe]], if you can find or build one; simply {{k|a}}pply it and have your dirt mound ready in a minute.
+
+[[File:2 farming apply hoe.png|frame|none|A screen shot of using the hoe tool in Cataclysm: Dark Days Ahead.]]
+
+Once you have dirt mounds, you must apply the seeds by {{k|e}}xamining the chosen mound. This will pop up a menu of seeds in your inventory - just choose the applicable seed and hit enter. Once the seeds are planted, the growing process begins.
+
+One note: '''You can only plant seeds when the temperature is 50F (10C) or greater.''' Otherwise you'll get the message, {{igs|"It is too cold to plant anything now."|light_blue}} So planting season begins in Spring, around day 6 or so. You may even find a small window between 2-4PM on day 5 if you really want to get started early.
+
+[[File:3 farming examine mound.png|frame|none|A screen shot of examining a mound of dirt in Cataclysm: Dark Days Ahead.]]
+
+Your dirt mounds become planted seeds.
+
+[[File:4 farming planted seed.png|frame|none|A screen shot of a planted seed in Cataclysm: Dark Days Ahead. For use on the CDDA wiki.]]
+
+== Growing ==
+
+Now, just sit back and wait for the seeds to sprout. They don't pop up overnight - growth takes place in four stages: planted seeds, seedling, mature plant, and fruiting plant. The time to finish the full growth cycle varies by plant. Also, growth times scale with season length, so in {{InlineVer|0.D}}, the growth times have scaled with the change from 15 -> 91 day seasons.
+
+You will know when your crops are done by their appearance (bright green #), and their description tag (harvestable plant). Fruited plants will stay harvestable for a good period of time, a week or more (in {{InlineVer|0.C}}) - if you do not harvest them within the available span, the plot will go back to seed and begin growth again starting from the seedling stage.
+
+One important thing to note is that the growth a plant experiences won't actually be reflected until you leave the plant's reality bubble and return - a quick trip up and down a set of stairs will do it (unless you have Z-levels on). So if you think it should be harvest time but nothing looks ready, try leaving and coming back.
+
+Another thing to keep in mind is that your crops are vulnerable at this stage and must be protected. Firstly from monsters - a zombie stumbling through your patch will ruin any planted crops it staggers across. Secondly from cold - be sure to harvest before winter, as the first day of winter will automatically kill off any growing plants and render them into [[withered plant|withered plants]].
+
+==={{InlineVer|0.D}} and {{InlineVer|0.E}}===
+
+Each plant has its own growth period.
+
+[[Oats]] are the fastest growing plant in the game. They grow in 45 days.
+
+[[zucchini|Zucchinis]] grow in 47 days.
+
+[[cucumber|Cucumbers]] grow in 60 days.
+
+[[carrot|Carrots]], [[chili pepper|chili peppers]], [[garlic bulb|garlic]] (from both seeds and cloves), [[onion|onions]], [[tomato|tomatoes]], and [[wild roots]] grow in 65 days.
+
+[[Barley]] grows in 70 days.
+
+[[Broccoli]] grows in 75 days.
+
+[[Corn]] grows in 80 days.
+
+[[Cabbage]] and [[lettuce]] grow in 85 days.
+
+[[sugar beet|Sugar beets]] grow in 90 days.
+
+[[Bee balm]], [[blackberry|blackberries]], [[blueberry|blueberries]], [[buckwheat]], [[cactus pad|cacti]], [[cannabis]], [[canola seeds|canola]], [[cattail rhizome|cattails]], [[chamomile flowers|chamomile]], [[chicory]], [[cranberry|cranberries]], [[dahlia]], [[handful of dandelions|dandelions]], [[datura seeds|datura]], [[decorative plant|decorative plants]], [[dogbane]], [[elderberry|elderberries]], [[fungal]], [[grape|grapes]], [[huckleberry|huckleberries]], [[marloss|marloss berries]], [[mugwort]], [[mulberry|mulberries]], [[mushroom|mushrooms]], [[morel mushroom|morel mushrooms]], [[pumpkin|pumpkins]], [[raspberry|raspberries]], [[raw beans]], [[raw lentils]], [[raw tobacco]], [[rhubarb]], [[rose hips|roses]], [[salsify]], [[soybean|soybeans]], [[strawberry|strawberries]], [[sunflower|sunflowers]], [[thyme]], [[wild herbs]], and [[wild vegetables]] grow in 91 days.
+
+[[raw potato|Potatoes]] grow in 95 days.
+
+[[hops flower|Hops]] and [[wheat]] grow in 120 days.
+
+[[Celery]] and [[cotton boll|cotton]] take the longest to grow, at 130 days.
+
+
+
+You're in luck if you can find [[oat seeds]] or [[zucchini seeds]] early on - if you get started early in the year, you could potentially squeeze 4 back-to-back harvests into one growing season, providing enough oatmeal for years to come.
+
+
+==={{InlineVer|0.C}}===
+
+In {{InlineVer|0.C}} (note that this version had shorter seasons), there are three speeds at which plants grow: Fast, Medium and Slow. Growth time generally takes a week or two. 
+
+Fast-growing plants take 2 days per stage, fruiting in 8 total days. These are [[oats]] and [[zucchini]].
+
+Medium-speed plants take 3 days per stage, fruiting in 12 days. These plants are [[barley]], [[broccoli]], [[chili pepper]], [[carrot]], [[cucumber]], [[garlic bulb|garlic]], [[onion]], and [[tomato]]. 
+
+Slow-growing plants take 4 days per stage, fruiting in 16 days. These plants are [[blueberry]], [[blackberry]], [[bee balm]], [[buckwheat]], [[cannabis]], [[canola]], [[cabbage]], [[cranberry]], [[corn]], [[fungal]], [[dandelion]], [[datura]], [[dogbane]], [[lettuce]], [[marloss]], [[morel mushroom]], [[mugwort]], [[mushroom]], [[pumpkin]], [[raspberry]], [[beans]], [[rhubarb]], [[potatoes]], [[strawberry]], [[sugar beet]], [[sunflower]], [[thyme]], [[wheat]], [[wild herbs]] and [[wild vegetables]].
+
+=== Fertilize your plants - Or don't! ===
+('''This step is optional - fertilized seeds will grow much faster but yield much less crop!''')
+
+Fertilization is a double-edged sword. On the one hand, your crops will be finished much faster - fast-growing crops ([[oats]] and [[zucchini]]) will grow to the next phase of growth instantly, while medium-speed crops will take only 5 hours to advance to the next stage. The slowest crops will still take a few days between stages. The drawback is that you will almost certainly harvest the minimum amount possible at harvest time. This is usually one for veggies/fruits and 4 for grains, compared to 10-12 or 48 or so if they are left to grow the full time. You will, however, receive a few seeds, so for purposes of multiplying low seed stores, the fertilizer you spend could be worth it.
+
+Liquid fertilizer can be easily found (it may be on the farm itself, or in a garden supply store, hardware store, etc), but you may have to craft it. It requires a cooking skill of 3 and survival skill of 2. If you've these skills then you can craft it using 1 [[water]] or 1 [[clean water]], 2 [[bone meal]]s, 1 [[chitin powder]] and 1 [[ammonia]] or 100 [[lye powder]] or 50 [[Saltpeter]]. [[Chitin powder]] can be ground from chunk of chitin using a [[quern]], [[ammonia]] is commonly found in [[gallon jug]]s in most houses and [[bone meal]] can be created from bones using a [[quern]] or [[food processor]].
+
+
+When fertilizing, don't {{k|a}}ctivate the [[plant food]] ({{k|a}}ctivating or {{k|E}}ating the substance can prove harmful, don't do it!).
+
+[[File:5 farming apply fertilizer NO.png|frame|none|A screen shot of activating fertilizer in Cataclysm: Dark Days Ahead.]]
+
+Instead, {{k|e}}xamine a seed with some [[liquid fertilizer]] in your inventory, just as with planting.
+
+[[File:7 farming fertilized.png|frame|none|A screen shot of applied fertilizer in Cataclysm: Dark Days Ahead.]]
+
+[[File:6 farming examine seed YES.png|frame|none|A screen shot of examining a seed in Cataclysm: Dark Days Ahead.]]
+
+Plants can be fertilized once at every stage of growth (seed, seedling, and mature) for cumulative effect.
+
+== Crops list ==
+&lt;!-- Based on the reddit post by Zaldarr, used with permission : https://www.reddit.com/r/cataclysmdda/comments/8ltg89/crops_ranked_by_tier_table_inside/ -->
+We have a list of various crops for {{InlineVer|0.D}}. The tiers are subjective, and subject to change.
+
+&lt;table cellpadding="3" class="sortable mw-collapsible mw-collapsed" style="border-collapse: collapse; margin: 1em 0">
+&lt;tr style="background-color:lightgreen">
+&lt;th style="border: 1px solid #aaa; border-left-color: white"> Name &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Totally subjective tier ranking">Tier&lt;/abbr>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Additional information here">Notes&lt;/abbr>&lt;br> &lt;/th>
+&lt;/tr>
+
+&lt;tr id="Barley" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Barley]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Can basically only make flour and booze.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Blackberry" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Blackberry]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Berry&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Blueberry" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Blueberry]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Berry&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Broccoli" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Broccolo]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Basic vegetable&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Buckwheat" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Buckwheat]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Makes flour, does not rot.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Cabbage" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Cabbage]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Used in a lot of recipes, keeps ok.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Cannabis" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Cannabis]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Weed and plant fibre, seeds turn into oil.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Canola" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Canola]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''C'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Cotton gives way more seeds and oil, and thread.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Carrot" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Carrot]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Lot of recipes, keeps ok.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Celery" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Celery]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Lots of recipes, keeps ok.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Chilli pepper" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Chilli pepper]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''F'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Used in basically nothing.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Corn" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Corn]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''S'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Makes a ton of stuff, including cornmeal, sugar.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Cotton" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Cotton]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Slow growing, gives infinite thread and oil if you process the bolls.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Cranberry" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Cranberry]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Berry&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Cucumber" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Cucumber]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Makes pickles.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Dandelion" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Dandelion]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''F'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Only good to keep you from starving, not very nutritious&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Garlic" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Garlic]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Gives a ton of product, keeps well for a long time, lot of uses.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Hops" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Hops]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''F'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Only used for beer and tanning. For the latter tanbark is easier to get.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Lettuce" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Lettuce]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Doesn't keep well, not used a lot.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Oats" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Oats]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''S'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Fast growing, makes oatmeal and flour, doesn't rot.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Onion" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Onion]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Keeps well.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Potato" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Potato]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Keeps well, makes good booze, used in a lot of recipes.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Pumpkin" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Pumpkin]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''C'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Edible seeds, not a lot of product, rots quickly.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Raspberry" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Raspberry]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Berry&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Rhubarb" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Rhubarb]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''C'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Only usefull to make sugar.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Strawberry" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Strawberry]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Berry&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Sugar beet" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Sugar beet]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Makes sugar and other products.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Sunflower" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Sunflower]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''C'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Seeds can give oil or be eaten, not a lot of seeds.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Tomato" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Tomato]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->The most versatile vegetable. Can it for more uses.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Wild herb" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Wild herb]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''A'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Makes massive amounts of herbs, easy to grow, lot of uses.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Wild vegetable" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Wild vegetable]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''B'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Found everywhere, lot of uses.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Zucchini" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Zucchini]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''C'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Fast growing, but keeps badly, and not used a lot.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Bee balm" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Bee balm]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''M'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Medical: Anti-flu tea&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Datura" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Datura]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''M'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Medical: [[Datura seeds]] are used for anti-parasitics or adrenaline.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Dogbane" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Dogbane]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''F'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Only used for plant fibre&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Mugwort" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Mugwort]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''M'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Medical: Easier to get, but less effective anti-parasitic.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Thyme" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Thyme]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''M'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Medical: Disinfectant oil.&lt;/td>
+&lt;/tr>
+
+&lt;tr id="Poppy" style="text-align:right">
+&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->[[Poppy]]&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->'''M'''&lt;/td>&lt;!--
+-->&lt;td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">&lt;!--
+-->Medical: Everyone's favourite painkiller&lt;/td>
+&lt;/tr>
+&lt;/table>
+
+* All berries and fruits will give you [[yeast]] as a byproduct if turned into must and [[brewing|fermented in a vat]]. Berry bushes can be harvested multiple times. Can also make longlasting [[pemmican]]. Great for mass production of booze and/or biodiesel.
+* Flour was non-perishable in {{InlineVer|0.C}}, and last a long time in {{InlineVer|0.D}} and is used in a lot of recipes. Flour-making foods are a godsend, so pay attention to them.
+* Some crops are only for medical purposes ('''M''' tier). It is usually best to convert these into non perishable variants, so you don't have the situation where you are sick but all your medical plants have rotted away.
+
+== Harvest ==
+
+Once they are ready, {{k|e}}xamine your plants to harvest them. You'll receive some produce, some seeds, and straw/withered plants. Different types of plants will produce in different quantities. Grains like barley and buckwheat will produce at a high rate, averaging around 46-48 grains per plant and somewhere around 6-12 seeds. [[Lettuce]] and [[carrot]]s produce in high amounts in the 60s and 70s, while other plants like [[cabbage]] produce more in the 10-12 veggie range, and more like 18-24 seeds. For a breakdown of average yields, see the [[seeds]] page.
+
+Make sure you are ready to eat/preserve any perishables, because the spawned items will start to go to rot as soon as they are harvested. Congratulations! You've just farmed your first homegrown produce.
+
+== Powered Farming ==
+
+In {{InlineVer|0.D}} you can find and build farm equipment that [[plow|plows]], [[seed drill|seeds]], and [[reaper|harvests]] respectively.
+
+The following vehicle ([https://discourse.cataclysmdda.org/t/harvesting-crops/16950/5 source]) would allow you to reap, plow and drill (seed) two lines of tiles:
+
+  o o
+ DPs>R
+ DPs>R
+  o o
+
+In the example above, the reaper (R) is followed by an engine (>), a seat (s), a plow (P) and a drill (D).
+
+As of yet, there is no fertilizer attachment for vehicles and the chemical sprayer doesn't accept liquid fertilizer. Details to follow.
+
+== Animal Farming ==
+
+As of {{InlineVer|0.D}}, you can also farm various animals such as [[cow]]s. More details to follow.
+
+[[File:CDDA power farming.gif|frame|none|A screen shot of a tractor vehicle in Cataclysm: Dark Days Ahead.]]
+
+=== Healing animals ===
+
+It is in {{InlineVer|0.E}} not yet possible to heal animals directly, but animals will heal damage over time. So just keep the biters away, or install the [[Magiclysm]] [[Gameplay Mods|mod]], and use spells.
+
+== See also ==
+* [[:Category:Seeds|list of various seeds listed on the wiki]]
+* [[Comestibles/Seeds|A table with all plantable seeds etc]].
+
+{{Guides}}
+{{ver|0.D}}
+[[Category:Guides]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php?title=Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Guides" title="Template:Guides">Template:Guides</a> (<a href="/cdda_wiki/index.php?title=Template:Guides&amp;action=edit" title="Template:Guides">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:K" title="Template:K">Template:K</a> (<a href="/cdda_wiki/index.php?title=Template:K&amp;action=edit" title="Template:K">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Tocr" title="Template:Tocr">Template:Tocr</a> (<a href="/cdda_wiki/index.php?title=Template:Tocr&amp;action=edit" title="Template:Tocr">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php?title=Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php?title=Farming" title="Farming">Farming</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Farming">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Farming</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Farming&amp;returntoquery=action%3Dsubmit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Farming&amp;returntoquery=action%3Dsubmit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Farming" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php?title=Talk:Farming" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Farming">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Farming&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Farming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Farming" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Farming" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Farming&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":306});});</script>
+</body>
+</html>

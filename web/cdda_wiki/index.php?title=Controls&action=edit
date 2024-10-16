@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Controls - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Controls","wgTitle":"Controls","wgCurRevisionId":40099,"wgRevisionId":0,"wgArticleId":45,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Controls","wgRelevantArticleId":45,"wgRequestId":"Yv2kMx0HVYKswK-u7ESlxgAAAHc","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Controls rootpage-Controls skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Controls</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Controls" title="Controls">Controls</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{tocr}}
+Controls can be customized in Main Menu ({{key|ESC}}), Keybindings submenu ({{key|1}}). The current key bindings are stored in the &lt;code>config/keybindings.json&lt;/code> file. To revert back to defaults just delete it.
+
+'''You can find the controls list for vehicles in the [[driving]] page.'''
+
+== Default key bindings ==
+All the listed key binds are case sensitive (so an {{k|a}} is different from an {{k|A}}, etc).
+
+=== Movement ===
+
+{| class="wikitable"
+
+|- style="vertical-align:middle;"
+!NW
+!N
+!NE
+
+|- style="vertical-align:middle; align: center"
+| align="center"|{{k|7}} or {{k|y}} || align="center"|{{k|8}} or {{k|k}} or {{k|UP}} || align="center"|{{k|9}} or {{k|u}}
+
+|- style="vertical-align:middle; align: center"
+!W
+!&lt;abbr title="You wait one turn / Stop reading">PAUSE&lt;/abbr>
+!E
+
+|- style="vertical-align:middle;"
+| align="center"|{{k|4}} or {{k|h}} or {{k|LEFT}} || align="center"|{{k|5}} or {{k|.}} || align="center"|{{k|6}} or {{k|l}} or {{k|RIGHT}}
+
+|- style="vertical-align:middle;"
+!SW
+!S
+!SE
+
+|- style="vertical-align:middle;"
+| align="center"|{{k|1}} or {{k|b}} || align="center"|{{k|2}} or {{k|j}} or {{k|DOWN}} || align="center"|{{k|3}} or {{k|n}}
+
+|}
+
+{{k|&amp;#62;}} - Descend stairs
+
+{{key|&amp;#60;}} - Ascend stairs
+
+{{key|"}} - Toggle walk/run/crouch
+
+=== Shift view ===
+You can permanently shift the centering of the viewport by using these keys:
+
+{| class="wikitable"
+
+|- style="vertical-align:middle;"
+!SHIFT NW
+!SHIFT N
+!SHIFT NE
+
+|- style="vertical-align:middle; align: center"
+| align="center"|''&lt;Unbound>'' || align="center"|{{k|K}} || align="center"|''&lt;Unbound>''
+
+|- style="vertical-align:middle; align: center"
+!SHIFT W
+!&lt;abbr title="Resets the viewport to its default position">CENTER VIEW&lt;/abbr>
+!SHIFT E
+
+|- style="vertical-align:middle;"
+| align="center"|{{k|H}} || align="center"|{{k|:}} || align="center"|{{k|L}}
+
+|- style="vertical-align:middle;"
+!SHIFT SW
+!SHIFT S
+!SHIFT SE
+
+|- style="vertical-align:middle;"
+| align="center"|''&lt;Unbound>'' || align="center"|{{k|J}}|| align="center"|''&lt;Unbound>''
+|}
+
+=== Environment interaction ===
+
+{| border="0" cellpadding="4" 
+|- style="vertical-align:top;"
+| {{k|o}} - Open door or window {{hint|For windows, if curtains are closed this action will open those first}} || {{key|c}} - Close door or window {{hint|For windows with curtains, this will close those if the window is already closed}}
+
+|- style="vertical-align:top;"
+| {{k|s}} - Smash nearby object / Vehicle handbrake {{hint|You can smash almost anything. Smashing a corpse is called 'pulping', pulping a zombie's corpse will prevent it from coming back later. Smashing furniture will give you some of its construction materials. Smashing young trees will give you some [[long stick]]s. After smashing a window remember to clean the remaining glass first (via the construction menu (*),(g)) to avoid cutting yourself when passing through it. This key also activates the handbrake when driving a vehicle, causing an immediate stop (and probably a skid).}} || {{key|e}} - Examine or interact with nearby world object {{hint|This control has many uses: take stuff from containers, use console terminals, disarm traps (or tents or roll mats...), forage plants, etc.}}.
+
+|- style="vertical-align:top;"
+| {{k|/}} - Advanced inventory management {{hint|Shows you a list of all the items in the nearby tiles. From this window you can filter them and move them around.}}|| {{k|,}} or {{k|g}} - Pick item(s) up {{hint|Only from the tile you're standing on}}
+
+|- style="vertical-align:top;"
+| {{k|G}} - Grab a nearby vehicle/furniture / Release vehicle/furniture {{hint|Allows you to grab and drag behind you (or in front of you) any vehicle or furniture, as long as you're strong enough.}} || {{key|B}} - Butcher a corpse {{hint|Only from the tile you're standing on. You can't butcher something in your inventory. You have to drop it first.}}
+
+|- style="vertical-align:top;"
+|  {{k|C}} - Chat with an [[NPC]], or Yell to make a bit of [[noise]]. || {{key|;}} or {{k|x}} - Look around 
+
+|- style="vertical-align:top;"
+| {{k|X}} - Peek around corners, down stairs, and allows the blind throwing of [[Explosives|grenades]] || {{key|Shift}}+{{key|V}} - List all items/creatures around the player {{hint|Use Tab to toggle between modes. Extremely useful to get a list of what's in a room without having to waste movement points. You can also see the contents of any non sealed container.}}
+
+|- style="vertical-align:top;"
+|  {{k|\}} - Drag all items you are currently standing on, press again to stop dragging.{{hint|Keep your hands free to speed up dragging.}} ||
+
+
+|-
+|colspan=2|
+
+=== Inventory and quasi-inventory interaction ===
+
+|- style="vertical-align:top;"
+| {{k|i}} - Open your inventory || {{key|I}} - Compare two items {{hint|Using this you can compare any items around you with those in your inventory, without having to pick them up first. You can also use this to compare two items in your own inventory by selecting an empty tile when choosing a direction.}}
+
+|- style="vertical-align:top;"
+| {{k|&amp;#61;}} - Swap inventory letters {{hint|To bring order to chaos. So you can access your crowbar by pressing (c), your flashlight with (f), etc.}}|| {{key|a}} - Apply or use an item {{hint|Actually, the in-game name for this action is (a)ctivate}}
+
+|- style="vertical-align:top;"
+| {{k|A}} - Apply or use currently wielded item || {{key|W}} - [[clothing|Wear]] item
+
+|- style="vertical-align:top;"
+| {{k|T}} - Take off worn item || {{key|E}} - [[Comestibles|Eat/Drink/Consume]] item {{hint|You can also use this key to apply first aid or bandages (which can also be (a)ctivated).}}
+
+|- style="vertical-align:top;"
+| {{k|R}} - Read a [[books|book or a magazine]] {{hint|Press the pause key, (5) or (.), to stop reading.}} || {{key|w}} - Wield item {{hint|Any wielded item will be used as a weapon. Press (w) and then (-) to put your wielded item back into your inventory.}}
+
+|- style="vertical-align:top;"
+| {{k|_}} - Select [[Martial_arts|unarmed style]] {{hint|Only useful if you know at least one martial arts technique.}} || {{key|r}} - Reload wielded item {{hint|This includes anything that uses ammo: from weapons to electronic devices (batteries), sewing kits (thread/sinew/plant fiber), etc}}
+
+|- style="vertical-align:top;"
+| {{k|U}} - Unload or empty wielded or nearby item {{hint|You can unload anything that uses ammo or is storing something, like bullets from a pistol, batteries from a flashlight, pouring on the ground or transferring liquids between containers, etc.}} || {{key|t}} - Throw item {{hint|Mainly used to fire thrown weapons, such as javelins, although it can be used to throw anything.}}
+
+|- style="vertical-align:top;"
+| {{k|f}} - Fire wielded item {{hint|You know, to go PEW PEW PEW on things.}} || ''&lt;Unbound>'' - Burst-fire wielded item {{hint|Only if the wielded weapon supports burst fire mode.}}
+
+|- style="vertical-align:top;"
+| {{k|F}} - Toggle attack mode of wielded item {{hint|Mainly for firearms that allow you to shoot in either single or burst mode.}} || {{key|d}} - Drop item {{hint|This action will drop the item(s) over your current tile. If you're standing over a container (like a vehicle's trunk) the items will be automatically placed inside it.}}
+
+|- style="vertical-align:top;"
+| {{k|D}} - Drop item to adjacent tile* {{hint|Use this action to place items inside containers you can't stand on (like refrigerators, dressers, etc) or tiles in general that you can't directly access.}} || {{key|p}} - View/Activate [[bionics]]
+
+|- style="vertical-align:top;"
+| {{k|+}} - Re-layer armour/clothing {{hint|Use this to move the most valuable clothing gear to the inner layers, so they aren't taking the hits first.}} || {{key|{}} - View/Activate [[mutations]]
+
+
+*Mounted turrets are reloaded using either of the [D]rop commands.
+|-
+|colspan=2|
+
+
+=== Item action menu ===
+
+|- style="vertical-align:top;"
+| {{k|%}} - Access list of actions {{hint|Shortcut for common actions. Those unavailable at the time are grayed out. Not inclusive of all actions.}} || 
+
+|-
+|colspan=2|
+
+
+=== Long term and special actions ===
+
+|- style="vertical-align:top;"
+| {{k|&amp;#124;}} - Wait for several minutes {{hint|You'll be able to choose the amount of time to wait}} || {{key|&amp;}} - [[crafting|Craft]] items
+
+|- style="vertical-align:top;"
+| {{k|-}} - Re-craft last recipe || ''&lt;Unbound>'' - Craft for as long as possible
+
+|- style="vertical-align:top;"
+| {{k|*}} - [[construction|Construct]] terrain || {{key|(}} - Disassemble items
+
+|- style="vertical-align:top;"
+| {{k|$}} - Sleep {{hint|Your character will sleep until the light, weather (like cold) or a big noise wakes him/her up.}} || {{k|^}} - Control vehicle {{hint|Use this to enter and exit a vehicle. It also allows you to manage cruise control, headlights and any mounted turrets.}}
+
+|- style="vertical-align:top;"
+| {{key|!}} - Toggle [[Safemode]] || {{k|"}} - Toggle [[Auto-Safemode]]
+
+|- style="vertical-align:top;"
+| {{key|'}} - Ignore nearby enemy || {{k|S}} - Save and quit {{hint|The only way to exit the game properly. Otherwise you'll lose all your progress, unless you had Auto-Save activated.}}
+
+|- style="vertical-align:top;"
+| ''&lt;Unbound>'' - Quicksave || {{key|Q}} - Commit suicide {{hint|You might want to unbind this action to prevent accidents, as this will KILL FOR GOOD your character and end the current game. You'll be required to confirm this action through a Y/N prompt, though.}}
+
+|-
+|colspan=2|
+
+=== Info screens ===
+
+|- style="vertical-align:top;"
+| {{k|@}} - View [[character|player info]] || {{key|m}} - View [[map]]
+
+|- style="vertical-align:top;"
+| {{k|M}} - View missions || {{key|#}} - View factions
+
+|- style="vertical-align:top;"
+| {{k|)}} - View kill count || {{key|v}} - View [[morale]]
+
+|- style="vertical-align:top;"
+| {{k|P}} - View message log || {{key|?}} - View help
+
+|-
+|colspan=2|
+
+=== Debug functions ===
+
+|- style="vertical-align:top;"
+| ''&lt;Unbound>'' - [[Debug Menu|Debug menu]] || ''&lt;Unbound>'' - View scentmap
+
+
+|-
+|colspan=2|
+{{key|~}} - Toggle debug messages - Will show various debug messages, and will allow you to see things like the age/damage/freshness values of various items, and more!
+
+== Advanced Controls ==
+All controls in the game as of June 7, 2019. Not up to date.
+
+=== Advanced Inventory ===
+
+|- style="vertical-align:top;"
+| {{k|/}} - '''Enter advanced inventory'''
+
+|- style="vertical-align:top;"
+| {{k|s/S}} - Change sorting mode || {{key|e/E}} - Examine item
+
+|- style="vertical-align:top;"
+| {{k|RETURN}} - Move a single item || {{key|,}} - Move all items
+
+|- style="vertical-align:top;"
+| {{k|m}} - Move an amount of an item || {{key|M}} - Move item stack
+
+|- style="vertical-align:top;"
+| {{k|>}} - Page down || {{key|&lt;}} - Page up
+
+|- style="vertical-align:top;"
+| {{k|DOWN,j,JOY_DOWN}} - Pan down || {{key|UP,k,JOY_UP}} - Pan up
+
+|- style="vertical-align:top;"
+| {{k|&lt;unbound>}} - Restore default layout || {{key|&lt;unbound>}} - Save default layout
+
+|- style="vertical-align:top;"
+| {{k|w/W}} - Select items currently worn || {{key|c/C}} - Select items in container
+
+|- style="vertical-align:top;"
+| {{k|d/D}} - Select items in dragged container || {{key|0/i/I}} - Select items in inventory
+
+|- style="vertical-align:top;"
+| {{k|LEFT,h,JOY_LEFT}} - Select left inventory || {{key|RIGHT,l,JOY_RIGHT}} - Select right inventory
+
+|- style="vertical-align:top;"
+| {{k|a/A}} - Select all items || {{key|p}} - Toggle auto-pickup for item
+
+|- style="vertical-align:top;"
+| {{k|t}} - Toggle category selection mode || {{key|*}} - Toggle item as favorite
+
+|- style="vertical-align:top;"
+| {{k|TAB}} - Toggle tab || {{key|v/V}} - Toggle vehicle
+
+|-
+|colspan=2|
+
+=== Advanced Inventory Directional Controls ===
+
+{| class="wikitable"
+
+|- style="vertical-align:middle;"
+!Select items @ NW
+!Select items @ N
+!Select items @ NE
+
+|- style="vertical-align:middle; align: center"
+| align="center"|{{k|7}}|| align="center"|{{k|8}}|| align="center"|{{k|9}}
+
+|- style="vertical-align:middle; align: center"
+!Select items @ W
+!Select items @ Center
+!Select items @ E
+
+|- style="vertical-align:middle;"
+| align="center"|{{k|4}} || align="center"|{{k|5}} || align="center"|{{k|6}}
+
+|- style="vertical-align:middle;"
+!Select items @ SW
+!Select items @ S
+!Select items @ SE
+
+|- style="vertical-align:middle;"
+| align="center"|{{k|1}}|| align="center"|{{k|2}}|| align="center"|{{k|3}}
+
+|}
+
+{{key|a/A}} - Select items @ all 9 fields
+
+
+=== Auto Pickup ===
+
+|- style="vertical-align:top;"
+| {{k|a/A}} - Add rule || {{key|c/C}} - Copy rule
+|- style="vertical-align:top;"
+| {{k|d/D}} - Disable rule || {{key|s/S}} - Enable auto pickup option
+|- style="vertical-align:top;"
+| {{k|e/E}} - Enable rule || {{key|-}} - Move rule down
+|- style="vertical-align:top;"
+| {{k|m/M}} - Move rule global &lt;-> character || {{key|+}} - Move rule up
+|- style="vertical-align:top;"
+| {{k|r/R}} - Remove rule || {{key|t/T}} - Test rule
+
+|-
+|colspan=2|
+
+
+|}
+
+== Unlisted key bindings ==
+
+{{k|ESC}} or {{k|SPACE}} - Exit dialog or screen / Cancel
+
+{{k|,}} - Select/Deselect all items {{hint|Only when the list of items -quasi-inventory- is being displayed; like when you press (g) to see a list of all the items in a tile}}
+
+== Further controls and procedures ==
+Here you'll find some actions and procedures that aren't obvious or simply not explained anywhere else.
+
+=== Remove wielded item ===
+To remove the item you're currently wielding so your hands are empty (fists), go through the following key sequence:
+
+# Press {{k|w}}
+# Choose currently wielded item
+
+If you previously selected a [[martial arts]] style through {{k|_}}, it'll revert to that MA style instead.
+
+In any case, the currently wielded item will be automatically placed in your inventory, or you'll be asked if you want to drop it if there's no space left.
+
+=== Dropping Items ===
+====Single items====
+Dropping an item from the {{key|i}}nventory screen will always drop a single item.
+====Dropping Partial Stacks====
+# Press {{key|d}} or {{key|D}} to drop the items and display the inventory screen
+# Type the number of items you want to drop
+# Press again the key of the inventory item you want to divide (in some cases, this will cause the item letter to be displayed as #)
+# Press {{k|RETURN}}
+
+=== Picking up Items ===
+Pressing {{key|,}} twice selects all items. Currently this functionality cannot be reassigned to another key.
+=== Controlling Skill Gain ===
+# Open the {{key|@}} Character Status screen
+# Use {{key|TAB}} to navigate to the SKILLS section.
+# Use the arrow keys to navigate the SKILLS list.
+# Press {{key|SPACE}} when having selected the skill you want to freeze skill-gain.
+# Press that key again to reactivate it.
+
+=== Talking to [[NPC|NPC's]] or Yelling ===
+Press the {{k|C}} key. Select the option from the menu.
+
+== Debug keys ==
+Note: Use of these keys is essentially [[cheating|'''CHEATING''']], unless you are in a situation caused by bugs (e.g. spawning in a windowless doorless room) or testing game features.
+
+{{key|~}} — Toggle debug messages.
+
+{{key|''Unbound''}} — ''Scent map.'' Asks you what scent sensitivity you would like to view your surrounding with (0-9, 1 greatest smeller, 9 dullest nose, '''0 divides by 0, causing a crash'''). Shows the trace that forms around you as you linger in a building or move through town.
+
+There is also the debug menu.
+{{:Debug Menu}}
+
+[[Category:Main]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Debug_Menu" title="Debug Menu">Debug Menu</a> (<a href="/cdda_wiki/index.php?title=Debug_Menu&amp;action=edit" title="Debug Menu">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Hint" title="Template:Hint">Template:Hint</a> (<a href="/cdda_wiki/index.php?title=Template:Hint&amp;action=edit" title="Template:Hint">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:K" title="Template:K">Template:K</a> (<a href="/cdda_wiki/index.php?title=Template:K&amp;action=edit" title="Template:K">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Key" title="Template:Key">Template:Key</a> (<a href="/cdda_wiki/index.php?title=Template:Key&amp;action=edit" title="Template:Key">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Tocr" title="Template:Tocr">Template:Tocr</a> (<a href="/cdda_wiki/index.php?title=Template:Tocr&amp;action=edit" title="Template:Tocr">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Verify" title="Template:Verify">Template:Verify</a> (<a href="/cdda_wiki/index.php?title=Template:Verify&amp;action=edit" title="Template:Verify">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Controls" title="Controls">Controls</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Controls">http://cddawiki.chezzo.com/cdda_wiki/index.php/Controls</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Controls&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Controls&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Controls" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Controls" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Controls">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Controls&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Controls&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Controls" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Controls" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Controls&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134});});</script>
+</body>
+</html>

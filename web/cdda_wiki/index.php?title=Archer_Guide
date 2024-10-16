@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Archer Guide - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Archer_Guide","wgTitle":"Archer Guide","wgCurRevisionId":40899,"wgRevisionId":40899,"wgArticleId":3653,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.G (Gaiman)","Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Archer_Guide","wgRelevantArticleId":3653,"wgRequestId":"ZfH6xQsxhFVlz-px7xD85QAAATo","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Archer_Guide rootpage-Archer_Guide skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/0.G_(Gaiman)" title="0.G (Gaiman)">0.G (Gaiman)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Archer Guide</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This guide covers the design and training and progress path of archery based characters, but any character can be helped by having some archery skills.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#How_to_Arch"><span class="tocnumber">1</span> <span class="toctext">How to Arch</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Enemy_Armor"><span class="tocnumber">1.1</span> <span class="toctext">Enemy Armor</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Stamina"><span class="tocnumber">1.2</span> <span class="toctext">Stamina</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Character_Creation"><span class="tocnumber">2</span> <span class="toctext">Character Creation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Profession_and_Traits"><span class="tocnumber">2.1</span> <span class="toctext">Profession and Traits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Gear"><span class="tocnumber">3</span> <span class="toctext">Gear</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Weapon_Mods"><span class="tocnumber">3.1</span> <span class="toctext">Weapon Mods</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Arrows"><span class="tocnumber">3.2</span> <span class="toctext">Arrows</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Quivers"><span class="tocnumber">3.3</span> <span class="toctext">Quivers</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Useful_Items"><span class="tocnumber">3.4</span> <span class="toctext">Useful Items</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Mutations_and_CBMs"><span class="tocnumber">3.5</span> <span class="toctext">Mutations and CBMs</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="How_to_Arch">How to Arch</span></h2>
+<p>Bows in this game function off a simple principle - arrows have very low base damage, but extremely high crit modifiers. So you will either do 5, or you'll crit and do over 50. There's not a lot of in between with archery.
+</p><p>It's not completely clear from the get-go, but ranged attacks use a different critical hit system from melee. Almost every time you shoot an enemy, the game will tell you how on-target you were, saying something like "grazing hit", "good hit" or "good hit!!". The number of exclamation marks actually increases the more accurate your shot was. This increases the multiplier, allowing extremely accurate hits to balloon to absolutely huge damage numbers. This is to simulate how bow hunting works in real life - if you shoot a deer in the butt, you've ruined its day and maybe it will die of infection in a couple of weeks. If you shoot it in the heart, it will die almost instantly. The same principle works for zombies.
+</p><p>All ranged weapons have a dispersion stat and a sight dispersion stat. Dispersion represents the randomness applied to your shot after it is made, sight dispersion is the same thing but refers to how off your aim might be between your eyeball and your target. Dispersion is offset by skill, the amount of time you take to aim, and stats, and the effects of dispersion increase for every tile between you and the enemy. Crits are determined based on the amount of dispersion at the point the projectile strikes your target.
+</p><p>In other words, you'll do more damage if you shoot better, and it's easier to shoot better if you're close to your target. You might consistently do 12 damage if you're 10 tiles away from a zombie, and suddenly explode to a consistent 70-80 damage if you're 5 tiles away. It's something you need to get a feel for.
+</p><p>The easiest way to get started with archery is to practice shooting your bow someplace safe, watch how long it takes in the sidebar, and when you're feeling confident, start practicing on lone zombies, preferably in the dark. If they close to melee (and they will), do not try to keep shooting them. Either run away, or drop your bow and use a hand-to-hand weapon.
+</p><p>Lastly, don't forget that arrows often cause targets to bleed. Zombies are undead and don't need to eat or breathe, but they still use blood to move energy to their muscles. If you deprive them of this, they'll die like anything else. If you proc a good bleed on an enemy, you may be able to simply run away and let it die on its own. Don't worry, the kill still counts.
+</p>
+<h3><span class="mw-headline" id="Enemy_Armor">Enemy Armor</span></h3>
+<p>A huge roadblock early on is armor. Armor is applied before critical hit multipliers and there is an initial damage threshold you have to beat, so if your arrow fails to penetrate the enemy's armor, you will do little to no damage. Early game enemies like skeletal and SWAT zombies have pretty decent armor and will often completely shut out your attempts to shoot them. You'll have to plan for this and work around them, or engage them in melee with something that can deal with them a bit better.
+</p><p>Enemies will only get more armored as the game goes on, but that's OK. You can actually circumvent this problem via <a href="/cdda_wiki/index.php?title=Weakpoint&amp;action=edit&amp;redlink=1" class="new" title="Weakpoint (page does not exist)">weakpoint</a> <a href="/cdda_wiki/index.php?title=Proficiencies&amp;action=edit&amp;redlink=1" class="new" title="Proficiencies (page does not exist)">proficiencies</a>. Weakpoints will occasionally proc when you attack an enemy, allowing you to hit a gap in their armor. You will naturally learn weakpoint proficiencies as you fight enemies, and having these proficiencies will greatly increase the rate at which you proc them, but what you really want to do is <a href="/cdda_wiki/index.php/Butcher" title="Butcher">dissect</a> dead enemies. This will rapidly improve your proficiencies and make you more effective at all forms of combat, not just archery.
+</p>
+<h3><span class="mw-headline" id="Stamina">Stamina</span></h3>
+<p>An often-overlooked but VERY IMPORTANT fact is that loading and aiming a bow consumes quite a lot of stamina. It's easy to get into a groove of shooting rapidly and taking out several enemies, only to realize that you've exhausted yourself and the undead are closing in. Because archers frequently need to reposition or switch to melee, it's important that you watch your stamina closely. If it's half empty, step away from the fight and take a break.
+</p>
+<h2><span class="mw-headline" id="Character_Creation">Character Creation</span></h2>
+<h3><span class="mw-headline" id="Profession_and_Traits">Profession and Traits</span></h3>
+<p>Certain professions begin play with bows, read carefully through the list to see if there's one that suits your needs.
+</p><p>Specific traits for archers are mostly movement and utility based. As an archer you need to stay at range, so movement bonuses such as <a href="/cdda_wiki/index.php/Fleet-Footed" title="Fleet-Footed">fleet-footed</a> and <a href="/cdda_wiki/index.php?title=Parkour&amp;action=edit&amp;redlink=1" class="new" title="Parkour (page does not exist)">parkour</a> proficiency (via the traceur profession, or via hobbies) can help you re-position, and for night raiders, <a href="/cdda_wiki/index.php/Light_Step" title="Light Step">light step</a>, <a href="/cdda_wiki/index.php/Weak_Scent" title="Weak Scent">weak scent</a> and <a href="/cdda_wiki/index.php/Night_Vision" title="Night Vision">night vision</a> will give you a tactical advantage in the dark. <a href="/cdda_wiki/index.php/Indefatigable" title="Indefatigable">Indefatigable</a> and <a href="/cdda_wiki/index.php/Fast_Metabolism" title="Fast Metabolism">fast metabolism</a> will both help with the stamina issue, though they won't completely solve it.
+</p><p><b>Strength</b>
+</p><p>Strength is one of the most important stats for archery, as it determines which bows you can use. The survival bow (which is the weakest) requires 6 strength, while the wooden greatbow (which is not the strongest!) requires 17 strength to fire. Currently, the compound hunting bow is probably the best pick for most characters. It can have its draw weight adjusted, requiring 7 to 11 strength, and does more damage on the higher setting.
+</p><p>Because many effects, notably <a href="/cdda_wiki/index.php/Pain" title="Pain">pain</a> can reduce your strength, 12 is a good starting stat. However, <a href="/cdda_wiki/index.php?title=Proficiencies&amp;action=edit&amp;redlink=1" class="new" title="Proficiencies (page does not exist)">proficiencies</a> are available which can help. The Archer's Form proficiency, which you gain ranks in every time you fire a bow, has three stages, and each reduces the strength requirement of all bows by 1. Certain <a href="/cdda_wiki/index.php/Professions" title="Professions">professions</a> and <a href="/cdda_wiki/index.php?title=Hobbies&amp;action=edit&amp;redlink=1" class="new" title="Hobbies (page does not exist)">hobbies</a> begin with ranks in this proficiency, and it's not difficult to pick up during the game simply by using your bow normally, so even lower-strength characters can be successful archers.
+</p><p>Another option is <a href="/cdda_wiki/index.php/Bionics" title="Bionics">bionics</a>. The muscle augmentation CBM adds 1 permanent strength to your character, and hydraulic muscles can be activated for a temporary +20 strength boost. Some <a href="/cdda_wiki/index.php/Artifacts" title="Artifacts">artifacts</a> may also be able to grant stat bonuses, usually at a cost...
+</p><p><b>A note on the ranged penalty</b>
+</p><p>The ranged penalty is calculated behind the scenes. Perception and dexterity lower than 20 increases ranged penalty; by 1.2 points for each point below 20 perception and by 0.5 points for each point below 20 dexterity. It's very hard to quantify how much it affects the gameplay, sufficed to say, every point in perception is worth 2.4 as much as a point in dexterity when it comes to ranged combat. It rarely comes into play until you're shooting more than 20 tiles, and a "normal" character (8 Dex, 8 Per) has very little trouble once they get to 4-5 skill in archery. This is subject to change.
+</p><p><b>Perception</b>
+</p><p>Perception affects the ranged penalty and therefore has a slight impact on accuracy in the early game before you've really trained archery. Perception also affects your trap vision, which should not be overlooked. Archers can struggle in the confines of labs and survivor houses, where being able to identify traps and lure targets to them can make a big difference in dangerous situations. The higher the better, but currently, strength matters far more for skilled archers, where the primary skill (archery) dictates accuracy.
+</p><p><b>Dexterity</b>
+</p><p>Dexterity also affects the ranged penalty, but really should mostly be considered for its role in melee combat, which you shouldn't entirely neglect even if you plan to go full archery.
+</p><p><b>Skills</b>
+</p><p>Archery is obviously the primary skill to consider. In addition to improving your accuracy and aim speed, it will dramatically improve your critical hit rate.
+</p><p>Fabrication is your primary method of acquiring new bows and ammo, so if you start somewhere safe, this could be worth a few points to skip the most basic weapon.
+</p>
+<h2><span class="mw-headline" id="Gear">Gear</span></h2>
+<p>Unless you picked bow hunter, you'll need a bow. High-quality bows can frequently be found in hunting stores, which are located occasionally on their own, or much more frequently in malls. Given the hazards associated with the latter, it may be easier to craft something to start with.
+</p><p>Crafting a <a href="/cdda_wiki/index.php?title=Survival_bow&amp;action=edit&amp;redlink=1" class="new" title="Survival bow (page does not exist)">survival bow</a> requires one point of fabrication and one survival. These skills are easily gained by foraging in underbrush and carving wooden beads or other simple objects. Once that's taken care of, you only need a stick or a plank and some string. The survival bow is very weak and will generally only do single-digit damage, but it's a decent way to get some practice in, and may be useful for hunting small animals.
+</p><p>The <a href="/cdda_wiki/index.php/Short_bow" title="Short bow">short bow</a> is the next available weapon at two fabrication and one survival. It, too, is very weak, but with its much higher accuracy, you might actually get something done with it.
+</p>
+<h3><span class="mw-headline" id="Weapon_Mods">Weapon Mods</span></h3>
+<p>There are different types of mods for primitive (stick) bows and modern (compound) bows, but they generally do the same thing. Sights will extend your effective range, dampeners will reduce the sound your bow makes, arrow rests and stabilizers improve accuracy. All of these are great and other than the five-pin bow sight, should be applied immediately.
+</p><p>The five-pin bow sight does a lot to improve your bow's range, but slows overall aiming time. It may be a good idea to wait until you're very comfortable with your weapon before using it. The single-pin bow sight does not have this issue.
+</p>
+<h3><span class="mw-headline" id="Arrows">Arrows</span></h3>
+<p>There are several different types of arrows.
+</p><p>Aluminum broadheads are the best arrows available, however they aren't craftable and likely never will be due to being made in some obtuse factory process IRL. Carbon fiber hunting arrows are the next best thing, with wooden broadhead arrows coming in behind that. Wooden broadheads are craftable, but as they have forged steel heads, that requires a lot of setup. For the beginner, makeshift wooden and metal arrows are going to do just fine. Avoid field-point and small game arrows, as these deal less damage (so as not to pulp birds and squirrels when you're hunting for food).
+</p>
+<h3><span class="mw-headline" id="Quivers">Quivers</span></h3>
+<p>Quivers are extremely important, because every time you fire your bow, the game accounts for how long it takes you to retrieve your arrow from its container. Items stuck in a backpack often take a very long time to retrieve, giving zombies ample opportunity to get in your face and ruin your day. 
+</p><p>With 3 tailoring, 1 archery, and 1 survival, it's possible to make a birchbark quiver without any leather or other hard to find materials. A regular quiver only takes 2 tailoring, but requires that you have plenty of leather lying around. Either way, make it a priority!
+</p>
+<h3><span class="mw-headline" id="Useful_Items">Useful Items</span></h3>
+<p>Aside from the above items, you may want to make it a priority to find or make a good bashing weapon, like a <a href="/cdda_wiki/index.php/Mace" title="Mace">mace</a> or even just a <a href="/cdda_wiki/index.php/Cudgel" title="Cudgel">cudgel</a>. Enemies which are resistant to arrows tend to be vulnerable to bashing damage, so having something you can swap to in case a skeletal zombie comes around might make all the difference.
+</p><p>If you have the deft and/or pro skater traits, it may actually be a good idea to wear <a href="/cdda_wiki/index.php?title=Skates&amp;action=edit&amp;redlink=1" class="new" title="Skates (page does not exist)">rollerskates or heelies</a>. These will allow you to quickly reposition as enemies approach you, and the traits help with the knockdown effect that frequently happens when you get attacked in melee with skates on.
+</p><p>Another great find are any form of night-vision, infrared, or low-light goggles. <a href="/cdda_wiki/index.php/Stealth" title="Stealth">Stealth</a> is always a great tool, especially if you have a bow dampener, and extending your nighttime visual radius will make your life a lot easier.
+</p><p>Caltrops or even bear traps are an item you can keep in your bag and activate to lay down a damaging barrier in front of you before you start shooting. Enemies will reliably move toward your position when they hear the twang of your bow, and slowing them down will allow you to reposition or escape easily. You can even pick them back up when you're done!
+</p><p>Talking dolls, noisemakers, phones, e-ink tablet PCs, laptops, and some other items can be made to play sound, which will attract zombies. You can leave these in an area lit up by a flashlight or headlights, then snipe the zombies from the cover of darkness.
+</p><p>Should you be lucky enough to lay hands on a <a href="/cdda_wiki/index.php/Teleporter" title="Teleporter">teleporter</a>, it's always a great emergency escape button.
+</p>
+<h3><span class="mw-headline" id="Mutations_and_CBMs">Mutations and CBMs</span></h3>
+<p>Troglobite, Lupine, Bovine, Elf-a, and Lizard are all great lines for archery, but any mutant that gets increased perception, dexterity, strength, or night vision is great. Ursine, Beast, Crustacean, and Cephalopod are poorer choices due to their high innate hand encumbrance and especially cephalopod's low speed. Mouse's extreme stamina and speed may also help it, and surprisingly, the same is true for Chimera.
+</p><p>Feline, lupine, rat, and rabbit get stuck with paws or little paws. This is definitely a disadvantage, but if they avoid wearing gloves, the hand encumbrance is very manageable. The same is unfortunately not true for Ursine or Beast.
+</p><p>Spider and gastropod get special mention here: both mutants can lay down a field (slime for gastropod, web for spider) which practically immobilizes enemies for several seconds, making them easy targets. Gastropod is very slow, which makes repositioning difficult, but spider is one of the fastest mutants around, and with its night vision, it makes a very good archer. It does have a small amount of inbuilt hand and arm encumbrance from its chitin, but this is often lower than what a human would get from their equipment, and more than worth the tradeoff.
+</p><p>Bird is currently an incredible archer thanks to having the best perception, very high dexterity, and amazing running speed, however do note that this is only true through 0.H Stable. 0.I Experimental builds change bird to have wing-arms that make them very poor archers, though they get other things as a tradeoff. Experimental players may still find bird to be a great archer if they avoid getting the bird wings mutation.
+</p><p>Specific mutations to aim for would be Reptilian IR, any of the Dextrous, Perceptive, or Strong mutations, and any of the Fast Metabolism traits. Feline 
+</p><p>As for CBMs, joint servos, bionic lungs, infrared vision, night vision, diamond corneas, synaptic accelerators, and wired reflexes are all solid picks, as well as the aforementioned hydraulic muscles and muscle augmentation.
+</p><p class="mw-empty-elt">
+</p>
+<table class="navbox" cellspacing="0" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides"><span title="View this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php/Template_talk:Guides" title="Template talk:Guides"><span title="Discuss this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit"><span title="Edit this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php/Category:Guides" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Choosing_Martial_Arts_Styles" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Example_Character_Builds" title="Example Character Builds">Example Character Builds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/The_First_Day" title="The First Day">The First Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_survive_your_first_day:_Dynamic_Spawn_Mode" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_survive_your_first_day:_Static_Spawn_Mode" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Killing_zombies" title="Killing zombies">Killing zombies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Scavenging" title="Scavenging">Scavenging</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/New_Player_Guide" title="New Player Guide">New Player Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a> &#160;<span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">Archer Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Beyond_the_first_day" title="Beyond the first day">Beyond the first day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Brewing" title="Brewing">Brewing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Clothing_Encumbrance" title="Clothing Encumbrance">Clothing Encumbrance</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Farming" title="Farming">Farming</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Hunting" title="Hunting">Hunting</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Hobo%27s_Guide_to_the_Apocalypse" title="Hobo&#39;s Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Night_Raids:_Guide" title="Night Raids: Guide">Night Raids</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Power" title="Power">Power</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Recoil" title="Recoil">Recoil</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Stealth" title="Stealth">Stealth</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland Survival</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Melee_Guide" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Category:Advanced_guides" title="Category:Advanced guides">Advanced</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Advanced_Character_Build_Tips" title="Advanced Character Build Tips">Advanced Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Clearing_the_city" title="Clearing the city">Clearing the city</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Fungal Bloom</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Broken_Cyborg" title="Guide: Broken Cyborg">Broken Cyborg</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Marloss_Berry" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="/cdda_wiki/index.php/Guide:_Mycus" title="Guide: Mycus">Mycus</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Mine" title="Guide: Mine">Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Nudist_Challenge" title="Guide: Nudist Challenge">Nudist Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Strange_Temple" title="Guide: Strange Temple">Strange Temple</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Trans-Coast_Logistics_Concourse_Challenge" title="Guide: Trans-Coast Logistics Concourse Challenge">Trans-Coast Logistics Concourse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Triffid_Grove" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Vehicles" title="Vehicles">Vehicles</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Driving" title="Driving">Driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Engines" title="Engines">Engines</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Making_a_Supercar:_Guide" title="Making a Supercar: Guide">Making a Supercar</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/(DRbiG%27s)_Powered_Vehicle_Design_Primer" title="(DRbiG&#39;s) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_construction" title="Vehicle construction">Vehicle construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_modifications" title="Vehicle modifications">Vehicle modifications</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_parts" title="Vehicle parts">Vehicle parts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_repairs" title="Vehicle repairs">Vehicle repairs</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Making_your_first_vehicle_(The_humble_bicycle)" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Guides for specific monster types
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Dealing_with_Ferals" title="Dealing with Ferals">Dealing with Ferals</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Dealing_with_Wasps" title="Dealing with Wasps">Dealing with Wasps</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Guide:_Seeker_of_the_Arcane" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_How_to_make_a_basic_slime_vehicle" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a>  &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Magiclysm_:_How_to_be_a_great_magus" title="Magiclysm : How to be a great magus">Magiclysm : How to be a great magus</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Technical" class="mw-redirect" title="Technical">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+&#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Cheating" title="Cheating">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Creature_AI" title="Creature AI">Creature AI</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_compile" title="How to compile">How to compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_search_the_sources" title="How to search the sources">How to search the sources</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Mod_manager" title="Mod manager">Mod Manager</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Savegame_Editing" title="Savegame Editing">Savegame Editing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Tileset_Support" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20240313191243
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.090 seconds
+Real time usage: 0.098 seconds
+Preprocessor visited node count: 742/1000000
+Preprocessor generated node count: 9717/1000000
+Post‐expand include size: 33872/2097152 bytes
+Template argument size: 14912/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   44.549      1 -total
+ 72.58%   32.333      1 Template:Guides
+ 66.25%   29.514      1 Template:Navbox
+ 27.23%   12.133      1 Template:Ver
+ 18.64%    8.305      1 Template:Navbar
+  9.61%    4.283      3 Template:Transclude
+  6.26%    2.789     52 Template:Md
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3653-0!canonical and timestamp 20240313191243 and revision id 40899
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Archer_Guide&amp;oldid=40899">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Archer_Guide&amp;oldid=40899</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:0.G_(Gaiman)&amp;action=edit&amp;redlink=1" class="new" title="Category:0.G (Gaiman) (page does not exist)">0.G (Gaiman)</a></li><li><a href="/cdda_wiki/index.php/Category:Guides" title="Category:Guides">Guides</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Archer+Guide" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Archer+Guide" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Archer_Guide" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Archer_Guide" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Archer_Guide">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Archer_Guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Archer_Guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Archer_Guide" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Archer_Guide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Archer_Guide&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Archer_Guide&amp;oldid=40899" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Archer_Guide&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 January 2024, at 08:53.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.090","walltime":"0.098","ppvisitednodes":{"value":742,"limit":1000000},"ppgeneratednodes":{"value":9717,"limit":1000000},"postexpandincludesize":{"value":33872,"limit":2097152},"templateargumentsize":{"value":14912,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   44.549      1 -total"," 72.58%   32.333      1 Template:Guides"," 66.25%   29.514      1 Template:Navbox"," 27.23%   12.133      1 Template:Ver"," 18.64%    8.305      1 Template:Navbar","  9.61%    4.283      3 Template:Transclude","  6.26%    2.789     52 Template:Md"]},"cachereport":{"timestamp":"20240313191243","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":71});});</script>
+</body>
+</html>

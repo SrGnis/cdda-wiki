@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Encumbrance - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Encumbrance","wgTitle":"Encumbrance","wgCurRevisionId":40407,"wgRevisionId":40407,"wgArticleId":3194,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unknown version","World"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Encumbrance","wgRelevantArticleId":3194,"wgRequestId":"Y8WD2-4RIC0e17-StLWeiwAAAEc","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Encumbrance rootpage-Encumbrance skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/Category:Unknown_version" title="Category:Unknown version">Unknown version</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Encumbrance</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Encumberment affects your ability to fight and move around. It's increased by the amount and type of <a href="/cdda_wiki/index.php/Clothing" title="Clothing">clothing</a> items and gear you're currently wearing. While its negative impact can be countered with high <a href="/cdda_wiki/index.php/Skill" class="mw-redirect" title="Skill">skill</a> and <a href="/cdda_wiki/index.php/Stat" class="mw-redirect" title="Stat">stat</a> levels, low encumberment levels are always desired.
+</p><p>You can check your current encumbrance levels in your character (<span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">@</span>) screen. Pressing the <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">SPACEBAR</span> and browsing the screen with the arrow keys will allow you to check the encumberment effects on specific body areas.
+</p><p>
+Default thresholds for each limb that limit some effects are <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">6,10,10?,10?,5,5?,6,5 from <a rel="nofollow" class="external text" href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/data/json/body_parts.json">code</a></abbr></span>.
+</p><div style="clear: right; float: right; margin: 0 0 1em 1.4em; background: none; width: auto;">
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Torso"><span class="tocnumber">1</span> <span class="toctext">Torso</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Head"><span class="tocnumber">2</span> <span class="toctext">Head</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Eyes"><span class="tocnumber">3</span> <span class="toctext">Eyes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Mouth"><span class="tocnumber">4</span> <span class="toctext">Mouth</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Arms"><span class="tocnumber">5</span> <span class="toctext">Arms</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Hands"><span class="tocnumber">6</span> <span class="toctext">Hands</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Legs"><span class="tocnumber">7</span> <span class="toctext">Legs</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Feet"><span class="tocnumber">8</span> <span class="toctext">Feet</span></a></li>
+</ul>
+</div>
+
+</div>
+<h2><span class="mw-headline" id="Torso">Torso</span></h2>
+<p>It affects your ability to fight in melee and swimming.
+</p><p>Formulas:
+</p>
+<ul><li><b>Melee skill</b>: <code>Hit roll *= 1 - (Torso Encumbrance / 100)</code></li>
+<li><b>Dodge skill</b>: <code>Dodge Skill Lvl - (Torso Encumbrance / 10)</code></li>
+<li><b>Swimming cost</b>: <code>Torso Encumbrance Lvl /10 * (80 - Swimming Skill Lvl * 3)</code> (movement points when swimming)</li>
+<li><b>Melee attack cost</b>: <code>(Total) Torso Encumbrance</code> * <code>Weariness multiplier</code> - adds action points cost for each melee attack</li></ul>
+<h2><span class="mw-headline" id="Head">Head</span></h2>
+<p>It only affects how many clothing items you can put on your head: once it's encumbered, that's it.  You can generally fit a wool hat under a helmet come winter: just manually put the hat on, then the helmet over top.
+</p>
+<h2><span class="mw-headline" id="Eyes">Eyes</span></h2>
+<p>It affects perception, which in turn affects how far away you can throw things and your ability to spot traps. It also affects your accuracy with ranged weapons, which along with <a href="/cdda_wiki/index.php/Dispersion" title="Dispersion">dispersion</a> and <a href="/cdda_wiki/index.php/Recoil" title="Recoil">recoil</a> increases the chances of missing a target.
+</p><p>Formulas:
+</p>
+<ul><li><b>Checking traps and firing ranged weapons</b>: <code>Perception Lvl - Eyes Encumbrance Lvl</code></li>
+<li><b>Throwing items</b>: <code>Perception Lvl - (Eyes Encumbrance Lvl / 2)</code></li>
+<li><b>Ranged weapon accuracy</b>: <code>deviation += 2 * Arms Encumbrance Lvl + 4 * Eyes Encumbrance Lvl</code></li></ul>
+<h2><span class="mw-headline" id="Mouth">Mouth</span></h2>
+<p>Covering your mouth will make it more difficult to breathe and catch your breath.
+</p>
+<ul><li><b>Reduced stamina regeneration</b>: <code>Mouth Encumbrance / 5</code></li></ul>
+<h2><span class="mw-headline" id="Arms">Arms</span></h2>
+<p>It affects your accuracy with ranged weapons, which along with <a href="/cdda_wiki/index.php/Dispersion" title="Dispersion">dispersion</a> and <a href="/cdda_wiki/index.php/Recoil" title="Recoil">recoil</a> increases the chances of missing a target.
+</p><p>Formulas:
+</p>
+<ul><li><b>Ranged weapon accuracy</b>: <code>deviation += 2 * Arms Encumbrance Lvl + 4 * Eyes Encumbrance Lvl</code></li></ul>
+<h2><span class="mw-headline" id="Hands">Hands</span></h2>
+<p>It affects the time it takes you to reload a <a href="/cdda_wiki/index.php/Ranged_weapon" class="mw-redirect" title="Ranged weapon">ranged weapon</a> or <a href="/cdda_wiki/index.php/Tool" class="mw-redirect" title="Tool">tool</a>, and your ability to throw things accurately.
+</p><p>Formulas:
+</p>
+<ul><li><b>Reloading cost</b>: <code>Reloading cost + (Hands Encumbrance Lvl * 30)</code> (movement points)</li>
+<li><b>Dexterity when throwing items</b>: <code>Dexterity Lvl - Hands Encumbrance Lvl</code></li>
+<li><b>Melee attack cost</b>: <code>(Total) Hands Encumbrance</code>* <code>Weariness multiplier</code> - adds action points cost for each melee attack</li></ul>
+<h2><span class="mw-headline" id="Legs">Legs</span></h2>
+<p>It affects your ability to dodge, run and swim.
+</p><p>Formulas:
+</p>
+<ul><li><b>Running cost</b>: <code>Running cost + (Legs Encumbrance Lvl / 10 )</code></li>
+<li><b>Swimming cost</b>: <code>Legs Encumbrance Lvl * (50 - Swimming Skill Lvl * 2)</code></li>
+<li><b>Dodge skill</b>: <code>Dodge Skill Lvl - (Legs Encumbrance Lvl / 2)</code></li></ul>
+<h2><span class="mw-headline" id="Feet">Feet</span></h2>
+<p>It affects the base <a href="/cdda_wiki/index.php/Movement_cost" class="mw-redirect" title="Movement cost">movement cost</a>.
+</p>
+<ul><li><b>Movement cost increased by</b> <code>Feet Encumbrance Lvl / 4</code></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230116052440
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.026 seconds
+Real time usage: 0.032 seconds
+Preprocessor visited node count: 86/1000000
+Preprocessor generated node count: 738/1000000
+Post‐expand include size: 1154/2097152 bytes
+Template argument size: 145/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   18.504      1 -total
+ 55.60%   10.289      1 Template:Ver
+ 18.85%    3.489      1 Template:Spoiler
+ 11.73%    2.171      1 Template:Tocr
+ 11.14%    2.062      2 Template:K
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3194-0!canonical and timestamp 20230116052440 and revision id 40407
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Encumbrance&amp;oldid=40407">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Encumbrance&amp;oldid=40407</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:Unknown_version" title="Category:Unknown version">Unknown version</a></li><li><a href="/cdda_wiki/index.php/Category:World" title="Category:World">World</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Encumbrance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Encumbrance" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Encumbrance" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Encumbrance&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Encumbrance">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Encumbrance&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Encumbrance&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Encumbrance" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Encumbrance" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Encumbrance&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Encumbrance&amp;oldid=40407" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Encumbrance&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 May 2022, at 11:47.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.026","walltime":"0.032","ppvisitednodes":{"value":86,"limit":1000000},"ppgeneratednodes":{"value":738,"limit":1000000},"postexpandincludesize":{"value":1154,"limit":2097152},"templateargumentsize":{"value":145,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   18.504      1 -total"," 55.60%   10.289      1 Template:Ver"," 18.85%    3.489      1 Template:Spoiler"," 11.73%    2.171      1 Template:Tocr"," 11.14%    2.062      2 Template:K"]},"cachereport":{"timestamp":"20230116052440","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95});});</script>
+</body>
+</html>

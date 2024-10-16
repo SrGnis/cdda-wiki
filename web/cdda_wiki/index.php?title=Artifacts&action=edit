@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Artifacts - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Artifacts","wgTitle":"Artifacts","wgCurRevisionId":38822,"wgRevisionId":0,"wgArticleId":63,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Artifacts","wgRelevantArticleId":63,"wgRequestId":"Yr41Fx3s76U7L2nFdfI-OQAAACc","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Artifacts rootpage-Artifacts skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Artifacts</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Artifacts" title="Artifacts">Artifacts</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1"> '''Guide created using an unknown version of Cataclysm DDA.'''
+ The information present here might not apply to the current version of CDDA.
+{{ver|unknown}}
+{{Spoilers}}
+
+'''Artifacts''' are procedurally generated [[items]] that are spawned as rewards for completing certain dungeon finales. They can be either a wieldable [[tool]] or a wearable piece of [[clothing]]. Artifacts can give a wide array of bonuses or penalties when worn or carried, and tools can be usually be activated for a further effect.
+
+== Generation ==
+
+Artifacts can be generated with both good and bad abilities. The distribution is balanced in such a way that an artifact that creates a powerful good effect will also have significant drawbacks, whereas a less potent artifact will also have proportionately fewer negatives.
+
+"Natural artifacts" that can be found in anomalies are less random and come with only two fixed effects, which are always one good one and one bad one. Both effects can be active or passive, or only good active with bad passive. Also natural artifacts are always tools and can be recharged.
+
+== Where can I find them? ==
+
+Currently artifacts are found only in [[temples]], [[mines]] and [[anomalies]]. Anomalies that have artifacts in them can have various [[Fields|fields]] with strange effects, often related to the artifacts special effects. If you see lightning or fire emit from somewhere without a clear source, there probably is an anomaly artifact nearby. Anomalies don't show up on the map (but they might be marked automatically if automatic note taking is turned on, keyword is might), temples and mines are marked as normal locations.
+
+== Item templates ==
+
+=== Natural ===
+Natural artifacts are always made from stone and vary only by weight and volume.
+
+&lt;table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+&lt;tr style="background-color:lightgreen">
+&lt;th class="unsortable" style="background-color: white; border: 1px solid white">&lt;/th>
+&lt;th style="border: 1px solid #aaa; border-left-color: white"> Name &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Description &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Volume">V&lt;/abbr>&lt;sub>min&lt;/sub> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-right-color: #333"> &lt;abbr title="Volume">V&lt;/abbr>&lt;sub>max&lt;/sub> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-left-color: #333"> &lt;abbr title="Weight">W&lt;/abbr>&lt;sub>min&lt;/sub> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Weight">W&lt;/abbr>&lt;sub>max&lt;/sub> &lt;/th>
+&lt;/tr>
+
+{{Row/ArtifactNaturalShape|sphere|smooth sphere|2|4|0|10}}
+{{Row/ArtifactNaturalShape|rod|tapered rod|1|7|1|7}}
+{{Row/ArtifactNaturalShape|teardrop|teardrop-shaped stone|2|6|0|8}}
+{{Row/ArtifactNaturalShape|lamp|hollow, transparent cube|4|9|0|3}}
+{{Row/ArtifactNaturalShape|snake|winding, flexible rod|0|8|0|8}}
+{{Row/ArtifactNaturalShape|disc|smooth disc|4|6|2|4}}
+{{Row/ArtifactNaturalShape|beads|string of beads|3|7|0|6}}
+{{Row/ArtifactNaturalShape|napkin|very thin sheet|0|3|0|3}}
+{{Row/ArtifactNaturalShape|urchin|spiked sphere|3|5|2|6}}
+{{Row/ArtifactNaturalShape|jelly|malleable blob|2|8|2|4}}
+{{Row/ArtifactNaturalShape|spiral|spiraling rod|5|6|2|3}}
+{{Row/ArtifactNaturalShape|pin|pointed rod|1|5|1|9}}
+{{Row/ArtifactNaturalShape|tube|hollow tube|2|5|3|6}}
+{{Row/ArtifactNaturalShape|pyramid|regular tetrahedron|3|7|2|4}}
+{{Row/ArtifactNaturalShape|crystal|translucent crystal|1|6|2|7}}
+{{Row/ArtifactNaturalShape|knot|twisted, knotted cord|2|6|1|7}}
+{{Row/ArtifactNaturalShape|crescent|crescent-shaped stone|2|6|2|6}}
+
+&lt;/table>
+
+; Sets of effects 
+Type of anomaly will be related to effects set.
+
+&lt;table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+&lt;tr style="background-color:lightgreen">
+&lt;th style="border: 1px solid #aaa; border-left-color: white"> Adjective &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Description &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Passive good &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Passive bad &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Active good &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Active bad &lt;/th>
+&lt;/tr>
+
+
+{{Row/ArtifactNaturalEffects|wriggling|is constantly wriggling
+| speed +20, snakes, fun                &lt;!--AEP_SPEED_UP, AEP_SNAKES, AEP_FUN, AEP_NULL-->
+| dexterity -3, force teleport, sick    &lt;!--AEP_DEX_DOWN, AEP_FORCE_TELEPORT, AEP_SICK, AEP_NULL-->
+| teleport, adrenaline, morale boost    &lt;!--AEA_TELEPORT, AEA_ADRENALINE, AEA_FUN, AEA_NULL-->
+| mutate, attention, vomit              &lt;!--AEA_MUTATE, AEA_ATTENTION, AEA_VOMIT, AEA_NULL-->
+}}
+
+{{Row/ArtifactNaturalEffects|glowing|glows faintly
+| intellect +4, glow, clairvoyance       &lt;!--AEP_INT_UP, AEP_GLOW, AEP_CLAIRVOYANCE, AEP_NULL-->
+| radioactive, mutagenic, attention      &lt;!--AEP_RADIOACTIVE, AEP_MUTAGENIC, AEP_ATTENTION, AEP_NULL-->
+| light, light, light                    &lt;!--AEA_LIGHT, AEA_LIGHT, AEA_LIGHT, AEA_NULL-->
+| attention, teleglow, flash, shadows    &lt;!--AEA_ATTENTION, AEA_TELEGLOW, AEA_FLASH, AEA_SHADOWS-->
+}}
+
+{{Row/ArtifactNaturalEffects|humming|hums very quietly
+| all stats +2, psyshield, fun           &lt;!--AEP_ALL_UP, AEP_PSYSHIELD, AEP_FUN, AEP_NULL-->
+| schizo, perception -3, intellect -3    &lt;!--AEP_SCHIZO, AEP_PER_DOWN, AEP_INT_DOWN, AEP_NULL-->
+| pulse, entrance, morale boost          &lt;!--AEA_PULSE, AEA_ENTRANCE, AEA_FUN, AEA_NULL-->
+| noise, noise, scream, stamina loss     &lt;!--AEA_NOISE, AEA_NOISE, AEA_SCREAM, AEA_STAMINA_EMPTY-->
+}}
+
+{{Row/ArtifactNaturalEffects|moving|shifts from side to side slowly
+| strength +4, dexterity +4, speed +20     &lt;!--AEP_STR_UP, AEP_DEX_UP, AEP_SPEED_UP, AEP_NULL-->
+| hunger, perception -3, force teleport    &lt;!--AEP_HUNGER, AEP_PER_DOWN, AEP_FORCE_TELEPORT, AEP_NULL-->
+| teleport, teleport, map                  &lt;!--AEA_TELEPORT, AEA_TELEPORT, AEA_MAP, AEA_NULL-->
+| paralyze, vomit, vomit                   &lt;!--AEA_PARALYZE, AEA_VOMIT, AEA_VOMIT, AEA_NULL-->
+}}
+
+{{Row/ArtifactNaturalEffects|whispering|makes very faint whispering sounds
+| clairvoyance, extinguish, stealth     &lt;!--AEP_CLAIRVOYANCE, AEP_EXTINGUISH, AEP_STEALTH, AEP_NULL-->
+| evil, schizo, attention               &lt;!--AEP_EVIL, AEP_SCHIZO, AEP_ATTENTION, AEP_NULL-->
+| fatigue, entrance, entrance           &lt;!--AEA_FATIGUE, AEA_ENTRANCE, AEA_ENTRANCE, AEA_NULL-->
+| attention, scream, scream, shadows    &lt;!--AEA_ATTENTION, AEA_SCREAM, AEA_SCREAM, AEA_SHADOWS-->
+}}
+
+{{Row/ArtifactNaturalEffects|breathing|shrinks and grows very slightly with a regular pulse, as if breathing
+| sap life, all stats +2, speed +20, carry more     &lt;!--AEP_SAP_LIFE, AEP_ALL_UP, AEP_SPEED_UP, AEP_CARRY_MORE-->
+| hunger, thirst, sick, bad weather                 &lt;!--AEP_HUNGER, AEP_THIRST, AEP_SICK, AEP_BAD_WEATHER-->
+| adrenaline, heal, entrance, growth                &lt;!--AEA_ADRENALINE, AEA_HEAL, AEA_ENTRANCE, AEA_GROWTH-->
+| mutate, attention, shadows, stamina loss          &lt;!--AEA_MUTATE, AEA_ATTENTION, AEA_SHADOWS, AEA_STAMINA_EMPTY-->
+}}
+
+{{Row/ArtifactNaturalEffects|dead|is icy cold to the touch
+| invisible, clairvoyance, extinguish, sap life     &lt;!--AEP_INVISIBLE, AEP_CLAIRVOYANCE, AEP_EXTINGUISH, AEP_SAP_LIFE-->
+| hunger, evil, all stats -2, sick                  &lt;!--AEP_HUNGER, AEP_EVIL, AEP_ALL_DOWN, AEP_SICK-->
+| blood, hurtall                                    &lt;!--AEA_BLOOD, AEA_HURTALL, AEA_NULL, AEA_NULL-->
+| pain, shadows, dim, vomit                         &lt;!--AEA_PAIN, AEA_SHADOWS, AEA_DIM, AEA_VOMIT-->
+}}
+
+{{Row/ArtifactNaturalEffects|itchy|makes your skin itch slightly when it is close
+| dexterity +4, speed +20, psyshield, fun     &lt;!--AEP_DEX_UP, AEP_SPEED_UP, AEP_PSYSHIELD, AEP_FUN-->
+| radioactive, mutagenic, sick                &lt;!--AEP_RADIOACTIVE, AEP_MUTAGENIC, AEP_SICK, AEP_NULL-->
+| adrenaline, blood, heal, bugs               &lt;!--AEA_ADRENALINE, AEA_BLOOD, AEA_HEAL, AEA_BUGS-->
+| radiation, pain, pain, vomit                &lt;!--AEA_RADIATION, AEA_PAIN, AEA_PAIN, AEA_VOMIT-->
+}}
+
+{{Row/ArtifactNaturalEffects|glittering|glitters faintly under direct light
+| intellect +4, extinguish, glow          &lt;!--AEP_INT_UP, AEP_EXTINGUISH, AEP_GLOW, AEP_NULL-->
+| smoke, attention                        &lt;!--AEP_SMOKE, AEP_ATTENTION, AEP_NULL, AEP_NULL-->
+| map, light, confused, entrance          &lt;!--AEA_MAP, AEA_LIGHT, AEA_CONFUSED, AEA_ENTRANCE-->
+| radiation, mutate, attention, flash     &lt;!--AEA_RADIATION, AEA_MUTATE, AEA_ATTENTION, AEA_FLASH-->
+}}
+
+{{Row/ArtifactNaturalEffects|electric|very weakly shocks you when touched
+| resist electricity, dexterity +4, speed +20, psyshield     &lt;!--AEP_RESIST_ELECTRICITY, AEP_DEX_UP, AEP_SPEED_UP, AEP_PSYSHIELD-->
+| thirst, smoke, strength -3, bad weather                    &lt;!--AEP_THIRST, AEP_SMOKE, AEP_STR_DOWN, AEP_BAD_WEATHER-->
+| storm, adrenaline, light, morale boost                     &lt;!--AEA_STORM, AEA_ADRENALINE, AEA_LIGHT, AEA_FUN-->
+| pain, paralyze, flash, flash                               &lt;!--AEA_PAIN, AEA_PARALYZE, AEA_FLASH, AEA_FLASH-->
+}}
+
+{{Row/ArtifactNaturalEffects|slimy|feels slimy
+| snakes, stealth, extinguish, sap life     &lt;!--AEP_SNAKES, AEP_STEALTH, AEP_EXTINGUISH, AEP_SAP_LIFE-->
+| thirst, dexterity -3, speed -20, sick     &lt;!--AEP_THIRST, AEP_DEX_DOWN, AEP_SPEED_DOWN, AEP_SICK-->
+| blood, acidball, growth, acidball         &lt;!--AEA_BLOOD, AEA_ACIDBALL, AEA_GROWTH, AEA_ACIDBALL-->
+| mutate, mutate, vomit, vomit              &lt;!--AEA_MUTATE, AEA_MUTATE, AEA_VOMIT, AEA_VOMIT-->
+}}
+
+{{Row/ArtifactNaturalEffects|engraved|is covered with odd etchings
+| clairvoyance, invisible, psyshield, sap life     &lt;!--AEP_CLAIRVOYANCE, AEP_INVISIBLE, AEP_PSYSHIELD, AEP_SAP_LIFE-->
+| evil, attention                                  &lt;!--AEP_EVIL, AEP_ATTENTION, AEP_NULL, AEP_NULL-->
+| fatigue, teleport, heal, fatigue                 &lt;!--AEA_FATIGUE, AEA_TELEPORT, AEA_HEAL, AEA_FATIGUE-->
+| attention, attention, teleglow, dim              &lt;!--AEA_ATTENTION, AEA_ATTENTION, AEA_TELEGLOW, AEA_DIM-->
+}}
+
+{{Row/ArtifactNaturalEffects|crackling|occasionally makes a soft crackling sound
+| extinguish, resist electricity         &lt;!--AEP_EXTINGUISH, AEP_RESIST_ELECTRICITY, AEP_NULL, AEP_NULL-->
+| smoke, radioactive, movement noise     &lt;!--AEP_SMOKE, AEP_RADIOACTIVE, AEP_MOVEMENT_NOISE, AEP_NULL-->
+| storm, fireball, pulse                 &lt;!--AEA_STORM, AEA_FIREBALL, AEA_PULSE, AEA_NULL-->
+| pain, paralyze, noise, noise           &lt;!--AEA_PAIN, AEA_PARALYZE, AEA_NOISE, AEA_NOISE-->
+}}
+
+{{Row/ArtifactNaturalEffects|warm|is warm to the touch
+| strength +4, extinguish, glow, fun      &lt;!--AEP_STR_UP, AEP_EXTINGUISH, AEP_GLOW, AEP_FUN-->
+| smoke, radioactive                      &lt;!--AEP_SMOKE, AEP_RADIOACTIVE, AEP_NULL, AEP_NULL-->
+| fireball, fireball, fireball, light     &lt;!--AEA_FIREBALL, AEA_FIREBALL, AEA_FIREBALL, AEA_LIGHT-->
+| firestorm, firestorm, teleglow          &lt;!--AEA_FIRESTORM, AEA_FIRESTORM, AEA_TELEGLOW, AEA_NULL-->
+}}
+
+{{Row/ArtifactNaturalEffects|rattling|makes a rattling sound when moved
+| dexterity +4, speed +20, snakes, carry more              &lt;!--AEP_DEX_UP, AEP_SPEED_UP, AEP_SNAKES, AEP_CARRY_MORE-->
+| attention, intellect -3, movement noise, movement noise  &lt;!--AEP_ATTENTION, AEP_INT_DOWN, AEP_MOVEMENT_NOISE, AEP_MOVEMENT_NOISE-->
+| blood, pulse, bugs                                       &lt;!--AEA_BLOOD, AEA_PULSE, AEA_BUGS, AEA_NULL-->
+| pain, attention, noise                                   &lt;!--AEA_PAIN, AEA_ATTENTION, AEA_NOISE, AEA_NULL-->
+}}
+
+{{Row/ArtifactNaturalEffects|scaled|has a surface reminiscent of reptile scales
+| snakes, snakes, snakes, stealth     &lt;!--AEP_SNAKES, AEP_SNAKES, AEP_SNAKES, AEP_STEALTH-->
+| thirst, mutagenic, speed -20        &lt;!--AEP_THIRST, AEP_MUTAGENIC, AEP_SPEED_DOWN, AEP_NULL-->
+| adrenaline, bugs, growth            &lt;!--AEA_ADRENALINE, AEA_BUGS, AEA_GROWTH, AEA_NULL-->
+| mutate, scream, dim, stamina loss   &lt;!--AEA_MUTATE, AEA_SCREAM, AEA_DIM, AEA_STAMINA_EMPTY-->
+}}
+
+{{Row/ArtifactNaturalEffects|fractal|has a self-similar pattern which repeats until it is too small for you to see
+| all stats +2, all stats +2, clairvoyance, psyshield  &lt;!--AEP_ALL_UP, AEP_ALL_UP, AEP_CLAIRVOYANCE, AEP_PSYSHIELD-->
+| schizo, attention, force teleport, bad weather       &lt;!--AEP_SCHIZO, AEP_ATTENTION, AEP_FORCE_TELEPORT, AEP_BAD_WEATHER-->
+| storm, fatigue, teleport, morale boost               &lt;!--AEA_STORM, AEA_FATIGUE, AEA_TELEPORT, AEA_FUN-->
+| radiation, mutate, teleglow, teleglow                &lt;!--AEA_RADIATION, AEA_MUTATE, AEA_TELEGLOW, AEA_TELEGLOW-->
+}}
+
+&lt;/table>
+
+=== Tools ===
+&lt;!--
+ ARTWEAP_BULK,  // A bulky item that works okay for bashing
+ ARTWEAP_CLUB,  // An item designed to bash
+ ARTWEAP_SPEAR, // A stab-only weapon
+ ARTWEAP_SWORD, // A long slasher
+ ARTWEAP_KNIFE, // Short, slash and stab
+-->
+&lt;table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+&lt;tr style="background-color:lightgreen">
+&lt;th class="unsortable" style="background-color: white; border: 1px solid white">&lt;/th>
+&lt;th style="border: 1px solid #aaa; border-left-color: white"> Name&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Material&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Volume">V&lt;/abbr>&lt;sub>min&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-right-color: #333"> &lt;abbr title="Volume">V&lt;/abbr>&lt;sub>max&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-left-color: #333"> &lt;abbr title="Weight">W&lt;/abbr>&lt;sub>min&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Weight">W&lt;/abbr>&lt;sub>max&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Base weapon&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-right-color: white"> Extra weapons&lt;br> &lt;/th>
+&lt;/tr>
+
+{{Row/ArtifactTools|Harp|;|c_yellow|WOOD|MNULL|20|30|10|18|ARTWEAP_BULK|&lt;!--ARTWEAP_SPEAR, ARTWEAP_SWORD, ARTWEAP_KNIFE-->spear, sword, knife}}
+
+{{Row/ArtifactTools|Staff|/|c_brown|WOOD|MNULL|6|12|4|10|ARTWEAP_CLUB|&lt;!--ARTWEAP_BULK, ARTWEAP_SPEAR, ARTWEAP_KNIFE-->bulk, spear, knife}}
+
+{{Row/ArtifactTools|Sword|/|c_ltblue|STEEL|MNULL|8|14|8|28|ARTWEAP_SWORD|&lt;!--ARTWEAP_BULK, ARTWEAP_NULL, ARTWEAP_NULL-->bulk}}
+
+{{Row/ArtifactTools|Dagger|;|c_ltblue|STEEL|MNULL|1|4|1|6|ARTWEAP_KNIFE|&lt;!--ARTWEAP_NULL, ARTWEAP_NULL, ARTWEAP_NULL-->}}
+
+{{Row/ArtifactTools|Cube|*|c_white|STEEL|MNULL|1|3|1|20|ARTWEAP_BULK|&lt;!--ARTWEAP_SPEAR, ARTWEAP_NULL, ARTWEAP_NULL-->spear}}
+
+&lt;/table>
+
+; Base weapon types and modifications
+* Volume and weight are only applicable if this is an *extra* weapon
+
+&lt;table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 1em 0">
+&lt;tr style="background-color:lightgreen">
+&lt;th style="border: 1px solid #aaa; border-left-color: white"> Type&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> Adjective&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Volume">Vo&lt;/abbr>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-right-color: #333"> &lt;abbr title="Weight">We&lt;/abbr>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-left-color: #333"> &lt;abbr title="Bash damage">B&lt;/abbr>&lt;sub>min&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Bash damage">B&lt;/abbr>&lt;sub>max&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Cut damage">C&lt;/abbr>&lt;sub>min&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="Cut damage">C&lt;/abbr>&lt;sub>max&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="To-hit bonus">H&lt;/abbr>&lt;sub>min&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa"> &lt;abbr title="To-hit bonus">H&lt;/abbr>&lt;sub>max&lt;/sub>&lt;br> &lt;/th>
+&lt;th style="border: 1px solid #aaa; border-right-color: white"> Flags&lt;br> &lt;/th>
+&lt;/tr>
+
+{{Row/ArtifactWeapons|Heavy|0|12|10|20|0|0|-2|0|0|type=ARTWEAP_BULK}}
+
+{{Row/ArtifactWeapons|Knobbed|1|2|14|30|0|0|-1|1|0|type=ARTWEAP_CLUB}}
+
+{{Row/ArtifactWeapons|Spiked|1|1|0|0|20|40|-1|1|IF_SPEAR|type=ARTWEAP_SPEAR}}
+
+{{Row/ArtifactWeapons|Edged|2|4|0|0|20|50|-1|2|0|type=ARTWEAP_SWORD}}
+
+{{Row/ArtifactWeapons|Bladed|1|2|0|0|12|30|-1|1|IF_STAB|type=ARTWEAP_KNIFE}}
+
+&lt;/table>
+
+=== Clothing ===
+{{Header/ArtifactClothing}}
+
+{{Row/ArtifactClothing|Robe|c_red|WOOL|MNULL|6|6|1|3|1|0|2|0|-8|0|-3|mfb(bp_torso), mfb(bp_legs)|false|&lt;!--ARMORMOD_LIGHT, ARMORMOD_BULKY, ARMORMOD_POCKETED, ARMORMOD_FURRED, ARMORMOD_PADDED-->light, bulky, pocketed, furred, padded}}
+
+{{Row/ArtifactClothing|Coat|c_brown|LEATHER|MNULL|14|14|2|4|12|1|4|4|-6|0|-3|mfb(bp_torso)|false|&lt;!--ARMORMOD_LIGHT, ARMORMOD_POCKETED, ARMORMOD_FURRED, ARMORMOD_PADDED, ARMORMOD_PLATED-->light, furred, padded, plated}}
+
+{{Row/ArtifactClothing|Mask|c_white|WOOD|MNULL|4|1|2|2|16|1|2|0|2|0|-2|mfb(bp_eyes), mfb(bp_mouth)|false|&lt;!--ARMORMOD_FURRED, ARMORMOD_FURRED, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL-->furred}}
+
+{{Row/ArtifactClothing|Helm|c_dkgray|SILVER|MNULL|6|6|2|4|18|0|1|0|8|0|-2|mfb(bp_head)|false|&lt;!--ARMORMOD_BULKY, ARMORMOD_FURRED, ARMORMOD_PADDED, ARMORMOD_PLATED, ARMORMOD_NULL-->bulky, furred, padded, plated}}
+
+{{Row/ArtifactClothing|Gloves|c_ltblue|LEATHER|MNULL|2|1|1|6|6|1|2|0|-4|0|-2|mfb(bp_hands)|true|&lt;!--ARMORMOD_BULKY, ARMORMOD_FURRED, ARMORMOD_PADDED, ARMORMOD_PLATED, ARMORMOD_NULL-->bulky, furred, padded, plated}}
+
+{{Row/ArtifactClothing|Boots|c_blue|LEATHER|MNULL|6|2|1|6|6|1|3|0|4|0|-1|mfb(bp_feet)|true|&lt;!--ARMORMOD_LIGHT, ARMORMOD_BULKY, ARMORMOD_PADDED, ARMORMOD_PLATED, ARMORMOD_NULL-->light, bulky, padded, plated}}
+
+{{Row/ArtifactClothing|Ring|c_ltgreen|SILVER|MNULL|0|0|0|0|0|0|0|0|0|0|0|0|true|&lt;!--ARMORMOD_NULL x5-->none}}
+
+&lt;/table>
+
+; Clothing modifications
+Clothing modifications alter the normal values of clothing. If the basic armor type has not its second material (MNULL), and the mod has a material attached, the second material will be changed to it.
+{{Header/ArtifactClothing|mods=1}}
+
+{{Row/ArtifactClothing|very thin and light.|c_white|MNULL|MNULL|-4|-8|-2|-1|-1|-1|-1|0|0|0|0|0|false|ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL|mods=1}}
+
+{{Row/ArtifactClothing|extremely bulky.|c_white|MNULL|MNULL|8|10|2|1|1|0|1|0|0|0|0|0|false|ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL|mods=1}}
+
+{{Row/ArtifactClothing|covered in pockets.|c_white|MNULL|MNULL|1|1|1|0|0|0|0|16|0|0|0|0|false|ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL|mods=1}}
+
+{{Row/ArtifactClothing|disgustingly furry.|c_white|WOOL|MNULL|4|2|1|4|0|1|3|0|0|0|0|0|false|ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL|mods=1}}
+
+{{Row/ArtifactClothing|leather-padded.|c_white|LEATHER|MNULL|4|4|1|10|4|0|1|-3|0|0|0|0|false|ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL|mods=1}}
+
+{{Row/ArtifactClothing|plated in iron.|c_white|IRON|MNULL|4|12|3|8|14|0|1|-4|0|0|0|0|false|ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL, ARMORMOD_NULL|mods=1}}
+
+&lt;/table>
+
+== Effects ==
+
+=== Passive ===
+Artifacts can have the following good passive effects:
+{| class="wikitable"
+|-
+! Code
+! Effect
+! Message
+! Notes
+|-
+| 1
+| STR+4
+|
+|
+|-
+| 2
+| DEX+4
+|
+|
+|-
+| 3
+| PER+4
+|
+|
+|-
+| 4
+| INT+4
+|
+|
+|-
+| 5
+| all stats +2
+|
+|
+|-
+| 6
+| speed +20
+| 
+|
+|-
+| 7
+| reduce radiation
+|
+| It is far more effective than [[Potassium iodide tablet]]s.
+|-
+| 8
+| snakes
+| ''"Your skin feels slithery."''
+| Will randomly spawn friendly [[shadow snake]]s when wearer is hit for 6 or more damage.
+|-
+| 9
+| invisibility
+| ''"You fade into invisibility!"''
+|
+|-
+| 10
+| clairvoyance
+| ''"You can see through walls!"''
+| Allows you to see through walls a few tiles.
+|-
+| 11
+| super clairvoyance
+| ''"You can see through everything!"''
+| Allows you to see through walls to a great distance.
+|-
+| 12
+| stealth
+| ''"Your steps stop making [[noise]]."''
+|
+|-
+| 13
+| extinguish fire
+|
+| Slowly (-1 to density every turn) extinguish fires on a nearby squares.
+|-
+| 14
+| glow
+| ''"A glow of light forms around you."''
+| Item is a 4-tile light source.
+|-
+| 15
+| psychic shield
+| ''"Your mental state feels protected."''
+| Blocks "psychic" effects, e.g. the [[Flaming eye]]'s gaze or the [[Amigara horror]]'s paralysis.
+|-
+| 16
+| resist electricity
+| ''"You feel insulated.."''
+| Protection from electricity.
+|-
+| 17
+| carry more
+| ''"Your back feels strengthened."''
+| Increases weight carrying capacity by 22.5 kg.
+|-
+| 18
+| sap life
+| 
+| When damage higher than 5 is dealt to enemies, it may heal character by some part of damage.&lt;!--healall( rng(dam / 10, dam / 5) )-->
+|-
+| 19
+| fun
+| ''"You feel a pleasant tingle."''
+| Adds a slight morale boost.
+|}
+
+Artifacts can have the following bad passive effects:
+{| class="wikitable"
+|-
+! Code
+! Effect
+! Message
+! Notes
+|-
+| 21
+| hunger
+| ''"You feel hungry."''
+| 1% chance to increment [[hunger]] every turn.
+|-
+| 22
+| thirst
+| ''"You feel thirsty."''
+| 0.8% chance to increment [[thirst]] every turn.
+|-
+| 23
+| smoke
+|
+| 10% chance to create smoke on a nearby square every turn.
+|-
+| 24
+| evil
+| ''"You feel an evil presence..."'' and ''"You have an urge to wield the %artifact%."''
+| Carrying and wielding (if it is tool) or wearing (if clothing) the item causes the [[Evil]] disease, which has effects similar to [[addiction]]. All stats will be decreased when item is not wielded. In the beginning artifact gives slight bonuses to dexterity, intelligence and perception when it is wielded/worn, but will eventually change them to penalties, although bonus to strength will stay and grow stronger. The longer you wield the item, the stronger the effect gets, and the longer it takes to wear off.
+|-
+| 25
+| schizophrenia
+| ''"You feel a tickle of insanity."''
+| As per the [[Schizophrenic]] trait.
+|-
+| 26
+| radioactive
+| ''"Your skin prickles with radiation."''
+| 25% chance to irradiate the player every turn.
+|-
+| 27
+| mutagenic
+| ''"You feel your genetic makeup degrading."''
+| Randomly adds [[mutation]]s to the player.
+|-
+| 28
+| netherworld attention
+| ''"You feel an otherworldly attention upon you..."''
+| Gives a [[netherworld attention|disease]] that randomly spawn extra-dimensional critters around. The spawn rate increases the longer you have artifact wielded. After you unwield artifact some time is required to allow disease to wear off, during this period critters will still spawn.
+|-
+| 29
+| STR-3
+|
+|
+|-
+| 30
+| DEX-3
+|
+|
+|-
+| 31
+| PER-3
+|
+|
+|-
+| 32
+| INT-3
+|
+|
+|-
+| 33
+| all stats -2
+|
+|
+|-
+| 34
+| speed -20
+|
+|
+|-
+| 35
+| force teleport
+| ''"You feel a force pulling you inwards."''
+| Teleports with 0.1% chance per turn.
+|-
+| 36
+| movement noise
+| ''"You hear a rattling noise coming from inside yourself."''
+| With 5% chance makes [[noise]] of 40 volume upon moving
+|-
+| 37
+| bad weather
+| ''"You feel storms coming."''
+| More likely to experience bad weather
+|-
+| 38
+| sick
+| ''"You feel unwell."''
+| Decreases health
+|}
+
+=== Active ===
+Artifacts can have the following good active effects:
+{| class="wikitable"
+|-
+! Code
+! Effect
+! Message
+! Notes
+|-
+| 1
+| storm
+| "Ka-BOOM!"
+| Creates electric blast, and random bolts of lightning shoot from the player in all directions. Will not harm the player on activation. However, lightning has a nasty tendency to spread out before it dissipates so self-electrocution will generally occur.
+|-
+| 2
+| fireball
+|
+| Instant 3x3 [[molotov cocktail|molotov]]-like explosion in targeted square.
+|-
+| 3
+| adrenaline
+| ''"You're filled with a roaring energy!"''
+| As per the High Adrenaline trait [[Adrenaline Spike|effect]], but slightly longer.
+|-
+| 4
+| map
+| ''"You have a vision of the surrounding area..."''
+| Maps the immediate non-seen vicinity for 100 move points cost.
+|-
+| 5
+| blood
+| ''"Blood soaks out of the ground and walls."''
+| Blood will seep out of surrounding walls and floors. Seems to be a purely cosmetic effect.
+|-
+| 6
+| dimensional fatigue
+| ''"The fabric of space seems to decay."''
+| Randomly creates [[dimensional fatigue]] in 3-square radius around the player, and worsens existing fatigue. Fatigue shows up on the map as "odd ripple", "swirling air", and "tear in reality". Swirling airs and tears in reality will randomly teleport you a short distance if you step into them. Tears in reality will also spawn dimension critters roughly once per hour.
+|-
+| 7
+| acid ball
+|
+| Targeted 3x3 acid splash.
+|-
+| 8
+| pulse
+| ''"The earth shakes!"''
+| Destroys adjacent terrain in the same manner as the [[Sonic Resonator]], but in two square radius.
+|-
+| 9
+| heal
+| ''"You feel healed."''
+| Heals each body part of player for 2 points.
+|-
+| 10
+| confuse
+|
+| Stuns all hostile monsters in 8-square radius for a short duration.
+|-
+| 11
+| entrance
+|
+| Randomly makes monsters friendly within 8-square radius. Monsters with big health have a lower chance of being turned.
+|-
+| 12
+| bugs
+| ''"Flies buzz around you."'' or ''"Giant flies appear!" or ''"Giant bees appear!" or ''"Giant wasps appear!"''
+| Chance to summon friendly insects: 2-4 giant flies, 1-3 giant bees, or 1-2 giant wasps (in order of rareness).
+|-
+| 13
+| teleport
+| 
+| Teleports you
+|-
+| 14
+| light
+| ''"The artifact glows brightly!"''
+| Temporary light source for 30 turns, which is effective as [[Cranial Flashlight|bionic flashlight]].
+|-
+| 15
+| growth
+| 
+| Grow plants, a la [[triffid queen]]
+|-
+| 16
+| hurtall
+| 
+| Hurts every monster for 0-5 damage.
+|-
+| 17
+| morale boost
+| ''"You're filled with euphoria!"''
+| Adds a morale bonus that stays for a few minutes.
+|}
+
+Artifacts can have the following bad actives:
+{| class="wikitable"
+|-
+! Code
+! Effect
+! Message
+! Notes
+|-
+| 19
+| radiation
+| ''"Horrible gasses are emitted!"''
+| Spews [[radioactive gas]] on a nearby square.
+|-
+| 20
+| pain
+| ''"You're wracked with pain!"''
+| Increases pain for 5-15 points.
+|-
+| 21
+| mutate
+|
+| 2/3 chance to [[mutations|mutate]].
+|-
+| 22
+| paralyze
+| ''"You're paralyzed!"''
+| Paralyzes the player for 50-200 move points.
+|-
+| 23
+| firestorm
+| ''"Fire rains down around you!"''
+| Starts many small fires in 3-square radius around and on the character.
+|-
+| 24
+| attention
+| ''"You feel like your action has attracted attention."''
+| Gives [[netherworld attention‎]] disease, which bumps dimension critter spawn rate.
+|-
+| 25
+| teleglow
+| ''"You feel unhinged."''
+| Gives the [[teleportation sickness]].
+|-
+| 26
+| noise
+| ''"Your artifact emits a deafening boom!"''
+| Creates loud [[noise]] (100 volume), may cause [[deaf|deafness]].
+|-
+| 27
+| scream
+| ''"Your artifact screams disturbingly."''
+| Creates [[noise]] with 40 volume and adds slight [[morale]] penalty
+|-
+| 28
+| dim
+| ''"The sky starts to dim."''
+| Dims the sky slowly, then relights it (full cycle ends in 5 minutes)
+|-
+| 29
+| flash
+| ''"The artifact flashes brightly!"''
+| [[Flashbang]]
+|-
+| 30
+| vomit
+| ''"A wave of nausea passes through you!"''
+| User vomits
+|-
+| 31
+| shadows
+| ''"Shadows form around you."'' or ''"A shadow forms nearby."''
+| Summon up to 8 [[shadow]]s (Cannot summon them in direct sunlight)
+|-
+| 32
+| stamina loss
+| ''"Your body feels like jelly."''
+| Users stamina drops down to 12-33% of its current state.
+|}
+
+=== Recharge ===
+Artifact tools can restore their charges:
+# Once per hour.
+# Every 10 minutes while in sunlight with sufficiently [[Weather|sunny weather]].
+# Every minute, but increase character's pain by 3, 6 or 9 points (''"You suddenly feel sharp pain for no reason."'')
+# Every minute, but hurt all character's body parts by one HP (''"You feel your body decaying."'')
+# Every minute, but increase character's exhaustion (''"You feel fatigue seeping into your body."'')
+# Never. Artifacts with a high number of effects are especially prone to this.
+
+[[Category:Items]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Header/ArtifactClothing" title="Template:Header/ArtifactClothing">Template:Header/ArtifactClothing</a> (<a href="/cdda_wiki/index.php?title=Template:Header/ArtifactClothing&amp;action=edit" title="Template:Header/ArtifactClothing">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/ArtifactClothing" title="Template:Row/ArtifactClothing">Template:Row/ArtifactClothing</a> (<a href="/cdda_wiki/index.php?title=Template:Row/ArtifactClothing&amp;action=edit" title="Template:Row/ArtifactClothing">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/ArtifactNaturalEffects" title="Template:Row/ArtifactNaturalEffects">Template:Row/ArtifactNaturalEffects</a> (<a href="/cdda_wiki/index.php?title=Template:Row/ArtifactNaturalEffects&amp;action=edit" title="Template:Row/ArtifactNaturalEffects">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/ArtifactNaturalShape" title="Template:Row/ArtifactNaturalShape">Template:Row/ArtifactNaturalShape</a> (<a href="/cdda_wiki/index.php?title=Template:Row/ArtifactNaturalShape&amp;action=edit" title="Template:Row/ArtifactNaturalShape">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/ArtifactTools" title="Template:Row/ArtifactTools">Template:Row/ArtifactTools</a> (<a href="/cdda_wiki/index.php?title=Template:Row/ArtifactTools&amp;action=edit" title="Template:Row/ArtifactTools">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Row/ArtifactWeapons" title="Template:Row/ArtifactWeapons">Template:Row/ArtifactWeapons</a> (<a href="/cdda_wiki/index.php?title=Template:Row/ArtifactWeapons&amp;action=edit" title="Template:Row/ArtifactWeapons">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoilers" title="Template:Spoilers">Template:Spoilers</a> (<a href="/cdda_wiki/index.php?title=Template:Spoilers&amp;action=edit" title="Template:Spoilers">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Artifacts" title="Artifacts">Artifacts</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Artifacts">http://cddawiki.chezzo.com/cdda_wiki/index.php/Artifacts</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Artifacts&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Artifacts&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Artifacts" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Artifacts" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Artifacts">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Artifacts&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Artifacts&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Artifacts" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Artifacts" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Artifacts&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":904});});</script>
+</body>
+</html>

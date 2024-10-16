@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Scenarios - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Scenarios","wgTitle":"Scenarios","wgCurRevisionId":39597,"wgRevisionId":39597,"wgArticleId":3900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.D (Danny)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Scenarios","wgRelevantArticleId":3900,"wgRequestId":"YZlKoh_mFFrbqU6gJUsW4AAAAE8","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Scenarios rootpage-Scenarios skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Scenarios</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Scenarios are selected during character creation prior to determining a character's stats and modify the game in various ways. In addition to restricting the available <a href="/cdda_wiki/index.php?title=Professions" title="Professions">professions</a> or starting locations, they can add additional unique challenges or interesting variables that determine how the beginning of the game plays.
+</p><p>The default scenario is "Evacuee", which gives access to all the normal professions and starts you off in an Evac Shelter.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List_of_scenarios"><span class="tocnumber">1</span> <span class="toctext">List of scenarios</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_Also"><span class="tocnumber">2</span> <span class="toctext">See Also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="List_of_scenarios">List of scenarios</span></h2>
+<p><br />
+</p><p><a href="/cdda_wiki/index.php?title=Challenge-Mi-Go_Camp&amp;action=edit&amp;redlink=1" class="new" title="Challenge-Mi-Go Camp (page does not exist)">Challenge-Mi-Go Camp</a>
+<a href="/cdda_wiki/index.php?title=Challenge-Island_Prison&amp;action=edit&amp;redlink=1" class="new" title="Challenge-Island Prison (page does not exist)">Challenge-Island Prison</a>
+</p><p><br />
+</p><p><a href="/cdda_wiki/index.php?title=Large_Building&amp;action=edit&amp;redlink=1" class="new" title="Large Building (page does not exist)">Large Building</a>
+<a href="/cdda_wiki/index.php?title=Surrounded&amp;action=edit&amp;redlink=1" class="new" title="Surrounded (page does not exist)">Surrounded</a>
+</p><p><a href="/cdda_wiki/index.php?title=Squatter&amp;action=edit&amp;redlink=1" class="new" title="Squatter (page does not exist)">Squatter</a>
+</p><p><a href="/cdda_wiki/index.php?title=The_Mascot_Rises&amp;action=edit&amp;redlink=1" class="new" title="The Mascot Rises (page does not exist)">The Mascot Rises</a>
+</p><p><a href="/cdda_wiki/index.php?title=Crazy_Party&amp;action=edit&amp;redlink=1" class="new" title="Crazy Party (page does not exist)">Crazy Party</a>
+</p><p><a href="/cdda_wiki/index.php?title=The_Last_Delivery&amp;action=edit&amp;redlink=1" class="new" title="The Last Delivery (page does not exist)">The Last Delivery</a>
+<a href="/cdda_wiki/index.php?title=Overrun&amp;action=edit&amp;redlink=1" class="new" title="Overrun (page does not exist)">Overrun</a>
+</p><table cellpadding="3" class="sortable mw-collapsible mw-collapsed" style="border-collapse: collapse; margin-bottom: 1em">
+<tbody><tr style="background-color:lightgreen">
+<th style="border: 1px solid #aaa"> Name </th>
+<th style="border: 1px solid #aaa"> <abbr title="Cost"> C </abbr></th>
+<th class="unsortable" style="border: 1px solid #aaa"> <abbr title="Allowed Professions"> AP </abbr></th>
+<th class="unsortable" style="border: 1px solid #aaa"> <abbr title="Restricted Professions"> RP </abbr></th>
+<th class="unsortable" style="border: 1px solid #aaa"> Location </th>
+<th class="unsortable" style="border: 1px solid #aaa"> Description </th>
+<th class="unsortable" style="border: 1px solid #aaa"> Flags </th>
+</tr>
+
+<tr id="Evacuee" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Evacuee" title="Evacuee">Evacuee</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Evac_shelter" title="Evac shelter">Evac shelter</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You have survived the initial wave of panic, and have achieved (relative) safety in one of the many government evac shelters. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+<tr id="Challenge-Fungal_Infection" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Challenge-Fungal_Infection" title="Challenge-Fungal Infection">Challenge-Fungal Infection</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-8 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Almost all</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Bionic_Patient&amp;action=edit&amp;redlink=1" class="new" title="Bionic Patient (page does not exist)">Bionic Patient</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=House" title="House">House</a> (92 variants), <a href="/cdda_wiki/index.php?title=Grocery_store" title="Grocery store">Grocery store</a> (2), <a href="/cdda_wiki/index.php?title=Garage" title="Garage">Garage</a> (6), <a href="/cdda_wiki/index.php?title=Furniture_Store&amp;action=edit&amp;redlink=1" class="new" title="Furniture Store (page does not exist)">Furniture Store</a>, <a href="/cdda_wiki/index.php?title=Library" title="Library">Library</a> (3), <a href="/cdda_wiki/index.php?title=Bookstore&amp;action=edit&amp;redlink=1" class="new" title="Bookstore (page does not exist)">Bookstore</a> (3), <a href="/cdda_wiki/index.php?title=School" title="School">School</a>, <a href="/cdda_wiki/index.php?title=Church" title="Church">Church</a> (4), <a href="/cdda_wiki/index.php?title=Cemetery&amp;action=edit&amp;redlink=1" class="new" title="Cemetery (page does not exist)">Cemetery</a> (3), <a href="/cdda_wiki/index.php?title=Zoo&amp;action=edit&amp;redlink=1" class="new" title="Zoo (page does not exist)">Zoo</a> (Giftshop and Cages), <a href="/cdda_wiki/index.php?title=Golf_Course&amp;action=edit&amp;redlink=1" class="new" title="Golf Course (page does not exist)">Golf Course</a> (mid course and clubhouse)</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You feel spores crawling beneath your skin.  It's only a matter of time. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> FUNGAL_INFECTION, CHALLENGE, LONE_START</td></tr>
+<tr id="Challenge-Really_Bad_Day_.28scenario.29" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day_(scenario)" title="Challenge-Really Bad Day (scenario)">Challenge-Really Bad Day (scenario)</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-10 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> svictim, tweaker</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=House" title="House">House</a>, <a href="/cdda_wiki/index.php?title=Grocery_store" title="Grocery store">Grocery store</a>, <a href="/cdda_wiki/index.php?title=Gun_store" title="Gun store">Gun store</a>, <a href="/cdda_wiki/index.php?title=Garage" title="Garage">Garage</a>, <a href="/cdda_wiki/index.php?title=Pawn_shop" title="Pawn shop">Pawn shop</a>, <a href="/cdda_wiki/index.php?title=Bank" title="Bank">Bank</a>, <a href="/cdda_wiki/index.php?title=Military_surplus" class="mw-redirect" title="Military surplus">Military surplus</a>, <a href="/cdda_wiki/index.php?title=Furniture_store" title="Furniture store">Furniture store</a>, <a href="/cdda_wiki/index.php?title=Library" title="Library">Library</a>, <a href="/cdda_wiki/index.php?title=Book_store" title="Book store">Book store</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You start drunk to the point of incapacitation, depressed, infected, surrounded by fire, naked, and sick with the flu.  This day went downhill really fast. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> FIRE_START, INFECTED, BAD_DAY, CHALLENGE</td></tr>
+<tr id="Challenge-Medieval_Peasant" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Challenge-Medieval_Peasant" title="Challenge-Medieval Peasant">Challenge-Medieval Peasant</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-5 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> churl</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Forest" title="Forest">Forest</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">Som nigromancie hath brought yow hidder!  Ye have only the hoose on youre legges and the knyf at youre syde and youre prayeres to Marie moder of God. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> CHALLENGE</td></tr>
+<tr id="Challenge-Lab_Patient" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Challenge-Lab_Patient" class="mw-redirect" title="Challenge-Lab Patient">Challenge-Lab Patient</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-8 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> unemployed, mutant_patient, mutant_volunteer, broken_cyborg</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> lab_stairs, lab_finale, ice_lab_stairs, ice_lab_finale</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You've been locked in a lab with no (obvious) way out!  Find a way to escape or starve to death. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> CHALLENGE</td></tr>
+
+<tr id="Challenge-Abandoned" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Challenge-Abandoned" title="Challenge-Abandoned">Challenge-Abandoned</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-8 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> unemployed, bionic_patient, patient, broken_cyborg</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Hospital" title="Hospital">Hospital</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">Sickly and frail, you have spent most of your life in the patient's ward of the hospital.  When yours was evacuated, you were left behind because you were a lost cause.  You awaken to the sound of movement around the hospital. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> CHALLENGE</td></tr>
+
+<tr id="Helicopter_Crash" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Helicopter_Crash" title="Helicopter Crash">Helicopter Crash</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-2 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> soldier, national_guard, specops, bio_soldier, bio_sniper</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Map#Map_extras" title="Map">Helicopter crash site</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You've crashed your precious helicopter, it'll never fly again.  Monsters don't bother you, life without your Loach is worthless anyway. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> HELI_CRASH</td></tr>
+
+<tr id="Infected" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Infected" title="Infected">Infected</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-4 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> sheltered_survivor, sheltered_militia, churl, basketball_player, medic, detective, swat, swat_heavy, sniper_police, riot_police, patient, mutant_patient, mutant_volunteer, broken_cyborg, bio_sniper, preacher, paperboy, national_guard, winter_survivor, winter_scavenger, winter_army, mall_cop, naturalist, fisher, reenactor, reenactor2, drone_op, jr_survivalist, miner, parkour_practitioner</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=House" title="House">House</a>, <a href="/cdda_wiki/index.php?title=Grocery_store" title="Grocery store">Grocery store</a>, <a href="/cdda_wiki/index.php?title=Gun_store" title="Gun store">Gun store</a>, <a href="/cdda_wiki/index.php?title=Garage" title="Garage">Garage</a>, <a href="/cdda_wiki/index.php?title=Pawn_shop" title="Pawn shop">Pawn shop</a>, <a href="/cdda_wiki/index.php?title=Bank" title="Bank">Bank</a>, <a href="/cdda_wiki/index.php?title=Military_surplus" class="mw-redirect" title="Military surplus">Military surplus</a>, <a href="/cdda_wiki/index.php?title=Furniture_store" title="Furniture store">Furniture store</a>, <a href="/cdda_wiki/index.php?title=Library" title="Library">Library</a>, <a href="/cdda_wiki/index.php?title=Book_store" title="Book store">Book store</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">In the chaos and panic of evacuation, you got bitten by something!  You didn't get proper medical care, and now the wound has started turning green. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> INFECTED</td></tr>
+<tr id="Prison_Break" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Prison_Break" title="Prison Break">Prison Break</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-8 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Convict</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> none</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Prison" title="Prison">Prison</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You were a convicted felon planning your escape before the event.  Now the prisoners have turned into mindless horrors and the security bots are shooting on sight... you might need to expedite your escape plans. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+<tr id="Ambush" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Ambush" title="Ambush">Ambush</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> winter_survivor, winter_scavenger, winter_army, unemployed</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Cabin" title="Cabin">cabin</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">It is the winter after zero hour, cold and weary you ducked into a small cabin for the night.  The next morning, you awoke to the sound of lots of movement in the woods. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> SUR_START, WIN_START</td></tr>
+<tr id="Sheltered" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Sheltered" title="Sheltered">Sheltered</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-3 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=LMOE_shelter" title="LMOE shelter">LMOE shelter</a>, <a href="/cdda_wiki/index.php?title=Evac_shelter" title="Evac shelter">Evac shelter</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">When the apocalypse broke out, you were funneled into a nearby shelter.  Here you have lived, never leaving, lest the unknowns of the outside world hurt you.  Supplies are running low, and for the first time since the cataclysm, you will be forced to face the outside world. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> WIN_START</td></tr>
+
+<tr id="Burning_Building" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Burning_Building" title="Burning Building">Burning Building</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-2 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> sheltered_survivor, sheltered_militia, churl, basketball_player, medic, detective, swat, swat_heavy, sniper_police, riot_police, patient, mutant_patient, mutant_volunteer, broken_cyborg, bio_sniper, preacher, paperboy, national_guard, winter_survivor, winter_scavenger, winter_army, mall_cop, naturalist, fisher, reenactor, reenactor2, drone_op, miner, parkour_practitioner</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=House" title="House">House</a>, <a href="/cdda_wiki/index.php?title=Grocery_store" title="Grocery store">Grocery store</a>, <a href="/cdda_wiki/index.php?title=Gun_store" title="Gun store">Gun store</a>, <a href="/cdda_wiki/index.php?title=Garage" title="Garage">Garage</a>, <a href="/cdda_wiki/index.php?title=Pawn_shop" title="Pawn shop">Pawn shop</a>, <a href="/cdda_wiki/index.php?title=Bank" title="Bank">Bank</a>, <a href="/cdda_wiki/index.php?title=Military_surplus" class="mw-redirect" title="Military surplus">Military surplus</a>, <a href="/cdda_wiki/index.php?title=Furniture_store" title="Furniture store">Furniture store</a>, <a href="/cdda_wiki/index.php?title=Library" title="Library">Library</a>, <a href="/cdda_wiki/index.php?title=Book_store" title="Book store">Book store</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">The building you had chosen to reside in has suddenly caught fire!  You might want to leave. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> FIRE_START</td></tr>
+
+<tr id="Missed" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Missed" title="Missed">Missed</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=House" title="House">House</a>, <a href="/cdda_wiki/index.php?title=Grocery_store" title="Grocery store">Grocery store</a>, <a href="/cdda_wiki/index.php?title=Gun_store" title="Gun store">Gun store</a>, <a href="/cdda_wiki/index.php?title=Garage" title="Garage">Garage</a>, <a href="/cdda_wiki/index.php?title=Pawn_shop" title="Pawn shop">Pawn shop</a>, <a href="/cdda_wiki/index.php?title=Bank" title="Bank">Bank</a>, <a href="/cdda_wiki/index.php?title=Military_surplus" class="mw-redirect" title="Military surplus">Military surplus</a>, <a href="/cdda_wiki/index.php?title=Furniture_store" title="Furniture store">Furniture store</a>, <a href="/cdda_wiki/index.php?title=Library" title="Library">Library</a>, <a href="/cdda_wiki/index.php?title=Book_store" title="Book store">Book store</a>, <a href="/cdda_wiki/index.php?title=House" title="House">Boarded-up house</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">Whether due to stubbornness, ignorance, or just plain bad luck, you missed the evacuation, and are stuck in a city full of the risen dead. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+<tr id="The_Next_Summer" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=The_Next_Summer" title="The Next Summer">The Next Summer</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Naturalist&amp;action=edit&amp;redlink=1" class="new" title="Naturalist (page does not exist)">naturalist</a>, <a href="/cdda_wiki/index.php?title=Road_warrior&amp;action=edit&amp;redlink=1" class="new" title="Road warrior (page does not exist)">road_warrior</a>, <a href="/cdda_wiki/index.php?title=Player_bandit&amp;action=edit&amp;redlink=1" class="new" title="Player bandit (page does not exist)">player_bandit</a>, <a href="/cdda_wiki/index.php?title=Winter_scavenger&amp;action=edit&amp;redlink=1" class="new" title="Winter scavenger (page does not exist)">winter_scavenger</a>, <a href="/cdda_wiki/index.php?title=Winter_army&amp;action=edit&amp;redlink=1" class="new" title="Winter army (page does not exist)">winter_army</a>, <a href="/cdda_wiki/index.php?title=Waste_ranger&amp;action=edit&amp;redlink=1" class="new" title="Waste ranger (page does not exist)">waste_ranger</a>, <a href="/cdda_wiki/index.php?title=Unemployed&amp;action=edit&amp;redlink=1" class="new" title="Unemployed (page does not exist)">unemployed</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Forest" title="Forest">Forest</a>, <a href="/cdda_wiki/index.php?title=Field_(map_tile)" title="Field (map tile)">Field (map tile)</a>, <a href="/cdda_wiki/index.php?title=Cabin" title="Cabin">Cabin</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">A little over a year has passed since the apocalypse started, and you're about to face your second summer in Hell. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> SUM_ADV_START, LONE_START</td></tr>
+
+<tr id="Wilderness_.28scenario.29" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Wilderness_(scenario)" title="Wilderness (scenario)">Wilderness (scenario)</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> unemployed, survivalist, trapper, bionic_prepper, guru, backpacker, naturalist, bow_hunter, crossbow_hunter, lumberjack, jr_survivalist, fisher</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Forest" title="Forest">Forest</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You find yourself amongst trees.  The screaming and the moaning is fainter this far from civilization, but you'd better know what you're doing out here. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+
+<tr id="Out_of_Town" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Out_of_Town" class="mw-redirect" title="Out of Town">Out of Town</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">1 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Swamp_shack&amp;action=edit&amp;redlink=1" class="new" title="Swamp shack (page does not exist)">Swamp shack</a>, <a href="/cdda_wiki/index.php?title=Survivalist_farm&amp;action=edit&amp;redlink=1" class="new" title="Survivalist farm (page does not exist)">Survivalist farm</a>, <a href="/cdda_wiki/index.php?title=Cabin" title="Cabin">Cabin</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You were outside of civilization when the bombs fell; you didn't even know the end had come, or that everyone was (un)dead.  Will this ignorance save you from the fate of the rest? </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> LONE_START</td></tr>
+<tr id="Bottom_of_a_Mine" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Bottom_of_a_Mine" title="Bottom of a Mine">Bottom of a Mine</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">1 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> miner</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Mine" title="Mine">Mine</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You were mining along when you found...something.  You're not sure what, but it sure is dark down here. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+<tr id="Experiment" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Experiment" title="Experiment">Experiment</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">2 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> unemployed, mutant_patient, mutant_volunteer, broken_cyborg</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Forest" title="Forest">Forest</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">Since birth, your sole purpose in life has been the advancement of genetic science, willingly or not.  Once the cataclysm struck, you left the lab, and wandered aimlessly, ending up in a forest. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+
+<tr id="High_Tech.2C_Low_Life" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=High_Tech,_Low_Life" title="High Tech, Low Life">High Tech, Low Life</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">2 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Cyberjunkie, Faulty_Bionic, Cykotic, Razorgirl, Bionic_Installer</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Basement" title="Basement">Basement</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">Before the world ended, bionics were reserved for the rich and the famous.  You might not have been either, but you wanted in.  Hidden offices sequestered away in basements, anesthetic smuggled out of hospitals, and desperate people with little to lose got you what you wanted.  If you went too deep, however, your augmentation may have come at a price... </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> CITY_START, LONE_START</td></tr>
+</tbody></table>
+<p>The following scenarios are obsolete, merged with other scenarios, changed to professions, or changed to locations:
+</p>
+<p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p><p><br />
+</p><table cellpadding="3" class="sortable mw-collapsible mw-collapsed" style="border-collapse: collapse; margin-bottom: 1em">
+<tbody><tr style="background-color:lightgreen">
+<th style="border: 1px solid #aaa"> Name </th>
+<th style="border: 1px solid #aaa"> <abbr title="Cost"> C </abbr></th>
+<th class="unsortable" style="border: 1px solid #aaa"> <abbr title="Allowed Professions"> AP </abbr></th>
+<th class="unsortable" style="border: 1px solid #aaa"> <abbr title="Restricted Professions"> RP </abbr></th>
+<th class="unsortable" style="border: 1px solid #aaa"> Location </th>
+<th class="unsortable" style="border: 1px solid #aaa"> Description </th>
+<th class="unsortable" style="border: 1px solid #aaa"> Flags </th>
+</tr>
+
+<tr id="Assault_on_Precinct_Z" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Assault_on_Precinct_Z" title="Assault on Precinct Z">Assault on Precinct Z</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> cop, sniper_police, riot_police, bionic_cop, detective, swat, swat_heavy</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Police_station" title="Police station">Police station</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You knew the day was going to be bad when it started with your partner getting eaten by a perp before you even had coffee.  The scene back at the station house looks bad, real bad.  This is going to be an all-nighter. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> SUR_START</td></tr>
+
+<tr id="At_the_Zoo" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=At_the_Zoo" title="At the Zoo">At the Zoo</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Zoo Keeper</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Zoo&amp;action=edit&amp;redlink=1" class="new" title="Zoo (page does not exist)">Zoo</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">It was a slow day at the zoo, until you heard people screaming outside the walls.  The animals seem to be getting agitated. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> CITY_START, LONE_START</td></tr>
+<tr id="Camping" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Camping" title="Camping">Camping</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Camper</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Campsite&amp;action=edit&amp;redlink=1" class="new" title="Campsite (page does not exist)">Campsite</a>, <a href="/cdda_wiki/index.php?title=Campground&amp;action=edit&amp;redlink=1" class="new" title="Campground (page does not exist)">Campground</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You and your friends decided to get away for the week and enjoy the outdoors via sleeping in a tent under the stars. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+<tr id="Fled_the_Riots" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Fled_the_Riots" title="Fled the Riots">Fled the Riots</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-3 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Book_store" title="Book store">Book store</a>, <a href="/cdda_wiki/index.php?title=Grocery_store" title="Grocery store">Grocery store</a>, <a href="/cdda_wiki/index.php?title=Police_station" title="Police station">Police station</a>, <a href="/cdda_wiki/index.php?title=Garage" title="Garage">Garage</a>, <a href="/cdda_wiki/index.php?title=Library" title="Library">Library</a>, <a href="/cdda_wiki/index.php?title=Hospital" title="Hospital">Hospital</a>, <a href="/cdda_wiki/index.php?title=Mall&amp;action=edit&amp;redlink=1" class="new" title="Mall (page does not exist)">Mall</a>, <a href="/cdda_wiki/index.php?title=Church" title="Church">Church</a>, <a href="/cdda_wiki/index.php?title=Cemetery&amp;action=edit&amp;redlink=1" class="new" title="Cemetery (page does not exist)">Cemetery</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You were present at the last of the real riots; one of the last to flee when the rioters stopped breathing but kept moving. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> SUR_START, CITY_START</td></tr>
+
+<tr id="The_Last_Firefighter" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=The_Last_Firefighter" title="The Last Firefighter">The Last Firefighter</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> firefighter, bionic_firefighter</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Fire_station" title="Fire station">Fire station</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">Against all odds, you managed to make it back to the station house in one piece.  Now the reanimated husks of your former comrades want to make sure you never leave it again. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> SUR_START</td></tr>
+
+<tr id="Mall_Cop" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Mall_Cop" title="Mall Cop">Mall Cop</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-2 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> mall_cop</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Mall Food Court, Mall Loading Area</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You've survived for as long as you could inside of the mall you worked at as a security guard.  Find a way out and try your best to survive. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+
+<tr id="Out_Golfing" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Out_Golfing" title="Out Golfing">Out Golfing</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">0 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> Golfer</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Golf_Course&amp;action=edit&amp;redlink=1" class="new" title="Golf Course (page does not exist)">Golf Course</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You decided to spend your day off doing what you love, golfing! </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> CITY_START, LONE_START</td></tr>
+
+<tr id="Refugee" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=Refugee" title="Refugee">Refugee</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">1 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Refugee_center" title="Refugee center">Refugee center</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You made it to one of the refugee centers, but they've refused to let you join the others underground.  Looks like you're on your own... </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+
+<tr id="School" style="text-align:right"><td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em; text-align:left"> <a href="/cdda_wiki/index.php?title=School" title="School">School</a> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">-1 </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> student, elementary_student, skaterkid, jdelinquent, prep_student, jr_survivalist, bionic_student, poor_student, dodgeball_player, science_club_mem, av_club_mem, janitor, teacher, gym_teacher</td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em; text-align:left; font-size: 0.8em;"> <a href="/cdda_wiki/index.php?title=Regional_school" title="Regional school">Regional school</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em">You were at school when the principal shambled in and ate one of the students, and before you knew it the entire campus was overrun by monsters.  Guess school's out forever. </td><td style="border: 1px solid #aaa; border-left-color: #333; border-right-color: white; padding: 0.2em; text-align:left; font-size: 0.8em;"> </td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_Also">See Also</span></h2>
+<ul><li><a href="/cdda_wiki/index.php?title=Beginner_Character_Build_Tips" title="Beginner Character Build Tips">The 'Beginner Character Build Tips' guide</a> - slightly outdated for <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a>, but still contains some good tips.</li></ul>
+<p class="mw-empty-elt">
+</p>
+<table class="navbox" cellspacing="0" style="background:#fdfdfd; width:100%; vertical-align:middle; border-color: #e0d431;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#e0d431; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Navbox/scenarios" title="Template:Navbox/scenarios"><span title="View this template" style=";background:#e0d431; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Navbox/scenarios&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Navbox/scenarios (page does not exist)"><span title="Discuss this template" style=";background:#e0d431; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Navbox/scenarios&amp;action=edit"><span title="Edit this template" style=";background:#e0d431; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a class="mw-selflink selflink">Scenarios</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#e0d431; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space:nowrap;;">Scenarios
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Ambush" title="Ambush">Ambush</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Bottom_of_a_Mine" title="Bottom of a Mine">Bottom of a Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Burning_Building" title="Burning Building">Burning Building</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Camping" title="Camping">Camping</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Abandoned" title="Challenge-Abandoned">Challenge-Abandoned</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Island_Prison&amp;action=edit&amp;redlink=1" class="new" title="Challenge-Island Prison (page does not exist)">Challenge-Island Prison</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Lab" title="Challenge-Lab">Challenge - Lab Staff</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Medieval_Paeasant&amp;action=edit&amp;redlink=1" class="new" title="Challenge-Medieval Paeasant (page does not exist)">Challenge-Medieval Paeasant</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day_(scenario)" title="Challenge-Really Bad Day (scenario)">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Evacuee" title="Evacuee">Evacuee</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Experiment" title="Experiment">Experiment</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Helicopter_Crash" title="Helicopter Crash">Helicopter Crash</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=High_Tech,_Low_Life" title="High Tech, Low Life">High Tech, Low Life</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_Last_Delivery&amp;action=edit&amp;redlink=1" class="new" title="The Last Delivery (page does not exist)">The Last Delivery</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_Mascot_Rises&amp;action=edit&amp;redlink=1" class="new" title="The Mascot Rises (page does not exist)">The Mascot Rises</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Last_Flight&amp;action=edit&amp;redlink=1" class="new" title="Last Flight (page does not exist)">Last Flight</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Infected_(scenario)" title="Infected (scenario)">Infected</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Missed" title="Missed">Missed</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Prison_Break" title="Prison Break">Prison Break</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Safe_Place" title="Safe Place">Safe Place</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Sheltered" title="Sheltered">Sheltered</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_Next_Summer" title="The Next Summer">The Next Summer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Wilderness_(scenario)" title="Wilderness (scenario)">Wilderness</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Crazy_Party&amp;action=edit&amp;redlink=1" class="new" title="Crazy Party (page does not exist)">Crazy Party</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Squatter&amp;action=edit&amp;redlink=1" class="new" title="Squatter (page does not exist)">Squatter</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Large_Building&amp;action=edit&amp;redlink=1" class="new" title="Large Building (page does not exist)">Large Building</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Surrounded&amp;action=edit&amp;redlink=1" class="new" title="Surrounded (page does not exist)">Surrounded</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge_-_Fungal_Infection&amp;action=edit&amp;redlink=1" class="new" title="Challenge - Fungal Infection (page does not exist)">Challenge - Fungal Infection</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge_-_Lab_Patient&amp;action=edit&amp;redlink=1" class="new" title="Challenge - Lab Patient (page does not exist)">Challenge - Lab Patient</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge_-_Mi-Go_Camp&amp;action=edit&amp;redlink=1" class="new" title="Challenge - Mi-Go Camp (page does not exist)">Challenge - Mi-Go Camp</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<table class="navbox" cellspacing="0" style="background:#fdfdfd; width:100%; vertical-align:middle; border-color: #1a9c9c;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Character&amp;action=edit&amp;redlink=1" class="new" title="Template:Character (page does not exist)"><span title="View this template" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Character&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Character (page does not exist)"><span title="Discuss this template" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Character&amp;action=edit"><span title="Edit this template" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php?title=Character" title="Character">Character</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a class="mw-selflink selflink">Scenarios</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Scenarios#List_of_scenarios" title="Scenarios">List of scenarios</a> &#160;<span style="font-weight:bold;">·</span> Guides for scenarios: <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Really Bad Day</a>, <a href="/cdda_wiki/index.php?title=Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a>, <a href="/cdda_wiki/index.php?title=Guide:_Mine" title="Guide: Mine">Mine</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Stats" title="Stats">Stats</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Hidden_stats" title="Hidden stats">Hidden stats</a> &#160;<span style="font-weight:bold;">·</span> Detailed Effects: <a rel="nofollow" class="external text" href="http://dev.narc.ro/cataclysm/doxygen/Effects_Stat_Strength.html">Str</a>, <a rel="nofollow" class="external text" href="http://dev.narc.ro/cataclysm/doxygen/Effects_Stat_Dexterity.html">Dex</a>, <a rel="nofollow" class="external text" href="http://dev.narc.ro/cataclysm/doxygen/Effects_Stat_Intelligence.html">Int</a>, <a rel="nofollow" class="external text" href="http://dev.narc.ro/cataclysm/doxygen/Effects_Stat_Perception.html">Per</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Skills" title="Skills">Skills</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Skills#Skill_Rust" title="Skills">Rust</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Skills#Skills" title="Skills">List of Skills</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Traits" title="Traits">Traits</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Template:Navbar/traits" title="Template:Navbar/traits">List of Traits</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Professions" title="Professions">Professions</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Professions#List_of_professions" title="Professions">List of Professions</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Bionics" title="Bionics">Bionics</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Bionics#Installing_Bionics" title="Bionics">Installing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Bionics#List_of_CBMs" title="Bionics">Sortable Full List</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Bionics#Malfunctioning_bionics" title="Bionics">Malfunctioning</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Bionics#Removing_Bionics" title="Bionics">Removing</a> &#160;<span style="font-weight:bold;">·</span> Related Categories: <a href="/cdda_wiki/index.php?title=Category:Bionics" title="Category:Bionics">Bionics</a>, <a href="/cdda_wiki/index.php?title=Category:CBMs" title="Category:CBMs">CBMs</a>, <a href="/cdda_wiki/index.php?title=Category:Activated_bionics" title="Category:Activated bionics">Activated</a>, <a href="/cdda_wiki/index.php?title=Category:Passive_bionics" title="Category:Passive bionics">Passive</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Mutation" title="Mutation">Mutations</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Mutation#Categories" title="Mutation">Categories</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mutation#Thresholds" title="Mutation">Thresholds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=List_of_mutations" title="List of mutations">List of mutations</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Special_player_attacks#Mutated_body_parts" title="Special player attacks">Mutation Special Attacks</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Morale" title="Morale">Morale</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Morale#How_morale_works" title="Morale">How Morale Works</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Morale#Positive_morale_effects" title="Morale">Positive Effects</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Morale#Negative_morale_effects" title="Morale">Negative Effects</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Effects" title="Effects">Effects</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Effects#Weather_Effects" title="Effects">Weather</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects#Diseases" title="Effects">Diseases</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects#Traits" title="Effects">Traits</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects#Field_Effects" title="Effects">Field Effects</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects#Weapon_Effects" title="Effects">Weapon Effects</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects#Drug_Effects" title="Effects">Drug Effects</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects#Other" title="Effects">Other</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<table class="navbox" cellspacing="0" style="background:#fdfdfd; width:100%; vertical-align:middle; border-color: #1a9c9c;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Main&amp;action=edit&amp;redlink=1" class="new" title="Template:Main (page does not exist)"><span title="View this template" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Main&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Main (page does not exist)"><span title="Discuss this template" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Main&amp;action=edit"><span title="Edit this template" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php?title=Main_Page" title="Main Page">Main</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;">Prime
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Download" title="Download">Download</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_compile" title="How to compile">Compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Controls" title="Controls">Controls</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Options" title="Options">Options</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Community" title="Community">The wider C:DDA community</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Glossary" title="Glossary">Glossary</a> &#160;<span style="font-weight:bold;">·</span> <a rel="nofollow" class="external text" href="https://www57.atwiki.jp/cataclyj/pages/185.html">Japanese wiki 日本語</a> &#160;<span style="font-weight:bold;">·</span> <a rel="nofollow" class="external text" href="http://cdda-trunk.chezzo.com/">Item browser</a> &#160;<span style="font-weight:bold;">·</span> <a rel="nofollow" class="external text" href="http://cdda.sikstus.com/items.html">Item locator</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Character" title="Character">Character</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a class="mw-selflink selflink">Scenarios</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Stats" title="Stats">Stats</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Skills" title="Skills">Skills</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Traits" title="Traits">Traits</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Professions" title="Professions">Professions</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Bionics" title="Bionics">Bionics</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mutation" title="Mutation">Mutations</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Morale" title="Morale">Morale</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Effects" title="Effects">Status effects</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=World" class="mw-redirect" title="World">World</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Map" title="Map">Map</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Terrain_types" title="Terrain types">Terrain types</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Enemies" title="Enemies">Enemies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Traps" title="Traps">Traps</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Fields" title="Fields">Tile effects</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicles" title="Vehicles">Vehicles and driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Date_and_Time" title="Date and Time">Date and Time</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Weather" title="Weather">Weather</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Noise" title="Noise">Noise</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Lore" title="Lore">Lore</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Easter_eggs" title="Easter eggs">Easter Eggs</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Creation" class="mw-redirect" title="Creation">Creation</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Crafting" title="Crafting">Crafting</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Construction" title="Construction">Construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Components" title="Components">Components</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Weapons" class="mw-redirect" title="Weapons">Weapons</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Melee_Weapons" title="Melee Weapons">Melee Weapons</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Ranged_Weapons" class="mw-redirect" title="Ranged Weapons">Ranged Weapons</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Explosives" title="Explosives">Explosives</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Martial_arts" title="Martial arts">Martial arts</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Items" title="Items">Items</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Comestibles" title="Comestibles">Comestibles and Consumables</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clothing" title="Clothing">Clothing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Books" title="Books">Books</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Tools" title="Tools">Tools</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Containers" title="Containers">Containers</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Artifacts" title="Artifacts">Artifacts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Items" title="Items">Misc. Items</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#1a9c9c; color:#006600; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;;"><a href="/cdda_wiki/index.php?title=Technical" class="mw-redirect" title="Technical">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Developers" title="Developers">Developers</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Tileset_Support" title="Tileset Support">Tileset Support</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Cheating" title="Cheating">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mod_manager" title="Mod manager">Modding</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_compile#Monospace_fonts" title="How to compile">Changing the font</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20211119204810
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.620 seconds
+Real time usage: 0.791 seconds
+Preprocessor visited node count: 7020/1000000
+Preprocessor generated node count: 16013/1000000
+Post‐expand include size: 161743/2097152 bytes
+Template argument size: 36485/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  588.108      1 -total
+ 33.57%  197.451     28 Template:Row/scenario
+ 23.55%  138.502      1 Template:Footer/scenarios
+ 19.20%  112.911      3 Template:Navbox
+  8.96%   52.676      1 Template:Navbox/scenarios
+  7.72%   45.392      1 Template:Navbox/main
+  6.10%   35.876      1 Template:Ver
+  6.06%   35.643      1 Template:Navbox/character
+  4.39%   25.812      3 Template:Navbar
+  3.85%   22.659      1 Infected_(scenario)
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3900-0!canonical and timestamp 20211119204809 and revision id 39597
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Scenarios&amp;oldid=39597">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Scenarios&amp;oldid=39597</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:0.D_(Danny)" title="Category:0.D (Danny)">0.D (Danny)</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Scenarios" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Scenarios" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Scenarios" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Scenarios&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Scenarios">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Scenarios&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Scenarios&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Scenarios" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Scenarios" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Scenarios&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Scenarios&amp;oldid=39597" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Scenarios&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 May 2021, at 13:29.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" class="mw-redirect" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.620","walltime":"0.791","ppvisitednodes":{"value":7020,"limit":1000000},"ppgeneratednodes":{"value":16013,"limit":1000000},"postexpandincludesize":{"value":161743,"limit":2097152},"templateargumentsize":{"value":36485,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  588.108      1 -total"," 33.57%  197.451     28 Template:Row/scenario"," 23.55%  138.502      1 Template:Footer/scenarios"," 19.20%  112.911      3 Template:Navbox","  8.96%   52.676      1 Template:Navbox/scenarios","  7.72%   45.392      1 Template:Navbox/main","  6.10%   35.876      1 Template:Ver","  6.06%   35.643      1 Template:Navbox/character","  4.39%   25.812      3 Template:Navbar","  3.85%   22.659      1 Infected_(scenario)"]},"cachereport":{"timestamp":"20211119204810","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":250});});</script>
+</body>
+</html>

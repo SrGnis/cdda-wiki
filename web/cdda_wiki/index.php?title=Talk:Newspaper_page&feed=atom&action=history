@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;feed=atom&amp;action=history</id>
+	<title>Talk:Newspaper page - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;action=history"/>
+	<updated>2021-11-26T00:59:48Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.33.1</generator>
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;diff=15077&amp;oldid=prev</id>
+		<title>JayJayForce: Items really need a rewrite.</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;diff=15077&amp;oldid=prev"/>
+		<updated>2014-12-15T16:30:03Z</updated>
+
+		<summary type="html">&lt;p&gt;Items really need a rewrite.&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 16:30, 15 December 2014&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot; &gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so exploring subways, etc can unearth older lore. [[User:KA101|KA101]] ([[User talk:KA101|talk]]) 19:18, 14 December 2014 (PST)&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so exploring subways, etc can unearth older lore. [[User:KA101|KA101]] ([[User talk:KA101|talk]]) 19:18, 14 December 2014 (PST)&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;::Eh, I would have done the same thing. Not really sure what category to put these into though. Had a look at the source code for items to try and figure out, it's WAY nastier than the enemies code that I've been working with, so I'm hesitant to get too deep into it. Done what I could, might revisit this mess later.[[User:JayJayForce|JayJayForce]] ([[User talk:JayJayForce|talk]]) 08:30, 15 December 2014 (PST)&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>JayJayForce</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;diff=15072&amp;oldid=prev</id>
+		<title>KA101: Forgot to sign, again.</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;diff=15072&amp;oldid=prev"/>
+		<updated>2014-12-15T03:18:42Z</updated>
+
+		<summary type="html">&lt;p&gt;Forgot to sign, again.&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 03:18, 15 December 2014&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l1&quot; &gt;Line 1:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 1:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so exploring subways, etc can unearth older lore.&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so exploring subways, etc can unearth older lore. &lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;[[User:KA101|KA101]] ([[User talk:KA101|talk]]) 19:18, 14 December 2014 (PST)&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>KA101</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;diff=15071&amp;oldid=prev</id>
+		<title>KA101: Created page with &quot;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so ...&quot;</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Talk:Newspaper_page&amp;diff=15071&amp;oldid=prev"/>
+		<updated>2014-12-15T03:18:07Z</updated>
+
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so ...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;Probably not necessary to add every newspaper blurb, but thanks.  One thing that might be worth pointing out is that newspapers can date back farther in more remote areas, so exploring subways, etc can unearth older lore.&lt;/div&gt;</summary>
+		<author><name>KA101</name></author>
+		
+	</entry>
+</feed>

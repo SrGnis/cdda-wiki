@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Template:Clothing - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Template","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":10,"wgPageName":"Template:Clothing","wgTitle":"Clothing","wgCurRevisionId":40162,"wgRevisionId":0,"wgArticleId":1695,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Template:Clothing","wgRelevantArticleId":1695,"wgRequestId":"ZBCoSUVb_TBKYbRa7Pby8gAAABA","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-10 ns-subject page-Template_Clothing rootpage-Template_Clothing skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Template:Clothing</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Template:Clothing" title="Template:Clothing">Template:Clothing</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{Navbox
+|name       = Clothing
+|title      = [[Clothing]]
+|state      = uncollapsed
+
+|bodystyle = background:#fdfdfd; width:100%; vertical-align:middle; border-color: #88DDBB;
+|titlestyle = background:#88DDBB; color:#005500; padding-left:1em; padding-right:1em; text-align:center;
+|groupstyle = background:#88DDBB; color:#005500; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold;
+
+|group1     = [[Feet]]
+|list1      = &lt;!-- 
+  --> [[Armored boots]]&lt;!--
+  --> {{md}}[[Bone armor boots]]&lt;!--
+  --> {{md}}[[Boots]]&lt;!--
+  --> {{md}}[[Chitinous boots]]&lt;!--
+  --> {{md}}[[Cleats]]&lt;!--
+  --> {{md}}[[Clown shoes]]&lt;!--
+  --> {{md}}[[Combat boots]]&lt;!--
+  --> {{md}}[[Cord sandals]]&lt;!--
+  --> {{md}}[[Dress shoes]]&lt;!--
+  --> {{md}}[[Flame-resistant socks]]&lt;!--
+  --> {{md}}[[Flip-flops]]&lt;!--
+  --> {{md}}[[Foot rags]]&lt;!--
+  --> {{md}}[[Fur boots]]&lt;!--
+  --> {{md}}[[Heavy survivor boots]]&lt;!--
+  --> {{md}}[[Pair of heels]]&lt;!--
+  --> {{md}}[[Hiking boots]]&lt;!--
+  --> {{md}}[[Knee-high boots]]&lt;!--
+  --> {{md}}[[Leather armor boots]]&lt;!--
+  --> {{md}}[[Leather sandals]]&lt;!--
+  --> {{md}}[[Light survivor boots]]&lt;!--
+  --> {{md}}[[Lowtop tennis shoes]]&lt;!--
+  --> {{md}}[[Mocassins]]&lt;!--
+  --> {{md}}[[pair of rollerblades]]&lt;!--
+  --> {{md}}[[pair of rollerskates]]&lt;!--
+  --> {{md}}[[Pair of swimming booties]]&lt;!--
+  --> {{md}}[[Rubber boots]]&lt;!--
+  --> {{md}}[[Sneakers]]&lt;!--
+  --> {{md}}[[Socks]]&lt;!--
+  --> {{md}}[[Steeltoed boots]]&lt;!--
+  --> {{md}}[[Stockings]]&lt;!--
+  --> {{md}}[[Survivor boots]]&lt;!--
+  --> {{md}}[[Survivor fireboots]]&lt;!--
+  --> {{md}}[[Survivor wetsuit boots]]&lt;!--
+  --> {{md}}[[Swim fins]]&lt;!--
+  --> {{md}}[[Tentacle stockings]]&lt;!--
+  --> {{md}}[[Tights]]&lt;!--
+  --> {{md}}[[Turnout boots]]&lt;!--
+  --> {{md}}[[Western boots]]&lt;!--
+  --> {{md}}[[Winter boots]]&lt;!--
+  --> {{md}}[[Winter survivor boots]]&lt;!--
+  --> {{md}}[[Wooden clogs]]&lt;!--
+  --> {{md}}[[Wool socks]]&lt;!--
+  -->
+
+|group2     = [[Legs]]
+|list2      = &lt;!-- 
+  --> [[2-by-shin guards]]&lt;!--
+  --> {{md}}[[Ankle holster]]&lt;!--
+  --> {{md}}[[Army pants]]&lt;!--
+  --> {{md}}[[Boxer shorts]]&lt;!--
+  --> {{md}}[[Boy shorts]]&lt;!--
+  --> {{md}}[[Briefs]]&lt;!--
+  --> {{md}}[[Cargo pants]]&lt;!--
+  --> {{md}}[[Cargo shorts]]&lt;!--
+  --> {{md}}[[Checkered pants]]&lt;!--
+  --> {{md}}[[Compression shorts]]&lt;!--
+  --> {{md}}[[Denim shorts]]&lt;!--
+  --> {{md}}[[Drop leg pouches]]&lt;!--
+  --> {{md}}[[Fetlock furs]]&lt;!--
+  --> {{md}}[[Fur hot pants]]&lt;!--
+  --> {{md}}[[Fur loincloth]]&lt;!--
+  --> {{md}}[[Fur pants]]&lt;!--
+  --> {{md}}[[Hard leg guards]]&lt;!--
+  --> {{md}}[[Hot pants]]&lt;!--
+  --> {{md}}[[Jeans]]&lt;!--
+  --> {{md}}[[Knee pads]]&lt;!--
+  --> {{md}}[[Leather chaps]]&lt;!--
+  --> {{md}}[[Leather hot pants]]&lt;!--
+  --> {{md}}[[Leather loincloth]]&lt;!--
+  --> {{md}}[[Leather pants]]&lt;!--
+  --> {{md}}[[Leg splint]]&lt;!--
+  --> {{md}}[[Leg warmers]]&lt;!--
+  --> {{md}}[[Leggings]]&lt;!--
+  --> {{md}}[[Loincloth]]&lt;!--
+  --> {{md}}[[Long underwear]]&lt;!--
+  --> {{md}}[[Mail carrier shorts]]&lt;!--
+  --> {{md}}[[Metal leg guards]]&lt;!--
+  --> {{md}}[[Panties]]&lt;!--
+  --> {{md}}[[Pants]]&lt;!--
+  --> {{md}}[[Sheath]]&lt;!--
+  --> {{md}}[[Shorts]]&lt;!--
+  --> {{md}}[[Ski pants]]&lt;!--
+  --> {{md}}[[Skirt]]&lt;!--
+  --> {{md}}[[Swimming trunks]]&lt;!--
+  --> {{md}}[[Turnout trousers]]&lt;!--
+  --> {{md}}[[XL leg warmers]]&lt;!--
+  -->
+
+|group3     = [[Torso]]
+|list3      = &lt;!-- 
+  --> [[Army jacket]]&lt;!--
+  --> {{md}}[[Backpack]]&lt;!--
+  --> {{md}}[[Bikini top]]&lt;!--
+  --> {{md}}[[Blazer]]&lt;!--
+  --> {{md}}[[Bookplate]]&lt;!--
+  --> {{md}}[[Bra]]&lt;!--
+  --> {{md}}[[Camisole]]&lt;!--
+  --> {{md}}[[Camo tank top]]&lt;!--
+  --> {{md}}[[Chefs jacket]]&lt;!--
+  --> {{md}}[[Chest rig]]&lt;!--
+  --> {{md}}[[Compression top]]&lt;!--
+  --> {{md}}[[Dragon skin vest]]&lt;!--
+  --> {{md}}[[Dress shirt]]&lt;!--
+  --> {{md}}[[Duffel bag]]&lt;!--
+  --> {{md}}[[Firefighter belt]]&lt;!--
+  --> {{md}}[[Flag shirt]]&lt;!--
+  --> {{md}}[[Flannel jacket]]&lt;!--
+  --> {{md}}[[Flotation vest]]&lt;!--
+  --> {{md}}[[Football armor]]&lt;!--
+  --> {{md}}[[Fur bikini top]]&lt;!--
+  --> {{md}}[[Fur coat]]&lt;!--
+  --> {{md}}[[Fur trenchcoat]]&lt;!--
+  --> {{md}}[[Heavy survivor rucksack]]&lt;!--
+  --> {{md}}[[Hoodie]]&lt;!--
+  --> {{md}}[[Housecoat]]&lt;!--
+  --> {{md}}[[Jean jacket]]&lt;!--
+  --> {{md}}[[Kevlar vest]]&lt;!--
+  --> {{md}}[[Lab coat]]&lt;!--
+  --> {{md}}[[Leather backpack]]&lt;!--
+  --> {{md}}[[Leather belt]]&lt;!--
+  --> {{md}}[[Leather bikini top]]&lt;!--
+  --> {{md}}[[Leather corset]]&lt;!--
+  --> {{md}}[[Leather jacket]]&lt;!--
+  --> {{md}}[[Leather pouch]]&lt;!--
+  --> {{md}}[[Leather trenchcoat]]&lt;!--
+  --> {{md}}[[Leather vest]]&lt;!--
+  --> {{md}}[[Light jacket]]&lt;!--
+  --> {{md}}[[Light survivor harness]]&lt;!--
+  --> {{md}}[[Long underwear top]]&lt;!--
+  --> {{md}}[[Long-sleeved shirt]]&lt;!--
+  --> {{md}}[[Mail carrier shirt]]&lt;!--
+  --> {{md}}[[MBR vest (ceramic plates)]]&lt;!--
+  --> {{md}}[[MBR vest (empty)]]&lt;!--
+  --> {{md}}[[MBR vest (hard plates)]]&lt;!--
+  --> {{md}}[[MBR vest (kevlar plates)]]&lt;!--
+  --> {{md}}[[MBR vest (steel plating)]]&lt;!--
+  --> {{md}}[[MBR vest (superalloy)]]&lt;!--
+  --> {{md}}[[Messenger bag]]&lt;!--
+  --> {{md}}[[Military rucksack]]&lt;!--
+  --> {{md}}[[Peacoat]]&lt;!--
+  --> {{md}}[[Polo shirt]]&lt;!--
+  --> {{md}}[[Rain coat]]&lt;!--
+  --> {{md}}[[Sheriff's shirt]]&lt;!--
+  --> {{md}}[[Sports bra]]&lt;!--
+  --> {{md}}[[Sports jersey]]&lt;!--
+  --> {{md}}[[Spring suit]]&lt;!--
+  --> {{md}}[[Survivor pack]]&lt;!--
+  --> {{md}}[[Survivor trenchcoat]]&lt;!--
+  --> {{md}}[[Sweater]]&lt;!--
+  --> {{md}}[[Sweatshirt]]&lt;!--
+  --> {{md}}[[T-shirt|T-shirt]]&lt;!--
+  --> {{md}}[[Tank top]]&lt;!--
+  --> {{md}}[[Tool belt]]&lt;!--
+  --> {{md}}[[Trenchcoat]]&lt;!--
+  --> {{md}}[[Turnout coat]]&lt;!--
+  --> {{md}}[[Under armor]]&lt;!--
+  --> {{md}}[[Undershirt]]&lt;!--
+  --> {{md}}[[Utility vest]]&lt;!--
+  --> {{md}}[[Winter coat]]&lt;!--
+  --> {{md}}[[Wool poncho]]&lt;!--
+  -->
+  
+|group4     = [[Body]]
+|list4      = &lt;!-- 
+  --> [[AEP suit]]&lt;!--
+  --> {{md}}[[ANBC suit]]&lt;!--
+  --> {{md}}[[Boiled leather armor]]&lt;!--
+  --> {{md}}[[Bondage suit]]&lt;!--
+  --> {{md}}[[Bone body armor]]&lt;!--
+  --> {{md}}[[Chitinous armor]]&lt;!--
+  --> {{md}}[[Cleansuit]]&lt;!--
+  --> {{md}}[[Clown suit]]&lt;!--
+  --> {{md}}[[Dress]]&lt;!--
+  --> {{md}}[[Entry suit]]&lt;!--
+  --> {{md}}[[Fishing waders]]&lt;!--
+  --> {{md}}[[Flame-resistant suit]]&lt;!--
+  --> {{md}}[[Fur body armor]]&lt;!--
+  --> {{md}}[[Hazmat suit]]&lt;!--
+  --> {{md}}[[Heavy survivor suit]]&lt;!--
+  --> {{md}}[[Jumpsuit]]&lt;!--
+  --> {{md}}[[Leather apron]]&lt;!--
+  --> {{md}}[[Leather body armor]]&lt;!--
+  --> {{md}}[[Leather touring suit]]&lt;!--
+  --> {{md}}[[Light plate mail]]&lt;!--
+  --> {{md}}[[Light survivor suit]]&lt;!--
+  --> {{md}}[[Plate mail]]&lt;!--
+  --> {{md}}[[Plated leather armor]]&lt;!--
+  --> {{md}}[[Scrap suit]]&lt;!--
+  --> {{md}}[[Subject suit]]&lt;!--
+  --> {{md}}[[Suit]]&lt;!--
+  --> {{md}}[[Sundress]]&lt;!--
+  --> {{md}}[[Survivor firesuit]]&lt;!--
+  --> {{md}}[[Survivor suit]]&lt;!--
+  --> {{md}}[[Survivor wetsuit]]&lt;!--
+  --> {{md}}[[SWAT armor]]&lt;!--
+  --> {{md}}[[Tuxedo]]&lt;!--
+  --> {{md}}[[Union suit]]&lt;!--
+  --> {{md}}[[Wedding dress]]&lt;!--
+  --> {{md}}[[Wetsuit]]&lt;!--
+  --> {{md}}[[Winter survivor suit]]&lt;!--
+  --> {{md}}[[Wolf suit]]&lt;!--
+  --> {{md}}[[XL jumpsuit]]&lt;!--
+  --> {{md}}[[O-yoroi]]&lt;!--
+  -->
+  
+|group5     = [[Hands]]
+|list5      = &lt;!-- 
+  --> [[Armored fingerless gloves]]&lt;!--
+  --> {{md}}[[Armored gauntlets]]&lt;!--
+  --> {{md}}[[Bone armor gauntlets]]&lt;!--
+  --> {{md}}[[Chitinous gauntlets]]&lt;!--
+  --> {{md}}[[Fingerless gloves]]&lt;!--
+  --> {{md}}[[Fire gauntlets]]&lt;!--
+  --> {{md}}[[Flame-resistant gloves]]&lt;!--
+  --> {{md}}[[Fur gloves]]&lt;!--
+  --> {{md}}[[Glove liners]]&lt;!--
+  --> {{md}}[[Hand wraps]]&lt;!--
+  --> {{md}}[[Heavy survivor gloves]]&lt;!--
+  --> {{md}}[[Leather armor gauntlets]]&lt;!--
+  --> {{md}}[[Leather gloves]]&lt;!--
+  --> {{md}}[[Light gloves]]&lt;!--
+  --> {{md}}[[Light survivor gloves]]&lt;!--
+  --> {{md}}[[Medical gloves]]&lt;!--
+  --> {{md}}[[Mittens]]&lt;!--
+  --> {{md}}[[Plate armor gauntlets]]&lt;!--
+  --> {{md}}[[Rubber gloves]]&lt;!--
+  --> {{md}}[[Survivor firegloves]]&lt;!--
+  --> {{md}}[[Survivor gloves]]&lt;!--
+  --> {{md}}[[Survivor wetsuit gloves]]&lt;!--
+  --> {{md}}[[Pair of swimming gloves]]&lt;!--
+  --> {{md}}[[Tactical gloves]]&lt;!--
+  --> {{md}}[[Winter gloves]]&lt;!--
+  --> {{md}}[[Winter survivor gloves]]&lt;!--
+  --> {{md}}[[Wool gloves]]&lt;!--
+  -->
+  
+|group6     = [[Arms]]
+|list6      = &lt;!-- 
+  --> [[2-by-arm guards]]&lt;!--
+  --> {{md}}[[Arm splint]]&lt;!--
+  --> {{md}}[[Arm warmers]]&lt;!--
+  --> {{md}}[[Chitin arm guards]]&lt;!--
+  --> {{md}}[[Elbow pads]]&lt;!--
+  --> {{md}}[[Hard arm guards]]&lt;!--
+  --> {{md}}[[Metal arm guards]]&lt;!--
+  --> {{md}}[[Soft arm sleeves]]&lt;!--
+  --> {{md}}[[Tentacle sleeves]]&lt;!--
+  -->
+  
+|group7     = [[Eyes]]
+|list7      = &lt;!-- 
+  --> [[Ballistic glasses]]&lt;!--
+  --> {{md}}[[Bifocal glasses]]&lt;!--
+  --> {{md}}[[Eyeglasses]]&lt;!--
+  --> {{md}}[[Light amp goggles]]&lt;!--
+  --> {{md}}[[Monocle]]&lt;!--
+  --> {{md}}[[Reading glasses]]&lt;!--
+  --> {{md}}[[Safety glasses]]&lt;!--
+  --> {{md}}[[Ski goggles]]&lt;!--
+  --> {{md}}[[Stylish sunglasses]]&lt;!--
+  --> {{md}}[[Sunglasses]]&lt;!--
+  --> {{md}}[[Swim goggles]]&lt;!--
+  --> {{md}}[[Welding goggles]]&lt;!--
+  -->
+  
+|group8     = [[Mouth]]
+|list8      = &lt;!-- 
+  --> [[Ballistic mask]]&lt;!--
+  --> {{md}}[[Bandana]]&lt;!--
+  --> {{md}}[[Dust mask]]&lt;!--
+  --> {{md}}[[Filter mask]]&lt;!--
+  --> {{md}}[[Firefighter PBA mask]]&lt;!--
+  --> {{md}}[[Fur scarf]]&lt;!--
+  --> {{md}}[[Gas mask]]&lt;!--
+  --> {{md}}[[Hockey mask]]&lt;!--
+  --> {{md}}[[Knit scarf]]&lt;!--
+  --> {{md}}[[Rebreather mask]]&lt;!--
+  --> {{md}}[[Scarf]]&lt;!--
+  --> {{md}}[[Survivor divemask]]&lt;!--
+  --> {{md}}[[Survivor firemask]]&lt;!--
+  --> {{md}}[[Survivor mask]]&lt;!--
+  --> {{md}}[[Winter survivor mask]]&lt;!--
+  --> {{md}}[[XL gas mask]]&lt;!--
+  --> {{md}}[[XL rebreather mask]]&lt;!--
+  --> {{md}}[[XL survivor divemask]]&lt;!--
+  --> {{md}}[[XL survivor firemask]]&lt;!--
+  --> {{md}}[[XL survivor mask]]&lt;!--
+  --> {{md}}[[XL winter survivor mask]]&lt;!--
+  -->
+  
+|group9     = [[Head]]
+|list9      = &lt;!-- 
+  --> [[Army helmet]]&lt;!--
+  --> {{md}}[[Balaclava]]&lt;!--
+  --> {{md}}[[Barbute helm]]&lt;!--
+  --> {{md}}[[Baseball cap]]&lt;!--
+  --> {{md}}[[Baseball helmet]]&lt;!--
+  --> {{md}}[[Beret]]&lt;!--
+  --> {{md}}[[Bike helmet]]&lt;!--
+  --> {{md}}[[Bondage mask]]&lt;!--
+  --> {{md}}[[Bone armor helmet]]&lt;!--
+  --> {{md}}[[Boonie hat]]&lt;!--
+  --> {{md}}[[Bowler hat]]&lt;!--
+  --> {{md}}[[Chitinous helmet]]&lt;!--
+  --> {{md}}[[Cotton hat]]&lt;!--
+  --> {{md}}[[Cowboy hat]]&lt;!--
+  --> {{md}}[[Firefighter helmet]]&lt;!--
+  --> {{md}}[[Flame-resistant hood]]&lt;!--
+  --> {{md}}[[Football helmet]]&lt;!--
+  --> {{md}}[[Fur hat]]&lt;!--
+  --> {{md}}[[Great helm]]&lt;!--
+  --> {{md}}[[Hard hat]]&lt;!--
+  --> {{md}}[[Heavy survivor helmet]]&lt;!--
+  --> {{md}}[[Helmet liner]]&lt;!--
+  --> {{md}}[[Hunting cap]]&lt;!--
+  --> {{md}}[[Kabuto]]&lt;!--
+  --> {{md}}[[Knit hat]]&lt;!--
+  --> {{md}}[[Leather armor helmet]]&lt;!--
+  --> {{md}}[[Light survivor hood]]&lt;!--
+  --> {{md}}[[Lobster helmet]]&lt;!--
+  --> {{md}}[[Mail carrier hat]]&lt;!--
+  --> {{md}}[[Motorcycle helmet]]&lt;!--
+  --> {{md}}[[Noise cancelling headgear]]&lt;!--
+  --> {{md}}[[Pair of ear plugs]]&lt;!--
+  --> {{md}}[[Pickelhaube]]&lt;!--
+  --> {{md}}[[Porkpie hat]]&lt;!--
+  --> {{md}}[[Pot helmet]]&lt;!--
+  --> {{md}}[[Rain hood]]&lt;!--
+  --> {{md}}[[Riot helmet]]&lt;!--
+  --> {{md}}[[Skid lid]]&lt;!--
+  --> {{md}}[[Survivor firehood]]&lt;!--
+  --> {{md}}[[Survivor helmet]]&lt;!--
+  --> {{md}}[[Survivor hood]]&lt;!--
+  --> {{md}}[[Survivor wetsuit hood]]&lt;!--
+  --> {{md}}[[Tactical full helmet]]&lt;!--
+  --> {{md}}[[Tactical helmet]]&lt;!--
+  --> {{md}}[[Ten-gallon hat]]&lt;!--
+  --> {{md}}[[Top hat]]&lt;!--
+  --> {{md}}[[Toque]]&lt;!--
+  --> {{md}}[[Wetsuit hood]]&lt;!--
+  --> {{md}}[[Winter survivor hood]]&lt;!--
+  --> {{md}}[[Wool beret]]&lt;!--
+  -->
+  
+|group10     = [[Storage]]
+|list10      = &lt;!-- 
+  --> [[Ankle holster]]&lt;!--
+  --> {{md}}[[Backpack]]&lt;!--
+  --> {{md}}[[Chest rig]]&lt;!--
+  --> {{md}}[[Dive bag]]&lt;!--
+  --> {{md}}[[Drop leg pouches]]&lt;!--
+  --> {{md}}[[Duffel bag]]&lt;!--
+  --> {{md}}[[Fanny pack]]&lt;!--
+  --> {{md}}[[Go bag]]&lt;!--
+  --> {{md}}[[Holster]]&lt;!--
+  --> {{md}}[[Large quiver]]&lt;!--
+  --> {{md}}[[Leather backpack]]&lt;!--
+  --> {{md}}[[Leather pouch]]&lt;!--
+  --> {{md}}[[Makeshift sling]]&lt;!--
+  --> {{md}}[[Messenger bag]]&lt;!--
+  --> {{md}}[[Military rucksack]]&lt;!--
+  --> {{md}}[[MOLLE pack]]&lt;!--
+  --> {{md}}[[Pouch]]&lt;!--
+  --> {{md}}[[Purse]]&lt;!--
+  --> {{md}}[[Quiver]]&lt;!--
+  --> {{md}}[[Runner pack]]&lt;!--
+  --> {{md}}[[Sheath]]&lt;!--
+  --> {{md}}[[Tactical dump pouch]]&lt;!--
+  --> {{md}}[[Tool belt]]&lt;!--
+  -->
+  
+|group11     = [[Decorative]]
+|list11      = &lt;!-- 
+  --> [[Deputy badge]]&lt;!--
+  --> {{md}}[[Diver's watch]]&lt;!--
+  --> {{md}}[[Fancy watch]]&lt;!--
+  --> {{md}}[[Fitness band]]&lt;!--
+  --> {{md}}[[Fur kitty collar]]&lt;!--
+  --> {{md}}[[Fuzzy cat ears]]&lt;!--
+  --> {{md}}[[Fuzzy cat tail]]&lt;!--
+  --> {{md}}[[Gold ring]]&lt;!--
+  --> {{md}}[[Gold watch]]&lt;!--
+  --> {{md}}[[Leather cat ears]]&lt;!--
+  --> {{md}}[[Leather cat tail]]&lt;!--
+  --> {{md}}[[Leather collar]]&lt;!--
+  --> {{md}}[[Radiation badge]]&lt;!--
+  --> {{md}}[[Silver necklace]]&lt;!--
+  --> {{md}}[[Skinny tie]]&lt;!--
+  --> {{md}}[[Small relic]]&lt;!--
+  --> {{md}}[[Wrist watch]]&lt;!--
+  -->
+  
+|group12     = [[Blankets]]
+|list12      = &lt;!-- 
+  -->[[American flag]]&lt;!--
+  --> {{md}}[[Blanket]]&lt;!--
+  --> {{md}}[[Emergency blanket]]&lt;!--
+  --> {{md}}[[Fur blanket]]&lt;!--
+  --> {{md}}[[Sleeping bag]]&lt;!--
+  --> {{md}}[[Fur sleeping bag]]&lt;!--
+  --> {{md}}[[Snuggie]]&lt;!--
+  -->
+  
+|group13     = [[Cloaks]]
+|list13      = &lt;!-- 
+  -->[[Cloak]]&lt;!--
+  --> {{md}}[[FB51 optical cloak]]&lt;!--
+  --> {{md}}[[Fur cloak]]&lt;!--
+  --> {{md}}[[Leather cloak]]&lt;!--
+  --> {{md}}[[Jedi cloak]]&lt;!--
+  -->
+|group14     = [[Power armor]]
+|list14      = &lt;!--
+  --> [[Basic power armor]]&lt;!--
+  --> {{md}}[[Basic power armor helmet]]&lt;!--
+  --> {{md}}[[Heavy power armor]]&lt;!--
+  --> {{md}}[[Heavy power armor helmet]]&lt;!--
+  --> {{md}}[[Light power armor]]&lt;!--
+  --> {{md}}[[Light power armor helmet]]&lt;!--
+  --> {{md}}[[Power armor hauling frame]]&lt;!--
+  --> {{md}}[[Salvaged power armor]]&lt;!--
+  --> {{md}}[[Salvaged power armor helmet]]&lt;!-- 
+  -->
+  
+  
+}}&lt;noinclude>
+[[Category:Navigational templates]]
+&lt;/noinclude>
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Template:Clothing" title="Template:Clothing">Template:Clothing</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Template:Clothing">http://cddawiki.chezzo.com/cdda_wiki/index.php/Template:Clothing</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Template%3AClothing&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Template%3AClothing&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-template" class="selected"><span><a href="/cdda_wiki/index.php/Template:Clothing" title="View the template [c]" accesskey="c">Template</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Template_talk:Clothing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Template:Clothing">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Template:Clothing&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Template:Clothing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Template:Clothing" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Template:Clothing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Template:Clothing&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":311});});</script>
+</body>
+</html>

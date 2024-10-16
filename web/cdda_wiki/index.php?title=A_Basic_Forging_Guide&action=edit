@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for A Basic Forging Guide - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"A_Basic_Forging_Guide","wgTitle":"A Basic Forging Guide","wgCurRevisionId":34726,"wgRevisionId":0,"wgArticleId":4321,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"A_Basic_Forging_Guide","wgRelevantArticleId":4321,"wgRequestId":"ZBeJP2EuuwNQ5W9KoVrk_AAAAGs","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-A_Basic_Forging_Guide rootpage-A_Basic_Forging_Guide skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for A Basic Forging Guide</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1"> '''Guide based on {{InlineVer|0.D}}.'''
+ Some of the information present here might not apply to future versions.
+
+{{ver|0.D}}
+
+Blacksmithing or forging items in CDDA is a useful way of creating high end equipment.  Forging requires a lot of things:
+* raw steel
+* a forge
+* forging tools
+* fuel
+* high Fabrication skill
+
+This guide will cover building a forge from scratch, and then mention various short cuts.
+
+But first, a quick overview of what you need:
+
+=== Raw Steel ===
+To make something out of steel, you need steel.  [[scrap metal|Scrap metal]], [[chunk of steel|chunks of steel]], [[lump of steel|lumps of steel]], [[sheet metal]], [[small sheet metal]], [[steel frame]]s, and [[heavy duty steel frame]]s are the primary sources of steel in the game.  You get them by wrecking or disassembling vehicles or metal furniture like stoves, refrigerators, ovens, lockers, or display racks.
+
+=== A Forge ===
+There are 3 types of forges:
+* The rock forge, fueled by charcoal
+* The portable electric forge, fueled by batteries
+* The vehicle mounted forge rig, fueled by vehicle power
+
+Expect the portable electric forge to go away sometime during {{inlineVer|0.D}} development towards {{inlineVer|0.E}}, and for the power requirements for the vehicle rig to go up substantially.
+
+=== Forging Tools ===
+Almost all forging tasks require an [[anvil]], a [[hammer]], [[metal tongs]], a [[metalworking chisel]], and a [[swage and die set]].  If you have a forge and sufficient fuel and raw steel, you can craft all of them.
+
+=== Fuel ===
+Rock forges require charcoal.  It is possible to scrounge small amounts of charcoal from some houses, but it's usually more efficient to make a charcoal kiln, cut down a few trees, and convert them to charcoal.
+
+Electric and vehicle mounted forges run off battery power.
+
+== Starting From Scratch ==
+It's possible, but tedious, to start with nothing and end up with a katana.  Doing so requires a couple of rounds of making the tools to make the tools.
+
+===Primitive Tools===
+The first tool you need is a knife.  If you don't have one, you can craft a primitive knife:
+1.  {{k|e}}xamine underbrush in a forest or swamp until you have [[Skills#Survival|Survival 1]].
+2.  Find and {{k|w}}ield a rock, then bash underbrush to produce [[withered plants]].  You'll need 24 or so.
+3.  Find a [[heavy stick]].
+4.  Use the craft menu ({{k|&amp;}}) to make a primitive knife.
+
+If you don't have a firestarting tool, you'll need one.
+1.  {{k|e}}xamine underbrush in a forest or swamp until you have [[Skills#Survival|Survival 2]].
+2.  Use the craft menu ({{k|&amp;}}) to make a fire drill.
+
+Next you need tools with Hammer 2, Wood Saw 1, Dig 2, and Wood Cut 2.  Ideally, you have a [[toolbox]], but if not:
+1.  Find some more rocks, {{k|w}}ield them, and bash a young tree into [[long stick]]s.
+2.  While you have your knife, stand over the long sticks and {{k|B}}utcher them into heavy sticks.
+3.  Craft a stone hammer, stone shovel, and stone adze.
+4.  {{k|e}}xamine underbrush in a forest or swamp until you have [[Skills#Survival|Survival 3]].
+5.  Find a wrecked helicopter or some other source of metal, secure some lumps or chunks of steel, and craft a makeshift axe.
+
+=== Making Charcoal ===
+Before this step, you'll need to [[A Skill Training Encyclopedia|grind]] your [[Skills#Fabrication|Fabrication]] up to 3 if its not there already.
+1.  Collect 40 rocks - really, go ahead and collect 120 rocks, you'll need them.  You can {{k|s}}mash small boulders with long sticks to turn the boulders into rocks.
+2.  Find a river or a forest tile with clay and {{k|a}}ctivate your shovel next to the clay tile, then collect some clay.
+3.  Using the {{k|*}} construction menu, construct a charcoal kiln out of 40 rocks.
+4.  {{k|a}}ctivate your makeshift axe next to a tree and chop it down, then repeat the process on each section of trunk and the stump to chop them into logs.
+5.  Carry the logs to the charcoal kiln, and {{k|D}}rop them into it until you have 12 logs in the kiln.  Then, with your fire starter in hand, {{k|e}}xamine the kiln and light it up.  Wait 6 hours, and you'll have a lot of charcoal - though not nearly as much as you need, so spend some time chopping down more trees and get more logs.
+
+You'll need at least 2500 charcoal, plus any charcoal needed to turn scrap metal or chunks of steel into lumps of steel.  3 full loads of charcoal from the kiln is probably enough, though.
+
+=== Clay Crucible ===
+Before this step, you'll need to [[A Skill Training Encyclopedia|grind]] your [[Skills#Fabrication|Fabrication]] up to 4 if its not there already.
+1.  Using the {{k|*}} construction menu, construct a clay kiln out of 40 rocks.
+2.  {{k|w}}xamine it and load it with some charcoal.
+3.  Using the clay you acquired earlier, make a clay crucible.
+
+=== The rock forge and forging tools ===
+Before this step, you'll need to [[A Skill Training Encyclopedia|grind]] your [[Skills#Fabrication|Fabrication]] up to 5 if its not there already.
+1.  Using the {{k|*}} construction menu, construct a rock forge out of 40 rocks.
+2.  Step back and applaud yourself!  You're almost done!
+3.  {{k|w}}xamine the rock forge and load it with some charcoal.
+4.  Get 2 heavy duty steel frames, 4 steel frames, 40 lumps or steel, or 160 chunks of steel.  If necessary, {{k|&amp;}} craft 40 lumps of steel out of scrap metal and chunks of steel.
+5.  {{k|&amp;}} craft an anvil.
+6.  {{k|&amp;}} craft metal tongs.
+7.  {{k|&amp;}} craft a hammer.
+8.  {{k|&amp;}} craft a metalworking chisel.
+9.  {{k|&amp;}} craft a swage and die set.
+
+You now have a fully equipped black smithy, and can craft anything else you need.  If you started out with nothing, you may want to craft a [[hatchet]] and [[hacksaw]] at this point - the hatchet replaces your stone knife and stone axe, and the hacksaw will make it easier to cut metal pieces away from wreckage.
+
+== Shortcuts in civilization ==
+It takes an enormous amount of work to set up a black smithy from scratch.  Survivors with access to civilization can shorten the effort by scavenging appropriately:
+
+=== Welders and torches ===
+A [[welder]] or oxy-[[acetylene torch]] can substitute for a forge at a couple of key points, such as when you want to craft an anvil.  You can find welder and acetylene torches in mechanics' garages or some houses, or you can make a [[makeshift welder]] out of [[heating element]]s that you scavenge from household ovens and toasters.
+
+=== Electric forges ===
+You can find electric forges in metalworking shops, some mechanics garages, and labs, or you can make one yourself.  You'll need a [[hammer]], [[hacksaw]], [[pliers]] or [[wrench]], and a [[soldering iron]] or welder.
+
+=== Crucibles ===
+You can sometimes find crucibles in the back of gun stores.  You can also make a metal crucible from a steel frame and sheet metal - those are rare commodities in a wilderness playthrough, but cheaper than cheap in a city with access to cars.
+
+=== Heavy Frame ===
+If you start with the lab scenario, and you can find a hacksaw, getting steel frames can be easily done by disassembling heavy machinery, and (rarely) conveyor belts, or steel doorframes if you got one open. These can then be used for the crucible or the anvil.
+
+=== Other tools ===
+Hammers are a common loot find in houses, as are repair kits that contain them.  Toolboxes are somewhat less common.  Tongs, chisels, and swage and die sets are rarely found through scavenging, but easy to craft.  You need Fabrication 5 to construct a rock forge, but only Fabrication 4 to craft a swage and die set if you found an electric forge somewhere else.
+
+{{Guides}}
+[[Category:Guides]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides">Template:Guides</a> (<a href="/cdda_wiki/index.php?title=Template:Guides&amp;action=edit" title="Template:Guides">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:K" title="Template:K">Template:K</a> (<a href="/cdda_wiki/index.php?title=Template:K&amp;action=edit" title="Template:K">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/A_Basic_Forging_Guide">http://cddawiki.chezzo.com/cdda_wiki/index.php/A_Basic_Forging_Guide</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=A+Basic+Forging+Guide&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=A+Basic+Forging+Guide&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/A_Basic_Forging_Guide" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:A_Basic_Forging_Guide&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/A_Basic_Forging_Guide">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/A_Basic_Forging_Guide" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/A_Basic_Forging_Guide" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169});});</script>
+</body>
+</html>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;feed=atom&amp;action=history</id>
+	<title>Alex Ackerwith - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;action=history"/>
+	<updated>2021-11-30T02:30:22Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.33.1</generator>
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;diff=36568&amp;oldid=prev</id>
+		<title>Jerimee: /* See Also */</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;diff=36568&amp;oldid=prev"/>
+		<updated>2020-08-31T22:28:25Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;span dir=&quot;auto&quot;&gt;&lt;span class=&quot;autocomment&quot;&gt;See Also&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 22:28, 31 August 2020&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l13&quot; &gt;Line 13:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 13:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== See Also ==&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== See Also ==&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt; &lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;* [[Rhode Island secession]]&lt;/ins&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:People]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[Category:People]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Jerimee</name></author>
+		
+	</entry>
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;diff=36452&amp;oldid=prev</id>
+		<title>Jerimee: Created page with &quot;;Name: Alex Ackerwith ;Pronoun:  ;Role/Title:Governor ;Associated Projects: ;Place From:Rhode Island ;Organizational Affiliation:  == News Reports ==  RHODE ISLAND DECLARES SE...&quot;</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Alex_Ackerwith&amp;diff=36452&amp;oldid=prev"/>
+		<updated>2020-08-28T21:28:53Z</updated>
+
+		<summary type="html">&lt;p&gt;Created page with &amp;quot;;Name: Alex Ackerwith ;Pronoun:  ;Role/Title:Governor ;Associated Projects: ;Place From:Rhode Island ;Organizational Affiliation:  == News Reports ==  RHODE ISLAND DECLARES SE...&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;;Name: Alex Ackerwith&lt;br /&gt;
+;Pronoun: &lt;br /&gt;
+;Role/Title:Governor&lt;br /&gt;
+;Associated Projects:&lt;br /&gt;
+;Place From:Rhode Island&lt;br /&gt;
+;Organizational Affiliation:&lt;br /&gt;
+&lt;br /&gt;
+== News Reports ==&lt;br /&gt;
+&lt;br /&gt;
+RHODE ISLAND DECLARES SECESSION! In the midst of a nation-wide disaster, the governor of Rhode Island has declared unilateral secession and war with the government of the US. &amp;quot;My loyal Rhodians are withdrawing to Aquidneck and Conanicut Islands,&amp;quot; said governor Alex Ackerwith in a public announcement this morning. &amp;quot;The US government has failed us. Any attempt by the US to intervene in our affairs will result in military action from the Narragansett Government. Frankly, I don't think they can get their shit together enough to challenge us.&amp;quot; (232 newspapers.json)&lt;br /&gt;
+&lt;br /&gt;
+== Lab Notes ==&lt;br /&gt;
+&lt;br /&gt;
+== See Also ==&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+[[Category:People]]&lt;/div&gt;</summary>
+		<author><name>Jerimee</name></author>
+		
+	</entry>
+</feed>

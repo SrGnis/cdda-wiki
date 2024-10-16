@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Options - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Options","wgTitle":"Options","wgCurRevisionId":39302,"wgRevisionId":39302,"wgArticleId":27,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Options"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Options","wgRelevantArticleId":27,"wgRequestId":"YOqHC-tavvT7NPQbWnNZFAAAAP4","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Options rootpage-Options skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Options</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Options can be accessed in-game by pressing <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">?</span> then <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">2</span> or in the "Help" menu at the start screen. If you delete the <i>options.txt</i> stored in "Data" the game will create a new file.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_Options"><span class="tocnumber">1</span> <span class="toctext">General Options</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Interface_Options"><span class="tocnumber">2</span> <span class="toctext">Interface Options</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Graphics_Options"><span class="tocnumber">3</span> <span class="toctext">Graphics Options</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Debug_Options"><span class="tocnumber">4</span> <span class="toctext">Debug Options</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#World_Defaults"><span class="tocnumber">5</span> <span class="toctext">World Defaults</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="General_Options">General Options</span></h2>
+<dl><dt>Default Character Name</dt>
+<dd>"Set a default character name that will be used instead of a random name on character creation."</dd>
+<dd>Default: [none]</dd>
+<dd>Valid:  standard characters</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto-Pickup</dt>
+<dd>"Enable item auto pickup. Change pickup rules with the Auto Pickup Manager in the Help Menu"</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Adjacent Tile Auto-Pickup</dt>
+<dd>"If true, will enable to pickup items one tile around to the player. You can assign No Auto Pickup zones with the Zones Manager 'Y' key for eg. your homebase."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Zero Volume Auto-Pickup</dt>
+<dd>"Auto pickup items with 0 Volume, and weight less than or equal to [option] * 50 grams. '0' disables this option"</dd>
+<dd>Default: 0</dd>
+<dd>Valid: Min: 0, Max: 20</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto-Pickup <a href="/cdda_wiki/index.php?title=Safemode" title="Safemode">Safemode</a></dt>
+<dd>"Auto pickup is disabled as long as you can see monsters nearby. This is affected by Safemode proximity distance."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Dangerous Pickups</dt>
+<dd>"If false, will cause player to drop new items that cause them to exceed the weight limit."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto-<a href="/cdda_wiki/index.php?title=Safemode" title="Safemode">Safemode</a></dt>
+<dd>"If true, auto-safemode will be on after starting a new game or loading."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto-<a href="/cdda_wiki/index.php?title=Safemode" title="Safemode">Safemode</a> Turn-on</dt>
+<dd>"Number of turns after safemode is re-enabled if no hostiles are in safemodeproximity distance."</dd>
+<dd>Default: 50</dd>
+<dd>Valid: Min: 1, Max: 100</dd></dl>
+<p><br />
+</p>
+<dl><dt><a href="/cdda_wiki/index.php?title=Safemode" title="Safemode">Safemode</a> on Load</dt>
+<dd>"If true, safemode will be on after starting a new game or loading."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt><a href="/cdda_wiki/index.php?title=Safemode" title="Safemode">Safemode</a> Distance</dt>
+<dd>"If safemode is enabled, distance to hostiles when safemode should show a warning. 0 = Max player viewdistance."</dd>
+<dd>Default&#160;: 0</dd>
+<dd>Valid: Min: 0, Max&#160;: 50</dd></dl>
+<p><br />
+</p>
+<dl><dt><a href="/cdda_wiki/index.php?title=Safemode" title="Safemode">Safemode</a> in Vehicle</dt>
+<dd>"When true, safemode will alert you of hostiles while you are driving a vehicle."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Autosave</dt>
+<dd>"If true, game will periodically save the map. Autosaves occur based on in-game turns or real-time minutes, whichever is larger."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Autosave Frequency</dt>
+<dd>"Number of game turns between autosaves"</dd>
+<dd>Default: 50</dd>
+<dd>Valid:  Min: 10, Max: 1000</dd></dl>
+<p><br />
+</p>
+<dl><dt>Realtime Autosave Frequency</dt>
+<dd>"Number of real time minutes between autosaves"</dd>
+<dd>Default: 5</dd>
+<dd>Valid: Min: 0, Max: 127</dd></dl>
+<p><br />
+</p>
+<dl><dt>Circular Distances</dt>
+<dd>"If true, the game will calculate range in a realistic way: light sources will be circles, diagonal movement will cover more ground and take longer. If disabled, everything is square: moving to the northwest corner of a building takes as long as moving to the north wall."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Drop Empty Containers</dt>
+<dd>"Set to drop empty containers after use. No: Don't drop any. - Watertight: All except watertight containers. - All: Drop all containers."</dd>
+<dd>Default: No</dd>
+<dd>Valid: No, Watertight, All</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto Map Notes</dt>
+<dd>"If true, automatically sets notes on places that have stairs that go up or down"</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Death Camera</dt>
+<dd>"Always: Always start deathcam. Ask: Query upon death. Never: Never show deathcam."</dd>
+<dd>Default: Ask</dd>
+<dd>Valid: Always, Ask, Never</dd></dl>
+<h2><span class="mw-headline" id="Interface_Options">Interface Options</span></h2>
+<dl><dt>User Language</dt>
+<dd>"Switch Language. Requires restart."</dd>
+<dd>Default: System Language</dd>
+<dd>Valid:  System Language, cs, en, fi, fr, de, it_IT, el, es_AR, es_ES, ja, ko, pl, pt_BR, pt_PT, ru, sr, vi, zh_CN, zh_TW</dd></dl>
+<p><br />
+</p>
+<dl><dt>Temperature Display</dt>
+<dd>"Switch between Celsius and Fahrenheit."</dd>
+<dd>Default: Fahrenheit</dd>
+<dd>Valid: Fahrenheit, Celsius</dd></dl>
+<p><br />
+</p>
+<dl><dt>Speed Display</dt>
+<dd>"Switch between km/h and mph."</dd>
+<dd>Default: mph</dd>
+<dd>Valid: mph, km/h</dd></dl>
+<p><br />
+</p>
+<dl><dt>Weight Display</dt>
+<dd>"Switch between kg and lbs."</dd>
+<dd>Default: lbs</dd>
+<dd>Valid: lbs, kg</dd></dl>
+<p><br />
+</p>
+<dl><dt>Clock Display</dt>
+<dd>"12h: AM/PM, eg: 7:31 AM - Military: 24h Military, eg: 0731 - 24h: Normal 24h, eg: 7:31"</dd>
+<dd>Default: 12h</dd>
+<dd>Valid: 12h, military, 24h</dd></dl>
+<p><br />
+</p>
+<dl><dt>Prompt Case Sensitivity</dt>
+<dd>"If true, Y/N prompts are case-sensitive and y and n are not accepted."</dd>
+<dd>Default: True</dd>
+<dd>ValidL True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Snap to Target</dt>
+<dd>"If true, automatically follow the crosshair when firing/throwing."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Save upon Sleeping</dt>
+<dd>"If true, game will ask to save the map before sleeping."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Query Before Disassembly</dt>
+<dd>"If true, will query before disassembling items."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Query upon Keybinding</dt>
+<dd>"If true, will query before removing a keybinding from a hotkey."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto-Close Advanced Inventory</dt>
+<dd>"If true, will close the advanced inventory when the move all items command is used."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Vehicle Armor color Changes</dt>
+<dd>"If true, vehicle parts will change color if they are armor plated"</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Driving View Offset</dt>
+<dd>"If true, view will automatically shift towards the driving direction"</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Vehicle Driving Indicator</dt>
+<dd>"If true, when controlling a vehicle, a white 'X' (in curses version) or a crosshair (in tiles version) at distance 10 from the center will display its current facing."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Sidebar HUD Position</dt>
+<dd>"Switch between sidebar on the left or on the right side. Requires restart."</dd>
+<dd>Default: Right</dd>
+<dd>Valid: Right, Left</dd></dl>
+<p><br />
+</p>
+<dl><dt>Sidebar Style</dt>
+<dd>"Switch between a narrower or wider sidebar. Requires restart."</dd>
+<dd>Default: Narrow</dd>
+<dd>Valid: Narrow, Wider</dd></dl>
+<p><br />
+</p>
+<dl><dt>Sidebar Log Flow</dt>
+<dd>"Where new sidebar log messages should show."</dd>
+<dd>Default: Bottom</dd>
+<dd>Valid: Bottom, Top</dd></dl>
+<p><br />
+</p>
+<dl><dt>Vehicle Menu Style</dt>
+<dd>"Switch between two different styles of vehicle interaction menu or combination of them."</dd>
+<dd>Default: Vertical</dd>
+<dd>Valid: Vertical, Horizontal, Hybrid</dd></dl>
+<p><br />
+</p>
+<dl><dt>Move View Offset</dt>
+<dd>"Move view by how many squares per keypress."</dd>
+<dd>Default: 1</dd>
+<dd>Valid: Min: 1, Max: 50</dd></dl>
+<p><br />
+</p>
+<dl><dt>Menu Scroll</dt>
+<dd>"If true, menus will start scrolling in the center of the list, and keep the list centered."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>List Item View Shift</dt>
+<dd>"Centered or to edge, shift the view toward the selected item if it is outside of your current viewport."</dd>
+<dd>Default: Centered</dd>
+<dd>Valid: Centered, False, Edge</dd></dl>
+<p><br />
+</p>
+<dl><dt>Auto Inventory Letter Assignment</dt>
+<dd>"If false, new inventory items will only get letters assigned if they had one before."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Item Health Bars</dt>
+<dd>"If true, show item health bars instead of reinforced, scratched etc. text."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Item Symbols</dt>
+<dd>"If true, show item symbols in inventory and pick up menu."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Graphics_Options">Graphics Options</span></h2>
+<dl><dt>Animations</dt>
+<dd>"If true, will display enabled animations."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Rain Animation</dt>
+<dd>"If true, will display weather animations."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Scrolling Text Animations</dt>
+<dd>"If true, will display scrolling combat text animations."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Animation Repeat Delay</dt>
+<dd>"The amount of time to pause between animation frames in ms."</dd>
+<dd>Default: 10</dd>
+<dd>Valid: Min: 0, Max: 100</dd></dl>
+<p><br />
+</p>
+<dl><dt>X Axis Terminal Size</dt>
+<dd>"Set the size of the terminal along the X axis. Requires restart."</dd>
+<dd>Default: 80</dd>
+<dd>Valid: Min 80, Max 242</dd></dl>
+<p><br />
+</p>
+<dl><dt>Y Axis Terminal Size</dt>
+<dd>"Set the size of the terminal along the Y axis. Requires restart."</dd>
+<dd>Default: 24</dd>
+<dd>Valid: Min: 24, Max: 24</dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Debug_Options">Debug Options</span></h2>
+<dl><dt>Initial Overworld Map Reveal</dt>
+<dd>"Determines the scope, which is known in the beginning of the game."</dd>
+<dd>Default: 15</dd>
+<dd>Valid: Min: 3, Max: 20</dd></dl>
+<p><br />
+</p>
+<dl><dt>Character Generation Initial Points</dt>
+<dd>"Initial points available on character generation."</dd>
+<dd>Default: 6</dd>
+<dd>Valid: Min: 6, Max: 1000</dd></dl>
+<p><br />
+</p>
+<dl><dt>Maximum Allowed Trait Points</dt>
+<dd>"Maximum trait points available for character generation."</dd>
+<dd>Default: 12</dd>
+<dd>Valid: Min: 0, Max: 1000</dd></dl>
+<p><br />
+</p>
+<dl><dt>Experience Scaling</dt>
+<dd>"Scales experience gained from practicing skills and reading books. 0.5 is half as fast as default, 2.0 is twice as fast, 0.0 disables skill training except for NPC training."</dd>
+<dd>Default: 1.00</dd>
+<dd>Valid: Min: 0.00, Max: 100.00</dd></dl>
+<p><br />
+</p>
+<dl><dt>Skill Rust</dt>
+<dd>"Set the level of skill rust. Vanilla: Vanilla Cataclysm - Capped: Capped at skill levels 2 - Int: Intelligence dependent - IntCap: Intelligence dependent, capped - Off: None at all."</dd>
+<dd>Default: Int</dd>
+<dd>Valid: Vanilla, Capped, Int, Intcap, Off</dd></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="World_Defaults">World Defaults</span></h2>
+<dl><dt><a href="/cdda_wiki/index.php?title=World_end_handling" title="World end handling">World end handling</a></dt>
+<dd>"Delete the world when the last active character dies."</dd>
+<dd>Default: No</dd>
+<dd>Valid: No, Yes, Query</dd></dl>
+<p><br />
+</p>
+<dl><dt>City Size</dt>
+<dd>"A number determining how large cities are. 0 disables cities and roads."</dd>
+<dd>Default: 4</dd>
+<dd>Valid: Min: 0, Max: 16</dd></dl>
+<p><br />
+</p>
+<dl><dt>City Spacing</dt>
+<dd>"A number determining how far apart cities are. Warning, small numbers lead to very slow mapgen."</dd>
+<dd>Default: 4</dd>
+<dd>Valid: Min: 0, Max: 8</dd></dl>
+<p><br />
+</p>
+<dl><dt>Monster Spawn Density</dt>
+<dd>"A scaling factor that determines density of monster spawns."</dd>
+<dd>Default: 1.00</dd>
+<dd>Valid: Min: 0.00, Max: 50.00</dd></dl>
+<p><br />
+</p>
+<dl><dt>Item Spawn Density</dt>
+<dd>"A scaling factor that determines density of item spawns."</dd>
+<dd>Default: 1.00</dd>
+<dd>Valid: Min: 0.01, Max: 10.00</dd></dl>
+<p><br />
+</p>
+<dl><dt>NPC Spawn Density</dt>
+<dd>"A scaling factor that determines density of dynamic NPC spawns."</dd>
+<dd>Default: 1.00</dd>
+<dd>Valid: Min: 0.00, Max: 100.00</dd></dl>
+<p><br />
+</p>
+<dl><dt>Monster Evolution Factor</dt>
+<dd>"A scaling factor that determines the time between monster upgrades. A higher number means slower evolution. Set to 0.00 to turn off monster upgrades."</dd>
+<dd>Default: 4.00</dd>
+<dd>Valid: Min: 4.00, Max: 100.00</dd></dl>
+<p><br />
+</p>
+<dl><dt>Region</dt>
+<dd>"(WIP feature) Determines terrain, shops, plants, and more."</dd>
+<dd>Default: Default</dd>
+<dd>Valid: Default</dd></dl>
+<p><br />
+</p>
+<dl><dt>Initial Time of Day</dt>
+<dd>"Initial starting time of day on character generation."</dd>
+<dd>Default: 8</dd>
+<dd>Valid: Min: 0, Max: 23</dd></dl>
+<p><br />
+</p>
+<dl><dt>Initial Season</dt>
+<dd>"Season the player starts in. Options other than the default delay spawn of the character, so food decay and monster spawns will have advanced."</dd>
+<dd>Default: Spring</dd>
+<dd>Valid: Spring, Summer, Autumn, Winter</dd></dl>
+<p><br />
+</p>
+<dl><dt>Season Length</dt>
+<dd>"Season length, in days."</dd>
+<dd>Default: 91</dd>
+<dd>Valid: Min: 14, Max: 127</dd></dl>
+<p><br />
+</p>
+<dl><dt>Construction Speed Scaling</dt>
+<dd>"Multiplies the speed of construction by the given percentage. '0' automatically scales construction to match the world's season length."</dd>
+<dd>Default: 100</dd>
+<dd>Valid: Min: 0, Max: 1000</dd></dl>
+<p><br />
+</p>
+<dl><dt>Eternal Seasons</dt>
+<dd>"Keep the initial season for ever."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Static Spawn</dt>
+<dd>"Spawn zombies at game start instead of during game. Must reset world directory after changing for it to take effect."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Wandering Hordes</dt>
+<dd>"Emulation of zombie hordes. Zombie spawn points wander around cities and may go to noise. Must reset world directory after changing for it to take effect."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Classic Zombies</dt>
+<dd>"Only spawn classic zombies and natural wildlife. Requires a reset of save folder to take effect. This disables certain buildings."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Surrounded Start</dt>
+<dd>"If true, spawn zombies at shelters. Makes the starting game a lot harder."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Static NPC</dt>
+<dd>"If true, the game will spawn static NPC at the start of the game, requires world reset."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Random NPC</dt>
+<dd>"If true, the game will randomly spawn NPC during gameplay."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Mutation Through Radiation</dt>
+<dd>"If true, radiation causes the player to mutate."</dd>
+<dd>Default: True</dd>
+<dd>Valid: True, False</dd></dl>
+<p><br />
+</p>
+<dl><dt>Experimental Z-Levels</dt>
+<dd>"If true, experimental z-level maps will be enabled. This feature is not finished yet; the minimap has problems with it, among other things."</dd>
+<dd>Default: False</dd>
+<dd>Valid: True, False</dd></dl>
+<!-- 
+NewPP limit report
+Cached time: 20210710210807
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.074 seconds
+Real time usage: 0.079 seconds
+Preprocessor visited node count: 33/1000000
+Preprocessor generated node count: 76/1000000
+Post‐expand include size: 512/2097152 bytes
+Template argument size: 2/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.881      1 -total
+ 93.92%    3.645      2 Template:K
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:27-0!canonical and timestamp 20210710210807 and revision id 39302
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Options&amp;oldid=39302">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Options&amp;oldid=39302</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:Options" title="Category:Options">Options</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Options" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Options" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Options" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Options&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Options">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Options&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Options&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Options" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Options" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Options&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Options&amp;oldid=39302" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Options&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 March 2021, at 17:58.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" class="mw-redirect" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.074","walltime":"0.079","ppvisitednodes":{"value":33,"limit":1000000},"ppgeneratednodes":{"value":76,"limit":1000000},"postexpandincludesize":{"value":512,"limit":2097152},"templateargumentsize":{"value":2,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    3.881      1 -total"," 93.92%    3.645      2 Template:K"]},"cachereport":{"timestamp":"20210710210807","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":244});});</script>
+</body>
+</html>

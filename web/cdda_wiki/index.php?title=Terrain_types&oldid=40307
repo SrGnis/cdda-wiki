@@ -1,0 +1,2791 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Terrain types - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Terrain_types","wgTitle":"Terrain types","wgCurRevisionId":40307,"wgRevisionId":40307,"wgArticleId":411,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unknown version","World"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Terrain_types","wgRelevantArticleId":411,"wgRequestId":"Yr4wAOCy38OQjcDBdTsAPgAAATU","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Terrain_types rootpage-Terrain_types skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/Category:Unknown_version" title="Category:Unknown version">Unknown version</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Terrain types</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 16:53, 13 April 2022 by <a href="/cdda_wiki/index.php/User:Valar55" class="mw-userlink" title="User:Valar55"><bdi>Valar55</bdi></a> <span class="mw-usertoollinks">(<a href="/cdda_wiki/index.php?title=User_talk:Valar55&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Valar55 (page does not exist)">talk</a> | <a href="/cdda_wiki/index.php/Special:Contributions/Valar55" class="mw-usertoollinks-contribs" title="Special:Contributions/Valar55">contribs</a>)</span></div><div id="mw-revision-nav">(<a href="/cdda_wiki/index.php?title=Terrain_types&amp;diff=prev&amp;oldid=40307" title="Terrain types">diff</a>) <a href="/cdda_wiki/index.php?title=Terrain_types&amp;direction=prev&amp;oldid=40307" title="Terrain types">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Each tile in the game world has a terrain type associated to it, which determines the movement cost to traverse it, if it can be moved through at all, if you can place items on it, etc.
+</p><p>In <a href="/cdda_wiki/index.php/0.B_(Brin)" title="0.B (Brin)">0.B (Brin)</a> of the game one notable change was introduced: the "bashable" tag is out, all destructible tiles can be bashed down now. Player's bashing ability is a sum of strength and wielded weapon's bashing damage.
+</p><p>Some of the furniture terrain types like <a href="/cdda_wiki/index.php/Book_case" title="Book case">book cases</a> or <a href="/cdda_wiki/index.php/Dresser" title="Dresser">dressers</a> can hold more than a normal floor tile,up to double the normal volume (normal is 4000).
+</p><p>There is a difference between a terrain type, and furniture, sadly at the moment this list combines both. Furniture can be built on certain terrain types. Several types of furniture, like <a href="/cdda_wiki/index.php/Locker" title="Locker">lockers</a>, can be <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">shift + G</span>rabbed, if you are strong enough. You can also do this with <a href="/cdda_wiki/index.php/Vehicles" title="Vehicles">Vehicles</a>.
+</p>
+<h2><span class="mw-headline" id="List_of_terrain_types">List of terrain types</span></h2>
+<p>Warning, this list is not complete.
+</p>
+<table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 0 0 1em 0;">
+
+<tbody><tr style="background-color:lightgreen">
+<th class="unsortable" style="background-color: white; border: 1px solid white">
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white">Name
+</th>
+<th style="border: 1px solid #aaa"><abbr title="Movement cost">MC</abbr>
+</th>
+<th class="unsortable" style="border: 1px solid #aaa"><abbr title="Trap activated by entering this tile">Trap</abbr>
+</th>
+<th class="unsortable" style="border: 1px solid #aaa">Flags
+</th>
+<th class="unsortable" style="border: 1px solid #aaa"><abbr title="Action performed by (e)xamining this terrain">Action</abbr>
+</th></tr>
+<tr id="nothing" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">&#160;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Nothing" title="Nothing">nothing</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="empty_space" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:black; border:1px black solid">&#160;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Empty_space" title="Empty space">empty space</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">tr_ledge
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="dirt" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Dirt" title="Dirt">dirt</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sand" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sand" title="Sand">sand</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="mound_of_dirt" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Mound_of_dirt" title="Mound of dirt">mound of dirt</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="shallow_pit" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Shallow_pit" title="Shallow pit">shallow pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">400
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="pit" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Pit" title="Pit">pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">500
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">tr_pit
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">pit
+</td></tr>
+<tr id="corpse_filled_pit" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Corpse_filled_pit" title="Corpse filled pit">corpse filled pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="spiked_pit" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Spiked_pit" title="Spiked pit">spiked pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">500
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">tr_spike_pit
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">pit_spiked
+</td></tr>
+<tr id="covered_spiked_pit" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Covered_spiked_pit" title="Covered spiked pit">covered spiked pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">pit_spiked_covered
+</td></tr>
+<tr id="rock_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Rock_floor" title="Rock floor">rock floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="pile_of_rubble" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Pile_of_rubble" title="Pile of rubble">pile of rubble</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent rough diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">rubble
+</td></tr>
+<tr id="pile_of_ash" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Pile_of_ash" title="Pile of ash">pile of ash</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">rubble
+</td></tr>
+<tr id="twisted_metal" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Twisted_metal" title="Twisted metal">twisted metal</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent rough sharp place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">wreckage
+</td></tr>
+<tr id="metal_wreckage" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_wreckage" title="Metal wreckage">metal wreckage</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent rough sharp place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">wreckage
+</td></tr>
+<tr id="grass" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Grass" title="Grass">grass</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="metal_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_floor" title="Metal floor">metal floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="pavement" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Pavement" title="Pavement">pavement</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="yellow_pavement" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Yellow_pavement" title="Yellow pavement">yellow pavement</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sidewalk" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sidewalk" title="Sidewalk">sidewalk</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Floor" title="Floor">floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent l_flammable supports_roof collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="dirt_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Dirt_floor" title="Dirt floor">dirt floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent diggable supports_roof collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hay" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:SaddleBrown; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Hay" title="Hay">hay</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent container flammable2 collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="metal_grate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_grate" title="Metal grate">metal grate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="slime_.28terrain.29" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Slime_(terrain)" title="Slime (terrain)">slime (terrain)</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">300
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent container flammable2 place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="walkway" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Walkway" title="Walkway">walkway</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="canvas_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Canvas_wall" title="Canvas wall">canvas wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">l_flammable bashable noitem tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="canvas_flap" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Canvas_flap" title="Canvas flap">canvas flap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">l_flammable bashable noitem tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="open_canvas_flap" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Open_canvas_flap" title="Open canvas flap">open canvas flap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="groundsheet" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Groundsheet" title="Groundsheet">groundsheet</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent tentable indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">tent
+</td></tr>
+<tr id="groundsheet" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Groundsheet" title="Groundsheet">groundsheet</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="animalskin_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Animalskin_wall" title="Animalskin wall">animalskin wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">l_flammable bashable noitem tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="animalskin_flap" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Animalskin_flap" title="Animalskin flap">animalskin flap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">l_flammable bashable noitem tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="animalskin_flap" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Animalskin_flap" title="Animalskin flap">animalskin flap</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="animalskin_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Animalskin_floor" title="Animalskin floor">animalskin floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent tentable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">shelter
+</td></tr>
+<tr id="floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Floor" title="Floor">floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent l_flammable supports_roof collapses
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Floor" title="Floor">floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent l_flammable supports_roof collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Floor" title="Floor">floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent l_flammable supports_roof collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="half-built_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Half-built_wall" title="Half-built wall">half-built wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="log_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Log_wall" title="Log wall">log wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="chipped_log_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Chipped_log_wall" title="Chipped log wall">chipped log wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="broken_log_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Broken_log_wall" title="Broken log wall">broken log wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="palisade_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Palisade_wall" title="Palisade wall">palisade wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="palisade_gate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Palisade_gate" title="Palisade gate">palisade gate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof door transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="half-built_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Half-built_wall" title="Half-built wall">half-built wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="wooden_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wooden_wall" title="Wooden wall">wooden wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="chipped_wood_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Chipped_wood_wall" title="Chipped wood wall">chipped wood wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="broken_wood_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Broken_wood_wall" title="Broken wood wall">broken wood wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">│</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wall" title="Wall">wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">─</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wall" title="Wall">wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="concrete_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">│</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Concrete_wall" title="Concrete wall">concrete wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="concrete_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">─</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Concrete_wall" title="Concrete wall">concrete wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="metal_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">│</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_wall" title="Metal wall">metal wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="metal_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">─</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_wall" title="Metal wall">metal wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="glass_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">│</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Glass_wall" title="Glass wall">glass wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="glass_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">─</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Glass_wall" title="Glass wall">glass wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="glass_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">│</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Glass_wall" title="Glass wall">glass wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable alarmed noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="glass_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">─</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Glass_wall" title="Glass wall">glass wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable alarmed noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="reinforced_glass" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">│</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Reinforced_glass" title="Reinforced glass">reinforced glass</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="reinforced_glass" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">─</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Reinforced_glass" title="Reinforced glass">reinforced glass</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="metal_bars" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_bars" title="Metal bars">metal bars</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_wood_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_wood_door" title="Closed wood door">closed wood door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable2 door noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="damaged_wood_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Damaged_wood_door" title="Damaged wood door">damaged wood door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="open_wood_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">\</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Open_wood_door" title="Open wood door">open wood door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable2 transparent supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_wood_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_wood_door" title="Closed wood door">closed wood door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_wood_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_wood_door" title="Closed wood door">closed wood door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable2 alarmed noitem noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="empty_door_frame" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Empty_door_frame" title="Empty door frame">empty door frame</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="locked_wire_gate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Locked_wire_gate" title="Locked wire gate">locked wire gate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_wooden_gate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_wooden_gate" title="Closed wooden gate">closed wooden gate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof bashable flammable2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="open_wooden_gate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Open_wooden_gate" title="Open wooden gate">open wooden gate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof bashable flammable2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_wire_gate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_wire_gate" title="Closed wire gate">closed wire gate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="open_wire_gate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Open_wire_gate" title="Open wire gate">open wire gate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="boarded_up_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Boarded_up_door" title="Boarded up door">boarded up door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_metal_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_metal_door" title="Closed metal door">closed metal door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_glass_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_glass_door" title="Closed glass door">closed glass door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable door noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="open_glass_door" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">\</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Open_glass_door" title="Open glass door">open glass door</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="bulletin_board" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Bulletin_board" title="Bulletin board">bulletin board</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="makeshift_portcullis" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Makeshift_portcullis" title="Makeshift portcullis">makeshift portcullis</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="steel_compactor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Steel_compactor" title="Steel compactor">steel compactor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">recycler
+</td></tr>
+<tr id="window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Window" title="Window">window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable noitem supports_roof deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="taped_window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Taped_window" title="Taped window">taped window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof reduce_scent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Window" title="Window">window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable noitem supports_roof deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="taped_window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Taped_window" title="Taped window">taped window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof reduce_scent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="open_window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">\</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Open_window" title="Open window">open window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="closed_curtains" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Closed_curtains" title="Closed curtains">closed curtains</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Window" title="Window">window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable alarmed noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="taped_window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">"</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Taped_window" title="Taped window">taped window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable alarmed noitem supports_roof reduce_scent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="empty_window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Empty_window" title="Empty window">empty window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">400
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="window_frame" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Window_frame" title="Window frame">window frame</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">400
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent sharp flammable noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="boarded_up_window" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Boarded_up_window" title="Boarded up window">boarded up window</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="solid_rock" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Solid_rock" title="Solid rock">solid rock</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="odd_fault" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Odd_fault" title="Odd fault">odd fault</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fault
+</td></tr>
+<tr id="paper_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Paper_wall" title="Paper wall">paper wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable flammable2 noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="tree" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">7</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Tree" title="Tree">tree</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="young_tree" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">1</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Young_tree" title="Young tree">young tree</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="apple_tree" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">7</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Apple_tree" title="Apple tree">apple tree</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable2 noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">tree_apple
+</td></tr>
+<tr id="underbrush" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Underbrush" title="Underbrush">underbrush</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">300
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable diggable container flammable2 thin_obstacle place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">shrub_wildveggies
+</td></tr>
+<tr id="shrub" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Shrub" title="Shrub">shrub</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">400
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable container flammable2 thin_obstacle place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="blueberry_bush" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Blueberry_bush" title="Blueberry bush">blueberry bush</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">400
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable container flammable2 thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">shrub_blueberry
+</td></tr>
+<tr id="tree_trunk" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">1</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Tree_trunk" title="Tree trunk">tree trunk</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="root_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Root_wall" title="Root wall">root wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem supports_roof
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="wax_wall" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wax_wall" title="Wax wall">wax wall</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable2 noitem supports_roof place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="wax_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wax_floor" title="Wax floor">wax floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent l_flammable indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="picket_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">&#124;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Picket_fence" title="Picket fence">picket fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable transparent diggable flammable2 noitem thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="picket_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">-</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Picket_fence" title="Picket fence">picket fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable transparent diggable flammable2 noitem thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="chain_link_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">&#124;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Chain_link_fence" title="Chain link fence">chain link fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">chainfence
+</td></tr>
+<tr id="chain_link_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">-</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Chain_link_fence" title="Chain link fence">chain link fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">chainfence
+</td></tr>
+<tr id="metal_post" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Metal_post" title="Metal post">metal post</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fence_post
+</td></tr>
+<tr id="fence_post" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Fence_post" title="Fence post">fence post</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fence_post
+</td></tr>
+<tr id="wire_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">$</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wire_fence" title="Wire fence">wire fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">remove_fence_wire
+</td></tr>
+<tr id="barbed_wire_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">$</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Barbed_wire_fence" title="Barbed wire fence">barbed wire fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent sharp thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">remove_fence_barbed
+</td></tr>
+<tr id="rope_fence" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">$</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Rope_fence" title="Rope fence">rope fence</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">remove_fence_rope
+</td></tr>
+<tr id="railing" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">&#124;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Railing" title="Railing">railing</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="railing" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">-</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Railing" title="Railing">railing</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem thin_obstacle
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="marloss_bush" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">1</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Marloss_bush" title="Marloss bush">marloss bush</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="fungal_bed" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Fungal_bed" title="Fungal bed">fungal bed</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 diggable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="fungal_tree" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">7</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Fungal_tree" title="Fungal tree">fungal tree</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable2 noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="shallow_water" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Shallow_water" title="Shallow water">shallow water</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent liquid swimmable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="deep_water" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Deep_water" title="Deep water">deep water</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent liquid swimmable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sewage" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sewage" title="Sewage">sewage</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">300
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent swimmable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="lava" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Lava" title="Lava">lava</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent liquid
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="bed_.28construction.29" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Bed_(construction)" title="Bed (construction)">bed (construction)</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent container flammable2 collapses deconstruct place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="toilet" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Toilet" title="Toilet">toilet</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable l_flammable collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="makeshift_bed" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Makeshift_bed" title="Makeshift bed">makeshift bed</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">250
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable flammable2 collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sink" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sink" title="Sink">sink</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable l_flammable collapses container place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="oven" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Oven" title="Oven">oven</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable l_flammable collapses container place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="wood_stove" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:red; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Wood_stove" title="Wood stove">wood stove</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent container fire_container suppress_smoke place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="fireplace" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:white; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Fireplace" title="Fireplace">fireplace</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent container fire_container suppress_smoke place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="bathtub" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Bathtub" title="Bathtub">bathtub</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable l_flammable collapses container place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="chair" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Chair" title="Chair">chair</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="arm_chair" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">H</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Arm_chair" title="Arm chair">arm chair</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sofa" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:red; border:1px black solid">H</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sofa" title="Sofa">sofa</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="cupboard" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Cupboard" title="Cupboard">cupboard</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses deconstruct container place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="trash_can" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Trash_can" title="Trash can">trash can</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses container place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="desk" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Desk" title="Desk">desk</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses deconstruct container place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sandbox" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sandbox" title="Sandbox">sandbox</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="slide" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Slide" title="Slide">slide</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="monkey_bars" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Monkey_bars" title="Monkey bars">monkey bars</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="backboard" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">7</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Backboard" title="Backboard">backboard</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="bench" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Bench" title="Bench">bench</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 collapses deconstruct
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="table" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Table" title="Table">table</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="pool_table" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Pool_table" title="Pool table">pool table</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="gasoline_pump" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Gasoline_pump" title="Gasoline pump">gasoline pump</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent explodes noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="smashed_gas_pump" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Smashed_gas_pump" title="Smashed gas pump">smashed gas pump</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="out-of-order_gasoline_pump" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Out-of-order_gasoline_pump" title="Out-of-order gasoline pump">out-of-order gasoline pump</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="missile" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Missile" title="Missile">missile</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">explodes noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="blown-out_missile" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Blown-out_missile" title="Blown-out missile">blown-out missile</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="counter" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Counter" title="Counter">counter</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">200
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable collapses deconstruct indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="radio_tower" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Radio_tower" title="Radio tower">radio tower</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="radio_controls" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Radio_controls" title="Radio controls">radio controls</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="broken_console" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Broken_console" title="Broken console">broken console</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="computer_console" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Computer_console" title="Computer console">computer console</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent console noitem collapses indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="mechanical_winch" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:red; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Mechanical_winch" title="Mechanical winch">mechanical winch</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem collapses
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">controls_gate
+</td></tr>
+<tr id="rope_and_pulley" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">&#124;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Rope_and_pulley" title="Rope and pulley">rope and pulley</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent noitem collapses
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">controls_gate
+</td></tr>
+<tr id="sewage_pipe" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">1</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sewage_pipe" title="Sewage pipe">sewage pipe</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sewage_pump" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sewage_pump" title="Sewage pump">sewage pump</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="centrifuge" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Centrifuge" title="Centrifuge">centrifuge</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="column" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">1</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Column" title="Column">column</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="refrigerator" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Refrigerator" title="Refrigerator">refrigerator</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">container collapses bashable place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="glass_door_fridge" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Glass_door_fridge" title="Glass door fridge">glass door fridge</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">collapses bashable place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="dresser" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Dresser" title="Dresser">dresser</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent container flammable collapses bashable deconstruct place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="locker" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Locker" title="Locker">locker</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">container collapses bashable place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="display_rack" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Display_rack" title="Display rack">display rack</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent l_flammable collapses bashable deconstruct place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="book_case" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Book_case" title="Book case">book case</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flammable collapses bashable deconstruct place_item indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="dumpster" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">{</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Dumpster" title="Dumpster">dumpster</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">container bashable place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="cloning_vat" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Cloning_vat" title="Cloning vat">cloning vat</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable sealed place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="crate" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:SaddleBrown; border:1px black solid">X</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Crate" title="Crate">crate</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent bashable container sealed flammable deconstruct place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="stairs_down" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">&gt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Stairs_down" title="Stairs down">stairs down</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_down place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="stairs_up" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Stairs_up" title="Stairs up">stairs up</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_up place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="manhole" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">&gt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Manhole" title="Manhole">manhole</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_down place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="ladder" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Ladder" title="Ladder">ladder</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_up place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="ladder" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">&gt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Ladder" title="Ladder">ladder</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_down place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="downward_slope" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">&gt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Downward_slope" title="Downward slope">downward slope</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_down place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="upward_slope" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Upward_slope" title="Upward slope">upward slope</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_up place_item
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="rope_leading_up" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Rope_leading_up" title="Rope leading up">rope leading up</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent goes_up
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="manhole_cover" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Manhole_cover" title="Manhole cover">manhole cover</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="card_reader" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Card_reader" title="Card reader">card reader</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">cardreader
+</td></tr>
+<tr id="card_reader" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Card_reader" title="Card reader">card reader</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">cardreader
+</td></tr>
+<tr id="broken_card_reader" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Broken_card_reader" title="Broken card reader">broken card reader</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="slot_machine" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Slot_machine" title="Slot machine">slot machine</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">bashable noitem indoors
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">slot_machine
+</td></tr>
+<tr id="elevator_controls" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Elevator_controls" title="Elevator controls">elevator controls</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">elevator
+</td></tr>
+<tr id="powerless_controls" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Powerless_controls" title="Powerless controls">powerless controls</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">noitem
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="elevator" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Elevator" title="Elevator">elevator</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="dark_pedestal" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Dark_pedestal" title="Dark pedestal">dark pedestal</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">pedestal_wyrm
+</td></tr>
+<tr id="light_pedestal" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">&amp;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Light_pedestal" title="Light pedestal">light pedestal</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">pedestal_temple
+</td></tr>
+<tr id="red_stone" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Red_stone" title="Red stone">red stone</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="green_stone" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Green_stone" title="Green stone">green stone</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="blue_stone" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Blue_stone" title="Blue stone">blue stone</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="red_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Red_floor" title="Red floor">red floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="green_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Green_floor" title="Green floor">green floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="blue_floor" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Blue_floor" title="Blue floor">blue floor</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="yellow_switch" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Yellow_switch" title="Yellow switch">yellow switch</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fswitch
+</td></tr>
+<tr id="cyan_switch" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Cyan_switch" title="Cyan switch">cyan switch</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fswitch
+</td></tr>
+<tr id="purple_switch" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Purple_switch" title="Purple switch">purple switch</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fswitch
+</td></tr>
+<tr id="checkered_switch" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">6</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Checkered_switch" title="Checkered switch">checkered switch</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">100
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">fswitch
+</td></tr>
+<tr id="mutated_poppy_flower" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">f</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Mutated_poppy_flower" title="Mutated poppy flower">mutated poppy flower</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">flower_poppy
+</td></tr>
+<tr id="sign" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">P</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="/cdda_wiki/index.php/Sign" title="Sign">sign</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">150
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">transparent flammable2 organic mountable
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">sign
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Flags">Flags</span></h3>
+<table>
+
+<tbody><tr style="vertical-align:top">
+<td width="50%">
+<ul><li><i>transparent</i> - Player &amp; monsters can see through/past it</li>
+<li><i>diggable</i> - Digging monsters, seeding monsters, digging w/ shovel, etc.</li>
+<li><i>tentable</i> - You can place a tent or shelter kit here</li>
+<li><i>indoors</i> - Has a roof over it, therefore blocks rain, sunlight, etc</li>
+<li><i>rough</i> - May hurt the player's feet</li>
+<li><i>sharp</i> - May do minor damage to players/monsters passing it</li>
+<li><i>place_item</i> - Valid terrain to put items on</li>
+<li><i>l_flammable</i> - Harder to light on fire, but still possible</li>
+<li><i>supports_roof</i> - Used as a boundary for roof construction. Can also knock down adjacent supports_roof and collapses tiles when destroyed</li>
+<li><i>collapses</i> - Tiles that have a roof over them (which can collapse)</li>
+<li><i>container</i> - Items on this square are hidden until looted by the player</li>
+<li><i>flammable2</i> - Burn to ash rather than rubble.</li>
+<li><i>bashable</i> - Player &amp; monsters can bash this &amp; make it the next in the list</li>
+<li><i>noitem</i> - Items "fall off" this space</li>
+<li><i>flammable</i> - May be lit on fire</li></ul>
+</td>
+<td width="50%">
+<ul><li><i>door</i> - Can be opened--used for NPC pathfinding.</li>
+<li><i>alarmed</i> - Sets off an alarm if smashed</li>
+<li><i>deconstruct</i> - It can be <a href="/cdda_wiki/index.php/Construction" title="Construction">deconstructed</a></li>
+<li><i>reduce_scent</i> - Reduces the scent leaked outside even further</li>
+<li><i>thin_obstacle</i> - Vehicles with low mass can crash against this terrain</li>
+<li><i>liquid</i> -  Blocks movement but isn't a wall, e.g. lava or water</li>
+<li><i>swimmable</i> - You (and monsters) swim here</li>
+<li><i>fire_container</i> - Fires placed here won't spread to other tiles</li>
+<li><i>suppress_smoke</i> - Fires placed here won't emit smoke</li>
+<li><i>explodes</i> - Explodes when on fire</li>
+<li><i>console</i> - It's a computer</li>
+<li><i>sealed</i> - Can't 'e' to retrieve items here</li>
+<li><i>goes_down</i> - Can be used to go down one Z level</li>
+<li><i>goes_up</i> - Can be used to go up one Z level</li></ul>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20220630205951
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.730 seconds
+Real time usage: 0.768 seconds
+Preprocessor visited node count: 15718/1000000
+Preprocessor generated node count: 21274/1000000
+Post‐expand include size: 166992/2097152 bytes
+Template argument size: 23014/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  538.126      1 -total
+ 87.30%  469.775    197 Template:Row/Terrain_types
+ 54.54%  293.519    197 Template:Igs
+ 40.29%  216.796    197 Template:Colors
+  4.28%   23.025      1 Template:Ver
+  0.94%    5.082      1 Template:InlineVer
+  0.77%    4.126      1 Template:K
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:411-0!canonical and timestamp 20220630205951 and revision id 40307
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Terrain_types&amp;oldid=40307">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Terrain_types&amp;oldid=40307</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:Unknown_version" title="Category:Unknown version">Unknown version</a></li><li><a href="/cdda_wiki/index.php/Category:World" title="Category:World">World</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Terrain+types&amp;returntoquery=oldid%3D40307" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Terrain+types&amp;returntoquery=oldid%3D40307" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Terrain_types" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Terrain_types&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Terrain_types">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Terrain_types&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Terrain_types&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Terrain_types" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Terrain_types" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Terrain_types&amp;oldid=40307&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Terrain_types&amp;oldid=40307" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Terrain_types&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 April 2022, at 16:53.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.730","walltime":"0.768","ppvisitednodes":{"value":15718,"limit":1000000},"ppgeneratednodes":{"value":21274,"limit":1000000},"postexpandincludesize":{"value":166992,"limit":2097152},"templateargumentsize":{"value":23014,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  538.126      1 -total"," 87.30%  469.775    197 Template:Row/Terrain_types"," 54.54%  293.519    197 Template:Igs"," 40.29%  216.796    197 Template:Colors","  4.28%   23.025      1 Template:Ver","  0.94%    5.082      1 Template:InlineVer","  0.77%    4.126      1 Template:K"]},"cachereport":{"timestamp":"20220630205951","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":191});});</script>
+</body>
+</html>

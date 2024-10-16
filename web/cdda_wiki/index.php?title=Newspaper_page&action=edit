@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Newspaper page - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Newspaper_page","wgTitle":"Newspaper page","wgCurRevisionId":39289,"wgRevisionId":0,"wgArticleId":3785,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Newspaper_page","wgRelevantArticleId":3785,"wgRequestId":"ZBV3alXJYU1Ue3IQ3TgNfgAAAC4","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Newspaper_page rootpage-Newspaper_page skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Newspaper page</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Newspaper_page" title="Newspaper page">Newspaper page</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{Spoilers|}}
+
+{{Infobox
+|bodystyle = width: 220px; background:#E6E6E6; color:#000000; border-color: #CFCFCF;
+|titlestyle = text-align:center;
+|labelstyle = color:#000000; background:#CFCFCF; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space:nowrap;
+|datastyle = background-color:#FFFFff; width: 70%;
+|headerstyle = color:#000000;
+
+|title={{igs|{{{glyph|}}}|{{{color|c_ltred}}}}} {{{name|{{PAGENAME}}}}}
+ 
+|header1=General
+
+|label1=[[Materials]]
+|data1={{lc:{{mtn|{{{mat1|paper}}}}}}} {{#if: {{{mat2|}}} | {{#switch:{{lc:{{{mat2}}}}}|mnull=|null=|#default=/ {{lc:{{mtn|{{{mat2}}}}}}}}} }}
+
+|label2=[[Volume]]
+|data2={{{volume|0}}}
+
+|label3=[[Weight]]
+|data3={{#ifexpr: (({{{weight|0}}}*0.001)) &lt; 1 | {{{weight|0.01}}} lbs | {{#expr:({{{weight|0}}}*0.001)}} kg }}
+
+|header8=Other
+
+|label8=Price
+|data8={{#expr:{{{price|0}}}/10}} $
+
+|label9=Use Action
+|data9={{{use_action|}}}
+
+|label10=Flags
+|data10={{#if:{{{flag1|}}}|&lt;abbr title="{{toolflags|{{{flag1}}}}}">{{uc:{{{flag1}}}}}&lt;/abbr>|}}{{#if:{{{flag2|}}}|, &lt;abbr title="{{toolflags|{{{flag2}}}}}">{{uc:{{{flag2}}}}}&lt;/abbr>|}}{{#if:{{{flag3|}}}|, &lt;abbr title="{{toolflags|{{{flag3}}}}}">{{uc:{{{flag3}}}}}&lt;/abbr>|}}{{#if:{{{flag4|}}}|, &lt;abbr title="{{toolflags|{{{flag4}}}}}">{{uc:{{{flag4}}}}}&lt;/abbr>|}}{{#if:{{{flag5|}}}|, &lt;abbr title="{{toolflags|{{{flag5}}}}}">{{uc:{{{flag5}}}}}&lt;/abbr>|}}{{#if:{{{flag6|}}}|, &lt;abbr title="{{toolflags|{{{flag6}}}}}">{{uc:{{{flag6}}}}}&lt;/abbr>|}}
+
+|header11=As a Melee Weapon
+
+|label11=Bash Dmg
+|data11={{{bash|0}}}
+
+|label12=Cut Dmg
+|data12={{{cut|0}}}
+
+|label13=To Hit
+|data13={{{tohit|&lt;nowiki>+0&lt;/nowiki>}}}
+
+|header14=Disassembling this item might yield 2 papers.
+
+|label14=Techniques
+|data14={{#if:{{{technique1|}}}|&lt;abbr title="{{techniquetodescr|{{{technique1}}}}}">{{uc:{{{technique1}}}}}&lt;/abbr>|}}{{#if:{{{technique2|}}}|, &lt;abbr title="{{techniquetodescr|{{{technique2}}}}}">{{uc:{{{technique2}}}}}&lt;/abbr>|}}{{#if:{{{technique3|}}}|, &lt;abbr title="{{techniquetodescr|{{{technique3}}}}}">{{uc:{{{technique3}}}}}&lt;/abbr>|}}{{#if:{{{technique4|}}}|, &lt;abbr title="{{techniquetodescr|{{{technique4}}}}}">{{uc:{{{technique4}}}}}&lt;/abbr>|}}{{#if:{{{technique5|}}}|, &lt;abbr title="{{techniquetodescr|{{{technique5}}}}}">{{uc:{{{technique5}}}}}&lt;/abbr>|}}{{#if:{{{technique6|}}}|, &lt;abbr title="{{techniquetodescr|{{{technique6}}}}}">{{uc:{{{technique6}}}}}&lt;/abbr>|}}
+
+}}
+
+These newspaper pages contain tips and lore. For a complete list of all possible variants of the newspaper pages see the [https://github.com/CleverRaven/Cataclysm-DDA/blob/master/data/json/snippets/newspapers.json newspapers.json] file and read the "newest_news", "many_years_old_news", "years_old_news", "one_year_old_news", "months_old_news", and "weeks_old_news" parts. Obviously, this contains spoilers. 
+
+There are also locations that have older newspaper articles. Explore to find more of them.
+
+[[Category:Snippets]][[Category:Items]]
+&lt;/noinclude>
+
+{{quote|FEELING BLUE?  Try "Greens" for Magazines!  Your local Supermarket!  Nothing cheers you up like a good magazine...  Unless it's JUNK FOOD!  Or why not buy an MP3 PLAYER or a GAME CONSOLE?  Chase those Blues away at GREENS Supermarket}}
+
+{{quote|PUBLIC SERVICE ANNOUNCEMENT: "Beware Acid Rain".  Several caustic chemicals in the air react with rain clouds to cause deadly acid rain.  No word yet on if this is a deliberate tactic or a side effect of the earlier bombings.}}
+
+{{quote|NEW WEAPON UNVEILED: Defense today lifted the lid on a long held secret project.  "We can't discuss the specifics, but it generates a burst of plasma which accurately follows a path of laser-heated air," according to a Pentagon official.}}
+
+{{quote|INVADERS ARE SUPER SOLDIERS: Further proof of mutation, in addition to strength, speed &amp; toughness, we now have reports of foreign enemies who are somehow firing lightning fields, spitting acid and reports of soldiers hidden in mobile clouds of smoke.}}
+
+{{quote|POPULAR MECHANICS: People say mechanics is boring.  We say, Prove them Wrong!  We've got all the articles that make it interesting to talk about, so you can "Make Mechanics Popular"!}}
+
+{{quote|...What do you know about surviving in the Wilderness?  If you can't make a snare you don't know TRAP!  Hunt down a copy of TRAPPERS' LIFE and learn about wildlife!...  And how to kill it.  This week, a CROSSBOW TRAP!}}
+
+{{quote|ZOMBIE DRUG: TRUTH OR FICTION?  A blogger suggests recent riots are a chemical attack by China.  "They are jealous of our cybernetic superiority, they teamed up with Haiti to put hoodoo drugs in the water making people zombies."}}
+
+{{quote|TIME TRAVEL: TRUTH OR FICTION?  Leaked federal documents describe the formation of a new federal agency XEDRA, to oversee "4th Axis technology" already in use.  Expert opinion suggests time-travel or parallel worlds.}}
+
+{{quote|GENERAL SAYS AVOID BUNKERS: Do not attempt to flee to your nearest military bunker!  Understaffed bunkers are defended by turrets, which shoot those without proper registration.  Please seek military personnel if you need access.}}
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Infobox" title="Template:Infobox">Template:Infobox</a> (<a href="/cdda_wiki/index.php?title=Template:Infobox&amp;action=edit" title="Template:Infobox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Materialtoname" title="Template:Materialtoname">Template:Materialtoname</a> (<a href="/cdda_wiki/index.php?title=Template:Materialtoname&amp;action=edit" title="Template:Materialtoname">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Mtn" class="mw-redirect" title="Template:Mtn">Template:Mtn</a> (<a href="/cdda_wiki/index.php?title=Template:Mtn&amp;action=edit" class="mw-redirect" title="Template:Mtn">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Quote" title="Template:Quote">Template:Quote</a> (<a href="/cdda_wiki/index.php?title=Template:Quote&amp;action=edit" title="Template:Quote">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoilers" title="Template:Spoilers">Template:Spoilers</a> (<a href="/cdda_wiki/index.php?title=Template:Spoilers&amp;action=edit" title="Template:Spoilers">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Newspaper_page" title="Newspaper page">Newspaper page</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Newspaper_page">http://cddawiki.chezzo.com/cdda_wiki/index.php/Newspaper_page</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Newspaper+page&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Newspaper+page&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Newspaper_page" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Newspaper_page" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Newspaper_page">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Newspaper_page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Newspaper_page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Newspaper_page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Newspaper_page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Newspaper_page&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":170});});</script>
+</body>
+</html>

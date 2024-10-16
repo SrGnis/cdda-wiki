@@ -1,0 +1,2169 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mythical Martial Arts (mod) - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mythical_Martial_Arts_(mod)","wgTitle":"Mythical Martial Arts (mod)","wgCurRevisionId":40836,"wgRevisionId":40836,"wgArticleId":10430,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.E (Ellison)","Mythical Martial Arts","Game Mechanics","CDDA Corrections Needed","Weapons"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mythical_Martial_Arts_(mod)","wgRelevantArticleId":10430,"wgRequestId":"ZeDQnx_UTu2lYMP1X9uOsgAAAKA","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mythical_Martial_Arts_mod rootpage-Mythical_Martial_Arts_mod skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mod" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #669966; background:#996699; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; display: inline-block; background:#FFFFff; padding-left:3px; padding-right:3px;"><a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Mod: </a><br /><abbr title="This page is about the following mod:"><a href="/cdda_wiki/index.php/Category:Mythical_Martial_Arts" title="Category:Mythical Martial Arts">Mythical Martial Arts</a></abbr></div></div></div>
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/0.E_(Ellison)" title="0.E (Ellison)">0.E (Ellison)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mythical Martial Arts (mod)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 14:01, 7 July 2023 by <a href="/cdda_wiki/index.php?title=User:Hymore246&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Hymore246 (page does not exist)"><bdi>Hymore246</bdi></a> <span class="mw-usertoollinks">(<a href="/cdda_wiki/index.php?title=User_talk:Hymore246&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Hymore246 (page does not exist)">talk</a> | <a href="/cdda_wiki/index.php/Special:Contributions/Hymore246" class="mw-usertoollinks-contribs" title="Special:Contributions/Hymore246">contribs</a>)</span></div><div id="mw-revision-nav">(<a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;diff=prev&amp;oldid=40836" title="Mythical Martial Arts (mod)">diff</a>) <a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;direction=prev&amp;oldid=40836" title="Mythical Martial Arts (mod)">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This <a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">mod</a>, added in <a href="/cdda_wiki/index.php/0.E_(Ellison)" title="0.E (Ellison)">0.E (Ellison)</a> contains additional <a href="/cdda_wiki/index.php/Martial_arts" title="Martial arts">martial arts</a> styles from fictional sources such as movies or video games.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Five_Deadly_Venoms"><span class="tocnumber">1</span> <span class="toctext">Five Deadly Venoms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Centipede_Kung_Fu"><span class="tocnumber">1.1</span> <span class="toctext">Centipede Kung Fu</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Lizard_Kung_Fu"><span class="tocnumber">1.2</span> <span class="toctext">Lizard Kung Fu</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Scorpion_Kung_Fu"><span class="tocnumber">1.3</span> <span class="toctext">Scorpion Kung Fu</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Toad_Kung_Fu"><span class="tocnumber">1.4</span> <span class="toctext">Toad Kung Fu</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Viper_Kung_Fu"><span class="tocnumber">1.5</span> <span class="toctext">Viper Kung Fu</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#The_Legend_of_Zelda"><span class="tocnumber">2</span> <span class="toctext">The Legend of Zelda</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Hylian_Swordsmanship"><span class="tocnumber">2.1</span> <span class="toctext">Hylian Swordsmanship</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Panzer_Kunst"><span class="tocnumber">3</span> <span class="toctext">Panzer Kunst</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Panzer_Kunst_2"><span class="tocnumber">3.1</span> <span class="toctext">Panzer Kunst</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Pokemon"><span class="tocnumber">4</span> <span class="toctext">Pokemon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Pokken"><span class="tocnumber">4.1</span> <span class="toctext">Pokken</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Jedi_Combat_Forms"><span class="tocnumber">5</span> <span class="toctext">Jedi Combat Forms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Shii-Cho"><span class="tocnumber">5.1</span> <span class="toctext">Shii-Cho</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Sublime_Way"><span class="tocnumber">6</span> <span class="toctext">Sublime Way</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Desert_Wind"><span class="tocnumber">6.1</span> <span class="toctext">Desert Wind</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Diamond_Mind"><span class="tocnumber">6.2</span> <span class="toctext">Diamond Mind</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Iron_Heart"><span class="tocnumber">6.3</span> <span class="toctext">Iron Heart</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Setting_Sun"><span class="tocnumber">6.4</span> <span class="toctext">Setting Sun</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Stone_Dragon"><span class="tocnumber">6.5</span> <span class="toctext">Stone Dragon</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Tiger_Claw"><span class="tocnumber">6.6</span> <span class="toctext">Tiger Claw</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Five_Deadly_Venoms">Five Deadly Venoms</span></h2>
+<p>These styles are based on the movie <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Five_Deadly_Venoms">Five Deadly Venoms</a>. 
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Centipede_Kung_Fu">Centipede Kung Fu</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">One of the Five Deadly Venoms, used by Zhang Yiaotian. Centipede Style uses an onslaught of rapid strikes.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=The_Centipede_Lu_Feng&amp;action=edit&amp;redlink=1" class="new" title="The Centipede Lu Feng (page does not exist)">The Centipede Lu Feng</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php/Venom_Mob_Protege" title="Venom Mob Protege">Venom Mob Protege</a>
+</p><p><b>Style Type:</b> Unarmed
+</p><p>&#160;
+</p><p><b>Centipede Kung Fu Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td>Unarmed 3
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Leg Block
+</td>
+<td>Unarmed 4
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with legs
+</td></tr>
+<tr>
+<td>Centipede's Venom
+</td>
+<td>Unarmed 1
+</td>
+<td>OnCrit
+</td>
+<td>2 turns
+</td>
+<td>+15% damage
+</td></tr>
+<tr>
+<td>Centipede's Frenzy
+</td>
+<td>Unarmed 5
+</td>
+<td>OnHit
+</td>
+<td>3 turns<br />Stacks 4 times
+</td>
+<td>-4 move cost
+</td></tr></tbody></table>
+<p><b>Centipede Kung Fu Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Centipede Strike
+</td>
+<td>Unarmed 0
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>Rapid
+</td></tr>
+<tr>
+<td>Centipede Bite
+</td>
+<td>Unarmed 2
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: PALM
+</td>
+<td>50% move cost, Knockown duration: 1
+</td></tr>
+<tr>
+<td>Grab Break
+</td>
+<td>Unarmed 3
+</td>
+<td>Grab Break
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Disarm
+</td>
+<td>Unarmed 4<br />Armed opponent
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>Disarms opponent
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Centipede Kung Fu is the fastest style hands down.</li>
+<li>This style works really well with attack <a href="/cdda_wiki/index.php/Mutations" class="mw-redirect" title="Mutations">mutations</a>.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Centipede lacks damage and with a Rapid technique as a main attack, you will find that armored opponents cannot be harmed at all by your attacks. This is true even with Centipede's Venom and Centipede Bite.</li></ul>
+<p><b>Strategies</b>
+</p><p>Attack repeated to overwhelm enemies with your speed. With a full stack of Centipede's Frenzy, your Rapid technique will only cost about 45 movement. You will be able to attack about 3 times per your opponent's single attack. However, armored enemies with give you trouble. Equipping the best unarmed weapon available and picking up some attack <a href="/cdda_wiki/index.php/Mutations" class="mw-redirect" title="Mutations">mutations</a> can help but you might have to change styles against heavily armored enemies.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Lizard_Kung_Fu">Lizard Kung Fu</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">One of the Five Deadly Venoms, used by Meng Tianxia. Lizard Style focuses on using walls to your advantage.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=The_Lizard_Kuo_Chui&amp;action=edit&amp;redlink=1" class="new" title="The Lizard Kuo Chui (page does not exist)">The Lizard Kuo Chui</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php/Venom_Mob_Protege" title="Venom Mob Protege">Venom Mob Protege</a>
+</p><p><b>Style Type:</b> Unarmed
+</p><p>&#160;
+</p><p><b>Lizard Kung Fu Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td>Unarmed 1
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Lizard's Cunning
+</td>
+<td>Unarmed 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+2 Accuracy, +2 Block effectiveness
+</td></tr>
+<tr>
+<td>Lizard's Haven
+</td>
+<td>Unarmed 0<br />Adjacent to a wall
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+2 Accuracy, +2 Block effectiveness, +2.0 Dodging skill
+</td></tr>
+<tr>
+<td>Lizard's Perch
+</td>
+<td>Unarmed 2<br />Adjacent to a wall
+</td>
+<td>OnPause
+</td>
+<td>4 turns
+</td>
+<td>+10% damage
+</td></tr>
+<tr>
+<td>Lizard's Leap
+</td>
+<td>Unarmed 3
+</td>
+<td>OnMove
+</td>
+<td>2 turns
+</td>
+<td>+2.0 Dodge skill, +10% critical hit chance
+</td></tr>
+<tr>
+<td>Lizard's Venom
+</td>
+<td>Unarmed 5
+</td>
+<td>OnPause
+</td>
+<td>4 turns
+</td>
+<td>+15% damage
+</td></tr></tbody></table>
+<p><b>NOTE:</b> A "wall" is any tile containing an impassible obstacle. Examples: Building wall, fully grown tree, the side of a car. Creatures and NPCs are NOT walls.
+</p><p><b>Lizard Kung Fu Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Lizard Strike
+</td>
+<td>Unarmed 0
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>Rapid
+</td></tr>
+<tr>
+<td>Lizard Tail
+</td>
+<td>Unarmed 1
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: FOOT
+</td>
+<td>+20% damage
+</td></tr>
+<tr>
+<td>Grab Break
+</td>
+<td>Unarmed 3
+</td>
+<td>Grab Break
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Lizard Wall Dive
+</td>
+<td>Unarmed 4<br />Adjacent to a wall
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: TORSO
+</td>
+<td>+150% damage. Knockback distance: 1, Knockback spread: 1. Stun duration: 2
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Lizard Kung Fu has some of the strongest and longest lasting buffs in the game.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Obviously, you need a wall to enable the strongest parts of Lizard Kung Fu.</li>
+<li>You can easily be trapped by a group of enemies while using this style. Be careful and know when to move to avoid danger.</li></ul>
+<p><b>Strategies</b>
+</p><p>Walls are a key part of Lizard Kung Fu. You can fight without them, but you will be at a disadvantage. Remember that anything impassible counts as a wall, including trees. Knowing when to move and give up your wall when you are in danger is important too.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Scorpion_Kung_Fu">Scorpion Kung Fu</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">One of the Five Deadly Venoms, used by Gao Ji. Scorpion Style is a mysterious art which uses pincer-like hands and a stinger kick.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=The_Scorpion_Sun_Chien&amp;action=edit&amp;redlink=1" class="new" title="The Scorpion Sun Chien (page does not exist)">The Scorpion Sun Chien</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php/Venom_Mob_Protege" title="Venom Mob Protege">Venom Mob Protege</a>
+</p><p><b>Style Type:</b> Unarmed
+</p><p>&#160;
+</p><p><b>Scorpion Kung Fu Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td>Unarmed 3
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Scorpion's Venom
+</td>
+<td>Unarmed 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+15% damage
+</td></tr>
+<tr>
+<td>Scorpion's Intimidation
+</td>
+<td>Unarmed 1
+</td>
+<td>OnAttack
+</td>
+<td>1 turn
+</td>
+<td>+1 Dodge attempt
+</td></tr>
+<tr>
+<td>Scorpion's Charge
+</td>
+<td>Unarmed 2
+</td>
+<td>OnMove
+</td>
+<td>2 turns<br />Stacks 2 times
+</td>
+<td>+10% damage, Enables Pincer Fist technique
+</td></tr></tbody></table>
+<p><b>Scorpion Kung Fu Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Roundhouse Kick
+</td>
+<td>Unarmed 0
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: FOOT
+</td>
+<td>+20% damage
+</td></tr>
+<tr>
+<td>Pincer Fist
+</td>
+<td>Unarmed 4<br />Scorpion's Charge buff
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>+25% Bash damage, Stun duration: 1
+</td></tr>
+<tr>
+<td>Stinger Kick
+</td>
+<td>Unarmed 5
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: FOOT
+</td>
+<td>+100% Bash damage, Knockback distance: 3, Stun duration: 2, Powerful Knockback
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Stinger Kick is extremely strong and in open areas, it can provide a way to fight again groups.</li>
+<li>Scorpion's Charge and Scorpion's Venom can provide a powerful boost to damage.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Scorpion Kung Fu is heavy on knockback which isn't always the best tactical option.</li>
+<li>The style is weak until Stinger Kick is learned at Unarmed 5.</li></ul>
+<p><b>Strategies</b>
+</p><p>Stinger Kick's Powerful Knockback and large knockback distance are a great way to handle groups if there is enough room. The time spent chasing down foes that have been knocked back isn't wasted because the movement will allow Scorpion's Charge to fully stack. Also, if you can knock one enemy into another, that enemy will <b>also</b> be stunned.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Toad_Kung_Fu">Toad Kung Fu</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">One of the Five Deadly Venoms, used by Liang Shen.  Masters of Toad Style can focus themselves to protect against all attacks.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=The_Toad_Lo_Mang&amp;action=edit&amp;redlink=1" class="new" title="The Toad Lo Mang (page does not exist)">The Toad Lo Mang</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php/Venom_Mob_Protege" title="Venom Mob Protege">Venom Mob Protege</a>
+</p><p><b>Style Type:</b> Unarmed
+</p><p>&#160;
+</p><p><b>Toad Kung Fu Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td>Unarmed 3
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Toad's Iron Skin
+</td>
+<td>Unarmed 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>Gain Bash, Cut, and Stab Armor equal to 100% of Strength
+</td></tr>
+<tr>
+<td>Iron Skin Dissipation
+</td>
+<td>Unarmed 0
+</td>
+<td>OnMove
+</td>
+<td>5 turns<br />Stacks 5 times
+</td>
+<td>Lose Bash, Cut, and Stab Armor equal to 20% of Strength
+</td></tr>
+<tr>
+<td>Toad's Venom
+</td>
+<td>Unarmed 2
+</td>
+<td>OnGetHit
+</td>
+<td>3 turns<br />Stacks 3 times
+</td>
+<td>+15% damage, Enables Toad's Tongue technique
+</td></tr>
+<tr>
+<td>Toad's Meditation
+</td>
+<td>Unarmed 5
+</td>
+<td>OnPause
+</td>
+<td>2 turns
+</td>
+<td>Gain Bash, Cut, and Stab Armor equal to 50% of Strength
+</td></tr></tbody></table>
+<p><b>Toad Kung Fu Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Toad Smack
+</td>
+<td>Unarmed 1
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>+25% Bash damage
+</td></tr>
+<tr>
+<td>Toad's Tongue
+</td>
+<td>Unarmed 3<br />Toad's Venom buff
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: HAND
+</td>
+<td>50% move cost, Knockdown duration: 2
+</td></tr>
+<tr>
+<td>Toad Slam
+</td>
+<td>Unarmed 4
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: ARM
+</td>
+<td>+40% Bash damage, Stun duration: 1
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Toad Kung Fu's armor will always protect you even if you fail to block an attack.</li>
+<li>Toad Smack and Toad Slam are very strong block counters.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>If you are extremely good at dodging, this style is made obsolete.</li>
+<li>Even with Toad's Mediation, moving around too much will make you weaker.</li></ul>
+<p><b>Strategies</b>
+</p><p>Toad Kung Fu works best if you do not move. Every turn you remain still or attack will let a stack of Iron Skin Dissipation wear off. If you get surprised and do not have time prepare your armor, pause to enable Toad's Meditation to compensate. Toad Kung Fu can even handle small groups but only if movement isn't involved. Lastly, while Toad Kung Fu has a lot of armor, don't neglect your actual armor. End game enemies can hit very hard.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Viper_Kung_Fu">Viper Kung Fu</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">A legacy of the Five Deadly Venoms, use by Qi Dong.  Viper Style (originally called Snake Style) is punishing to stunned opponents.  Stunning a foe with a Viper Bite will allow you to finish them off with the legendary Viper Strike.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=The_Viper_Wei_Pai&amp;action=edit&amp;redlink=1" class="new" title="The Viper Wei Pai (page does not exist)">The Viper Wei Pai</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php/Venom_Mob_Protege" title="Venom Mob Protege">Venom Mob Protege</a>
+</p><p><b>Style Type:</b> Unarmed
+</p><p>&#160;
+</p><p><b>Viper Kung Fu Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td>Unarmed 1
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Viper Patience
+</td>
+<td>Unarmed 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1 Accuracy, +5% critical hit chance, +1 Dodge attempt
+</td></tr>
+<tr>
+<td>Viper's Venom
+</td>
+<td>Unarmed 1
+</td>
+<td>OnDodge
+</td>
+<td>4 turn
+</td>
+<td>+15% damage
+</td></tr>
+<tr>
+<td>Viper's Rattle
+</td>
+<td>Unarmed 5
+</td>
+<td>OnHit
+</td>
+<td>3 turn<br />Stacks 2 times
+</td>
+<td>+1 Accuracy, +1.0 Dodging skill
+</td></tr></tbody></table>
+<p><b>Viper Kung Fu Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Viper Fist
+</td>
+<td>Unarmed 0
+</td>
+<td>Offensive  (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>Rapid
+</td></tr>
+<tr>
+<td>Viper Hiss
+</td>
+<td>Unarmed 1
+</td>
+<td>Miss Recovery
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Viper Bite
+</td>
+<td>Unarmed 2
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: HAND
+</td>
+<td>+25% bash damage, Stun duration: 2
+</td></tr>
+<tr>
+<td>Viper Tail
+</td>
+<td>Unarmed 3<br />Stunned target
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>+50% bash damage, Weighting: 2
+</td></tr>
+<tr>
+<td>Viper Strike
+</td>
+<td>Unarmed 4<br />Stunned opponent
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: HAND
+</td>
+<td>+100% Bash damage, Weighting: 2
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Has a longer than normal stun technique.</li>
+<li>Attacking a stunned target does a lot of damage.</li></ul>
+<p><br />
+<b>Disadvantages</b>
+</p>
+<ul><li>Lacks defense unless you are attacking.</li>
+<li>You need a crit to stun an enemy to start doing high damage.</li></ul>
+<p><b>Strategies</b>
+</p><p>The new Viper Kung Fu is the "bully" of the unarmed combat styles. It attacks repeatedly, looking for a critical hit to stun the target and then unleashing really strong techniques once they are helpless. Just make sure not to fight too many enemies at once or you could end up being the one beaten up.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="The_Legend_of_Zelda">The Legend of Zelda</span></h2>
+<p>This style is based off the fighting style of <a rel="nofollow" class="external text" href="https://zelda.gamepedia.com/Link">Link</a> from the <a rel="nofollow" class="external text" href="https://zelda.gamepedia.com/The_Legend_of_Zelda_(Series)">The Legend of Zelda</a>
+</p>
+<h3><span class="mw-headline" id="Hylian_Swordsmanship">Hylian Swordsmanship</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">This rare form of combat has been practiced by many legendary heroes throughout the ages. Hylian Swordsmanship favors mobility for offense and defense by using spins, jumps, and flips to confuse enemies and strike from unexpected angles.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Book_of_Mudora&amp;action=edit&amp;redlink=1" class="new" title="Book of Mudora (page does not exist)">Book of Mudora</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Hero%27s_Spirit&amp;action=edit&amp;redlink=1" class="new" title="Hero&#39;s Spirit (page does not exist)">Hero's Spirit</a>
+</p><p><b>Style Type:</b> Weapon
+</p><p><b>Style Weapon Categories:</b> Swords, Great Swords, Hylian Improvised Weapons, Hylian Master Sword
+</p><p>&#160;
+</p><p><b>Hylian Swordsmanship Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Combat Acrobat
+</td>
+<td>Melee 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1.0 Dodging skill
+</td></tr>
+<tr>
+<td>Dash Attack
+</td>
+<td>Melee 1
+</td>
+<td>OnMove
+</td>
+<td>1 turn<br />Stacks 3 times
+</td>
+<td>+10% damage
+</td></tr>
+<tr>
+<td>Flurry Rush
+</td>
+<td>Melee 2
+</td>
+<td>OnDodge
+</td>
+<td>1 turn
+</td>
+<td>-25% move cost
+</td></tr>
+<tr>
+<td>Intermediate Combat Acrobat
+</td>
+<td>Melee 3
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1.0 Dodging skill
+</td></tr>
+<tr>
+<td>Charge Up
+</td>
+<td>Melee 4
+</td>
+<td>OnPause
+</td>
+<td>1 turn
+</td>
+<td>+25% damage
+</td></tr>
+<tr>
+<td>Master Combat Acrobat
+</td>
+<td>Melee 5
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1.0 Dodging skill
+</td></tr></tbody></table>
+<p><b>Hylian Swordsmanship Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Spin Attack (Spin)
+</td>
+<td>Melee 4<br />Charge Up buff
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Spin
+</td></tr>
+<tr>
+<td>Spin Attack (Wide)
+</td>
+<td>Melee 4<br />Charge Up buff
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Wide
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Spin Attack is a powerful AOE technique.</li>
+<li>Has the highest passive Dodging skill bonus of any style.</li>
+<li>Flurry Rush can let you attack with Spin Attack twice in certain situations.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Spin Attack is the only technique in the style.</li>
+<li>Using Spin Attack is slow due to needing Charge Up.</li>
+<li>It isn't possible to use Dash Attack and Charge Up / Spin Attack at the same time.</li></ul>
+<p><b>Strategies</b>
+</p><p>The core of Hylian Swordsmanship is its Dodging related buffs and the Spin Attack. Combat Acrobat sets up Flurry Rush easily, allowing rapid fire attacks for a short time. Properly timing a pause to gain Charge Up leads to heavy damage to a group of enemies with Spin Attack. If you can combine Flurry Rush with Charge Up, you can potential Spin Attack more than once for even more damage.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Panzer_Kunst">Panzer Kunst</span></h2>
+<p>This style is from the movie and manga series <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Alita:_Battle_Angel">Alita: Battle Angel</a>
+</p>
+<h3><span class="mw-headline" id="Panzer_Kunst_2">Panzer Kunst</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">Panzer Kunst or "Armor Art" is a futuristic martial art devised for cyborgs fighting in zero-gravity environments.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=The_Life_and_Work_of_Tiger_Sauer&amp;action=edit&amp;redlink=1" class="new" title="The Life and Work of Tiger Sauer (page does not exist)">The Life and Work of Tiger Sauer</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=K%C3%BCnstler&amp;action=edit&amp;redlink=1" class="new" title="Künstler (page does not exist)">Künstler</a>
+</p><p><b>Style Type:</b> Hybrid
+</p><p><b>Style Weapon Categories:</b> Bionic Weaponry
+</p><p>&#160;
+</p><p><b>Panzer Kunst Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td><a href="/cdda_wiki/index.php/Arms_Alloy_Plating" title="Arms Alloy Plating">Arms Alloy Plating CBM</a>
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Leg Block
+</td>
+<td><a href="/cdda_wiki/index.php/Legs_Alloy_Plating" title="Legs Alloy Plating">Legs Alloy Plating CBM</a>
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with legs
+</td></tr>
+<tr>
+<td>Schatten Folgen
+</td>
+<td>Unarmed 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1 Dodge attempts, Dodging skill increase by 15% of Perception
+</td></tr>
+<tr>
+<td>Einzug Rüstunge
+</td>
+<td>Unarmed 3
+</td>
+<td>OnDodge
+</td>
+<td>3 turns
+</td>
+<td>+1 Accuracy, gain Armor Penetration equal to 50% of Perception
+</td></tr>
+<tr>
+<td>Seinerweisen
+</td>
+<td>Unarmed 3
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>Gain Electric damage equal to 50% of Perception
+</td></tr></tbody></table>
+<p><b>Panzer Kunst Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Kumai Sharinraku
+</td>
+<td>Unarmed 0
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: FOOT
+</td>
+<td>+20% Bash damage
+</td></tr>
+<tr>
+<td>Geschoss Schlag
+</td>
+<td>Unarmed 2
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: HAND
+</td>
+<td>Rapid
+</td></tr>
+<tr>
+<td>Grab Break
+</td>
+<td>Unarmed 3
+</td>
+<td>Grab Break
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Herzschlag
+</td>
+<td>Unarmed 5<br />Unarmed or Melee
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: HAND
+</td>
+<td>120% move cost, +50% Bash damage, Gain Armor Penetration equal to 100% of Perception, Stun duration: 1
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>The Electric damage and Armor penetration are really useful against late game enemies.</li>
+<li>Perception boosts both your defense and offense.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>The increased move cost of Herzschlag can be problematic against groups.</li>
+<li>You need CBMs to use Arm Block and Leg Block.</li></ul>
+<p><b>Strategies</b>
+</p><p>Panzer Kunst is well rounded style that favors Perception builds. The biggest draw is the Electric damage is added to all your attacks with Seinerweisen. No enemy in the game resists Electric damage so you will 'always' be doing some damage to armored foes, even if it is small. Aside from searching for CBMs to get the most out of the style, Panzer Kunst should work well enough in most situation without any extra requirements.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Pokemon">Pokemon</span></h2>
+<p>This style was created from the moves and abilities from the anime and manga series <a rel="nofollow" class="external text" href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon">Pokemon</a>
+</p>
+<h3><span class="mw-headline" id="Pokken">Pokken</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">Pokken or "Pocket Fist" is a strange martial art developed from the famous Pokemon video game series. Somehow, a group of dedicated fans managed to combine the moves used by various pokemon with multiple existing martial arts such as boxing and karate. Amazingly, it actually works. Some might even say it's a super effective way to fight.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Pocket_Monster_Encyclopedia&amp;action=edit&amp;redlink=1" class="new" title="Pocket Monster Encyclopedia (page does not exist)">Pocket Monster Encyclopedia</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Pokken_Master&amp;action=edit&amp;redlink=1" class="new" title="Pokken Master (page does not exist)">Pokken Master</a>
+</p><p><b>Style Type:</b> Unarmed
+</p><p>&#160;
+</p><p><b>Pokken Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Sniper
+</td>
+<td>Unarmed 0
+</td>
+<td>OnCrit
+</td>
+<td>1 turn
+</td>
+<td>+50% damage
+</td></tr>
+<tr>
+<td>Stamina
+</td>
+<td>Unarmed 3
+</td>
+<td>OnGetHit
+</td>
+<td>3 turns
+</td>
+<td>Gain bonus bash, cut, stab armor equal to 50% of Strength
+</td></tr>
+<tr>
+<td>Moxie
+</td>
+<td>Unarmed 5
+</td>
+<td>OnKill
+</td>
+<td>3 turns
+</td>
+<td>+50% damage, Persists when switching styles
+</td></tr></tbody></table>
+<p><b>Pokken Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Smart Strike
+</td>
+<td>Unarmed 0
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Random: HAND, FOOT, HEAD, TORSO, HEAD
+</td>
+<td>+5 Accuracy
+</td></tr>
+<tr>
+<td>Low Sweep
+</td>
+<td>Unarmed 1
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Random: FOOT, LOWER_LEG
+</td>
+<td>Knockdown duration: 1
+</td></tr>
+<tr>
+<td>Darkest Lariat
+</td>
+<td>Unarmed 2
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: ARM
+</td>
+<td>Gain bonus bash, cut, stab armor penetration equal to 150% of Strength
+</td></tr>
+<tr>
+<td>Mega Kick
+</td>
+<td>Unarmed 4
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: FOOT
+</td>
+<td>+100% bash damage
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Moxie makes it very easy to repeatedly kill weaker enemies.</li>
+<li>Techniques are all crit ok and do not have any restrictions.</li>
+<li>Mega Kick is one of the strongest techniques in the game.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>You need an unarmed weapon to block to get the most out of Stamina.</li>
+<li>Aside from Mega Kick, most of the damage comes from situational buffs.</li>
+<li>Lacks group defense.</li></ul>
+<p><b>Strategies</b>
+</p><p>Kill weaker enemies first to gain Moxie then use the damage boost to deal high damage to stronger enemies. Don't ignore stronger enemies for too long though since Pokken doesn't have much in the way for protection.
+</p>
+<h2><span class="mw-headline" id="Jedi_Combat_Forms">Jedi Combat Forms</span></h2>
+<p><a rel="nofollow" class="external text" href="https://starwars.fandom.com/wiki/Lightsaber_combat/Legends">Martial Arts</a> used by the Jedi of the Star Wars series.
+</p>
+<h3><span class="mw-headline" id="Shii-Cho">Shii-Cho</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">Shii-Cho, "The way of the Sarlacc" was the first form lightsaber combat developed by the Jedi during their transition from metal weaponry to lightsabers. Shii-Cho is regarded as a training form that all Jedi learn to understand the basics of armed combat. Shii-Cho excels at fighting against groups but lacks the offensive power of the other lightsaber forms..</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Jedi_Holocron:_Form_I&amp;action=edit&amp;redlink=1" class="new" title="Jedi Holocron: Form I (page does not exist)">Jedi Holocron: Form I</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Jedi_Training&amp;action=edit&amp;redlink=1" class="new" title="Jedi Training (page does not exist)">Jedi Training</a>
+</p><p><b>Style Type:</b> Weapon
+</p><p><b>Style Weapon Categories:</b> Short Swords, Swords, Long Swords
+</p><p>&#160;
+</p><p><b>Shii-Cho Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Determination
+</td>
+<td>Melee 0
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1 Accuracy, reduce block damage by 100% of Strength
+</td></tr>
+<tr>
+<td>Apprentice Training
+</td>
+<td>Melee 1
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1 Block attempt, +1 block effectiveness
+</td></tr>
+<tr>
+<td>Knight Training
+</td>
+<td>Melee 3
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1 Block attempt, +1 block effectiveness
+</td></tr>
+<tr>
+<td>Flowing Water
+</td>
+<td>Melee 4
+</td>
+<td>OnBlock
+</td>
+<td>1 turn
+</td>
+<td>-25% move cost
+</td></tr>
+<tr>
+<td>Master Training
+</td>
+<td>Melee 5
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+1 Block attempt, +1 block effectiveness
+</td></tr></tbody></table>
+<p><b>Shii-Cho Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Disarming Slash
+</td>
+<td>Melee 2
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Disarms
+</td></tr>
+<tr>
+<td>Sarlacc Sweep
+</td>
+<td>Melee 5
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Wide
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>High bonus block attempts of any weapon style.</li>
+<li>Strong defense against groups.</li>
+<li>Flowing Water and Sarlacc Sweep are extremely useful at thinning out groups.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Lacks crowd control outside of the situational Disarming Slash.</li>
+<li>No damage boosting techniques or buff.</li>
+<li>Less effective against single targets than groups.</li></ul>
+<p><b>Strategies</b>
+</p><p>Shii-Cho is a defensive style. It takes a longer time to kill enemies but it can handle group combat better than most styles. In group combat, you can let your Training buffs and Flowering Water handle weaker enemies while you focus on the most dangerous opponent. 
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Sublime_Way">Sublime Way</span></h2>
+<p>These styles are based on the martial arts from the Advanced Dungeons and Dragon supplement book: <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Tome_of_Battle:_The_Book_of_Nine_Swords">Tome of Battle: Book of Nine Swords</a>. 
+</p>
+<h3><span class="mw-headline" id="Desert_Wind">Desert Wind</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">Desert Wind maneuvers focus on quick movement and swirling, flaming strikes. The complex spinning and slashing of the curved blade incorporated into many Desert Wind maneuvers are in fact carefully honed gestures that evoke the power of fire, if performed correctly and with the proper focus.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Scorching_Sirocco&amp;action=edit&amp;redlink=1" class="new" title="Scorching Sirocco (page does not exist)">Scorching Sirocco</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Martial_Adept&amp;action=edit&amp;redlink=1" class="new" title="Martial Adept (page does not exist)">Martial Adept</a>
+</p><p><b>Style Type:</b> Weapon
+</p><p><b>Style Weapon Categories:</b> Maces, Spears
+</p><p>&#160;
+</p><p><b>Desert Wind Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Wind Stride
+</td>
+<td>Melee 3
+</td>
+<td>OnMove
+</td>
+<td>1 turn
+</td>
+<td>+1.0 Dodging skill
+</td></tr>
+<tr>
+<td>Zephyr Dance
+</td>
+<td>Melee 3
+</td>
+<td>OnDodge
+</td>
+<td>1 turn
+</td>
+<td>+1.0 Dodging skill, +1 Dodge attempt
+</td></tr></tbody></table>
+<p><b>Desert Wind Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Burning Blade
+</td>
+<td>Melee 0
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>+3 heat damage
+</td></tr>
+<tr>
+<td>Inferno Blade
+</td>
+<td>Melee 1
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>+7 heat damage
+</td></tr>
+<tr>
+<td>Flashing Sun
+</td>
+<td>Melee 2
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Wide
+</td></tr>
+<tr>
+<td>Firesnake
+</td>
+<td>Melee 4
+</td>
+<td>Offensive (Normal or Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Impale, +7 heat damage
+</td></tr>
+<tr>
+<td>Ring of Fire
+</td>
+<td>Melee 5
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Spin, +10 heat damage
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Desert Wind has the most AOE technique of any style in the game.</li>
+<li>Heat damage can bypass enemy armor.</li>
+<li>Both Wind Stride and Zephyr Dance aid in positioning AOE techniques.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Lacks crowd control and a grab break. Group combat can turn sour really fast.</li>
+<li>Even though spears are style weapons, you cannot execute techniques with reach attacks. You must attack in melee.</li></ul>
+<p><b>Strategies</b>
+</p><p>Make the most of the style's AOE techniques. The buffs exist to make it easier to maneuver around enemies to set up favorable attack positions and to escape before things get too dangerous. Because the style is focused on offense, it is better to target weaker targets first to thin the numbers if it looks like you are going to be overwhelmed. The addition of heat damage will ensure that you will always be doing some damage to whatever you attack.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Diamond_Mind">Diamond Mind</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">True quickness lies in the mind, not the body. A student of the Diamond Mind discipline seeks to hone his perceptions and discipline his thoughts so that he can act in slivers of time so narrow that others cannot even perceive them. A corollary of this speed of thought and action is the concept of the mind as the battleground. An enemy defeated in his mind must inevitably.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Perfect_Clarity_of_Mind_and_Body&amp;action=edit&amp;redlink=1" class="new" title="Perfect Clarity of Mind and Body (page does not exist)">Perfect Clarity of Mind and Body</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Martial_Adept&amp;action=edit&amp;redlink=1" class="new" title="Martial Adept (page does not exist)">Martial Adept</a>
+</p><p><b>Style Type:</b> Weapon
+</p><p><b>Style Weapon Categories:</b> Fencing Weaponry, Spears, Japanese Swords
+</p><p>&#160;
+</p><p><b>Diamond Mind Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Pearl of Black Doubt
+</td>
+<td>Melee 0
+</td>
+<td>OnDodge
+</td>
+<td>1 turn<br />Stacks 2 times
+</td>
+<td>+1 Dodge attempts
+</td></tr>
+<tr>
+<td>Mind over Body
+</td>
+<td>Melee 2
+</td>
+<td>OnGetHit
+</td>
+<td>1 turn<br />Stacks 2 times
+</td>
+<td>+1 Accuracy
+</td></tr>
+<tr>
+<td>Stance of Alacrity
+</td>
+<td>Melee 3
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>-15% move cost
+</td></tr>
+<tr>
+<td>Quicksilver Motion
+</td>
+<td>Melee 5
+</td>
+<td>OnPause
+</td>
+<td>1 turn
+</td>
+<td>+50 Speed
+</td></tr></tbody></table>
+<p><b>Diamond Mind Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Insightful Strike
+</td>
+<td>Melee 1
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Bonus stab damage equal to 50% of Intelligence
+</td></tr>
+<tr>
+<td>Greater Insightful Strike
+</td>
+<td>Melee 4
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Bonus stab damage equal to 100% of Intelligence
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Techniques do a lot of damage if you have high Intelligence.</li>
+<li>Can attack multiple times in a row with Quicksilver Motion.</li>
+<li>Mind over Body can offset the accuracy penalty from damage.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>With Pearl of Black Doubt, your success at handling groups relies on how well you dodge. Not dodging often means you do not get bonus dodge attempts.</li>
+<li>It is faster to attack repeatedly than it is to use Quicksilver Motion in the middle of combat.</li>
+<li>Diamond Mind favors stab damage which can be a problem against some enemies.</li></ul>
+<p><b>Strategies</b>
+</p><p>Diamond Mind's attacks are faster than normal and will do good damage if you have high Intelligence. By waiting with Quicksilver Motion, you can attack repeatedly for high damage once an enemy enters your range. Pearl of Black Doubt and Mind over Body can buy you time against small groups.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Iron_Heart">Iron Heart</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">Absolute mastery of the sword is the goal of the Iron Heart discipline. Through unending practice and study, the Iron Heart adept achieves superhuman skill with her weapons. Iron Heart maneuvers are demonstrations of uncanny martial skill—weaving patterns of steel that dizzy, confuse, and ultimately kill with no recourse.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Stormguard_Warrior&amp;action=edit&amp;redlink=1" class="new" title="Stormguard Warrior (page does not exist)">Stormguard Warrior</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Martial_Adept&amp;action=edit&amp;redlink=1" class="new" title="Martial Adept (page does not exist)">Martial Adept</a>
+</p><p><b>Style Type:</b> Weapon
+</p><p><b>Style Weapon Categories:</b> Swords, Great Axes
+</p><p>&#160;
+</p><p><b>Iron Heart Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Disarming Strike
+</td>
+<td>Melee 0<br />Armed opponent
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Disarm
+</td></tr>
+<tr>
+<td>Lightning Recovery
+</td>
+<td>Melee 1
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Feint
+</td></tr>
+<tr>
+<td>Dazing Strike
+</td>
+<td>Melee 2
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>+40% damage, Stun duration 1
+</td></tr>
+<tr>
+<td>Steel Wind
+</td>
+<td>Melee 3
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>Wide
+</td></tr>
+<tr>
+<td>Scything Blade
+</td>
+<td>Melee 4
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>+25% damage, Wide
+</td></tr>
+<tr>
+<td>Finishing Move
+</td>
+<td>Melee 5<br />Stunned target
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON
+</td>
+<td>+25% damage, Stun duration: 1
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Has a good collection support techniques.</li>
+<li>Finishing Move does very high damage.</li>
+<li>Strong offense against groups.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Small choice of weapons.</li>
+<li>Relies on critical hits for extra damage.</li>
+<li>No buffs at all.</li></ul>
+<p><b>Strategies</b>
+</p><p>Iron Heart is straight forward to play. Keep attacking to stun an enemy and then kill with Finishing Move while positioning yourself for AOEs if possible. Just because of your lack of buffs, you have no other support aside from your attacks.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Setting_Sun">Setting Sun</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">The Setting Sun discipline teaches its initiates to turn their opponents' strength against them With a quick shift in stance and carefully aimed attack, a Setting Sun warrior sends a charging enemy tumbling in a new direction.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Distant_Horizon&amp;action=edit&amp;redlink=1" class="new" title="Distant Horizon (page does not exist)">Distant Horizon</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Martial_Adept&amp;action=edit&amp;redlink=1" class="new" title="Martial Adept (page does not exist)">Martial Adept</a>
+</p><p><b>Style Type:</b> Hybrid
+</p><p><b>Style Weapon Categories:</b> Quarterstaves, Short Swords, Swords
+</p><p>&#160;
+</p><p><b>Setting Sun Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Arm Block
+</td>
+<td>Unarmed 0
+</td>
+<td>
+</td>
+<td>-
+</td>
+<td>Able to block melee attacks with arms
+</td></tr>
+<tr>
+<td>Feigned Opening
+</td>
+<td>Unarmed 1<br />Melee or Unarmed
+</td>
+<td>OnGetHit
+</td>
+<td>1 turn
+</td>
+<td>+20 Speed
+</td></tr>
+<tr>
+<td>Baffling Defense
+</td>
+<td>Unarmed 2<br />Melee or Unarmed
+</td>
+<td>OnPause
+</td>
+<td>1 turn
+</td>
+<td>Dodging skill increased by 20% of Intelligence
+</td></tr></tbody></table>
+<p><b>Setting Sun Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Mighty Throw
+</td>
+<td>Unarmed 3<br />Melee or Unarmed<br />Baffling Defense buff
+</td>
+<td>Offensive (Normal)
+</td>
+<td>Priority: THROW
+</td>
+<td>+33% damage, Knockback distance: 2, Knockdown duration: 2
+</td></tr>
+<tr>
+<td>Hydra Slaying Strike
+</td>
+<td>Unarmed 4<br />Melee or Unarmed
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: WEAPON, HAND
+</td>
+<td>Stun duration: 1
+</td></tr>
+<tr>
+<td>Ballista Throw
+</td>
+<td>Unarmed 5<br />Melee or Unarmed<br />Baffling Defense buff
+</td>
+<td>Offensive (Crit)
+</td>
+<td>Priority: THROW
+</td>
+<td>+50% damage, Powerful Knockback, Knockback distance: 4, Knockdown duration: 2, weighting: 2
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Mighty Throw and Ballista Throw are useful for breaking up groups.</li>
+<li>Blocking an attack gets you a counterattack and a speed boost.</li>
+<li>All attack do very good damage with a weapon.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Requires Unarmed skill to progress through the style.</li>
+<li>Throws require a turn to prepare before they can be used.</li>
+<li>Baffling Defense doesn't work well with Fool's Strike and Feigned Opening.</li></ul>
+<p><b>Strategies</b>
+</p><p>The key to using Setting Sun is to know when to use the throws. The throws work best as a way to break up small groups of enemies to keep them from ganging up on you. Use the time an enemy is knockdown to kill a closer enemy before they are able to re-engage you in melee.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Stone_Dragon">Stone Dragon</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">The Stone Dragon discipline for focuses on strength, power, and toughness.  Its teachings grant a martial adept the ability to splinter steel with a single, focused blow.  Stone Dragon's defensive abilities focus on tapping into the enduring power of stone to turn aside attacks.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Shards_of_Granite&amp;action=edit&amp;redlink=1" class="new" title="Shards of Granite (page does not exist)">Shards of Granite</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Martial_Adept&amp;action=edit&amp;redlink=1" class="new" title="Martial Adept (page does not exist)">Martial Adept</a>
+</p><p><b>Style Type:</b> Hybrid
+</p><p><b>Style Weapon Categories:</b> Maces, Great Swords, Great Axes
+</p><p>&#160;
+</p><p><b>Stone Dragon Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Stonefoot Stance
+</td>
+<td>Melee 0<br />Melee or Unarmed
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+2 Bash, Cut and Stab Armor, +10% bonus damage
+</td></tr>
+<tr>
+<td>Cracked Stone
+</td>
+<td>Melee 0<br />Melee or Unarmed
+</td>
+<td>OnMove
+</td>
+<td>1 turn
+</td>
+<td>-
+</td></tr>
+<tr>
+<td>Shattered Stone
+</td>
+<td>Melee 0<br />Melee or Unarmed<br />Cracked Stone buff
+</td>
+<td>OnMove
+</td>
+<td>1 turn
+</td>
+<td>-2 Bash, Cut and Stab Armor, -10% bonus damage
+</td></tr>
+<tr>
+<td>Stone Bones
+</td>
+<td>Melee 2<br />Melee or Unarmed
+</td>
+<td>OnHit
+</td>
+<td>3 turns<br />Stacks 5 times
+</td>
+<td>+1 Bash, Cut and Stab Armor
+</td></tr>
+<tr>
+<td>Iron Bones
+</td>
+<td>Melee 4<br />Melee or Unarmed
+</td>
+<td>OnCrit
+</td>
+<td>1 turn
+</td>
+<td>+5 Bash, Cut and Stab Armor
+</td></tr></tbody></table>
+<p><b>Stone Dragon Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Mountain Hammer
+</td>
+<td>Melee 1<br />Melee or Unarmed
+</td>
+<td>Offensive (Normal &amp; Crit)
+</td>
+<td>Priority: WEAPON, HAND
+</td>
+<td>Gain bash, cut, stab armor equal to 50% of Strength
+</td></tr>
+<tr>
+<td>Irresistible Mountain Strike
+</td>
+<td>Melee 3<br />Melee or Unarmed
+</td>
+<td>Offensive  (Crit)
+</td>
+<td>Priority: WEAPON, HAND
+</td>
+<td>Stun duration: 1
+</td></tr>
+<tr>
+<td>Colossus Strike
+</td>
+<td>Melee 5<br />Melee or Unarmed
+</td>
+<td>Offensive  (Crit)
+</td>
+<td>Priority: WEAPON, HAND
+</td>
+<td>+30% damage, Knockback distance: 2, Knockdown duration: 1
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Gains armor by attacking.</li>
+<li>Can deal very high damage in the right situation.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>Landing a Colossus Strike will lead to you losing your armor if you follow them.</li>
+<li>All armor buffs have a limitation you must work around.</li>
+<li>Limited style weapon list.</li></ul>
+<p><b>Strategies</b>
+</p><p>Stone Dragon is aggressive. It uses its offense to generate armor allowing it to "tank" hits from enemies. It can dish out some high damage too with the right weapon. But it can also lose its advantage if it moves too much. Knowing when to move and when to stay still is an important part of playing Stone Dragon.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Tiger_Claw">Tiger Claw</span></h3>
+<div style="font-family:Georgia, Georgia, serif; line-height:1.5em; margin-left:2em; margin-right:2em; padding: 0.5em 2em 2em 0.5em; text-align:justify;"><span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8220;</span>&#160;<span style="color:grey; font-size:1.2em; vertical-align:middle;">The Tiger Claw discipline embraces a feral rage that lurks within the heart of its initiates. In battle, such warriors growl like wild animals, attack with a furry similar to that of a barbarian, and rely on overwhelming, vicious assaults to defeat their enemies.</span>&#160;<span style="font-size:2.5em; color:lightgrey; vertical-align:sub; font-weight:bold;">&#8221;</span></div>
+<p><b>Martial Arts Manual:</b> <a href="/cdda_wiki/index.php?title=Reaping_Talons&amp;action=edit&amp;redlink=1" class="new" title="Reaping Talons (page does not exist)">Reaping Talons</a>
+</p><p><b>Starting Trait:</b> <a href="/cdda_wiki/index.php?title=Martial_Adept&amp;action=edit&amp;redlink=1" class="new" title="Martial Adept (page does not exist)">Martial Adept</a>
+</p><p><b>Style Type:</b> Hybrid
+</p><p><b>Style Weapon Categories:</b> Claws, Hand Axes, Great Axes
+</p><p>&#160;
+</p><p><b>Tiger Claw Buffs</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Buff Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 8%">Buff Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 10%">Duration
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Pounching Charge
+</td>
+<td>Melee 1<br />Melee or Unarmed
+</td>
+<td>OnMove
+</td>
+<td>1 turn
+</td>
+<td>+2 Accuracy +10% damage
+</td></tr>
+<tr>
+<td>Cornered Predator
+</td>
+<td>Melee 2<br />Melee or Unarmed
+</td>
+<td>OnGetHit
+</td>
+<td>1 turn
+</td>
+<td>-20% move cost
+</td></tr>
+<tr>
+<td>Prey on the Weak
+</td>
+<td>Melee 3<br />Melee or Unarmed
+</td>
+<td>OnKill
+</td>
+<td>1 turn<br />Stacks 2 times
+</td>
+<td>+30 Speed
+</td></tr>
+<tr>
+<td>Blood in the Water
+</td>
+<td>Melee 4<br />Melee or Unarmed
+</td>
+<td>OnCrit
+</td>
+<td>1 turn<br />Stacks 2 times
+</td>
+<td>+1 Accuracy, +15% bonus damage
+</td></tr>
+<tr>
+<td>Improved Critical
+</td>
+<td>Melee 5<br />Melee or Unarmed
+</td>
+<td>Static
+</td>
+<td>-
+</td>
+<td>+5% critical hit chance
+</td></tr></tbody></table>
+<p><b>Tiger Claw Techniques</b>
+</p>
+<table class="wikitable sortable" style="width:100%; margin: 1em auto 1em auto;">
+<tbody><tr>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Technique Name
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 15%">Requirements
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Technique Type
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white; width: 18%">Attack Vectors
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white;">Effects
+</th></tr>
+<tr>
+<td>Wolverine Stance
+</td>
+<td>Melee 0<br />Melee or Unarmed
+</td>
+<td>Grab Break
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<p><b>Advantages:</b>
+</p>
+<ul><li>Can attack extremely quickly under the right circumstances.</li>
+<li>Blood In The Water and Prey of the Weak let you go on a killing spree if they stack.</li>
+<li>Weapon choices allow for really high damaging attacks.</li></ul>
+<p><b>Disadvantages</b>
+</p>
+<ul><li>No offensive techniques at all.</li>
+<li>Almost no defense aside from a Grab Break.</li>
+<li>Relies on situational buffs for power.</li></ul>
+<p><b>Strategies</b>
+</p><p>"Prey on the Weak" pretty much describes Tiger Claw. You can dish out a lot of damage with the weapons but most of the good stuff comes from critting or killing enemies. If you can manage to stack Prey on the Weak or Blood in the Water, you can do crazy amounts of damage. Try to kill weaker enemies first and use Blood in the Water to hit tough enemies HARD!
+</p><p><br />
+</p><p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20240229161624
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.130 seconds
+Real time usage: 0.142 seconds
+Preprocessor visited node count: 333/1000000
+Preprocessor generated node count: 1698/1000000
+Post‐expand include size: 10428/2097152 bytes
+Template argument size: 3562/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   27.215      1 -total
+ 41.78%   11.369      1 Template:Ver
+ 25.86%    7.037      1 Template:Mod
+ 13.59%    3.698      1 Template:InlineVer
+ 13.45%    3.659     15 Template:Quote
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:10430-0!canonical and timestamp 20240229161624 and revision id 40836
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;oldid=40836">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;oldid=40836</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:0.E_(Ellison)" title="Category:0.E (Ellison)">0.E (Ellison)</a></li><li><a href="/cdda_wiki/index.php/Category:Mythical_Martial_Arts" title="Category:Mythical Martial Arts">Mythical Martial Arts</a></li><li><a href="/cdda_wiki/index.php/Category:Game_Mechanics" title="Category:Game Mechanics">Game Mechanics</a></li><li><a href="/cdda_wiki/index.php/Category:CDDA_Corrections_Needed" title="Category:CDDA Corrections Needed">CDDA Corrections Needed</a></li><li><a href="/cdda_wiki/index.php/Category:Weapons" title="Category:Weapons">Weapons</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Mythical+Martial+Arts+%28mod%29&amp;returntoquery=oldid%3D40836" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Mythical+Martial+Arts+%28mod%29&amp;returntoquery=oldid%3D40836" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Mythical_Martial_Arts_(mod)" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Mythical_Martial_Arts_(mod)&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Mythical_Martial_Arts_(mod)">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Mythical_Martial_Arts_(mod)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Mythical_Martial_Arts_(mod)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;oldid=40836&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;oldid=40836" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Mythical_Martial_Arts_(mod)&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 7 July 2023, at 14:01.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.130","walltime":"0.142","ppvisitednodes":{"value":333,"limit":1000000},"ppgeneratednodes":{"value":1698,"limit":1000000},"postexpandincludesize":{"value":10428,"limit":2097152},"templateargumentsize":{"value":3562,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   27.215      1 -total"," 41.78%   11.369      1 Template:Ver"," 25.86%    7.037      1 Template:Mod"," 13.59%    3.698      1 Template:InlineVer"," 13.45%    3.659     15 Template:Quote"]},"cachereport":{"timestamp":"20240229161624","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88});});</script>
+</body>
+</html>

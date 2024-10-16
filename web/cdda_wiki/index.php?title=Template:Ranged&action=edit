@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Template:Ranged - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Template","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":10,"wgPageName":"Template:Ranged","wgTitle":"Ranged","wgCurRevisionId":40204,"wgRevisionId":0,"wgArticleId":2675,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Template:Ranged","wgRelevantArticleId":2675,"wgRequestId":"ZBCoSMm6Vpp_e1_OhnlgGwAAAKk","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-10 ns-subject page-Template_Ranged rootpage-Template_Ranged skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Template:Ranged</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Template:Ranged" title="Template:Ranged">Template:Ranged</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{Navbox
+|name       = Ranged
+|title      = [[Ranged Weapons]]
+|state      = uncollapsed
+
+|bodystyle = background:transparent; width:100%; vertical-align:middle; border-color: #CFCFCF;
+|titlestyle = background:#CFCFCF; color:#000000; padding-left:1em; padding-right:1em; text-align:center;
+|groupstyle = background:#CFCFCF; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;
+
+|group1     = [[Handguns]]
+|list1      = &lt;!--
+  --> [[2 Shot Special]]&lt;!--
+  --> {{md}}[[12 gauge pistol]]&lt;!--
+  --> {{md}}[[1911-460]]&lt;!--
+  --> {{md}}[[AF2011A1 .38 Super]]&lt;!--
+  --> {{md}}[[AR pistol]]&lt;!--
+  --> {{md}}[[Beretta 90-two]]&lt;!--
+  --> {{md}}[[Beretta 90-two .40 S&amp;W]]&lt;!--
+  --> {{md}}[[Beretta M9A1]]&lt;!--
+  --> {{md}}[[Beretta Px4 Storm]]&lt;!--
+  --> {{md}}[[Beretta Px4 Storm .40 S&amp;W]]&lt;!--
+  --> {{md}}[[Bond Arms Derringer]]&lt;!--
+  --> {{md}}[[Broomhandle Mauser]]&lt;!--
+  --> {{md}}[[Browning Hi-Power .40 S&amp;W]]&lt;!--
+  --> {{md}}[[Browning Hi-Power 9x19mm]]&lt;!--
+  --> {{md}}[[Coilgun]]&lt;!--
+  --> {{md}}[[Colt Delta Elite]]&lt;!--
+  --> {{md}}[[Colt M1860 Army]]&lt;!--
+  --> {{md}}[[Colt M1861 Navy]]&lt;!--
+  --> {{md}}[[COP .357 Derringer]]&lt;!--
+  --> {{md}}[[COP .38]]&lt;!--
+  --> {{md}}[[CZ 75 B]]&lt;!--
+  --> {{md}}[[Desert Eagle .44]]&lt;!--
+  --> {{md}}[[detachable-magazine Mauser]]&lt;!--
+  --> {{md}}[[Flaregun]]&lt;!--
+  --> {{md}}[[Flintlock pistol]]&lt;!--
+  --> {{md}}[[FN 1910 .380]]&lt;!--
+  --> {{md}}[[FN Five-Seven]]&lt;!--
+  --> {{md}}[[Glock 17]]&lt;!--
+  --> {{md}}[[Glock 18C]]&lt;!--
+  --> {{md}}[[Glock 19]]&lt;!--
+  --> {{md}}[[Glock 20]]&lt;!--
+  --> {{md}}[[Glock 21]]&lt;!--
+  --> {{md}}[[Glock 22]]&lt;!--
+  --> {{md}}[[Glock 29]]&lt;!--
+  --> {{md}}[[Glock 31]]&lt;!--
+  --> {{md}}[[Glock 40 MOS]]&lt;!--
+  --> {{md}}[[H&amp;K UCP]]&lt;!--
+  --> {{md}}[[handmade six-shooter]]&lt;!--
+  --> {{md}}[[Hi-Point C-9]]&lt;!--
+  --> {{md}}[[Hi-Point CF-380]]&lt;!--
+  --> {{md}}[[Hi-Point Model JCP]]&lt;!--
+  --> {{md}}[[Hi-Point Model JHP]]&lt;!--
+  --> {{md}}[[Homemade hand cannon]]&lt;!--
+  --> {{md}}[[Homemade laser pistol]]&lt;!--
+  --> {{md}}[[Jennings J-22]]&lt;!--
+  --> {{md}}[[Kel-Tec P3AT]]&lt;!--
+  --> {{md}}[[Kel-Tec P32]]&lt;!--
+  --> {{md}}[[Kel-Tec PF-9]]&lt;!--
+  --> {{md}}[[L2037 Backup]]&lt;!--
+  --> {{md}}[[LACP laser pistol]]&lt;!--
+  --> {{md}}[[LeMat revolver]]&lt;!--
+  --> {{md}}[[L39]]&lt;!--
+  --> {{md}}[[L39-45]]&lt;!--
+  --> {{md}}[[L39-460]]&lt;!--
+  --> {{md}}[[L39B]]&lt;!--
+  --> {{md}}[[L2031 Enforcer]]&lt;!--
+  --> {{md}}[[L2032 Lookout]]&lt;!--
+  --> {{md}}[[Luger P08]]&lt;!--
+  --> {{md}}[[M11]]&lt;!--
+  --> {{md}}[[M17]]&lt;!--
+  --> {{md}}[[M18]]&lt;!--
+  --> {{md}}[[M1911]]&lt;!--
+  --> {{md}}[[M1911A1]]&lt;!--
+  --> {{md}}[[M45A1]]&lt;!--
+  --> {{md}}[[Magnum Research BFR]]&lt;!--
+  --> {{md}}[[Makarov PM]]&lt;!--
+  --> {{md}}[[Mini Draco]]&lt;!--
+  --> {{md}}[[mini speargun]]&lt;!--
+  --> {{md}}[[MK23 MOD 0]]&lt;!--
+  --> {{md}}[[Mossberg Brownie]]&lt;!--
+  --> {{md}}[[Nail gun]]&lt;!--
+  --> {{md}}[[OA-93]]&lt;!--
+  --> {{md}}[[PTR 603]]&lt;!--
+  --> {{md}}[[RM99 revolver]]&lt;!--
+  --> {{md}}[[RM103A automagnum]]&lt;!--
+  --> {{md}}[[RM228 PDW]]&lt;!--
+  --> {{md}}[[RM232 IDW]]&lt;!--
+  --> {{md}}[[Ruger LCP]]&lt;!--
+  --> {{md}}[[Ruger LCR .22]]&lt;!--
+  --> {{md}}[[Ruger LCR .38]]&lt;!--
+  --> {{md}}[[Ruger Redhawk]]&lt;!--
+  --> {{md}}[[S&amp;W 22A]]&lt;!--
+  --> {{md}}[[S&amp;W 500]]&lt;!--
+  --> {{md}}[[S&amp;W 610]]&lt;!--
+  --> {{md}}[[S&amp;W 619]]&lt;!--
+  --> {{md}}[[S&amp;W 629]]&lt;!--
+  --> {{md}}[[S&amp;W Model 10]]&lt;!--
+  --> {{md}}[[SIG Mosquito]]&lt;!--
+  --> {{md}}[[SIG P200 10mm]]&lt;!--
+  --> {{md}}[[SIG P226]]&lt;!--
+  --> {{md}}[[SIG P226 MK25]]&lt;!--
+  --> {{md}}[[SIG Pro .40]]&lt;!--
+  --> {{md}}[[SIG Pro SP2022 9mm]]&lt;!--
+  --> {{md}}[[SIG Sauer P230]]&lt;!--
+  --> {{md}}[[Taurus Pro .38]]&lt;!--
+  --> {{md}}[[Taurus Raging Bull]]&lt;!--
+  --> {{md}}[[Taurus Raging Judge Magnum]]&lt;!--
+  --> {{md}}[[Taurus Spectrum]]&lt;!--
+  --> {{md}}[[Tokarev TT-30]]&lt;!--
+  --> {{md}}[[Uberti Cattleman]]&lt;!--
+  --> {{md}}[[USP .45]]&lt;!--
+  --> {{md}}[[USP 9mm]]&lt;!--
+  --> {{md}}[[V29 laser pistol]]&lt;!--
+  --> {{md}}[[Vector SDP 10mm]]&lt;!--
+  --> {{md}}[[Walther CCP]]&lt;!--
+  --> {{md}}[[Walther P22]]&lt;!--
+  --> {{md}}[[Walther P38]]&lt;!--
+  --> {{md}}[[Walther PPK]]&lt;!--
+  --> {{md}}[[Walther PPQ .40 S&amp;W]]&lt;!--
+  --> {{md}}[[Walther PPQ 45]]&lt;!--
+  --> {{md}}[[Walther PPQ 9mm]]&lt;!--
+  --> {{md}}[[XD(M) Competition 10mm]]&lt;!--
+  -->
+
+|group2     = [[Rifles]]
+|list2      = &lt;!--
+  --> [[.50 caliber rifle]]&lt;!--
+  --> {{md}}[[A7 laser rifle]]&lt;!--
+  --> {{md}}[[AK-47|AKM]]&lt;!--
+  --> {{md}}[[AK-74M]]&lt;!--
+  --> {{md}}[[AN-94]]&lt;!--
+  --> {{md}}[[AR-10]]&lt;!--
+  --> {{md}}[[AR-15]]&lt;!--
+  --> {{md}}[[Barrett M107A1]]&lt;!--
+  --> {{md}}[[BB gun]]&lt;!--
+  --> {{md}}[[Beretta ARX-160]]&lt;!--
+  --> {{md}}[[Boeing XM-P plasma rifle]]&lt;!--
+  --> {{md}}[[Big Horn Model 89]]&lt;!--
+  --> {{md}}[[Browning Automatic Rifle]]&lt;!--
+  --> {{md}}[[Browning BLR]]&lt;!--
+  --> {{md}}[[Bushmaster ACR]]&lt;!--
+  --> {{md}}[[Cx4 Storm]]&lt;!--
+  --> {{md}}[[Elephant gun]]&lt;!--
+  --> {{md}}[[Ferromagnetic rail rifle]]&lt;!--
+  --> {{md}}[[Flintlock carbine]]&lt;!--
+  --> {{md}}[[Flintlock rifle]]&lt;!--
+  --> {{md}}[[FN FAL]]&lt;!--
+  --> {{md}}[[FN SCAR-H]]&lt;!--
+  --> {{md}}[[FN SCAR-L]]&lt;!--
+  --> {{md}}[[FTK-93 fusion gun]]&lt;!--
+  --> {{md}}[[Fusion Blaster Rifle]]&lt;!--
+  --> {{md}}[[Handheld laser cannon]]&lt;!--
+  --> {{md}}[[Handmade carbine]]&lt;!--
+  --> {{md}}[[Handmade double-barrel flintlock]]&lt;!--
+  --> {{md}}[[Henry Big Boy .44]]&lt;!--
+  --> {{md}}[[Heavy rail rifle]]&lt;!--
+  --> {{md}}[[H&amp;K G3]]&lt;!--
+  --> {{md}}[[H&amp;K G36]]&lt;!--
+  --> {{md}}[[H&amp;K G80 Railgun]]&lt;!--
+  --> {{md}}[[HK416 A5]]&lt;!--
+  --> {{md}}[[HK417 A2]]&lt;!--
+  --> {{md}}[[L1820 Long Ranger]]&lt;!--
+  --> {{md}}[[L523 platform]]&lt;!--
+  --> {{md}}[[L523-CAR carbine]]&lt;!--
+  --> {{md}}[[L523-DSR rifle]]&lt;!--
+  --> {{md}}[[L523-LMG]]&lt;!--
+  --> {{md}}[[L523-MBR rifle]]&lt;!--
+  --> {{md}}[[M1A]]&lt;!--
+  --> {{md}}[[M1 Garand]]&lt;!--
+  --> {{md}}[[M2 Browning HMG]]&lt;!--
+  --> {{md}}[[M14 EBR-RI]]&lt;!--
+  --> {{md}}[[M4A1]]&lt;!--
+  --> {{md}}[[M24]]&lt;!--
+  --> {{md}}[[M27 IAR]]&lt;!--
+  --> {{md}}[[M60]]&lt;!--
+  --> {{md}}[[M110A1]]&lt;!--
+  --> {{md}}[[M134D-H Minigun]]&lt;!--
+  --> {{md}}[[M240]]&lt;!--
+  --> {{md}}[[M249]]&lt;!--
+  --> {{md}}[[M1903 Springfield]]&lt;!--
+  --> {{md}}[[M2010 ESR]]&lt;!--
+  --> {{md}}[[Marlin 39A]]&lt;!--
+  --> {{md}}[[Mosin-Nagant 1891/30]]&lt;!--
+  --> {{md}}[[Mosin-Nagant 1891/30-EBR]]&lt;!--
+  --> {{md}}[[Mosin-Nagant M44]]&lt;!--
+  --> {{md}}[[Mosin-Nagant M44-EBR]]&lt;!--
+  --> {{md}}[[Nail rifle]]&lt;!--
+  --> {{md}}[[Pipe rifle: .22]]&lt;!--
+  --> {{md}}[[Pipe rifle: .223]]&lt;!--
+  --> {{md}}[[Pipe rifle: .30-06]]&lt;!--
+  --> {{md}}[[Pipe rifle: .308]]&lt;!--
+  --> {{md}}[[Pipe rifle: .38 Special]]&lt;!--
+  --> {{md}}[[Pipe rifle: .40 S&amp;W]]&lt;!--
+  --> {{md}}[[Pipe rifle: .44 Magnum]]&lt;!--
+  --> {{md}}[[Pipe rifle: .45]]&lt;!--
+  --> {{md}}[[Pipe rifle: 9mm]]&lt;!--
+  --> {{md}}[[Pneumatic assault rifle]]&lt;!--
+  --> {{md}}[[Pneumatic bolt driver]]&lt;!--
+  --> {{md}}[[Remington 700]]&lt;!--
+  --> {{md}}[[Remington ACR]]&lt;!--
+  --> {{md}}[[RM11B scout rifle]]&lt;!--
+  --> {{md}}[[RM51 assault rifle]]&lt;!--
+  --> {{md}}[[RM88 battle rifle]]&lt;!--
+  --> {{md}}[[RM298 HMG]]&lt;!--
+  --> {{md}}[[RM614 LMG]]&lt;!--
+  --> {{md}}[[Ruger 10/22]]&lt;!--
+  --> {{md}}[[Ruger Mini-14]]&lt;!--
+  --> {{md}}[[Savage 111F]]&lt;!--
+  --> {{md}}[[SIG 552]]&lt;!--
+  --> {{md}}[[SKS]]&lt;!--
+  --> {{md}}[[Special 700]]&lt;!--
+  --> {{md}}[[Steyr AUG]]&lt;!--
+  --> {{md}}[[Weatherby Mark V]]&lt;!--
+  --> {{md}}[[Winchester Model 70]]&lt;!--
+  --> {{md}}[[XM34 EMP projector]]&lt;!--
+  -->
+
+|group3     = [[Shotguns]]
+|list3      = &lt;!--
+  --> [[Bionic shotgun]]&lt;!--
+  --> {{md}}[[Blunderbuss]]&lt;!--
+  --> {{md}}[[Double barrel shotgun]]&lt;!--
+  --> {{md}}[[Double-barrel pipe shotgun]]&lt;!--
+  --> {{md}}[[Handmade lever shotgun]]&lt;!--
+  --> {{md}}[[Heavy automatic shotgun]]&lt;!--
+  --> {{md}}[[Kel-Tec KSG]]&lt;!--
+  --> {{md}}[[L12 Defender]]&lt;!--
+  --> {{md}}[[M1014 shotgun]]&lt;!--
+  --> {{md}}[[Manual autoshotgun]]&lt;!--
+  --> {{md}}[[Mossberg 500]]&lt;!--
+  --> {{md}}[[Pipe shotgun]]&lt;!--
+  --> {{md}}[[Remington 870]]&lt;!--
+  --> {{md}}[[RM120c shotgun]]&lt;!--
+  --> {{md}}[[RM20 autoshotgun]]&lt;!--
+  --> {{md}}[[Saiga-12]]&lt;!--
+  --> {{md}}[[Single barrel shotgun]]&lt;!--
+  --> {{md}}[[Shotgun revolver]]&lt;!--
+  -->
+
+|group4     = [[Flamethrowers]]
+|list4      = &lt;!-- 
+  -->[[Simple flamethrower]]&lt;!--
+  --> {{md}}[[Flamethrower]]&lt;!--
+  --> {{md}}[[Spraycan flamethrower]]&lt;!--
+  --> {{md}}[[RM451 flamethrower]]&lt;!--
+  -->
+
+|group5     = [[Submachine guns]]
+|list5      = &lt;!-- 
+  -->[[American-180]]&lt;!--
+  --> {{md}}[[Briefcase SMG]]&lt;!--
+  --> {{md}}[[Calico M960]]&lt;!--
+  --> {{md}}[[FN P90]]&lt;!--
+  --> {{md}}[[H&amp;K MP5]]&lt;!--
+  --> {{md}}[[H&amp;K MP5SD]]&lt;!--
+  --> {{md}}[[H&amp;K MP7]]&lt;!--
+  --> {{md}}[[H&amp;K UMP45]]&lt;!--
+  --> {{md}}[[Kel-Tec SUB-2000]]&lt;!--
+  --> {{md}}[[Luty SMG: .22]]&lt;!--
+  --> {{md}}[[Luty SMG: .38 Special]]&lt;!--
+  --> {{md}}[[Luty SMG: .45]]&lt;!--
+  --> {{md}}[[Luty SMG: 9x19mm]]&lt;!--
+  --> {{md}}[[MAC-10]]&lt;!--
+  --> {{md}}[[MAC-11]]&lt;!--
+  --> {{md}}[[Paintball]]&lt;!--
+  --> {{md}}[[PPSh-41]]&lt;!--
+  --> {{md}}[[RM2000 submachine gun]]&lt;!--
+  --> {{md}}[[RM216 SPIW]]&lt;!--
+  --> {{md}}[[RM360 rotary carbine]]&lt;!--
+  --> {{md}}[[Skorpion Vz. 61]]&lt;!--
+  --> {{md}}[[Skorpion Vz. 82]]&lt;!--
+  --> {{md}}[[STEN]]&lt;!--
+  --> {{md}}[[TEC-9]]&lt;!--
+  --> {{md}}[[Thompson submachine gun]]&lt;!--
+  --> {{md}}[[TDI Vector]]&lt;!--
+  --> {{md}}[[Uzi 9mm]]&lt;!--
+  -->
+
+|group6     = [[Grenade Launchers]]
+|list6      = &lt;!-- 
+  -->[[M79 launcher]]&lt;!--
+  -->{{md}}[[M320 launcher]]&lt;!--
+  -->{{md}}[[Mark 19 Grenade Launcher]]&lt;!--
+  -->{{md}}[[Milkor MGL]]&lt;!--
+  -->{{md}}[[Tube 40mm launcher]]&lt;!--
+  -->{{md}}[[Triple-barrel 40mm launcher]]&lt;!--
+  -->{{md}}[[RM802 Grenade Launcher]]&lt;!--
+  -->
+
+|group7     = [[Rocket Launchers]]
+|list7      = &lt;!--
+  --> [[AT4]]&lt;!--
+  --> {{md}}[[M3 recoilless rifle]]&lt;!--
+  --> {{md}}[[M72 LAW]]&lt;!--
+  --> {{md}}[[M202 FLASH]]&lt;!--
+  -->
+
+|group8     = Archery weapons
+|list8      = {{Navbox|child
+				| groupstyle = background:#D9D9D9; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;
+
+				| group1 = [[Bows]]
+				| list1  = &lt;!-- 
+					  -->[[Self bow]]&lt;!--
+					  --> {{md}}[[Short bow]]&lt;!--
+					  --> {{md}}[[Compound bow]]&lt;!--
+					  --> - [[Compound bow (high)|(high)]]&lt;!--
+					  --> - [[Compound bow (low)|(low)]]&lt;!--
+					  --> {{md}}[[Composite bow]]&lt;!--
+					  --> {{md}}[[Recurve bow]]&lt;!--
+					  --> {{md}}[[Reflex bow]]&lt;!--
+					  --> {{md}}[[Longbow]]&lt;!--
+					  --> {{md}}[[Hybrid longbow]]&lt;!--
+					  --> {{md}}[[Reflex recurve bow]]&lt;!--
+					  --> {{md}}[[Wooden greatbow]]&lt;!--
+					  --> {{md}}[[Compound greatbow]]&lt;!--
+					  -->
+
+				| group2 = [[Crossbows]]
+				| list2  = &lt;!-- 
+					  -->[[Pistol crossbow]]&lt;!--
+					  --> {{md}}[[Crossbow]]&lt;!--
+					  --> {{md}}[[Heavy crossbow]]&lt;!--
+					  --> {{md}}[[Repeating crossbow]]&lt;!--
+					  -->
+
+				| group3 = [[Other archery|Other]]
+				| list3  = &lt;!-- 
+					  -->[[Slingshot]]&lt;!--
+					  -->
+				}}
+
+|group9     = [[Throwing weapons]]
+|list9      = &lt;!-- 
+  -->[[Sling]]&lt;!--
+  -->
+
+|group10     = By ammo used
+|list10      = &lt;!--
+			-->[[.22 guns]]&lt;!--
+			--> {{md}}[[.223 guns]]&lt;!--
+			--> {{md}}[[.30-06 guns]]&lt;!--
+			--> {{md}}[[.300 guns]]&lt;!--
+			--> {{md}}[[.308 guns]]&lt;!--
+			--> {{md}}[[.32 guns]]&lt;!--
+			--> {{md}}[[.38 guns]]&lt;!--
+			--> {{md}}[[.380 guns]]&lt;!--
+			--> {{md}}[[.40 guns]]&lt;!--
+			--> {{md}}[[.44 guns]]&lt;!--
+			--> {{md}}[[.45 guns]]&lt;!--
+			--> {{md}}[[.460 guns]]&lt;!--
+			--> {{md}}[[4.6 guns]]&lt;!--
+			--> {{md}}[[5.45x39mm guns]]&lt;!--
+			--> {{md}}[[5.7 guns]]&lt;!--
+			--> {{md}}[[7.62 guns]]&lt;!--
+			--> {{md}}[[7.62x25 guns]]&lt;!--
+			--> {{md}}[[7.62x54R guns]]&lt;!--
+			--> {{md}}[[5x50mm guns]]&lt;!--
+			--> {{md}}[[8x40mm guns]]&lt;!--
+			--> {{md}}[[9mm guns]]&lt;!--
+			--> {{md}}[[9x18mm guns]]&lt;!--
+			--> {{md}}[[shotgun guns|Shotgun-like]]&lt;!--
+			--> {{md}}[[nail guns]]&lt;!--
+			--> {{md}}[[pebble guns]]&lt;!--
+			-->
+
+  
+}}&lt;noinclude>
+[[Category:Navigational templates]]
+&lt;/noinclude>
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Template:Ranged" title="Template:Ranged">Template:Ranged</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Template:Ranged">http://cddawiki.chezzo.com/cdda_wiki/index.php/Template:Ranged</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Template%3ARanged&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Template%3ARanged&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-template" class="selected"><span><a href="/cdda_wiki/index.php/Template:Ranged" title="View the template [c]" accesskey="c">Template</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Template_talk:Ranged" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Template:Ranged">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Template:Ranged&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Template:Ranged&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Template:Ranged" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Template:Ranged" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Template:Ranged&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1038});});</script>
+</body>
+</html>

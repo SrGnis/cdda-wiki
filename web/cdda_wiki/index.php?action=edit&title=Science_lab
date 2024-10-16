@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Science lab - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Science_lab","wgTitle":"Science lab","wgCurRevisionId":31971,"wgRevisionId":0,"wgArticleId":477,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Science_lab","wgRelevantArticleId":477,"wgRequestId":"ZYdWSTaTPI3r8ibgvaWX1QAAADk","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Science_lab rootpage-Science_lab skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Science lab</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Science_lab" title="Science lab">Science lab</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">&lt;noinclude>{{Map&lt;/noinclude>
+&lt;includeonly>{{row/Map1&lt;/includeonly>
+ |name=science lab
+ |glyph=&lt;nowiki>L&lt;/nowiki>
+ |color=c_cyan
+ |seecost=5
+ |extras=no_extras
+}}&lt;noinclude>
+Science labs are mysterious, expansive underground facilities. To gain access, you'll need to either unlock the id reader with a [[science id card]] or [[electrohack]], or break through with [[explosive]]s or tools such as a [[jackhammer]] or [[pickaxe]].
+
+
+Labs are composed of multiple underground levels of rectangular rooms that are laid out in a rough grid pattern. Each block of rooms corresponds to one map tile, and the transition between them always has double doors. Ordinary rooms of the lab include:
+* Closet with cleaning supplies ([[ammonia]], [[bleach]], [[mop]]s).
+* Counter and computer, which can be hacked to access research logs and download map of the nearby surface. Beware that a turret almost always spawns on the counters; be careful when opening doors in illuminated walls.
+* Chemistry workroom; usually it's mundane (for a secret government lab, at least) and has assorted chemicals and chemistry gear, but there's a 1 in 3 chance it'll be a mutagen workroom, where [[mutagen]]s, [[serum|mutagenic serum]]s, [[purifier]]s, and mutagen recipe books can spawn.
+* Teleportation lab: work-counter in the middle and a teleporter somewhere on the floor.
+* Room filled with pits of goo. There is always a refrigerator in the corner, which can contain odd things including [[riot helmet]]s and [[lighter]]s.
+* Common [[bionics]] storage; access to both storages is controlled by a linked computer pair and hacking one will unlock the other.
+* Cloning vats filled with bodyparts ([[mutated arm]], [[mutated leg]], [[misshapen fetus]]).
+* Vivisection lab containing a [[Traps#dissector|dissection machine]].
+* Dormitory, containing [[bed (construction)|bed]]s and [[dresser]]s.  Researchers have been known to have recreational gear and/or reading material here.
+* Rooms containing research subjects in concrete and reinforced glass cells. A central computer outside the cell section can be hacked to purge the specimens in all cells.
+* A data analyser which can be used to analyse black boxes.
+Additionally there are rooms that are locked behind computer controlled metal doors:
+* Barracks and armoury; the armoury is not accessible via the barracks. To gain access to the armoury, you must either drop down from the level above using stairs or a hole or break through with [[explosive]]s or tools such as a [[jackhammer]] or [[pickaxe]].
+* Prisoner containment and containment cells.
+The lowest floor of a lab contains a finale with a special room:
+* {{spoiler|A Mutagen Lab which has an enclosed standing tank of mutagen (which is usually generic, but can be of a specific type), assorted chemicals and chemistry gear, [[mutagen]]s, [[serum|mutagenic serum]]s, [[purifier]]s, and rare Lab Journal recipe books.  It is defended by no less than a pair of security bots and usually a few manhacks or skitterbots.}}
+* {{spoiler|A weapons testing facility with energy weapons, mininukes, cutting-edge Rivtech armor, or just random guns.}}
+* {{spoiler|Netherworld access facility with trapped sub-prime monsters and Resonance Cascade activation terminal. (As of {{inlineVer|0.C}}, the terminal does nothing of interest.)}}
+* {{spoiler|Rare bionics storage and a [[Science ID card]].}}
+* {{spoiler|A [[CVD Machine]] and a [[Science ID card]].}}
+* {{spoiler|A rare mutagen vault that contains a [[Science ID card]] and a single test tube of one of five serums: Alpha serum, Raptor Serum, Medical serum, Chimera serum, or the exceptionally rare and useful [[purifier smart shot]].}}
+* {{spoiler|An Autodoc Operating Theater with an unusually large number of [[anesthesia kit]]s--around 25 to 40 of them instead of the usual three.}}
+
+If you are very lucky, you may find a lab that contains {{spoiler|an underground train station that connects to a network of subway tunnels.  The trains are inoperable as of {{inlineVer|0.C}}, but still provide an alternate way to enter or exit a lab.}}
+
+
+Enemy encounters in labs are relatively uncommon, although stronger, more powerful enemies can be found, including:
+* Robotic security such as [[manhack]]s, [[Security bot]]s, [[turret]]s, and [[skitterbot]]s.
+* Previous researchers such as [[zombie scientist]]s and [[zombie]]s.
+* Test subjects such as [[zombie brute]]s, [[broken cyborg]]s, [[grabber zombie]]s, [[zombie child|zombie children]] and nether creatures such as [[mi-go]]s, [[gracken]]s and [[kreck]]s.
+* Previous security, often found in barracks and finales, such as [[zombie soldier]]s, [[zombie bio-operator]]s and [[armored zombie]]s.
+
+==Notes==
+Navigating labs and remaining orientated can be difficult. Remember that ordinary lab tiles are a light blue, while tiles containing stairs down to the next level appear in a darker blue. 
+
+It may be helpful to place notes on each map tile with a different symbol corresponding to each general layout, to make the map more readable and keep yourself oriented. Another strategy is to place notes on map tiles which do not contain rooms, to keep track of where you have left to explore. There will always be a set of double doors in the center of the wall between adjacent blocks, so the absence of such doors is enough to infer the absence of any rooms there. 
+
+On map-gen, there is a chance that a lab will become an ice lab. Ice labs are characterized by having a lower ambient temperature immediately on entry, that also decreases significantly with lower levels. Full [[winter survivor suit|winter survivor gear]], [[thermal electric outfit|thermal electric gear]] and/or [[Internal Climate Control]] are required to explore the lowest levels of these labs. Additionally, ice labs make great cellars as the low temperatures fully prevent food spoilage.
+
+[[Category:Wilderness]]
+&lt;/noinclude>
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:EXTRAtoname" title="Template:EXTRAtoname">Template:EXTRAtoname</a> (<a href="/cdda_wiki/index.php?title=Template:EXTRAtoname&amp;action=edit" title="Template:EXTRAtoname">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Infobox" title="Template:Infobox">Template:Infobox</a> (<a href="/cdda_wiki/index.php?title=Template:Infobox&amp;action=edit" title="Template:Infobox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Infobox/Map" title="Template:Infobox/Map">Template:Infobox/Map</a> (<a href="/cdda_wiki/index.php?title=Template:Infobox/Map&amp;action=edit" title="Template:Infobox/Map">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Map" title="Template:Map">Template:Map</a> (<a href="/cdda_wiki/index.php?title=Template:Map&amp;action=edit" title="Template:Map">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoiler" title="Template:Spoiler">Template:Spoiler</a> (<a href="/cdda_wiki/index.php?title=Template:Spoiler&amp;action=edit" title="Template:Spoiler">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Science_lab" title="Science lab">Science lab</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Science_lab">http://cddawiki.chezzo.com/cdda_wiki/index.php/Science_lab</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Science+lab&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Science+lab&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Science_lab" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Science_lab&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Science_lab">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Science_lab&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Science_lab&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Science_lab" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Science_lab" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Science_lab&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122});});</script>
+</body>
+</html>

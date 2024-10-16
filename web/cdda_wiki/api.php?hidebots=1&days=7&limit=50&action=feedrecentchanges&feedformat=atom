@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://cddawiki.chezzo.com/cdda_wiki/api.php?hidebots=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+		<title>The Cataclysm: Dark Days Ahead Wiki  - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?hidebots=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Special:RecentChanges"/>
+		<updated>2018-05-03T23:13:24Z</updated>
+		<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+		<generator>MediaWiki 1.26.2</generator>
+
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:TyreeBland2</id>
+		<title>User:TyreeBland2</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:TyreeBland2"/>
+				<updated>2018-05-02T18:26:40Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/cdda_wiki/index.php?title=User:TyreeBland2&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:TyreeBland2 (page does not exist)&quot;&gt;TyreeBland2&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>TyreeBland2</name></author>	</entry>
+
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:DorrisConyers09</id>
+		<title>User:DorrisConyers09</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:DorrisConyers09"/>
+				<updated>2018-05-02T17:31:21Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/cdda_wiki/index.php?title=User:DorrisConyers09&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:DorrisConyers09 (page does not exist)&quot;&gt;DorrisConyers09&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>DorrisConyers09</name></author>	</entry>
+
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:Sashimi</id>
+		<title>User:Sashimi</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:Sashimi"/>
+				<updated>2018-04-28T22:27:16Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/cdda_wiki/index.php?title=User:Sashimi&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Sashimi (page does not exist)&quot;&gt;Sashimi&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Sashimi</name></author>	</entry>
+
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:Necklacesou</id>
+		<title>User:Necklacesou</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:Necklacesou"/>
+				<updated>2018-04-26T13:22:53Z</updated>
+		
+		<summary type="html">&lt;p&gt;&lt;a href=&quot;/cdda_wiki/index.php?title=User:DanmakuDan&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:DanmakuDan (page does not exist)&quot;&gt;DanmakuDan&lt;/a&gt; blocked &lt;a href=&quot;/cdda_wiki/index.php?title=User:Necklacesou&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Necklacesou (page does not exist)&quot;&gt;Necklacesou&lt;/a&gt; with an expiry time of &lt;span class='blockExpiry' title='&amp;lrm;infinite'&gt;indefinite&lt;/span&gt; (account creation disabled, email disabled, cannot edit own talk page) Spamming links to external sites&lt;/p&gt;
+</summary>
+		<author><name>DanmakuDan</name></author>	</entry>
+
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:Necklacesou</id>
+		<title>User:Necklacesou</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=User:Necklacesou"/>
+				<updated>2018-04-26T10:07:03Z</updated>
+		
+		<summary type="html">&lt;p&gt;User account &lt;a href=&quot;/cdda_wiki/index.php?title=User:Necklacesou&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new mw-userlink&quot; title=&quot;User:Necklacesou (page does not exist)&quot;&gt;Necklacesou&lt;/a&gt; was created&lt;/p&gt;
+</summary>
+		<author><name>Necklacesou</name></author>	</entry>
+
+	</feed>

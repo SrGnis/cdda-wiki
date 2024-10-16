@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Guide: Mine - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Guide:_Mine","wgTitle":"Guide: Mine","wgCurRevisionId":39860,"wgRevisionId":0,"wgArticleId":396,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Guide:_Mine","wgRelevantArticleId":396,"wgRequestId":"ZdtFoY3AJxrRBBhLH4ANCQAAAA0","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Guide_Mine rootpage-Guide_Mine skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Guide: Mine</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Guide:_Mine" title="Guide: Mine">Guide: Mine</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1"> '''Guide based on the {{inlineVer|0.C}} version of Cataclysm DDA.'''
+ Some of the information present here might not apply to future versions&lt;br/>--chiefly, Dark Wyrms as of {{InlineVer|0.E}} spawn (after the Pedestal) right next to the player; this may be a bug.
+
+{{spoilers|Conversely, being killed out of nowhere can also ruin the joy of your adventure.  Reader discretion is expected.}}
+
+== Overview ==
+'''Mines''' are a series of wide-open underground chambers, typically spanning several map tiles per z-level and a few z-levels as well.  They represent the most significant darkness-challenge in the game, but can provide [[artifact|decent rewards]] throughout the entire exploration.
+
+== Preparation ==
+In order to access a Mine, you'll first need some amount of Computer skill or a [[crowbar]] (to either activate the [[elevator]] or open the [[manhole|ladder]] access, respectively).  It's possible to find useful gear at the bottom of the shaft, so check it out--even if you're not equipped to seriously investigate the Mine yet.
+
+Mining IRL is seriously dangerous and requires specialized equipment.  Cata mine-exploration is also dangerous and requires specialized equipment.  In order to make good progress and remain healthy, you should have:
+* some capability for seeing in the dark; [[light amp goggles]] may suffice, as will a [[flashlight]].  You can expect to find a few hundred points of [[battery|batteries]] on-site, but your typical Mine is large enough that you'll probably want 500 or so spare coming in.  Since the Mines are wide open, short-range lighting such as the [[Cranial Flashlight]] bionic probably isn't going to cut it.
+* a [[gas mask]], no exceptions.  Mines can and do have rooms that constantly spawn Poison Gas clouds, and the Filter Mask just doesn't do the job. Gas masks can often be found at the bottom of the shaft, though.
+* decent combat capability (about 30-40 damage/turn should suffice for general exploration)
+* some sort of junk gear such as an empty [[plastic bottle]], [[scrap metal]], etc. just in case
+* some form of [[Comestibles|food]]; though bottled water is about as common as batteries underground, food is not
+
+It might be a good idea to bring a [[jackhammer]] just in case, but in general a Mine is already dug out pretty well.
+
+Depending on the Finale, you may have specialized combat requirements.  Being able to inflict about 60 damage/turn is a good guideline for survival, and more Dodge never hurts.  And as with all serious undertakings in Cataclysm, it's good form to go in Full, Slaked, reasonably well-rested, in good shape, and free from pain.
+
+''We dig for Victory.''
+
+== Mine Environs ==
+Mine levels are made up of several segments, randomly generated when you head down.  There are several different possibilities for any given map-square: empty, dead miners, lava rift, gas vent, wreckage, and wyrms are all possibilities.
+
+Each floor is connected via "slope" terrain, which comes in linked groups of four tiles.  Slopes can either be four tiles long on the edge of a given map tile, or four tiles in square formation within a map tile.
+
+=== Empty ===
+Y'know, sometimes there isn't anything to be afraid of right here and right now.  Keep on keepin' on.
+
+=== Dead Miners ===
+Poor bastards, but at least they needn't suffer any longer...and they generally have decent gear.  You're looking at a few human corpses with various construction-type gear, such as [[hard hat]]s, [[clean water|bottled water]], [[battery|batteries]], [[Long rope]], and possibly a [[Bionics|bionic]] or two.
+
+=== Lava Rift ===
+Functionally equivalent to the Fumarole on the surface.  This is a diagonal line of lava tiles, generally about 10-12 tiles long.  Since it's diagonal, you can pass it without too much difficulty but will probably take some heat damage.  If you brought a [[jackhammer]], digging around the rift would be a decent idea.
+
+=== Gas Vent ===
+Bad news.  These areas contain a "gas vent" tile that constantly generates Thick Poison Gas clouds (which can disperse to Poison Gas &amp; Hazy Cloud) and will continue to do so as long as you're on the floor.  No way to plug the vent currently exists.  If you can avoid the area, do so.  If you must pass through it, mask up and do so quickly.  If your slope is in one of these areas...that's why you brought that junk.
+* If you're looking for the downslope, mask up if you haven't already, then use {{k|x}} to look around and scan for the "downward slope" terrain under the gas.  You may have to move around within the gas, but a [[gas mask]] in good shape can handle even Thick Poison Gas safely.  Once you've found the downslope, get to it and drop your junk item--since items have a higher display-priority than gas, that'll mark the slope's location for future reference.
+* If you just came down an upslope, drop your junk item '''right now''' because the gas will probably expand to obscure the slope by the time you come back.  If you haven't got a junk item, pick something you can replace or at least won't mind leaving until you come back up.  Slope-searching can be extremely tedious work and there's no need to do any more of it than you must.
+
+In any event, gas does not flow through slopes, so a vent on one z-level will not contaminate the entire Mine.  Be thankful for small mercies.
+
+While it is always wise to bring a gas mask when entering a Mine for the first time, not ''all'' Mines actually contain gas vents: it is possible to find some without a single vent on any floor; these occurrences are rare, but it can allow the player to return to these mines easier without the need for a gas mask. Especially if better preparations need to be made for the dreaded
+amigara fault.
+
+=== Wreckage ===
+Pretty similar to a helicopter crash topside, though here there aren't any corpses to speak of and the only gear lying around is assorted metal bits.  If you happen to have a [[shovel]]-type item, though, it may be worth making an obstacle course or at least getting some junk metal, just in case.
+
+=== Dark Wyrm ===
+Sometimes there's a [[dark wyrm]] just chillin' in the cavern.  Fortunately: they're blind.  Unfortunately: they hear just fine and can smell you to boot.  They're as fast as you, have a fierce biting attack, and are quite accurate with it.  In practice, [[zombie hulk]]s seem more difficult and are far more commonplace.  If you see the wyrm first, consider the local conditions (that wreckage/lava rift may be handy?) and your ability to fight a reasonably dangerous opponent one-on-one; if you're a gun user, your general-purpose weapon ought to suffice.  Keep calm and fight on.
+
+== The Payoff ==
+There are a few ways the Mine can end.  Here they are.
+
+(Stop and take off your gas mask if there's no vent in the immediate vicinity.  It's unclear whether Mouth encumbrance actually slows the character, but no Finale requires a Mask.)
+
+=== Dark Pedestal ===
+The room contains a [[dark pedestal]] with a [[petrified eye]] on it. Picking up the eye will make it emit '''a tortued scream!''' that gives heavy morale malus and spawns a wave of 1-4 [[dark wyrm]]s to spawn off-screen and tunnel towards you. Killing the wyrms has 1 in 25 chance to stop the event, otherwise 1-4 more dark wyrms will spawn in the same manner until you escape the mine.
+
+=== Spiral Cavern ===
+The room will contain a spiral of rock. At the centre will be a downslope, leading into a 3x3 map-tile "spiral cavern". Every mine has a [[spiral cavern]] beneath it however--it's just that the downslope usually doesn't spawn. If you can get to the appropriate level through other means, you could tunnel across and get to the cavern that way.
+
+The centre of the spiral cavern will be another rock spiral. Surrounding this will be a number of smaller rock spirals containing [[spiral stone]]s and, occasionally, [[vortex stone]]s.
+
+=== The Thing ===
+Y'know, I have no idea how a Dog could survive this far down...
+
+That's because it's not a dog.  Prepare for hard contact.  The [[Thing]] is a very nasty tentacle-beast that mimics canine form to get within melee-range.  If you're a ranged fighter, go ahead and hit it hard now as it'll only get tougher close in.  When the "Friendly! [[Dog (nether)|Dog]]" reaches either 0 HP or melee range, it'll self-destruct into the [[tentacle dog]], which has significant melee capabilities (including Tentacle attacks, obviously).  Back off and keep firing, or get in there and hit fast.  "Killing" tentacle dog spawns the full-blown Thing in its place.  Stripped of its disguise, the Thing has marginally better aim, dodge, and HP than its half-dog form, and is marginally faster as well.  Don't take it lightly.
+
+Once you kill the Thing, the room behind it contains the miners who unearthed it as well as an [[Artifacts|artifact]].  Good job.  Now you gotta get back out, but if you were thorough that should be an uneventful trip.
+
+=== Amigara Fault ===
+The Amigara fault is based on the popular horror manga [[wikipedia:Gyo#%22The_Enigma_of_Amigara_Fault%22|"The Enigma of Amigara Fault"]], by Junji Ito. Apparently the "output" end of the Amigara mountain moved all the way across the planet and is now underground in New England.  That's some Cataclysm, all right.
+
+If you see a pink wall (this might look different in tileset versions, you will see a strange wall and a computer at least, {{k|e}}xamine the wall and a special popup will show this is the right wall), '''STOP'''.  You've found an Amigara Fault.  The critters involved in this finale can effectively stunlock characters without very high intelligence scores - from full dark-green health and perfect armor to {{igs|"You are forgotten among the billions lost in the cataclysm..."}} in one turn.  You'll never even know where they hit you.
+
+That's not so fun.
+
+In order to safely &amp; profitably handle the Amigara Fault, you'll need:
+* 20+ Intelligence / an Artifact that protects your mental state (if you're protected, you'll get a message about it) / the ability to blind yourself and still effectively function in combat
+* the capability to do at least 100 damage per turn in melee (the [[Amigara horror]]s are HARDTOSHOOT, which grants them a 75% chance to auto-dodge shots)
+* good armor and/or Dodge skill; Dodge 7-8 isn't overkill here
+* at least 3, and ideally 6+, Computer skill
+
+==== Amigara Scenario ====
+Once you either fail to to operate the computer or successfully initiate the tremor test, your character will be infected with [[Amigara obsession]], a one-off disease. {{spoiler|The obsession lasts about 20 turns, and during that time you cannot move away from the faultline (the pink wall).  Moving parallel to the fault is fine, as is moving closer.  (You will not be notified when the obsession times out.)}}
+
+After about 10 turns, the [[Amigara horror]]s will show up.  You will get anywhere from 3 to 5 of them; they're slower than you and don't Dodge that well, but excel in melee and have a ranged paralysis attack.  On their turn, each Horror that can see you generates a random value between 1 and 20.  If that value is higher than your Intelligence, you're paralyzed for a few turns.  Paralysis can and does stack, leading to the previously-mentioned effective one-shot kill.  So, be immune via Artifact protection, or have extremely high Intelligence to reduce the risk. Additionally, blinding yourself with a blindfold or Optical Dampeners works to prevent stunning.
+
+{{Incharacter|Why bother fighting the Horrors, if they're that bad and I can't even move around freely???}}
+
+If you kill all the Horrors before the [[Amigara obsession]] times out, the obsession is cleared and the last one drops an [[Artifact]].  The Amigara Fault can, in short, be farmed for Artifacts (No longer repeatable as of {{InlineVer|0.D}}), provided you're a hyper-intelligent combat monster. Note that if you use an artifact that protects your mental state, you will need to remove it in order to get the obsession then equip it again to protect from the horrors or you will not get the artifact drop since it is tied to the obsession clearing.
+
+Just be careful to test your new toy(s) somewhere safe; in the middle of the room, at least.  Wouldn't want to get teleported into solid rock after that workout, you know.
+
+{{Guides}}
+{{ver|0.C}}
+[[Category:Advanced guides]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides">Template:Guides</a> (<a href="/cdda_wiki/index.php?title=Template:Guides&amp;action=edit" title="Template:Guides">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Incharacter" title="Template:Incharacter">Template:Incharacter</a> (<a href="/cdda_wiki/index.php?title=Template:Incharacter&amp;action=edit" title="Template:Incharacter">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:K" title="Template:K">Template:K</a> (<a href="/cdda_wiki/index.php?title=Template:K&amp;action=edit" title="Template:K">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoiler" title="Template:Spoiler">Template:Spoiler</a> (<a href="/cdda_wiki/index.php?title=Template:Spoiler&amp;action=edit" title="Template:Spoiler">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoilers" title="Template:Spoilers">Template:Spoilers</a> (<a href="/cdda_wiki/index.php?title=Template:Spoilers&amp;action=edit" title="Template:Spoilers">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Guide:_Mine" title="Guide: Mine">Guide: Mine</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Guide:_Mine">http://cddawiki.chezzo.com/cdda_wiki/index.php/Guide:_Mine</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Guide%3A+Mine&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Guide%3A+Mine&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Guide:_Mine" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Guide:_Mine&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Guide:_Mine">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Guide:_Mine&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Guide:_Mine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Guide:_Mine" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Guide:_Mine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Guide:_Mine&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81});});</script>
+</body>
+</html>

@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Farming - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Farming","wgTitle":"Farming","wgCurRevisionId":38189,"wgRevisionId":38189,"wgArticleId":3268,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.D (Danny)","Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Farming","wgRelevantArticleId":3268,"wgRequestId":"X6yod@fUH3mVVvhZaGOu6QAAABU","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Farming rootpage-Farming skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Farming</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="clear: right; float: right; margin: 0 0 1em 1.4em; background: none; width: auto;">
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Planting"><span class="tocnumber">1</span> <span class="toctext">Planting</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Growing"><span class="tocnumber">2</span> <span class="toctext">Growing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#0.D_.28Danny.29_and_0.E_.28Ellison.29"><span class="tocnumber">2.1</span> <span class="toctext">0.D (Danny) and 0.E (Ellison)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#0.C_.28Cooper.29"><span class="tocnumber">2.2</span> <span class="toctext">0.C (Cooper)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Fertilize_your_plants_-_Or_don.27t.21"><span class="tocnumber">2.3</span> <span class="toctext">Fertilize your plants - Or don't!</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Crops_list"><span class="tocnumber">3</span> <span class="toctext">Crops list</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Harvest"><span class="tocnumber">4</span> <span class="toctext">Harvest</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Powered_Farming"><span class="tocnumber">5</span> <span class="toctext">Powered Farming</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Animal_Farming"><span class="tocnumber">6</span> <span class="toctext">Animal Farming</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Healing_animals"><span class="tocnumber">6.1</span> <span class="toctext">Healing animals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+</div>
+<pre><b>Guide initially based on <a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">0.C (Cooper)</a>, various updates for <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a> have been made.</b>
+Some of the information present here might not apply to future versions.
+</pre>
+<p>Farming in Cataclysm can be a rewarding way of providing sustenance for your character. As of <a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">0.C (Cooper)</a>, farming has received some solid updates and is now more than capable of providing all the food your character will need - despite the farming system being a work-in-progress (like everything else). Finding an actual <a href="/cdda_wiki/index.php?title=Farm" title="Farm">farm</a> in-game can be both tricky, and helpful - but is not necessary. If you can find a <a href="/cdda_wiki/index.php?title=Farm" title="Farm">farm</a>, it's a good thing, as the earth is already dug up for easy planting, and you can often find relevant tools, or vehicles - plus fruits, veggies, grains, herbs and occasionally seeds just sitting out in the fields (assuming they haven't rotted away yet). Otherwise you can just make your own garden in any old vacant lot or field.
+</p><p>The process of farming is pretty easy. It occurs in three steps - Planting, growing (read: waiting), and harvest. 
+</p>
+<h2><span class="mw-headline" id="Planting">Planting</span></h2>
+<p>The first order of business is to find yourself some <a href="/cdda_wiki/index.php?title=Seeds" title="Seeds">Seeds</a>. <a href="/cdda_wiki/index.php?title=Seeds" title="Seeds">Seeds</a> can be found in Gardening Supply buildings, Home Improvement Superstores, Hardware Stores, in <a href="/cdda_wiki/index.php?title=Farm" title="Farm">Farms</a> themselves, rarely in Houses, and some can be crafted by the player, using the crafting menu <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>. They also drop when a grown plant is successfully harvested. To get you started, you can get some early seeds by foraging underbrush in forests (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamine <a href="/cdda_wiki/index.php?title=Underbrush" title="Underbrush">underbrush</a>) - <a href="/cdda_wiki/index.php?title=Wild_vegetables" title="Wild vegetables">wild vegetables</a> or <a href="/cdda_wiki/index.php?title=Rhubarb&amp;action=edit&amp;redlink=1" class="new" title="Rhubarb (page does not exist)">rhubarb</a> you find can be crafted into <a href="/cdda_wiki/index.php?title=Wild_vegetable_stems&amp;action=edit&amp;redlink=1" class="new" title="Wild vegetable stems (page does not exist)">wild vegetable stems</a> or <a href="/cdda_wiki/index.php?title=Rhubarb_stems&amp;action=edit&amp;redlink=1" class="new" title="Rhubarb stems (page does not exist)">rhubarb stems</a> (requires Survival 2), which can be planted like seeds. In summer, you can find strawberry or blueberry bushes in open fields that can be harvested for seeds &amp; fruit as well. 
+</p><p>To plant seeds, you must <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamine a dirt mound with seeds in inventory. You can find some <a href="/cdda_wiki/index.php?title=Mound_of_dirt" title="Mound of dirt">dirt mounds</a> at a <a href="/cdda_wiki/index.php?title=Farm" title="Farm">farm</a>, but be wary of monsters if you're visiting the farm for the first time. Clear the farm first then look around for some tools, if the farm has some farming tools or seeds then you can start right there.
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:324px;"><a href="/cdda_wiki/index.php?title=File:1_farming_location.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/1_farming_location.png" decoding="async" width="322" height="188" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of a farm in Cataclysm: Dark Days Ahead.</div></div></div>
+<p>So find a nice set of <a href="/cdda_wiki/index.php?title=Mound_of_dirt" title="Mound of dirt">dirt mounds</a> on your farm to work with or just create your own <a href="/cdda_wiki/index.php?title=Mound_of_dirt" title="Mound of dirt">dirt mounds</a>. You can accomplish this with any digging tool, but the ideal implement by far would be a <a href="/cdda_wiki/index.php?title=Hoe" title="Hoe">hoe</a>. If you can't find or craft one, you can use a <a href="/cdda_wiki/index.php?title=Shovel" title="Shovel">Shovel</a>, <a href="/cdda_wiki/index.php?title=Entrenching_Tool&amp;action=edit&amp;redlink=1" class="new" title="Entrenching Tool (page does not exist)">Entrenching Tool</a> or even a simple <a href="/cdda_wiki/index.php?title=Digging_stick" title="Digging stick">Digging stick</a> (any tool with Digging of 1 or higher). Make mounds by entering the <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">*</span>Construction menu and choosing Till Soil. This process takes about 30 minutes per mound, a steep price to pay. A hoe is quicker.
+</p><p><a rel="nofollow" class="external text" href="http://i.imgur.com/4QV1DR9.png">Where to find hoe</a>
+</p><p>It's much faster to use the <a href="/cdda_wiki/index.php?title=Hoe" title="Hoe">hoe</a>, if you can find or build one; simply <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span>pply it and have your dirt mound ready in a minute.
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:389px;"><a href="/cdda_wiki/index.php?title=File:2_farming_apply_hoe.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/2_farming_apply_hoe.png" decoding="async" width="387" height="194" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of using the hoe tool in Cataclysm: Dark Days Ahead.</div></div></div>
+<p>Once you have dirt mounds, you must apply the seeds by <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamining the chosen mound. This will pop up a menu of seeds in your inventory - just choose the applicable seed and hit enter. Once the seeds are planted, the growing process begins.
+</p><p>One note: <b>You can only plant seeds when the temperature is 50F (10C) or greater.</b> Otherwise you'll get the message, <span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black;">"It is too cold to plant anything now."</span> So planting season begins in Spring, around day 6 or so. You may even find a small window between 2-4PM on day 5 if you really want to get started early.
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:495px;"><a href="/cdda_wiki/index.php?title=File:3_farming_examine_mound.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/3_farming_examine_mound.png" decoding="async" width="493" height="152" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of examining a mound of dirt in Cataclysm: Dark Days Ahead.</div></div></div>
+<p>Your dirt mounds become planted seeds.
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:157px;"><a href="/cdda_wiki/index.php?title=File:4_farming_planted_seed.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/4_farming_planted_seed.png" decoding="async" width="155" height="101" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of a planted seed in Cataclysm: Dark Days Ahead. For use on the CDDA wiki.</div></div></div>
+<h2><span class="mw-headline" id="Growing">Growing</span></h2>
+<p>Now, just sit back and wait for the seeds to sprout. They don't pop up overnight - growth takes place in four stages: planted seeds, seedling, mature plant, and fruiting plant. The time to finish the full growth cycle varies by plant. Also, growth times scale with season length, so in <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a>, the growth times have scaled with the change from 15 -&gt; 91 day seasons.
+</p><p>You will know when your crops are done by their appearance (bright green #), and their description tag (harvestable plant). Fruited plants will stay harvestable for a good period of time, a week or more (in <a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">0.C (Cooper)</a>) - if you do not harvest them within the available span, the plot will go back to seed and begin growth again starting from the seedling stage.
+</p><p>One important thing to note is that the growth a plant experiences won't actually be reflected until you leave the plant's reality bubble and return - a quick trip up and down a set of stairs will do it (unless you have Z-levels on). So if you think it should be harvest time but nothing looks ready, try leaving and coming back.
+</p><p>Another thing to keep in mind is that your crops are vulnerable at this stage and must be protected. Firstly from monsters - a zombie stumbling through your patch will ruin any planted crops it staggers across. Secondly from cold - be sure to harvest before winter, as the first day of winter will automatically kill off any growing plants and render them into <a href="/cdda_wiki/index.php?title=Withered_plant" title="Withered plant">withered plants</a>.
+</p>
+<h3><span id="0.D_(Danny)_and_0.E_(Ellison)"></span><span class="mw-headline" id="0.D_.28Danny.29_and_0.E_.28Ellison.29"><a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a> and <a href="/cdda_wiki/index.php?title=0.E_(Ellison)" title="0.E (Ellison)">0.E (Ellison)</a></span></h3>
+<p>Each plant has its own growth period.
+</p><p><a href="/cdda_wiki/index.php?title=Oats&amp;action=edit&amp;redlink=1" class="new" title="Oats (page does not exist)">Oats</a> are the fastest growing plant in the game. They grow in 45 days.
+</p><p><a href="/cdda_wiki/index.php?title=Zucchini" title="Zucchini">Zucchinis</a> grow in 47 days.
+</p><p><a href="/cdda_wiki/index.php?title=Cucumber" title="Cucumber">Cucumbers</a> grow in 60 days.
+</p><p><a href="/cdda_wiki/index.php?title=Carrot" title="Carrot">Carrots</a>, <a href="/cdda_wiki/index.php?title=Chili_pepper" title="Chili pepper">chili peppers</a>, <a href="/cdda_wiki/index.php?title=Garlic_bulb&amp;action=edit&amp;redlink=1" class="new" title="Garlic bulb (page does not exist)">garlic</a> (from both seeds and cloves), <a href="/cdda_wiki/index.php?title=Onion" title="Onion">onions</a>, <a href="/cdda_wiki/index.php?title=Tomato" title="Tomato">tomatoes</a>, and <a href="/cdda_wiki/index.php?title=Wild_roots&amp;action=edit&amp;redlink=1" class="new" title="Wild roots (page does not exist)">wild roots</a> grow in 65 days.
+</p><p><a href="/cdda_wiki/index.php?title=Barley" title="Barley">Barley</a> grows in 70 days.
+</p><p><a href="/cdda_wiki/index.php?title=Broccoli" title="Broccoli">Broccoli</a> grows in 75 days.
+</p><p><a href="/cdda_wiki/index.php?title=Corn" title="Corn">Corn</a> grows in 80 days.
+</p><p><a href="/cdda_wiki/index.php?title=Cabbage&amp;action=edit&amp;redlink=1" class="new" title="Cabbage (page does not exist)">Cabbage</a> and <a href="/cdda_wiki/index.php?title=Lettuce&amp;action=edit&amp;redlink=1" class="new" title="Lettuce (page does not exist)">lettuce</a> grow in 85 days.
+</p><p><a href="/cdda_wiki/index.php?title=Sugar_beet&amp;action=edit&amp;redlink=1" class="new" title="Sugar beet (page does not exist)">Sugar beets</a> grow in 90 days.
+</p><p><a href="/cdda_wiki/index.php?title=Bee_balm&amp;action=edit&amp;redlink=1" class="new" title="Bee balm (page does not exist)">Bee balm</a>, <a href="/cdda_wiki/index.php?title=Blackberry" title="Blackberry">blackberries</a>, <a href="/cdda_wiki/index.php?title=Blueberry" class="mw-redirect" title="Blueberry">blueberries</a>, <a href="/cdda_wiki/index.php?title=Buckwheat" title="Buckwheat">buckwheat</a>, <a href="/cdda_wiki/index.php?title=Cactus_pad&amp;action=edit&amp;redlink=1" class="new" title="Cactus pad (page does not exist)">cacti</a>, <a href="/cdda_wiki/index.php?title=Cannabis" title="Cannabis">cannabis</a>, <a href="/cdda_wiki/index.php?title=Canola_seeds&amp;action=edit&amp;redlink=1" class="new" title="Canola seeds (page does not exist)">canola</a>, <a href="/cdda_wiki/index.php?title=Cattail_rhizome&amp;action=edit&amp;redlink=1" class="new" title="Cattail rhizome (page does not exist)">cattails</a>, <a href="/cdda_wiki/index.php?title=Chamomile_flowers&amp;action=edit&amp;redlink=1" class="new" title="Chamomile flowers (page does not exist)">chamomile</a>, <a href="/cdda_wiki/index.php?title=Chicory&amp;action=edit&amp;redlink=1" class="new" title="Chicory (page does not exist)">chicory</a>, <a href="/cdda_wiki/index.php?title=Cranberry" title="Cranberry">cranberries</a>, <a href="/cdda_wiki/index.php?title=Dahlia&amp;action=edit&amp;redlink=1" class="new" title="Dahlia (page does not exist)">dahlia</a>, <a href="/cdda_wiki/index.php?title=Handful_of_dandelions" title="Handful of dandelions">dandelions</a>, <a href="/cdda_wiki/index.php?title=Datura_seeds" title="Datura seeds">datura</a>, <a href="/cdda_wiki/index.php?title=Decorative_plant&amp;action=edit&amp;redlink=1" class="new" title="Decorative plant (page does not exist)">decorative plants</a>, <a href="/cdda_wiki/index.php?title=Dogbane&amp;action=edit&amp;redlink=1" class="new" title="Dogbane (page does not exist)">dogbane</a>, <a href="/cdda_wiki/index.php?title=Elderberry&amp;action=edit&amp;redlink=1" class="new" title="Elderberry (page does not exist)">elderberries</a>, <a href="/cdda_wiki/index.php?title=Fungal&amp;action=edit&amp;redlink=1" class="new" title="Fungal (page does not exist)">fungal</a>, <a href="/cdda_wiki/index.php?title=Grape" title="Grape">grapes</a>, <a href="/cdda_wiki/index.php?title=Huckleberry&amp;action=edit&amp;redlink=1" class="new" title="Huckleberry (page does not exist)">huckleberries</a>, <a href="/cdda_wiki/index.php?title=Marloss" title="Marloss">marloss berries</a>, <a href="/cdda_wiki/index.php?title=Mugwort&amp;action=edit&amp;redlink=1" class="new" title="Mugwort (page does not exist)">mugwort</a>, <a href="/cdda_wiki/index.php?title=Mulberry&amp;action=edit&amp;redlink=1" class="new" title="Mulberry (page does not exist)">mulberries</a>, <a href="/cdda_wiki/index.php?title=Mushroom" title="Mushroom">mushrooms</a>, <a href="/cdda_wiki/index.php?title=Morel_mushroom&amp;action=edit&amp;redlink=1" class="new" title="Morel mushroom (page does not exist)">morel mushrooms</a>, <a href="/cdda_wiki/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">pumpkins</a>, <a href="/cdda_wiki/index.php?title=Raspberry&amp;action=edit&amp;redlink=1" class="new" title="Raspberry (page does not exist)">raspberries</a>, <a href="/cdda_wiki/index.php?title=Raw_beans&amp;action=edit&amp;redlink=1" class="new" title="Raw beans (page does not exist)">raw beans</a>, <a href="/cdda_wiki/index.php?title=Raw_lentils&amp;action=edit&amp;redlink=1" class="new" title="Raw lentils (page does not exist)">raw lentils</a>, <a href="/cdda_wiki/index.php?title=Raw_tobacco&amp;action=edit&amp;redlink=1" class="new" title="Raw tobacco (page does not exist)">raw tobacco</a>, <a href="/cdda_wiki/index.php?title=Rhubarb&amp;action=edit&amp;redlink=1" class="new" title="Rhubarb (page does not exist)">rhubarb</a>, <a href="/cdda_wiki/index.php?title=Rose_hips&amp;action=edit&amp;redlink=1" class="new" title="Rose hips (page does not exist)">roses</a>, <a href="/cdda_wiki/index.php?title=Salsify&amp;action=edit&amp;redlink=1" class="new" title="Salsify (page does not exist)">salsify</a>, <a href="/cdda_wiki/index.php?title=Soybean&amp;action=edit&amp;redlink=1" class="new" title="Soybean (page does not exist)">soybeans</a>, <a href="/cdda_wiki/index.php?title=Strawberry&amp;action=edit&amp;redlink=1" class="new" title="Strawberry (page does not exist)">strawberries</a>, <a href="/cdda_wiki/index.php?title=Sunflower&amp;action=edit&amp;redlink=1" class="new" title="Sunflower (page does not exist)">sunflowers</a>, <a href="/cdda_wiki/index.php?title=Thyme&amp;action=edit&amp;redlink=1" class="new" title="Thyme (page does not exist)">thyme</a>, <a href="/cdda_wiki/index.php?title=Wild_herbs&amp;action=edit&amp;redlink=1" class="new" title="Wild herbs (page does not exist)">wild herbs</a>, and <a href="/cdda_wiki/index.php?title=Wild_vegetables" title="Wild vegetables">wild vegetables</a> grow in 91 days.
+</p><p><a href="/cdda_wiki/index.php?title=Raw_potato" title="Raw potato">Potatoes</a> grow in 95 days.
+</p><p><a href="/cdda_wiki/index.php?title=Hops_flower" title="Hops flower">Hops</a> and <a href="/cdda_wiki/index.php?title=Wheat" title="Wheat">wheat</a> grow in 120 days.
+</p><p><a href="/cdda_wiki/index.php?title=Celery" title="Celery">Celery</a> and <a href="/cdda_wiki/index.php?title=Cotton_boll" title="Cotton boll">cotton</a> take the longest to grow, at 130 days.
+</p><p><br />
+</p><p>You're in luck if you can find <a href="/cdda_wiki/index.php?title=Oat_seeds&amp;action=edit&amp;redlink=1" class="new" title="Oat seeds (page does not exist)">oat seeds</a> or <a href="/cdda_wiki/index.php?title=Zucchini_seeds" title="Zucchini seeds">zucchini seeds</a> early on - if you get started early in the year, you could potentially squeeze 4 back-to-back harvests into one growing season, providing enough oatmeal for years to come.
+</p><p><br />
+</p>
+<h3><span id="0.C_(Cooper)"></span><span class="mw-headline" id="0.C_.28Cooper.29"><a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">0.C (Cooper)</a></span></h3>
+<p>In <a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">0.C (Cooper)</a> (note that this version had shorter seasons), there are three speeds at which plants grow: Fast, Medium and Slow. Growth time generally takes a week or two. 
+</p><p>Fast-growing plants take 2 days per stage, fruiting in 8 total days. These are <a href="/cdda_wiki/index.php?title=Oats&amp;action=edit&amp;redlink=1" class="new" title="Oats (page does not exist)">oats</a> and <a href="/cdda_wiki/index.php?title=Zucchini" title="Zucchini">zucchini</a>.
+</p><p>Medium-speed plants take 3 days per stage, fruiting in 12 days. These plants are <a href="/cdda_wiki/index.php?title=Barley" title="Barley">barley</a>, <a href="/cdda_wiki/index.php?title=Broccoli" title="Broccoli">broccoli</a>, <a href="/cdda_wiki/index.php?title=Chili_pepper" title="Chili pepper">chili pepper</a>, <a href="/cdda_wiki/index.php?title=Carrot" title="Carrot">carrot</a>, <a href="/cdda_wiki/index.php?title=Cucumber" title="Cucumber">cucumber</a>, <a href="/cdda_wiki/index.php?title=Garlic_bulb&amp;action=edit&amp;redlink=1" class="new" title="Garlic bulb (page does not exist)">garlic</a>, <a href="/cdda_wiki/index.php?title=Onion" title="Onion">onion</a>, and <a href="/cdda_wiki/index.php?title=Tomato" title="Tomato">tomato</a>. 
+</p><p>Slow-growing plants take 4 days per stage, fruiting in 16 days. These plants are <a href="/cdda_wiki/index.php?title=Blueberry" class="mw-redirect" title="Blueberry">blueberry</a>, <a href="/cdda_wiki/index.php?title=Blackberry" title="Blackberry">blackberry</a>, <a href="/cdda_wiki/index.php?title=Bee_balm&amp;action=edit&amp;redlink=1" class="new" title="Bee balm (page does not exist)">bee balm</a>, <a href="/cdda_wiki/index.php?title=Buckwheat" title="Buckwheat">buckwheat</a>, <a href="/cdda_wiki/index.php?title=Cannabis" title="Cannabis">cannabis</a>, <a href="/cdda_wiki/index.php?title=Canola&amp;action=edit&amp;redlink=1" class="new" title="Canola (page does not exist)">canola</a>, <a href="/cdda_wiki/index.php?title=Cabbage&amp;action=edit&amp;redlink=1" class="new" title="Cabbage (page does not exist)">cabbage</a>, <a href="/cdda_wiki/index.php?title=Cranberry" title="Cranberry">cranberry</a>, <a href="/cdda_wiki/index.php?title=Corn" title="Corn">corn</a>, <a href="/cdda_wiki/index.php?title=Fungal&amp;action=edit&amp;redlink=1" class="new" title="Fungal (page does not exist)">fungal</a>, <a href="/cdda_wiki/index.php?title=Dandelion&amp;action=edit&amp;redlink=1" class="new" title="Dandelion (page does not exist)">dandelion</a>, <a href="/cdda_wiki/index.php?title=Datura&amp;action=edit&amp;redlink=1" class="new" title="Datura (page does not exist)">datura</a>, <a href="/cdda_wiki/index.php?title=Dogbane&amp;action=edit&amp;redlink=1" class="new" title="Dogbane (page does not exist)">dogbane</a>, <a href="/cdda_wiki/index.php?title=Lettuce&amp;action=edit&amp;redlink=1" class="new" title="Lettuce (page does not exist)">lettuce</a>, <a href="/cdda_wiki/index.php?title=Marloss" title="Marloss">marloss</a>, <a href="/cdda_wiki/index.php?title=Morel_mushroom&amp;action=edit&amp;redlink=1" class="new" title="Morel mushroom (page does not exist)">morel mushroom</a>, <a href="/cdda_wiki/index.php?title=Mugwort&amp;action=edit&amp;redlink=1" class="new" title="Mugwort (page does not exist)">mugwort</a>, <a href="/cdda_wiki/index.php?title=Mushroom" title="Mushroom">mushroom</a>, <a href="/cdda_wiki/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">pumpkin</a>, <a href="/cdda_wiki/index.php?title=Raspberry&amp;action=edit&amp;redlink=1" class="new" title="Raspberry (page does not exist)">raspberry</a>, <a href="/cdda_wiki/index.php?title=Beans" title="Beans">beans</a>, <a href="/cdda_wiki/index.php?title=Rhubarb&amp;action=edit&amp;redlink=1" class="new" title="Rhubarb (page does not exist)">rhubarb</a>, <a href="/cdda_wiki/index.php?title=Potatoes&amp;action=edit&amp;redlink=1" class="new" title="Potatoes (page does not exist)">potatoes</a>, <a href="/cdda_wiki/index.php?title=Strawberry&amp;action=edit&amp;redlink=1" class="new" title="Strawberry (page does not exist)">strawberry</a>, <a href="/cdda_wiki/index.php?title=Sugar_beet&amp;action=edit&amp;redlink=1" class="new" title="Sugar beet (page does not exist)">sugar beet</a>, <a href="/cdda_wiki/index.php?title=Sunflower&amp;action=edit&amp;redlink=1" class="new" title="Sunflower (page does not exist)">sunflower</a>, <a href="/cdda_wiki/index.php?title=Thyme&amp;action=edit&amp;redlink=1" class="new" title="Thyme (page does not exist)">thyme</a>, <a href="/cdda_wiki/index.php?title=Wheat" title="Wheat">wheat</a>, <a href="/cdda_wiki/index.php?title=Wild_herbs&amp;action=edit&amp;redlink=1" class="new" title="Wild herbs (page does not exist)">wild herbs</a> and <a href="/cdda_wiki/index.php?title=Wild_vegetables" title="Wild vegetables">wild vegetables</a>.
+</p>
+<h3><span id="Fertilize_your_plants_-_Or_don't!"></span><span class="mw-headline" id="Fertilize_your_plants_-_Or_don.27t.21">Fertilize your plants - Or don't!</span></h3>
+<p>(<b>This step is optional - fertilized seeds will grow much faster but yield much less crop!</b>)
+</p><p>Fertilization is a double-edged sword. On the one hand, your crops will be finished much faster - fast-growing crops (<a href="/cdda_wiki/index.php?title=Oats&amp;action=edit&amp;redlink=1" class="new" title="Oats (page does not exist)">oats</a> and <a href="/cdda_wiki/index.php?title=Zucchini" title="Zucchini">zucchini</a>) will grow to the next phase of growth instantly, while medium-speed crops will take only 5 hours to advance to the next stage. The slowest crops will still take a few days between stages. The drawback is that you will almost certainly harvest the minimum amount possible at harvest time. This is usually one for veggies/fruits and 4 for grains, compared to 10-12 or 48 or so if they are left to grow the full time. You will, however, receive a few seeds, so for purposes of multiplying low seed stores, the fertilizer you spend could be worth it.
+</p><p>Liquid fertilizer can be easily found (it may be on the farm itself, or in a garden supply store, hardware store, etc), but you may have to craft it. It requires a cooking skill of 3 and survival skill of 2. If you've these skills then you can craft it using 1 <a href="/cdda_wiki/index.php?title=Water" title="Water">water</a> or 1 <a href="/cdda_wiki/index.php?title=Clean_water" title="Clean water">clean water</a>, 2 <a href="/cdda_wiki/index.php?title=Bone_meal" title="Bone meal">bone meals</a>, 1 <a href="/cdda_wiki/index.php?title=Chitin_powder" title="Chitin powder">chitin powder</a> and 1 <a href="/cdda_wiki/index.php?title=Ammonia" title="Ammonia">ammonia</a> or 100 <a href="/cdda_wiki/index.php?title=Lye_powder" title="Lye powder">lye powder</a> or 50 <a href="/cdda_wiki/index.php?title=Saltpeter&amp;action=edit&amp;redlink=1" class="new" title="Saltpeter (page does not exist)">Saltpeter</a>. <a href="/cdda_wiki/index.php?title=Chitin_powder" title="Chitin powder">Chitin powder</a> can be ground from chunk of chitin using a <a href="/cdda_wiki/index.php?title=Quern" title="Quern">quern</a>, <a href="/cdda_wiki/index.php?title=Ammonia" title="Ammonia">ammonia</a> is commonly found in <a href="/cdda_wiki/index.php?title=Gallon_jug" title="Gallon jug">gallon jugs</a> in most houses and <a href="/cdda_wiki/index.php?title=Bone_meal" title="Bone meal">bone meal</a> can be created from bones using a <a href="/cdda_wiki/index.php?title=Quern" title="Quern">quern</a> or <a href="/cdda_wiki/index.php?title=Food_processor&amp;action=edit&amp;redlink=1" class="new" title="Food processor (page does not exist)">food processor</a>.
+</p><p><br />
+When fertilizing, don't <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span>ctivate the <a href="/cdda_wiki/index.php?title=Plant_food" title="Plant food">plant food</a> (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span>ctivating or <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">E</span>ating the substance can prove harmful, don't do it!).
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:408px;"><a href="/cdda_wiki/index.php?title=File:5_farming_apply_fertilizer_NO.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/5_farming_apply_fertilizer_NO.png" decoding="async" width="406" height="80" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of activating fertilizer in Cataclysm: Dark Days Ahead.</div></div></div>
+<p>Instead, <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamine a seed with some <a href="/cdda_wiki/index.php?title=Liquid_fertilizer&amp;action=edit&amp;redlink=1" class="new" title="Liquid fertilizer (page does not exist)">liquid fertilizer</a> in your inventory, just as with planting.
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:472px;"><a href="/cdda_wiki/index.php?title=File:7_farming_fertilized.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/63/7_farming_fertilized.png" decoding="async" width="470" height="82" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of applied fertilizer in Cataclysm: Dark Days Ahead.</div></div></div>
+<div class="thumb tnone"><div class="thumbinner" style="width:582px;"><a href="/cdda_wiki/index.php?title=File:6_farming_examine_seed_YES.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/6_farming_examine_seed_YES.png" decoding="async" width="580" height="206" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of examining a seed in Cataclysm: Dark Days Ahead.</div></div></div>
+<p>Plants can be fertilized once at every stage of growth (seed, seedling, and mature) for cumulative effect.
+</p>
+<h2><span class="mw-headline" id="Crops_list">Crops list</span></h2>
+<p>We have a list of various crops for <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a>. The tiers are subjective, and subject to change.
+</p>
+<table cellpadding="3" class="sortable mw-collapsible mw-collapsed" style="border-collapse: collapse; margin: 1em 0">
+<tbody><tr style="background-color:lightgreen">
+<th style="border: 1px solid #aaa; border-left-color: white"> Name </th>
+<th style="border: 1px solid #aaa"> <abbr title="Totally subjective tier ranking">Tier</abbr><br /> </th>
+<th style="border: 1px solid #aaa"> <abbr title="Additional information here">Notes</abbr><br /> </th>
+</tr>
+
+<tr id="Barley" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Barley" title="Barley">Barley</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Can basically only make flour and booze.</td>
+</tr>
+
+<tr id="Blackberry" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Blackberry" title="Blackberry">Blackberry</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Berry</td>
+</tr>
+
+<tr id="Blueberry" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Blueberry" class="mw-redirect" title="Blueberry">Blueberry</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Berry</td>
+</tr>
+
+<tr id="Broccoli" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Broccolo&amp;action=edit&amp;redlink=1" class="new" title="Broccolo (page does not exist)">Broccolo</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Basic vegetable</td>
+</tr>
+
+<tr id="Buckwheat" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Buckwheat" title="Buckwheat">Buckwheat</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Makes flour, does not rot.</td>
+</tr>
+
+<tr id="Cabbage" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Cabbage&amp;action=edit&amp;redlink=1" class="new" title="Cabbage (page does not exist)">Cabbage</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Used in a lot of recipes, keeps ok.</td>
+</tr>
+
+<tr id="Cannabis" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Cannabis" title="Cannabis">Cannabis</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Weed and plant fibre, seeds turn into oil.</td>
+</tr>
+
+<tr id="Canola" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Canola&amp;action=edit&amp;redlink=1" class="new" title="Canola (page does not exist)">Canola</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>C</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Cotton gives way more seeds and oil, and thread.</td>
+</tr>
+
+<tr id="Carrot" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Carrot" title="Carrot">Carrot</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Lot of recipes, keeps ok.</td>
+</tr>
+
+<tr id="Celery" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Celery" title="Celery">Celery</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Lots of recipes, keeps ok.</td>
+</tr>
+
+<tr id="Chilli_pepper" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Chilli_pepper&amp;action=edit&amp;redlink=1" class="new" title="Chilli pepper (page does not exist)">Chilli pepper</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>F</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Used in basically nothing.</td>
+</tr>
+
+<tr id="Corn" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Corn" title="Corn">Corn</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>S</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Makes a ton of stuff, including cornmeal, sugar.</td>
+</tr>
+
+<tr id="Cotton" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Cotton&amp;action=edit&amp;redlink=1" class="new" title="Cotton (page does not exist)">Cotton</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Slow growing, gives infinite thread and oil if you process the bolls.</td>
+</tr>
+
+<tr id="Cranberry" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Cranberry" title="Cranberry">Cranberry</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Berry</td>
+</tr>
+
+<tr id="Cucumber" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Cucumber" title="Cucumber">Cucumber</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Makes pickles.</td>
+</tr>
+
+<tr id="Dandelion" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Dandelion&amp;action=edit&amp;redlink=1" class="new" title="Dandelion (page does not exist)">Dandelion</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>F</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Only good to keep you from starving, not very nutritious</td>
+</tr>
+
+<tr id="Garlic" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Garlic" class="mw-redirect" title="Garlic">Garlic</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Gives a ton of product, keeps well for a long time, lot of uses.</td>
+</tr>
+
+<tr id="Hops" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Hops&amp;action=edit&amp;redlink=1" class="new" title="Hops (page does not exist)">Hops</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>F</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Only used for beer and tanning. For the latter tanbark is easier to get.</td>
+</tr>
+
+<tr id="Lettuce" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Lettuce&amp;action=edit&amp;redlink=1" class="new" title="Lettuce (page does not exist)">Lettuce</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Doesn't keep well, not used a lot.</td>
+</tr>
+
+<tr id="Oats" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Oats&amp;action=edit&amp;redlink=1" class="new" title="Oats (page does not exist)">Oats</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>S</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Fast growing, makes oatmeal and flour, doesn't rot.</td>
+</tr>
+
+<tr id="Onion" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Onion" title="Onion">Onion</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Keeps well.</td>
+</tr>
+
+<tr id="Potato" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Potato&amp;action=edit&amp;redlink=1" class="new" title="Potato (page does not exist)">Potato</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Keeps well, makes good booze, used in a lot of recipes.</td>
+</tr>
+
+<tr id="Pumpkin" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">Pumpkin</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>C</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Edible seeds, not a lot of product, rots quickly.</td>
+</tr>
+
+<tr id="Raspberry" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Raspberry&amp;action=edit&amp;redlink=1" class="new" title="Raspberry (page does not exist)">Raspberry</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Berry</td>
+</tr>
+
+<tr id="Rhubarb" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Rhubarb&amp;action=edit&amp;redlink=1" class="new" title="Rhubarb (page does not exist)">Rhubarb</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>C</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Only usefull to make sugar.</td>
+</tr>
+
+<tr id="Strawberry" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Strawberry&amp;action=edit&amp;redlink=1" class="new" title="Strawberry (page does not exist)">Strawberry</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Berry</td>
+</tr>
+
+<tr id="Sugar_beet" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Sugar_beet&amp;action=edit&amp;redlink=1" class="new" title="Sugar beet (page does not exist)">Sugar beet</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Makes sugar and other products.</td>
+</tr>
+
+<tr id="Sunflower" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Sunflower&amp;action=edit&amp;redlink=1" class="new" title="Sunflower (page does not exist)">Sunflower</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>C</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Seeds can give oil or be eaten, not a lot of seeds.</td>
+</tr>
+
+<tr id="Tomato" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Tomato" title="Tomato">Tomato</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">The most versatile vegetable. Can it for more uses.</td>
+</tr>
+
+<tr id="Wild_herb" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Wild_herb&amp;action=edit&amp;redlink=1" class="new" title="Wild herb (page does not exist)">Wild herb</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>A</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Makes massive amounts of herbs, easy to grow, lot of uses.</td>
+</tr>
+
+<tr id="Wild_vegetable" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Wild_vegetable&amp;action=edit&amp;redlink=1" class="new" title="Wild vegetable (page does not exist)">Wild vegetable</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>B</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Found everywhere, lot of uses.</td>
+</tr>
+
+<tr id="Zucchini" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Zucchini" title="Zucchini">Zucchini</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>C</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Fast growing, but keeps badly, and not used a lot.</td>
+</tr>
+
+<tr id="Bee_balm" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Bee_balm&amp;action=edit&amp;redlink=1" class="new" title="Bee balm (page does not exist)">Bee balm</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>M</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Medical: Anti-flu tea</td>
+</tr>
+
+<tr id="Datura" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Datura&amp;action=edit&amp;redlink=1" class="new" title="Datura (page does not exist)">Datura</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>M</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Medical: <a href="/cdda_wiki/index.php?title=Datura_seeds" title="Datura seeds">Datura seeds</a> are used for anti-parasitics or adrenaline.</td>
+</tr>
+
+<tr id="Dogbane" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Dogbane&amp;action=edit&amp;redlink=1" class="new" title="Dogbane (page does not exist)">Dogbane</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>F</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Only used for plant fibre</td>
+</tr>
+
+<tr id="Mugwort" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Mugwort&amp;action=edit&amp;redlink=1" class="new" title="Mugwort (page does not exist)">Mugwort</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>M</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Medical: Easier to get, but less effective anti-parasitic.</td>
+</tr>
+
+<tr id="Thyme" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Thyme&amp;action=edit&amp;redlink=1" class="new" title="Thyme (page does not exist)">Thyme</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>M</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Medical: Disinfectant oil.</td>
+</tr>
+
+<tr id="Poppy" style="text-align:right">
+<td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><a href="/cdda_wiki/index.php?title=Poppy&amp;action=edit&amp;redlink=1" class="new" title="Poppy (page does not exist)">Poppy</a></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;"><b>M</b></td><td style="border: 1px solid #aaa; border-left-color: #333; padding: 0.2em 0.5em; white-space:nowrap;">Medical: Everyone's favourite painkiller</td>
+</tr>
+</tbody></table>
+<ul><li>All berries and fruits will give you <a href="/cdda_wiki/index.php?title=Yeast&amp;action=edit&amp;redlink=1" class="new" title="Yeast (page does not exist)">yeast</a> as a byproduct if turned into must and <a href="/cdda_wiki/index.php?title=Brewing" title="Brewing">fermented in a vat</a>. Berry bushes can be harvested multiple times. Can also make longlasting <a href="/cdda_wiki/index.php?title=Pemmican" title="Pemmican">pemmican</a>. Great for mass production of booze and/or biodiesel.</li>
+<li>Flour was non-perishable in <a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">0.C (Cooper)</a>, and last a long time in <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a> and is used in a lot of recipes. Flour-making foods are a godsend, so pay attention to them.</li>
+<li>Some crops are only for medical purposes (<b>M</b> tier). It is usually best to convert these into non perishable variants, so you don't have the situation where you are sick but all your medical plants have rotted away.</li></ul>
+<h2><span class="mw-headline" id="Harvest">Harvest</span></h2>
+<p>Once they are ready, <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamine your plants to harvest them. You'll receive some produce, some seeds, and straw/withered plants. Different types of plants will produce in different quantities. Grains like barley and buckwheat will produce at a high rate, averaging around 46-48 grains per plant and somewhere around 6-12 seeds. <a href="/cdda_wiki/index.php?title=Lettuce&amp;action=edit&amp;redlink=1" class="new" title="Lettuce (page does not exist)">Lettuce</a> and <a href="/cdda_wiki/index.php?title=Carrot" title="Carrot">carrots</a> produce in high amounts in the 60s and 70s, while other plants like <a href="/cdda_wiki/index.php?title=Cabbage&amp;action=edit&amp;redlink=1" class="new" title="Cabbage (page does not exist)">cabbage</a> produce more in the 10-12 veggie range, and more like 18-24 seeds. For a breakdown of average yields, see the <a href="/cdda_wiki/index.php?title=Seeds" title="Seeds">seeds</a> page.
+</p><p>Make sure you are ready to eat/preserve any perishables, because the spawned items will start to go to rot as soon as they are harvested. Congratulations! You've just farmed your first homegrown produce.
+</p>
+<h2><span class="mw-headline" id="Powered_Farming">Powered Farming</span></h2>
+<p>In <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a> you can find and build farm equipment that <a href="/cdda_wiki/index.php?title=Plow" title="Plow">plows</a>, <a href="/cdda_wiki/index.php?title=Seed_drill" title="Seed drill">seeds</a>, and <a href="/cdda_wiki/index.php?title=Reaper" title="Reaper">harvests</a> respectively.
+</p><p>The following vehicle (<a rel="nofollow" class="external text" href="https://discourse.cataclysmdda.org/t/harvesting-crops/16950/5">source</a>) would allow you to reap, plow and drill (seed) two lines of tiles:
+</p>
+<pre> o o
+DPs&gt;R
+DPs&gt;R
+ o o
+</pre>
+<p>In the example above, the reaper (R) is followed by an engine (&gt;), a seat (s), a plow (P) and a drill (D).
+</p><p>As of yet, there is no fertilizer attachment for vehicles and the chemical sprayer doesn't accept liquid fertilizer. Details to follow.
+</p>
+<h2><span class="mw-headline" id="Animal_Farming">Animal Farming</span></h2>
+<p>As of <a href="/cdda_wiki/index.php?title=0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a>, you can also farm various animals such as <a href="/cdda_wiki/index.php?title=Cow" title="Cow">cows</a>. More details to follow.
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:502px;"><a href="/cdda_wiki/index.php?title=File:CDDA_power_farming.gif" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/CDDA_power_farming.gif" decoding="async" width="500" height="281" class="thumbimage" /></a>  <div class="thumbcaption">A screen shot of a tractor vehicle in Cataclysm: Dark Days Ahead.</div></div></div>
+<h3><span class="mw-headline" id="Healing_animals">Healing animals</span></h3>
+<p>It is in <a href="/cdda_wiki/index.php?title=0.E_(Ellison)" title="0.E (Ellison)">0.E (Ellison)</a> not yet possible to heal animals directly, but animals will heal damage over time. So just keep the biters away, or install the <a href="/cdda_wiki/index.php?title=Magiclysm" title="Magiclysm">Magiclysm</a> <a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">mod</a>, and use spells.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/cdda_wiki/index.php?title=Category:Seeds" title="Category:Seeds">list of various seeds listed on the wiki</a></li>
+<li><a href="/cdda_wiki/index.php?title=Comestibles/Seeds" title="Comestibles/Seeds">A table with all plantable seeds etc</a>.</li></ul>
+<p class="mw-empty-elt">
+</p>
+<table class="navbox" cellspacing="0" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Guides" title="Template:Guides"><span title="View this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Guides" title="Template talk:Guides"><span title="Discuss this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit"><span title="Edit this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Choosing_Martial_Arts_Styles" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Example_Character_Builds" title="Example Character Builds">Example Character Builds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_First_Day" title="The First Day">The First Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Dynamic_Spawn_Mode" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Killing_zombies" title="Killing zombies">Killing zombies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Scavenging" title="Scavenging">Scavenging</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Weapons_getting_stuck" title="Weapons getting stuck">Weapons getting stuck</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Archer_Guide" title="Archer Guide">Archer Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Beyond_the_first_day" title="Beyond the first day">Beyond the first day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Brewing" title="Brewing">Brewing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clothing_Encumbrance" title="Clothing Encumbrance">Clothing Encumbrance</a> &#160;<span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">Farming</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Hunting" title="Hunting">Hunting</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse" title="Hobo&#39;s Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Night_Raids:_Guide" title="Night Raids: Guide">Night Raids</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Power" title="Power">Power</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Recoil" title="Recoil">Recoil</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland Survival</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Melee_Guide" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Category:Advanced_guides" title="Category:Advanced guides">Advanced</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Advanced_Character_Build_Tips" title="Advanced Character Build Tips">Advanced Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clearing_the_city" title="Clearing the city">Clearing the city</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Fungal Bloom</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Broken_Cyborg" title="Guide: Broken Cyborg">Broken Cyborg</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Marloss_Berry" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="/cdda_wiki/index.php?title=Guide:_Mycus" title="Guide: Mycus">Mycus</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Mine" title="Guide: Mine">Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Nudist_Challenge" title="Guide: Nudist Challenge">Nudist Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Strange_Temple" title="Guide: Strange Temple">Strange Temple</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Triffid_Grove" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Vehicles" title="Vehicles">Vehicles</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Driving" title="Driving">Driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Engines" title="Engines">Engines</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_a_Supercar:_Guide" title="Making a Supercar: Guide">Making a Supercar</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer" title="(DRbiG&#39;s) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_construction" title="Vehicle construction">Vehicle construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_modifications" title="Vehicle modifications">Vehicle modifications</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_parts" title="Vehicle parts">Vehicle parts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_repairs" title="Vehicle repairs">Vehicle repairs</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_your_first_vehicle_(The_humble_bicycle)" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Guide:_Seeker_of_the_Arcane" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_How_to_make_a_basic_slime_vehicle" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Technical" class="mw-redirect" title="Technical">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=CataModder" title="CataModder">CataModder</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Cheating" title="Cheating">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Creature_AI" title="Creature AI">Creature AI</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_compile" title="How to compile">How to compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_search_the_sources" title="How to search the sources">How to search the sources</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mod_manager" title="Mod manager">Mod Manager</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Savegame_Editing" title="Savegame Editing">Savegame Editing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Tileset_Support" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20201111230443
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.648 seconds
+Real time usage: 5.344 seconds
+Preprocessor visited node count: 1661/1000000
+Preprocessor generated node count: 12277/1000000
+Post‐expand include size: 34216/2097152 bytes
+Template argument size: 13614/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  158.287      1 -total
+ 39.57%   62.633      1 Template:Guides
+ 35.59%   56.336      1 Template:Navbox
+ 30.57%   48.382      1 Template:Ver
+  8.80%   13.922      1 Template:Navbar
+  7.87%   12.462      1 Template:Igs
+  7.63%   12.079     15 Template:InlineVer
+  5.78%    9.151     11 Template:K
+  5.30%    8.382      3 Template:Transclude
+  4.28%    6.768      1 Template:Tocr
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3268-0!canonical and timestamp 20201111230437 and revision id 38189
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Farming&amp;oldid=38189">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Farming&amp;oldid=38189</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:0.D_(Danny)" title="Category:0.D (Danny)">0.D (Danny)</a></li><li><a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Farming&amp;returntoquery=amp%253Baction%3Dsubmit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Farming&amp;returntoquery=amp%253Baction%3Dsubmit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Farming" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php?title=Talk:Farming" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Farming">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Farming&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Farming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Farming" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Farming" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Farming&amp;amp%3Baction=submit&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Farming&amp;oldid=38189" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Farming&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 November 2020, at 15:15.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"5.344","ppvisitednodes":{"value":1661,"limit":1000000},"ppgeneratednodes":{"value":12277,"limit":1000000},"postexpandincludesize":{"value":34216,"limit":2097152},"templateargumentsize":{"value":13614,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  158.287      1 -total"," 39.57%   62.633      1 Template:Guides"," 35.59%   56.336      1 Template:Navbox"," 30.57%   48.382      1 Template:Ver","  8.80%   13.922      1 Template:Navbar","  7.87%   12.462      1 Template:Igs","  7.63%   12.079     15 Template:InlineVer","  5.78%    9.151     11 Template:K","  5.30%    8.382      3 Template:Transclude","  4.28%    6.768      1 Template:Tocr"]},"cachereport":{"timestamp":"20201111230443","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":287});});</script>
+</body>
+</html>
