@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Main Page - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":40480,"wgRevisionId":0,"wgArticleId":1,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Main_Page","wgRelevantArticleId":1,"wgRequestId":"ZeC62pRnGehkN8zZDmW-sgAAAO8","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Main Page</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Main_Page" title="Main Page">Main Page</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reasons:
+</p>
+<ul class="permissions-errors">
+<li>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.</li>
+<li>This page has been protected to prevent editing or other actions.</li>
+</ul><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{DISPLAYTITLE:&lt;span style="display:none">{{FULLPAGENAME}}&lt;/span>}}
+{| width=100%
+|rowspan="2" style="text-align: left; padding: 0.5em 1em 0.5em 0; border-right: 1px #AAAAAA solid; white-space:nowrap"|
+*[[Download]] or [https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/COMPILING/COMPILING.md Compile]
+*[[Controls]] and [[Options]]
+*[[Community|The wider C:DDA community]]
+*[[:Category:Guides|Guides]] and [[FAQ]]
+*[[Glossary]]
+*[https://www57.atwiki.jp/cataclyj/pages/185.html Japanese wiki 日本語]
+*[https://nornagon.github.io/cdda-guide/# Hitchhiker's Guide to the Cataclysm] - [http://cdda.sikstus.com/items.html Item locator]
+----
+&lt;big>'''[[Character]]'''&lt;/big>
+*[[Scenarios]]
+*[[Stats]] and [[Skills]]
+*[[Traits]] and [[Professions]]
+*[[Bionics]] and [[Mutation]]s
+*[[Morale]]
+*[[Effects|Status effects]]
+----
+&lt;big>'''[[World]]'''&lt;/big>
+*[[Map]] and [[Terrain types]]
+*[[Enemies]]
+*[[Traps]] and [[Fields|Tile effects]]
+*[[Vehicles|‎‎Vehicles and driving]]
+*[[Date and Time]]
+*[[Weather]] and [[Noise]]
+*[[Lore]], [[Easter eggs|Easter Eggs]]
+
+----
+&lt;big>'''[[Creation]]'''&lt;/big>
+*[[Crafting]] and [[Construction]]
+*[[Components]]
+
+----
+&lt;big>'''[[Weapons]]'''&lt;/big>
+*[[Melee Weapons]]
+*[[Ranged Weapons]]
+&lt;!--**[[Ammunition]]-->
+&lt;!--**[[Handguns]]-->
+&lt;!--**[[Shotguns]]-->
+&lt;!--**[[Submachine guns]]-->
+&lt;!--**[[Rifles]]-->
+&lt;!--**[[Firearms modifications|Modifications]]-->
+*[[Explosives]]
+*[[Martial arts]]
+----
+&lt;big>'''[[Items]]'''&lt;/big>
+*[[Comestibles|Comestibles / Consumables]]
+*[[Clothing]]
+*[[Books]]
+*[[Tools]]
+*[[Containers]]
+*[[Artifacts]]
+*[[Items#Miscellaneous_Items|Misc. Items]]
+
+----
+&lt;big>'''[[Technical]]'''&lt;/big>
+*[[Contributing‎|How to Contribute]] {{md}} [[Todo]]
+*[[Developers]]
+*[[Tileset_Support|Tileset Support]]
+*[[Cheating]]
+*[[Mod_manager|Modding]] {{md}} [[Gameplay Mods|Mods]]
+*[[How to compile#Monospace fonts|Changing the font]]
+
+| style="vertical-align:top;"|&lt;div style="padding-left:1em;">&lt;p style="text-align: center; vertical-align:top; font: 1.8em Georgia, serif; color: dimgray; padding-bottom: 0.5em; font-weight: bold;">The Cataclysm: Dark Days Ahead Wiki&lt;/p>&lt;!--
+
+'''Information based on stable version (0.8 Romero), released on September 16, 2013'''
+-->{{quote|You emerge from the shelter into the dim light of an overcast day, and look around for the first time since the disaster.
+
+The world as you knew it is gone and in its place, a twisted mockery of all that was once familiar.
+
+Everything was cast aside in that frantic race for the shelter. You have no food, nothing to drink, no weapons. Nothing but your ingenuity and the fierce determination to survive against appalling odds.
+
+A grim prospect faces you. Perhaps worse even than the nightmares of last night, when you were tortured by dreams of the dead themselves rising to jealously tear life from the living.
+
+You cast your eyes up the road and begin to walk towards a house in the far distance. Things may be bad right now, but you've got a sinking feeling that there are darker days ahead.}}
+
+'''Beware''': The wiki is out-of-sync with releases, and mostly out-of-touch with the latest experimentals. You should find the general guides most useful, but details might be off, for items and recipes, it is better to use the [https://nornagon.github.io/cdda-guide/# Hitchhiker's Guide to the Cataclysm]. Please consider contributing!
+
+[http://cataclysmdda.org/ Cataclysm: Dark Days Ahead] (aka Cataclysm DDA, C:DDA, or CataDDA) is an open source [[wikipedia:Roguelike|roguelike]] set in a post-apocalyptic and fictional [[wikipedia:New_England|New England]]. It's a continuation of Whale's original [https://github.com/Whales/Cataclysm Cataclysm], which expands it with numerous new creatures, buildings, gameplay mechanics and many other features.
+
+You can [[download]] compiled versions of Cataclysm DDA for Linux, Mac and Windows systems, or [[How_to_compile|compile]] it yourself by grabbing the [https://github.com/CleverRaven/Cataclysm-DDA source code]. You can also visit the [https://discourse.cataclysmdda.org/ forums], the [https://web.libera.chat/?channel=#CataclysmDDA IRC channel], or the [https://discord.gg/jFEc7Yp C:DDA discord server], or any other part of the [[community]], for specific questions or just to meet other players.
+
+{{quote|Surviving is difficult: you have been thrown, ill-equipped, into a landscape now riddled with monstrosities of which flesh eating zombies are neither the strangest nor the deadliest.
+
+Yet with care and a little luck, many things are possible. You may try to eke out an existence in the forests silently executing threats and providing sustenance with your longbow. You can ride into town in a jury-rigged vehicle, all guns blazing, to settle matters in a fog of smoke from your molotovs. You could take a more measured approach and construct an impregnable fortress, surrounded by traps to protect you from the horrors without. The longer you survive, the more skilled and adapted you will get and the better equipped and armed to deal with the threats you are presented with.
+
+In the course of your ordeal there will be opportunities and temptations to improve or change your very nature. There are tales of survivors fitted with extraordinary cybernetics giving great power and stories too of gravely mutated survivors who, warped by their ingestion of exotic substances or radiation, now more closely resemble insects, birds or fish than their original form.}}
+
+
+'''You can freely contribute to this wiki by updating outdated info, proofreading, expanding stub pages or creating new entries'''. Editing a page is as easy as clicking the ''&lt;nowiki>[edit]&lt;/nowiki>'' link next to a section or the ''Edit'' tab found at the top of every page. You will, however, need to register a user account to do so. [https://meta.wikimedia.org/wiki/Help:Editing_FAQ Here] you can find more information about how to contribute to a MediaWiki wiki.
+&lt;/div>
+|}
+
+[[Category:Main]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Quote" title="Template:Quote">Template:Quote</a> (<a href="/cdda_wiki/index.php?title=Template:Quote&amp;action=edit" title="Template:Quote">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Main_Page" title="Main Page">Main Page</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page">http://cddawiki.chezzo.com/cdda_wiki/index.php/Main_Page</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Main+Page&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Main+Page&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Main_Page" title="View the content page [c]" accesskey="c">Main page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Main_Page" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Main_Page">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Main_Page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Main_Page&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98});});</script>
+</body>
+</html>

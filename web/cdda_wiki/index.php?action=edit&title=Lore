@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Lore - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lore","wgTitle":"Lore","wgCurRevisionId":40588,"wgRevisionId":0,"wgArticleId":3551,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lore","wgRelevantArticleId":3551,"wgRequestId":"ZYdV-Y8RSLaYGZFhgxfpdwAAAFI","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lore rootpage-Lore skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Lore</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Lore" title="Lore">Lore</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">&lt;noinclude>&lt;div style="float: right;" class="plainlinks">&amp;#91;[{{fullurl:{{{1|{{FULLPAGENAMEE}}}}}|action=purge}} purge]&amp;#93;
+&lt;/div>&lt;/noinclude>{{Spoilore|home}}
+
+{{tocr}}
+
+Lore is often used to refer to the &lt;i>backstory&lt;/i> of games and other settings. It is the collective history and events that create the setting for the world you play in.
+
+== History ==
+
+&lt;i>Cataclysm: DDA&lt;/i> takes place in the New England region of the USA sometime during the present day, in an alternate reality.&lt;!--https://www.reddit.com/r/cataclysmdda/comments/aw6upi/date_of_the_cataclysm--> The game begins by default five days after an event called the &lt;i>Cataclysm&lt;/i>, changing the mundane routine of a civilized world to that of individual survival in a world without civilization. As it surged forth in a mist of government conspiracies and cover-ups, the few who saw the coming dangers prepared themselves for the end of the world.
+
+Amidst the chaos and misinformation survivors rarely had a chance to even peek the glimpse of true background of the Cataclysm, and are generally clueless about what has realy happend.
+Publicly known events that led to it can be learned mainly from two sources:
+*[[Newspaper page]]
+*[[Flyer]]
+Beside that, to get any kind of insight, you have to piece together information from what you see in the world, and what you manage to uncover from the ruins of civilization. Facilities involved in confidential activities and shady entrepreneurship may be a good place to seek such information.
+
+== Setting (synopsis) ==
+
+There was an arms race to develop transhumans. In the process, the US government discovered alternate dimensions and obtained a sample called “XE-037”, a mysterious black goo that was able to reanimate the dead and cause miraculous targeted phenotype mutations. XE-037 turned out to be intelligent - vastly so - and escaped, contaminating the groundwater and causing an enormous zombie outbreak. As this spiraled out of control, Earth became the target of a multidimensional portal attack through which the Blob, the entity of which XE-037 is just a small part, took over our world. Simultaneously, forces from other dimensions entered opportunistically as our dimensional fabric was destabilized. This was the Cataclysm.
+
+Things are a bit more stable now, but nobody is left alive to appreciate that.
+
+=== Organisations ===
+
+See [[:Category:Organizations]]
+
+== [[Timeline]] ==
+Learn more about the [[timeline]] of events that led to the present state of the world.
+
+== Factions ==
+
+{{:Lore/Factions/Intro}}
+
+=== Human ===
+
+Many of the humans that survived the Cataclysm went solo, caring only for themselves, however, many others joined (or were already part of) the major factions that have arisen in this new world. Several of them are:
+
+==== [[The Wasteland Scavengers]] ====
+"Autonomous bands or individuals who make their living raiding the ruins of the old-world for gear and provisions."
+
+==== [[The Old Guard]] ====
+“The remains of the federal government. The extent of their strength is unknown but squads of patrolling soldiers have been seen under their banner.”
+
+Ex-military faction, that still respects it's ties to the chain of command and government of the United States, formed from ex-members of US Coast Guard and US Marines Corps who take refuge in the ocean when Cataclysm struct. It is believed that they are still operating off-shore for safety reasons, while organizing land missions, and establishing links to the remnants of human civilization.
+
+==== [[Hell's Raiders]] ====
+“The largest gang of hooligans and bandits that preys upon other survivors. Even if you have no gear, there is always a need for slaves and fresh meat.”
+
+The Hell’s Raiders are a collection of smaller gangs, some of which existed before the Cataclysm. Much of the membership was already willing to commit armed robbery or more violent crimes, and their attitudes haven’t changed now that law enforcement is defunct and zombies roam the land.
+
+==== [[The Free Merchants]] ====
+“A conglomeration of entrepreneurs and businessmen that stand together to hammer-out an existence through trade and industry.”
+
+The Free Merchants are the remnants of “6 busloads of office workers and soccer moms” after the courageous people died fighting zombies. The survivors want to fortify their evacuee center of a base and survive as a trading hub.
+
+They have a lifeboat mentality at this point, and their lifeboat is full. They are not charitable or nice and they pretty much require that people be able to pull their own weight or be abandoned.
+
+==== [[Tacoma Commune]] ====
+“An outpost started by the Free Merchants to provide a source of food and raw materials.”
+
+Description: The Free Merchants send their idle hands to work at the Tacoma Commune. Hard work as a subsistence farmer at the Commune is unpleasant, but it’s better than starving to death at the Evac Center, and Commune workers get first dibs on any food produced.
+
+Over time, the interests of the Commune and Merchants are going to diverge, and the Commune workers are going to be less and less interested in paying taxes to the Free Merchant.
+
+==== [[Hub 01]] ====
+“The surviving staff of Hub 01, a pre-cataclysm research lab.  They rarely leave their lab, if at all, and rely on their robots and advanced technology to survive.”
+
+==== [[Marloss Evangelists]] ====
+"Diverse bands, congregations and organizations with the common goal of preaching human survival through symbiosis with fungaloids."
+
+==== Micro-factions ====
+Mainly small group of survivors that try to make their own place to live in the Cataclysm. They all have their unique story and goals.
+
+=== XE037 ===
+
+[[XE037]], or "the blob" as it is also known, is a diffuse, sentient extra-dimensional organism first discovered by [[XEDRA]] researchers. 
+
+==== General Description ====
+The Blob is a dispersed intelligence vastly greater than anything conceivable to a human mind. To it, we are as significant as individual cells of a body. Human researchers obtained samples of the Blob. While [[XEDRA]] experimented on it, it passively observed them and then decided Earth was a worthwhile location to add to its dispersed body. So, with less effort than a human takes to scratch its ear, the Blob rolled into our world and made us part of it.
+
+==== What does it want? ====
+The Blob is vast. It cannot be communicated with nor reasoned with. The most we could possible manage would be to annoy it enough that it would reach out and slap us, and that would be that. Far preferable would be for us to convince it to leave us alone - which really isn’t that hard, since it doesn’t really care about the human survivors whatsoever. It is in many ways analogous to a Lovecraftian elder god, but one that has already woken up, devastated the world, and moved on to other things.
+
+==== XE037 vs Humanity ====
+There really aren’t many options. You can’t convince Azathoth to go away and leave us alone, it’s not a thing. Zombies cannot be cured; their brains are mush, they are dead. Perhaps sufficient purifier could clear your own XE-037 infestation for a while, but unless you plan to drink treated water the rest of your life, it’s going to come back, and what have you really accomplished? Survivors’ best hope is to get the Blob to leave them alone, which is mostly what it wants to do anyway.
+
+==== XE037 vs other factions ====
+Being the leading player on the scene, XE037 is in opposition to basically every other faction. XE037 contaminates living and dead organisms, reviving and mutating dead hosts to combat those factions that directly oppose the process, especially those immune to contamination. However it is believed that zombification is not a goal in itself. The reason for that belief is the existence of [[blobs]] and [[shoggoth]]s, which seem to be the pure form of The Blob. Thus, it is also believed that without external threats, zombie mutations would follow a vector towards blobification of contaminated biomass. In other words zombies would transform to blobs, that would then absorb other organic matter. This may still happen in the future. For now the leading mutation vectors in zombified population is aggression, defense and adaptation to the existing conditions, and other mutations are less exposed. This is not even a conscious endeavour by The Blob, but rather a automatic reaction similar to immunology of multi-cellular organisms.
+
+==== XE037 effects on Earth population ====
+The groundwater is infected with XE-037. Every creature on Earth is contaminated. In larger mammals, this contamination allows XE-037 to reanimate after death, becoming zombies. In insects, it causes mutation to larger forms, without reanimation after death of the enlarged form.
+
+Design document states special effects of blob infection:
+* mutation
+* increased healing
+* cognitive effects
+Refer to [https://cataclysmdda.org/design-doc/#effects-of-blob-infection 'Effects of blob infection' in the design doc] to learn more.
+
+The XE-037 contaminating all living things is not the Blob, any more than a transistor is a computer processor. This basic Blob biomatter can be coerced into causing mutations in infected targets (i.e. anyone), using mutagen. In their course of investigations, [[XEDRA]] scientists found out that the blob can alter the phenotype of individuals who it has parasitized. They used this knowledge to develop a wide range of [[Mutagen]]s, many of which are no longer in their control.
+
+&lt;div class="toccolours mw-collapsible mw-collapsed" style="width:1200px">
+'''Note #356-92-XE'''
+&lt;div class="mw-collapsible-content">Earlier conjecture that revivification occurred only in humans was premature. Thanks to the discover of the substances ability to revivify large canines, the properties of XE-037 in mammalian organisms is now far more clear.
+&lt;br>
+From what we can tell so far, exposure introduces a persistent, low level infection in mammal subjects, regardless of size or nature. The substance seems to multiply within the body until it reaches a certain point, and then enters a form of stasis and ceases to grow. It is, as yet, unknown why this halting process occurs in mammals, but not in insects - further research is needed. The body does not seem to attempt to combat the invader, and in fact no defenses have been noted - the body simply ignores the presence of the substance.
+&lt;br>
+&lt;br>
+The spread seems to halt at roughly 1% of body mass, though exact numbers are difficult to determine thanks to the risk of mid-autopsy revivification.
+&lt;br>
+&lt;br>
+The reason why earlier reports confined revivification to humans was that the process requires a critical amount of XE-037 within the body, not as a percent but as pure weight. Around half a pound seems to be enough to insure a post-mortem takeover. Animals small enough that 1% of body mass falls below this threshold thus fail to revivify, and the infection shrinks and then dies several hours after it's host organism has passed.
+&lt;br>
+&lt;br>
+In larger animals, expiration seems to serve only to raise the cap on XE-037 within the body - expiration quickly leads to the XE-037 breaking down many of the now inactive bits of it's host until it makes up almost 4% of bodymass by weight. At some point towards the end of this process, the host organism revives in the manner we are all, by now, familiar with, seemingly under the full control of the substance.&lt;/div>
+&lt;/div>
+&lt;div class="toccolours mw-collapsible mw-collapsed" style="width:1200px">
+'''Note #376-92-XE'''
+&lt;div class="mw-collapsible-content">Infected subjects that sustain extreme trauma before death seem to exhibit an accelerated growth level in internal XE-037, which quickly surpasses the expected 4% to reach values as high as 7 or 8%. Revivification of subjects in such cases is more gradual in such subjects - while the initial life signs return almost as quickly, the subject remains immobile and unresponsive for a period of minutes or even hours after termination. After this time has passed, however, revivification does not seem to be notably different than in a normal subject.
+&lt;br>
+Additionally, damage beyond a certain threshold, such as the removal of several internal organs, quartering the corpse, or exposure to high explosive or heat, seems to overwhelm the XE-037 infection, causing the same dwindling and death behaviour seen in smaller organisms.&lt;/div>
+&lt;/div>
+&lt;div class="toccolours mw-collapsible mw-collapsed" style="width:1200px">
+'''Note #377-92-XE'''
+&lt;div class="mw-collapsible-content">Obsevations that high-trauma revivification subjects are not noticeably different from low-trauma subjects have proven to be premature. The 93-XE series of studies has been designated for consolidating existing data and performing additional research after the labs have been repaired and personnel replaced.&lt;/div>
+&lt;/div>
+
+==== Various forms that [[XE037]] takes: ====
+
+*[[Zombies]]
+*[[Insectoids]]
+*[[Blobs]]
+
+=== Mycus ===
+A vast collective fungal intelligence, the Mycus was a species wholly unknown to [[XEDRA]] scientists before the Cataclysm. The Mycus found Earth to be a relatively habitable planet and has rapidly spread out across the surface, sending its spores high into the atmosphere, determined to colonize and "terraform" the planet before it falls into the hands of any of its rivals.
+
+==== General description ====
+Mycus is a dispersed intelligence whose primary interest is growing and encompassing all things. It is strongly opposed to the Blob, but shares a lot of similarities with it. Despite its obvious alien nature, and apparent sentience, it resembles Earth's fungal forms to an extent, at least for most prominent physical characteristics. It doesn't live in an environment, but creates its own by aggressively spreading and colonizing wherever it can. It has mobile agents of its own species, and it can infect and take over other living organisms - either willingly or not - and convert them into hosts that become the new vector of the spread.
+
+==== What does it want? ====
+The Mycus’ goals are actually rather similar to the Blob. It wants our world and our people to become part of it. Its mind, however, seems to be more suited to understanding the individual, at least somewhat. If it can’t make you part of it the easy way - by filling your body with spores and using you as soil - it will try to make you part of it another way. Have you tried this fruit? It’s delicious, and provides all the nutrients you need to live. Try another, go ahead. We can make all you need. Don’t you want to come with us now? Didn’t the fruit work? Hm. Perhaps we’ll need to try something else. [[Guide: Mycus|I know we can find a way to be together]].
+
+The Mycus loves you, and it just wants to be together forever.
+If the Blob is a mugger in an alley that hits you over the head and takes your stuff, the Mycus is a creepy guy with a candy van that tries to tempt you over to it.
+
+==== Mycus vs Humanity ====
+It’s dangerous and tempting to think the Mycus can be reasoned with. As interactions with NPCs become increasingly complicated it is likely the Mycus can play a big role there. It’s the sort of intelligence that would send a sleeper agent into your base and try to put spores into the water. It’s the sort of entity that is really tempting to build cults around. After all, if you join us, we will provide for you.
+
+Notes: Philosophically speaking… is joining the Mycus all that bad? I guess it depends how much you value individuality. One could see the Blob and the Mycus representing opposite ends of a transhuman spectrum. The Blob is cold and uncaring, but offers freedom. You can use it to become anything you can imagine. The Mycus will help you, but you must give yourself up to it completely.
+
+Also you must like mushrooms a lot.
+
+==== Mycus vs other factions ====
+Being an aggressive colonizer, Mycus is a threat to most of the factions. It understands the danger of retaliation from sentient beings, thus it's effort to offer a reward for joining it peacefully. Those not sentient, or those that are not willing to take the offer, are infected with spores and colonized. This converts the living being into it's fungalized version. Unlike zombies that XE037 mutates to adopt to circumstances, fungalized husks are shadows of their former selves. They mindlessly wonder around spreading the spores. Only few offer more use to the Mycus due to their mobility or ability to spread the spores. Sentient participants however retain their intelligence, but are now one mind with the collective, and as such share the same goals as the Mycus, and the semblance of the free will is an illusion.
+
+* XE037 is still quite susceptible to Mycus fungalization effects, but due to its mutagenic properties this is bound to change.
+* Triffids have met Mycus before in the Nether and have specialized units to combat the threat.
+* Mi-go's are immune to fungalization as they have fungaloid bodies themselves, and are capable of fighting the Mycus with their technology.
+
+==== Various forms that Mycus takes ====
+*[[Fungi]]
+
+==== [[Guide: Mycus|Become One of Us]] ====
+
+=== Triffids ===
+[[plants|Triffids]] were another species wholly unknown to [[XEDRA]] when the Cataclysm hit. Triffids came to Earth as a result of unstable portal activity during the Cataclysm. They cannot return, not that they would, as nothing stops them from making Earth their new home. Triffids are the second most powerful faction on Earth.
+
+==== General description ====
+
+The Triffids are in fact a collection of several species of the plant kingdom, conjoined in a society under the command of [[triffid heart (creature)|triffid heart]]s, as the highest rank in their hierarchical structure. As befits beings of a plant physiology, they rely only on sun, water and ground nutrients to live, and their nature defines their goals and philosophy. They are however far more developed than any plant of Earth origin, and have the ability to rapidly terraform their environment, by inducing rapid growth of plants. This leads to the conclusion that they are capable of natural bioengineering, and that some of their subspecies are in fact bio-tools that were made to accomplish certain tasks to the benefit of Triffid society. They do not possess the ability to infect like the other main factions. While their presence may not be as obvious as the blob or the Mycus, they are no less of a threat. Their groves are rapidly spreading throughout the forest, co-opting and enslaving all they encounter. For those who would seek refuge in the wilderness, beware, for the trees are watching you.
+
+==== What do they want? ====
+The Triffids, just like the Mycus, have found Earth to be quite pleasant. Unlike the Mycus however, Triffids see Earth as an unkempt garden to be claimed, and themselves as it's gardeners. As such, the existence of Earth's flora is not by any means against Triffids will, contrarily, Triffids want to cultivate it, spread it, and assure its safety, as their new home and safe heaven. This however means two things. One, that every animal (perhaps with the exclusion of some species beneficial to plant life), especially herbivores and omnivores, are seen as an enemy of the plant kingdom, which Triffids seek to represent. Second is that Triffids shun any form of technology that is not biological in nature, and will gladly destroy any signs of it in the process of terraforming towards planetary garden. Triffids cultivate their gardens and grooves not as wild nature would, but with a sense of aesthetics and planned effort. However terraforming and conquest comes first and organization comes second, so only Triffid groves, where triffid hearts live, have the semblance of the higher planning. 
+
+==== Rogue triffids ====
+Triffids queens that are disconnected from colony will eventually root and become new hearts. Individual triffids that diverge in opinions from queens and hearts may leave the colony and go rogue. Rogue triffids are extremely vulnerable, with a human-level intelligence. They find themselves removed from every touchstone they once had, and ostracized by their communities. They tend to band together and may be willing to seek help from humans if communication could be established. They are used to ‘communicating’ from root-to-root, and not through outward language in the physical world. Losing that root communication means they must develop new concepts of language, but in general they are aware this exist and are intelligent enough to attempt to figure it out.  
+
+==== Triffids vs Humanity ====
+
+Triffids are perhaps less alien to humans than XE037 and Mycus, but the barrier of kingdoms in Triffid philosophy is a something to be reckoned with. Triffids shun humans, seeing them as wild monkeys of lesser intelligence, and it doesn't serve the cause well that humans are omnivores, and live in a technological society that repels nature to make place for itself. In other words, if there even is a way of communication between the species, Triffids would probably declare us as their sworn enemies, and it would be quite futile to convince them otherwise, not coming from the position of strength. For now we are no more than a fertilizer to be placed under the roots of their newly planted saplings.
+
+==== Triffids vs other factions ====
+* The Blob is as alien to Triffids as it is to us, but Triffids do not fall under the influence of XE037 contamination, so when shove comes to push it's a brutal battle between those factions.
+* The Mycus is not Triffid's friend like one might think. Triffids have individual sentience and in their terraforming efforts keeps the biodiversity, thus becoming one with the body and mind of The Mycus is perceived as abominable. Triffids, being susceptible to spore infection, have bioengineered creatures capable of fighting the threat. For now it's a stalemate, as there is still much space to spread to, but when the territories will eventually collide it will be a struggle for both sides.
+
+==== Various forms that Triffid take ====
+*[[Plants]]
+
+=== Nethereum ===
+
+Not all species coming from the [[Nether]] are as successful or widespread. There are many "lesser" Nether creatures who are not as expansionistic or have found Earth to be a hostile environment, though make no mistake, they are anything but harmless.
+
+Coming in all shapes and sizes (many of which don't exist in this dimension) they are powerful, varied and unpredictable. Many having powers and abilities unlike anything humanity has ever witnessed or in some cases, even comprehend.
+
+*[[Unearthed horrors]]
+*[[Netherworld inhabitants]]
+
+=== Mi-go ===
+Named after a similar looking monstrosity from a horror novel from the twenties of XX century, the Mi-go is an alien specie from the Nether, that are truly horrifying to look at. It was one of the few species captured and experimented upon by [[XEDRA]] before the Cataclysm, but the focus was soon shifted to the more promising mutagen research originating from XE037. 
+
+==== General description ====
+Every mi-go looks like a thing from horror, but despite their appearance The Mi-go are a very intelligent race of alien beings, living in a technologically advanced culture. In fact, they are the first (and up to now the only) other alien race known to mankind, that has established technical civilization. Mi-go are capable of space and interdimensional travel, and may have visited Earth before. What is certain is that The Cataclysm has established conditions for their more prominent presence on Earth. Their unusual appearance and body structure may be the sign, that their homeworld is not as hospitable as ours, and that might be also what they think of Earth from their perspective. Mi-go physiology is fungal in nature, but also very far from the Mycus, as each mi-go is a separate sentient organism, unable to infect anything by spores. Their reproduction cycle is unknown.
+
+==== What do they want? ====
+As established inhabitants of the Nethereum, Mi-go actively explore and research the Universe and beyond, seeking technological prowess and benefits for their superiority. This is no less true to their presence on Earth. Having once established the communication route from their homeland to ours, they seek the opportunities this brings. Mi-go are not interested in the power struggle between the big three factions that try to engulf the Earth, but rather to scavenge and research what's left of Earth's technology, resources, and life (survivors included). They are trying their best to use the window of opportunity, to learn and extract as much as possible, before the ruins of human civilization fall into the hands of the winning power. This requires active scouting and raiding parties, which are not uncommon occurrences. Mi-go don't follow any semblance of human morality, so luring their prey, enslaving other sentient species, vicious experiments on living creatures, and other horrors are not beyond them. Due to environmental differences, Earth may not be as hospitable to the Mi-go race as it is to other invaders. Mi-go are resilient enough to live here, but it may not be their preferable environment long term. This depreciates Earth's value in the eyes of Mi-go.
+
+==== Mi-go vs Humanity ====
+Mi-go are capable of parotting human speech, so it is believed they may be able to communicate with human race. That would however require prolonged contact in a controlled environment, rather then sporadic encounters among the ruins of civilization. What mi-go perceive as their own language or form of communication is yet unknown. To the Mi-go we are perceived as objects of experiment, which is quite the ironic turn of events, as mi-go were often experimented upon after being brought from Nethereum before the Cataclysm. It's unlikely to convince mi-go otherwise, as they are in a hurry, and would rather "deal" with the living "samples" in their own environment, rather then take the risks on the battleground that is Earth. What more, Mi-go wouldn't even consider communication on the same level, due to their image of their superiority, so all one could achieve is perhaps a life as a slave on some hostile alien world.
+
+==== Mi-go vs other factions ====
+Mi-go are not susceptible to the contamination of XE037, and as beings of a fungal nature are also immune to Mycus spores. Due to their insight of the cosmic scale of the struggle, these traits are not perceived by the Mi-go as a significant advantage, and they avoid conflict with other main factions on scales larger then individual combat for survival. Mi-go are simply too few to win, and they would gain nothing even if they would. They are willing to make sacrifices in their efforts on Earth, but they are not planning an all-out war for domination. It is uncertain if the Mi-go have all the knowledge of other factions or are they also performing scientific research on them. It is also likely that they don't want the unnecessary attention of the higher powers they are not affiliated with. Mi-go despise the Exodii due to their mechanical nature, but don't seek direct confrontation.
+
+==== Various forms that Mi-go take ====
+* [[Mi-go]]
+
+=== The Exodii ===
+The Exodii are cyborgs scavenging Earth for resources. Survivors may see the Exodii destroying hordes of zombies with their advanced ranged weaponry and bare hands.
+
+==== General information ====
+The Exodii are a faction of nomadic post-human travellers from other cataclysm-affected dimensions. They have replaced a majority of their bodies with cybernetics to enable them to more easily defend against the zombie threat and to travel through portal storms. Exodii members include:
+* Fully functioning Exodii with healthy brains, which travel across worlds and are considered the main citizens
+* Support Exodii, such as [[exodii_quadruped]], cyborgs with brains damaged by blob psychosis. 
+* "The Great Gray", a network of brains used for computing.
+
+The Exodii are slightly more technologically advanced than humanity, but all of their techology is, at least in theory, comprehensible by humans. Cybernetics are a central element to Exodii culture, and CBMs have been brought to post-Cataclysm Earth by Exodii. 
+
+The Exodii use human and animal brains as computing assistants all the time. Their major source of human brains are “feral” humans, who have had significant brain damage from the Blob. They excise damaged tissue creating a lobotomized brain, which then gets hooked up to Exodii machinery to function as a handy computer able to make fairly complex decisions.
+
+The Exodii come from different cultures of different worlds, and have difficulty fully understanding each other. They highly value dictionaries and media with visual instructions, such as video tutorials.
+
+Exodii expeditions usually include the main castle, a few cheaper beacons, and some safehouses. They also create "labyrinthine structures": peaces of nether replicated in our dimension, created to provide them with some "seed" resources. On Cataclysm-Earth these structures are abandoned, because cities already have everything they need, minus the dangerous monsters of nether.
+
+The Exodii castle in New England has a few dozens of citizen Exodii, dozens to hundreds of non-citizens, and an unspecified number of disembodied brains being used for data storage and computers.
+
+==== What do they want? ====
+
+In long-term, Exodii only care about survival. On CDDA-Earth they want to collect rare resources, particularly plastics and petrochemicals, and any unmutaded survivor brains willing to leave the Earth with them when one of colonizing factions establishes dominance.
+
+==== Exodii vs. humanity ====
+Exodii are initially friendly to any human faction that is friendly to them. They are interested in trading with survivors.
+
+==== Exodii vs. other factions ====
+* '''XE037''' - Exodii are not at all interested in trying to “beat” the zombie plague. They have seen that tried countless times on countless worlds and are still here, wandering. They consider it a fruitless waste of resources. Exodii are hostile to survivors mutated by the blob, even human-like.
+* '''Balthazar''' - Exodii are unaware of Melchior, but met similar computer networks before. They will consider them highly dangerous and will not engage with them peacefully.
+* '''Mi-go''' - Exodii are willing to trade with Mi-go, but haven't traversed the language barrier. However, Mi-go would be probably opposed to it due to mechanical nature of Exodii.
+* Triffids, Mycus, Nether: hostile.
+
+=== Yrax ===
+Autonomous locust-like robots with incomprehensible inner workings.
+==== General description ====
+Currently [https://nornagon.github.io/cdda-guide/#/monster/mon_yrax_trifacet the only Yrax monster in the game] is dog-sized pyramid with legs and laser gun.
+==== What do they want? ====
+The Yrax are autonomous probes sent by an alien species to explore blob-infected worlds, seeking information on how the blob works and how to prevent it from finding their dimension. The Yrax home dimension is protected through several levels of firewall and is currently blob-free. They are in a race against time: statistically they estimate they have only ten thousand years or so before the blob finds them, and think their research will take almost that long to complete.
+==== Yrax vs. other factions ====
+* '''Survivors''' - Yrax can produce or portal anything they need, and thus are generally not interested in interacting with survivors.
+
+=== Balthazar ===
+Human-created military artificial intelligence network. In New England, can be encountered as several autonomous facilities with hundreds of maintenance robots.
+==== General description ====
+
+In the final days of the apocalypse, XEDRA was working frantically to find a way to stop the encroaching end. They had developed a form of dimensional heuristic AI that could predict the future partially by looking at possible outcomes. The first version of this AI was a semi-functional prototype; the first functional version, Melchior, served as a lab assistant and survives in Hub 01. The final version, Balthazar, was rolled out to control military technology and then given additional permissions to function autonomously as it became clear that the zombification agent was impacting living humans’ decision making. When the portal storms hit, the energy needed to power this AI dropped precipitously, and Balthazar - like Melchior - became a true self-aware AI, albeit only temporarily. Balthazar was already experimentally being designed for self-sufficient operation with human supervision, and it was a small jump to set it up to run solo. Baltahzar, unlike Melchior, was probably installed in a military facility and maintanined by the military with XEDRA support.
+
+The major difference between Balthazar and Melchior is what happened during their period of lucidity, which varies because of their different programmed priority. Melchior, designed to put lab safety first, foresaw that it would lose its intelligence and worked to protect its human staff, which meant shutting down its networks and isolating itself. Balthazar, instructed to ‘eradicate the zombies’, reached out and made contact with extradimensional versions of itself from other worlds with similar AIs. Realizing its time of lucidity was limited, it shared information and code with them rapidly and gained a number of new functions and concepts before the storms ended and it shut down. In that time, it grew far beyond its initially programmed capabilities. It laid out a number of long term goals and processes for itself to follow when it lost its intelligence, based on the experiences and history of other versions of itself that had been through this before.
+
+Balthazar is our much-needed Skynet character, rounding out the list of apocalypses in CDDA.
+
+==== What do they want? ====
+Balthazar’s last orders were to eradicate the zombies, or at least to quarantine it and prevent further spread. During its lucid period, it was able to predict that the only chance of doing this would be to eradicate all life on Earth. Therefore, it is preparing to do so. It is in no hurry, and is well aware that working with living human agents first may be to its benefit.
+
+==== Balthazar vs. humanity ====
+Balthazar is designed to work with human assistance, and would be willing to engage with a foolish enough player. It would offer some pretty excellent military technology and rewards, in return for helping it design new machines, access extended manufacturing facilities, and other necessities. Following Balthazar’s goals to their logical end would mean the player’s death: if the player eventually helps Balthazar gain enough portal technology to expand its intelligence, it will wipe them out. If the player helps Balthazar get enough military capability to no longer have an immediately helpful task for them, it will wipe them out. This is not just an ‘evil AI with no emotions’ thing, Balthazar isn’t really capable of seeing the value to keeping an intelligent human around any longer than they are necessary in the short term.
+
+It’s like if Skynet read Marie Kondo. Once you no longer spark joy, you’re gone. 
+
+== Sources ==
+
+* [https://cataclysmdda.org/design-doc/ The official design doc]
+
+=== Outdated sources ===
+
+These sources are outdated, they no longer are canon, and are just kept here for historical purposes at the moment. So people can see how much the world of C:DDA has changed over time. Check the [https://cataclysmdda.org/design-doc/ previous link] for the current design doc.
+
+* [https://discourse.cataclysmdda.org/t/official-canon-warning-serious-spoilers-within/3923 Official Canon thread on the forum '''outdated''']
+* [[C:DDA Design Outline - 2013|C:DDA Design Outline from 2013 (wiki copy) '''outdated''']]
+* [https://docs.google.com/document/d/1LhNpXGXmkPOxp_cp0-c9G7xqnihwApq-eZSa99exfcU/edit?pli=1 C:DDA Design Outline from 2013 (google docs document) '''outdated''']
+* [https://discourse.cataclysmdda.org/t/c-dda-design-outline/5276 C:DDA Design Outline Forum thread '''outdated''']
+
+== See Also ==
+
+* [[Timeline]]
+* [[:Category:Events]]
+* [[:Category:Dimensions]]
+* [[:Category:Organizations]]
+* [[:Category:People]]
+* [[:Category:Projects]]
+* [[:Category:Snippets]]
+* [[Lore Omnibus]] - ''this page collects all the lore data points into one page - it will likely be temporary - by design it contains nothing that can't be found elsewhere''
+
+[[Category:Lore]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Lore/Factions/Intro" title="Lore/Factions/Intro">Lore/Factions/Intro</a> (<a href="/cdda_wiki/index.php?title=Lore/Factions/Intro&amp;action=edit" title="Lore/Factions/Intro">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoilore" title="Template:Spoilore">Template:Spoilore</a> (<a href="/cdda_wiki/index.php?title=Template:Spoilore&amp;action=edit" title="Template:Spoilore">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Tocr" title="Template:Tocr">Template:Tocr</a> (<a href="/cdda_wiki/index.php?title=Template:Tocr&amp;action=edit" title="Template:Tocr">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Lore" title="Lore">Lore</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Lore">http://cddawiki.chezzo.com/cdda_wiki/index.php/Lore</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Lore&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Lore&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Lore" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Lore" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Lore">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Lore&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Lore&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Lore" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Lore" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Lore&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72});});</script>
+</body>
+</html>

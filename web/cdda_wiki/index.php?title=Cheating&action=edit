@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Cheating - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cheating","wgTitle":"Cheating","wgCurRevisionId":26222,"wgRevisionId":0,"wgArticleId":24,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cheating","wgRelevantArticleId":24,"wgRequestId":"ZB59cPunb43PLy1fFXYLQAAAANA","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cheating rootpage-Cheating skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Cheating</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Cheating" title="Cheating">Cheating</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reasons:
+</p>
+<ul class="permissions-errors">
+<li>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.</li>
+<li>This page has been protected to prevent editing or other actions.</li>
+</ul><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">Cheating is the use or abuse of the debug system, of various exploitable bugs, doing something another player would not approve of, or anything that causes you to suddenly loathe your own avatar. Only three of these things are true.
+----
+
+== Cheating and you! ==
+Many new players use the things discussed here to assist in survival. While this is 'approved' for new players, these god-like powers shouldn't be relied upon as you learn to handle problems through the tools available to your avatar.
+
+This page is organized to roughly match the degree of fun you're giving up by cheating on yourself. The methods range from neutral to severe, and the consequences of using them from momentary joy to a complete loss of respect for your performance. Like mutations, cheating creeps up on you. You have been warned!
+
+== Being too prepared ==
+Call this a pro-tip to remind you that there is no reason to rush anything in this world. Taking the time to cook up decent amounts of [[Zombie pheromone|Zombie pheromones]] so that they will high-five you as you are cleaning out liquor and clothing stores to make a million bandages is very very good form by which your character can gain a high degree of character to ameliorate the deleterious effects of the actions described on the rest of the page.  If you just grinned or went to look up the fancy words then you might just be ok with the info on this page.
+
+== Using Game mechanics to the fullest ==
+Warning! Understanding that turrets shoot you from 24 or fewer tiles away, messing with the viewport and font-settings so that you get to actually see on-screen what your in-world avatar sees, pulling mobs from far away instead of stumbling into them blindly, digging pits in strategic places and gloating about how you cleaned out an entire town -- doing these things could be thought of as cheating by some people. Ultimately though understanding items, reading the rest of the wiki, starting 20 new games just so you can understand the variety of tweaks offered by Cataclysm, that's to say, being interested in playing this game the way it was designed to, will boost your skills and wean you off of bad habits you might have picked up in other roguelikes. 
+
+== Overdoing it ==
+When you first start playing Cataclysm you get what seems to be very few points to invest into your character.  So you crank up that number and look for the least damaging negative traits to boost your guy/gal into the stratosphere.  This will work at first but off all the options on this page, its the one that ruins your long term fun if you keep it up for more than a few games or in-game years.  Since you're on this page, chances are that you have already discovered this way of overdoing it.  So here I'm suggesting that you wean yourself off of it slowly by starting the next character with all the skill-points you want .. but without taking a single negative trait to buy you further advantages.  Its like a bad in-game addiction at first, but you will get over it.  Next, slowly reduce the number of starting points you take so that you're forced to specialize your character's style a bit.  Doing this will give it 'character' that enables you to wind up using some or all of the following ideas without suffering real-life morale penalties!  So, go on, investing fewer points at startup is like taking your vitamins, it keeps you going strong!
+
+== Abusing Save-Points ==
+By pressing {{key|S}} to save your game as you run into a difficult situation .. and then closing the program window before you die, you can explore different time-lines and strategies with the only risk being that you will lose your avatar should you die. If you're new to the game, have no idea how a weapon or a drug works, this will speed your learning a lot. Just restrain yourself from using this to min/max outcomes and you might actually be ok with this for your first few games.
+
+=== Copying old characters to new worlds ===
+
+If for some reason you want to copy an old character to a new world, you can follow the following [http://smf.cataclysmdda.com/index.php?topic=4414.msg64132#msg64132 procedure].
+
+* Make sure you've got everything you want to bring with you on your character. Leave your artifacts behind; they're stored in a separate file.
+* Save and exit the game.
+* Go into your game's save/worldname folder and find a file with a name that looks like #Uml2ZXQ=.SAV and make a copy of it.
+* Generate a new world like normal.
+* Copy the .SAV file into the new world's folder.
+* Start the game up and load the save file. Note that you won't begin in a starting shelter, so you may find yourself someplace ‼FUN‼ when you start out.
+
+== Creating a Story ==
+Making a save-point and then archiving your ./save folder can allow you to play the meta-game of chronicler. Just name your archives '01 (notes' to '99 (notes)' and you can get a memory jogging log of your travels through the land for very little effort. It gets problematic and cheaterish if you wind up relying on your chronicles to explore the map or engage in reckless actions that result in many death.  It might be ok to explore 1000 ways of dying in a newbie situation, but there will come a point when you're better off starting anew. EXIT the program before you restart from an archived game.
+
+== Exploiting the Dead ==
+You will die. And if you revert to a chronicled point you might find yourself in a situation where you are looking at your own dead body. The proper thing to do in this case is to wish for an acid bomb lest you incur the wrath of the RNG by picking up the cloned items. (This does not apply if you have the Cannibal trait and do the unspeakable.)
+
+== The Debug Messages ==
+{{key|~}} — Toggles the sometimes annoying debug messages which can give you some deeper insight into the game mechanics on and off.  Gain insight into the health mechanics here. Eat all your vitamins right away (read about health effects of the provisons too) and revel in the fact that you understand how you have just beaten the number one new player affliction - the common cold! Watch them for a bit longer and maybe you learn some other stuff too!
+
+== The Scent Map ==
+{{key|''Unassigned''}} — ''Scent map.'' Shows the trace that forms around you as you linger in a building or move through town. Asks you what scent sensitivity you would like to view your surrounding with and requires that you enter a number from 1 to 9 specifying the 'sensitivity of your nose.' This ranges from {{key|1}} for the greatest smeller to {{key|9}} for the dullest nose. (Entering 0 divides by 0 and causes a crash'). 
+
+== The Debug Menu ==
+This menu is the most terrible way to '''CHEAT''' yourself out of a fun game. Unless you are in a situation caused by bugs (e.g. you spawed in a windowless doorless room) or are testing game features.
+{{:Debug Menu}}
+
+== Exploits ==
+These are still some bugs and oversights that people can use to help themselves in seriously cheaty and completely unfair ways. For example, many things with NPCs are broken and are exploitable. Trading with NPCs is one example as it is completely unfair to the NPC. That's not the only thing however and if you read to here and are seriously bored you will eventually discover just how borked the NPC dialogue mechanics are at this point.
+
+Operators of completely spoiled and exploited characters have even been known to read the Cataclysm DDA 'Issues' page on [https://github.com/CleverRaven/Cataclysm-DDA Github]. The worst offenders will even download the source code and study it to discover even more of the hidden dynamics of this fantastic game. Once you have reached this ultimate level of cheatiness your only redemption is to help the project by fixing the code or posting detailed reports of your devious strategies in the [https://discourse.cataclysmdda.org/ forum] or on github.
+
+
+{{Guides}}
+{{ver|0.D}}
+[[Category:Technical]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Debug_Menu" title="Debug Menu">Debug Menu</a> (<a href="/cdda_wiki/index.php?title=Debug_Menu&amp;action=edit" title="Debug Menu">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides">Template:Guides</a> (<a href="/cdda_wiki/index.php?title=Template:Guides&amp;action=edit" title="Template:Guides">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Key" title="Template:Key">Template:Key</a> (<a href="/cdda_wiki/index.php?title=Template:Key&amp;action=edit" title="Template:Key">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Verify" title="Template:Verify">Template:Verify</a> (<a href="/cdda_wiki/index.php?title=Template:Verify&amp;action=edit" title="Template:Verify">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Cheating" title="Cheating">Cheating</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Cheating">http://cddawiki.chezzo.com/cdda_wiki/index.php/Cheating</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Cheating&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Cheating&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Cheating" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Cheating" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Cheating">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Cheating&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Cheating&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Cheating" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Cheating" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Cheating&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":203});});</script>
+</body>
+</html>

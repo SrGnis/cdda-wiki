@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>How to survive your first day: Static Spawn Mode - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"How_to_survive_your_first_day:_Static_Spawn_Mode","wgTitle":"How to survive your first day: Static Spawn Mode","wgCurRevisionId":35409,"wgRevisionId":35409,"wgArticleId":386,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unknown version","Stub","Guides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"How_to_survive_your_first_day:_Static_Spawn_Mode","wgRelevantArticleId":386,"wgRequestId":"X6xnPt5EaLuR0YuCcCWKawAAAIA","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-How_to_survive_your_first_day_Static_Spawn_Mode rootpage-How_to_survive_your_first_day_Static_Spawn_Mode skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php?title=Category:Unknown_version" title="Category:Unknown version">Unknown version</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">How to survive your first day: Static Spawn Mode</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><pre><b>Guide created using an unknown version of Cataclysm DDA.</b>
+The information present here might not apply to the current version of CDDA.
+</pre>
+<p><br />
+</p>
+<table style="text-align: left; margin: 1em 0; border: 1px solid #333333; border-left:4px solid; padding: .2em 1em .2em 0.6em; border-radius: 0 .7em .7em 0; -moz-border-radius: 0 .7em .7em 0; -webkit-border-radius: 0 .7em .7em 0; background: #FFEDCC; font: 1.1em Consolas, monospace; color: #333333;">
+<tbody><tr>
+<td><b>This page is not completed enough yet</b>
+</td></tr></tbody></table>
+<p>The first day of static spawn mode can be a daunting challenge for newer players. Unlike in dynamic spawn mode, there is no grace period for looting, and nowhere is safe; hordes of high-level zombies wait for you in town, and the countryside is plagued by wolves and mutated insects. Thankfully, with a little guidance, any player can navigate the first day in static spawn mode and come out alive, and with plenty of provisions for the dark days ahead.
+</p><p>This guide will be divided into two sections, one for players who intend to <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode#Taking_on_the_Town" title="How to survive your first day: Static Spawn Mode">take on cities</a> early in the game, and one for those who intend to <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode#Taking_on_the_Countryside" title="How to survive your first day: Static Spawn Mode">live in the countryside</a> until they feel capable of handling them.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Before_Leaving_the_Shelter"><span class="tocnumber">1</span> <span class="toctext">Before Leaving the Shelter</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#The_Basement"><span class="tocnumber">1.1</span> <span class="toctext">The Basement</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Making_a_Weapon"><span class="tocnumber">1.2</span> <span class="toctext">Making a Weapon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Taking_on_the_Town"><span class="tocnumber">2</span> <span class="toctext">Taking on the Town</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Stage_1:_The_Outskirts"><span class="tocnumber">2.1</span> <span class="toctext">Stage 1: The Outskirts</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Planning_your_Approach"><span class="tocnumber">2.1.1</span> <span class="toctext">Planning your Approach</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Entering_Town"><span class="tocnumber">2.1.2</span> <span class="toctext">Entering Town</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Breaking_into_Houses"><span class="tocnumber">2.1.3</span> <span class="toctext">Breaking into Houses</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Looting"><span class="tocnumber">2.1.4</span> <span class="toctext">Looting</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Combat"><span class="tocnumber">2.1.5</span> <span class="toctext">Combat</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Stage_2:_Further_Incursions"><span class="tocnumber">2.2</span> <span class="toctext">Stage 2: Further Incursions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Choosing_a_Goal"><span class="tocnumber">2.2.1</span> <span class="toctext">Choosing a Goal</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Planning_Your_Approach_2"><span class="tocnumber">2.2.2</span> <span class="toctext">Planning Your Approach</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Entering_Town_2"><span class="tocnumber">2.2.3</span> <span class="toctext">Entering Town</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Stage_3:_Night_Time"><span class="tocnumber">2.3</span> <span class="toctext">Stage 3: Night Time</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Exploring_the_Countryside"><span class="tocnumber">2.3.1</span> <span class="toctext">Exploring the Countryside</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Establishing_a_Shelter"><span class="tocnumber">2.3.2</span> <span class="toctext">Establishing a Shelter</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Picking_off_Zombies"><span class="tocnumber">2.3.3</span> <span class="toctext">Picking off Zombies</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Raising_skills"><span class="tocnumber">2.3.4</span> <span class="toctext">Raising skills</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Taking_on_the_Countryside"><span class="tocnumber">3</span> <span class="toctext">Taking on the Countryside</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Gather_supplies"><span class="tocnumber">3.1</span> <span class="toctext">Gather supplies</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Water"><span class="tocnumber">3.1.1</span> <span class="toctext">Water</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Food"><span class="tocnumber">3.1.2</span> <span class="toctext">Food</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Critters"><span class="tocnumber">3.2</span> <span class="toctext">Critters</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Whats_next_.3F"><span class="tocnumber">3.3</span> <span class="toctext">Whats next&#160;?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Before_Leaving_the_Shelter">Before Leaving the Shelter</span></h2>
+<h3><span class="mw-headline" id="The_Basement">The Basement</span></h3>
+<p>Before doing anything else, go down into the basement (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&gt;</span> on one of the four '&gt;' symbols) and search for any items. Any or all of the following could be useful: 
+</p>
+<ul><li>Any items with storage capacity are worth taking, from <a href="/cdda_wiki/index.php?title=Backpack" title="Backpack">backpacks</a> to <a href="/cdda_wiki/index.php?title=Leather_pants" title="Leather pants">leather pants</a>. You will want to be able to haul items around with you until you can establish a temporary base. Encumbrance is not an issue in this stage, as you can simply drop all of your items if you get into a fight.</li></ul>
+<ul><li>Any kind of medication should be picked up immediately, because it is weightless and may come in handy later. Even seemingly useless medication like <a href="/cdda_wiki/index.php?title=Multivitamin" title="Multivitamin">multivitamins</a> or <a href="/cdda_wiki/index.php?title=Cough_syrup" title="Cough syrup">Cough syrup</a> can be used in <a href="/cdda_wiki/index.php?title=Crafting" title="Crafting">crafting</a>, or to fight cold symptoms.</li></ul>
+<ul><li>Food and drink may be worth taking, but you can always leave them in the shelter to pick up later, or consume them right away!</li></ul>
+<ul><li>General utility items like tools, weapons, or crafting equipment might be worth taking, too, but you can can always come back for them if they are too cumbersome for you.</li></ul>
+<ul><li>Anything which can grant you a morale boost should be used as soon as possible. Your XP pool will rarely be this empty again, so fill it up as fast as you can to avoid any wasted skill practice.</li></ul>
+<p><br />
+Any items which don't fall into these categories are probably safe to leave behind, but feel free to take anything you think might be useful.
+</p>
+<h3><span class="mw-headline" id="Making_a_Weapon">Making a Weapon</span></h3>
+<p>You will also probably want to make yourself a melee weapon before you venture out, and there are a few options, which will suit varying character builds and play-styles: 
+</p>
+<ul><li>The <a href="/cdda_wiki/index.php?title=Pipe" title="Pipe">pipe</a>: <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span>mash apart a <a href="/cdda_wiki/index.php?title=Locker" title="Locker">locker</a>, and take the resulting pipe. These have +3 to hit, and good bash damage and attack speed. A normal character can attack about once per turn with a pipe.</li></ul>
+<ul><li>The <a href="/cdda_wiki/index.php?title=Nail_board" title="Nail board">nail board</a>: Smash apart a <a href="/cdda_wiki/index.php?title=Bench" title="Bench">bench</a>, and pick up one <a href="/cdda_wiki/index.php?title=Two_by_four" title="Two by four">two by four</a>, and any <a href="/cdda_wiki/index.php?title=Nail" title="Nail">nails</a> left behind. Do this until you have at least 6 nails. Then leave the shelter and look around the nearby fields for a <a href="/cdda_wiki/index.php?title=Rock" title="Rock">rock</a>, then enter the crafting menu (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>), then find the recipe for 'Nail Board'. These have +1 to hit, the same attack speed as the pipe, but slightly higher damage output.</li></ul>
+<ul><li>The <a href="/cdda_wiki/index.php?title=Pointy_stick" title="Pointy stick">pointy stick</a>: Smash apart a <a href="/cdda_wiki/index.php?title=Bench" title="Bench">bench</a>, and enter the crafting menu (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>), then find the recipe for 'Pointy Stick'. It should be in bright writing, as long as you are near at least one two by four. Pointy sticks have a slightly faster attack than the other two weapons, but a slightly lower damage output. They can also make effective throwing weapons at close range.</li></ul>
+<ul><li>The <a href="/cdda_wiki/index.php?title=Crowbar" title="Crowbar">crowbar</a>: If you chose to invest in the <a href="/cdda_wiki/index.php?title=Mechanics" title="Mechanics">mechanics</a> skill, you can <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span>mash apart a <a href="/cdda_wiki/index.php?title=Locker" title="Locker">locker</a>, and take the resulting pipe, craft (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>) it into a crowbar using a <a href="/cdda_wiki/index.php?title=Rock" title="Rock">rock</a>. The crowbar is compact, and has a well-balanced damage and to-hit bonus, but can also be used to open doors by <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span>pplying it. This makes some noise, but far less than <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span>mashing your way into houses. It can also open <a href="/cdda_wiki/index.php?title=Manhole_cover" title="Manhole cover">manhole covers</a>, giving you unrestricted access to the sewer system.</li></ul>
+<ul><li>The <a href="/cdda_wiki/index.php?title=Knife_spear" title="Knife spear">knife spear</a>: The knife spear takes some time to make but is entirely doable for early survivors. You will need one skill point in survival (view skills by pressing <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">@</span>) but this can be accomplished by crafting (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>) simple items and then disassembling (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">(</span>) them until you level up (e.g. <a href="/cdda_wiki/index.php?title=Makeshift_sling" title="Makeshift sling">makeshift sling</a>). Once your <a href="/cdda_wiki/index.php?title=Survival" title="Survival">survival</a> skill is level 1, you can find the recipe for a knife spear under weapons in the crafting menu (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>). Begin by finding a <a href="/cdda_wiki/index.php?title=Heavy_stick" title="Heavy stick">heavy stick</a>, easily obtained in a forest or by smashing apart a <a href="/cdda_wiki/index.php?title=Window" title="Window">window</a>. A <a href="/cdda_wiki/index.php?title=Window" title="Window">window</a> will also provide you with <a href="/cdda_wiki/index.php?title=String" title="String">string</a> and a <a href="/cdda_wiki/index.php?title=Sheet" title="Sheet">sheet</a>. Cut the <a href="/cdda_wiki/index.php?title=Sheet" title="Sheet">sheet</a> into <a href="/cdda_wiki/index.php?title=Rag" title="Rag">rags</a>. You must then make a <a href="/cdda_wiki/index.php?title=Spike" title="Spike">spike</a> for the tip (found under misc. in the crafting menu). Pick up a <a href="/cdda_wiki/index.php?title=Rock" title="Rock">rock</a> from outside and <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span>mash a <a href="/cdda_wiki/index.php?title=Locker" title="Locker">locker</a> or two to gain about 9 <a href="/cdda_wiki/index.php?title=Scrap_metal" title="Scrap metal">scrap metal</a> or 3 <a href="/cdda_wiki/index.php?title=Chunk_of_steel" title="Chunk of steel">chunk of steel</a>. Use the <a href="/cdda_wiki/index.php?title=Rock" title="Rock">rock</a> as your improvised hammer to crank out a twisted, metal <a href="/cdda_wiki/index.php?title=Spike" title="Spike">spike</a>. Once you have obtained all four components you can then fashion a <a href="/cdda_wiki/index.php?title=Knife_spear" title="Knife spear">knife spear</a>. Unfortunately you won't be able to hold all components in your inventory so it is best to leave them in a pile or have each accessible in a square adjacent to you. Again access the crafting menu (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>) and under weapons select the <a href="/cdda_wiki/index.php?title=Knife_spear" title="Knife spear">knife spear</a>. Congratulations, you have made one of the most powerful starting weapons, with a 16 Pierce and a reach attack.</li></ul>
+<h2><span class="mw-headline" id="Taking_on_the_Town">Taking on the Town</span></h2>
+<h3><span class="mw-headline" id="Stage_1:_The_Outskirts">Stage 1: The Outskirts</span></h3>
+<p>Because <a href="/cdda_wiki/index.php?title=Enemies" title="Enemies">zombies</a> only spawn towards the centre of towns, it is often possible to raid a few map squares into the town before encountering any enemies. The actual amount of space you will be able to go before meeting zombies will depend on the size of the town and the what the game has designated as the town centre, where more and harder zombies will spawn.
+</p><p>The aim of this step is to gather as many basics together as you can. Raid each house systematically, stockpiling anything that could possibly be useful to you.
+</p>
+<h4><span class="mw-headline" id="Planning_your_Approach">Planning your Approach</span></h4>
+<p>Before actually entering the town, walk around the outskirts looking for an ideal entry point. Try to aim for areas with any or all of the following features:
+</p>
+<ul><li>No nearby <a href="/cdda_wiki/index.php?title=Map#Overmap_legend" title="Map">shops</a>: Shops will tend to spawn near the town's center of gravity. There may be some distant outliers, but this is unusual. If you can see a shop, pick a different approach.</li>
+<li>Lots of <a href="/cdda_wiki/index.php?title=Map#house" title="Map">houses</a>: If you can see plenty of houses, the chances are good that the town centre is far away.</li>
+<li>An isolated branch of town: Often there may be a road or two branching away from the town, bordered by houses. Houses here will not only be further from the town centre, but will help you to avoid being flanked by zombies, by leaving you with an escape route to the countryside at all times.</li>
+<li>A larger town: Although it may seem counterproductive to take on a larger city, they will tend to have thicker suburbs, and although the town centres will thus be far more dangerous, it may be quite some distance into the town before dangerous concentrations of enemies start to appear.</li></ul>
+<h4><span class="mw-headline" id="Entering_Town">Entering Town</span></h4>
+<p>Once you are sure you have a good entry point, it's time to go into town. Remember the following tips:
+</p>
+<ul><li>Retreat at the sight of danger: Zombies have limited sight range, so you will see them before they see you. There's no need to fight them yet, or on their terms.</li>
+<li>Have an escape plan: Think ahead to how you will escape if you come across overwhelming odds - perhaps you might lead followers over traps, or through a series of closed doors. Perhaps there's a sewer entrance within easy reach.</li>
+<li>Make an imaginary line on your map charting where zombies start to appear: Staying behind this line will help avoid danger.</li></ul>
+<h4><span class="mw-headline" id="Breaking_into_Houses">Breaking into Houses</span></h4>
+<ul><li>If you have a <a href="/cdda_wiki/index.php?title=Crowbar" title="Crowbar">crowbar</a>, or a <a href="/cdda_wiki/index.php?title=Picklock_kit" title="Picklock kit">picklock kit</a>, you can simply enter via the front door by <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span>pplying them. Beware, crowbars make a small amount of noise when opening doors.</li>
+<li>If you have to <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span>mash down doors, try and be sure there aren't any zombies in sight range, as the sound may attract them. On the other hand, if you can enter the house before they reach you, you could kill them as they climb through a window.</li>
+<li>If there is a house which is dangerously close to some zombies, you might consider breaking in through a back window. This should avoid attracting zombies in the street past the house, leaving you free to loot the back rooms.</li>
+<li>Some windows can be opened like doors, just by walking into them, creating no sound.</li></ul>
+<p>For a detailed guide on breaking and entering, see <a href="/cdda_wiki/index.php?title=FAQ#How_do_I_enter_a_locked_house" title="FAQ">here</a>.
+</p>
+<h4><span class="mw-headline" id="Looting">Looting</span></h4>
+<p>Having planned ahead meticulously, you will obviously want to start tasting of the sweet juicy nectar that is stuff left behind by dead people. Here are some guidelines:
+</p>
+<ul><li>Gather everything: In static spawn mode, there is no need to be selective. You have as long as you want to loot, so gather anything which might be useful in the next few days. Particularly dedicated players may wish to gather absolutely every item, including <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span>mashing wooden furniture for <a href="/cdda_wiki/index.php?title=Nail" title="Nail">nails</a>, <a href="/cdda_wiki/index.php?title=Splintered_wood" title="Splintered wood">kindling</a>, and <a href="/cdda_wiki/index.php?title=Two_by_four" title="Two by four">two by fours</a>.</li>
+<li>Make stashes: There's no need to get overburdened with loot, because if an area is safe, it will remain so until you lead zombies into it. Consider marking a central location as your base, and regularly dropping loot off there, or perhaps gathering every useful item in each house, and then leaving them in the doorway. The only limiting factor is your dedication to looting! Some players burn down houses they have looted, for nails, rocks, two-by-fours, rebars, and the like. Do the same if you feel the need.</li>
+<li>Prioritise <a href="/cdda_wiki/index.php?title=Comestibles" title="Comestibles">perishables</a>: At this stage in the game, there will still be fresh perishable foods and drinks around. Prioritise consuming and stockpiling these, as they are a temporary resource - the drinks will last five or six days (like <a href="/cdda_wiki/index.php?title=Orange_juice" title="Orange juice">orange juice</a> and <a href="/cdda_wiki/index.php?title=Apple_cider" title="Apple cider">apple cider</a>), but some of the foods will go off after only 36 hours (like <a href="/cdda_wiki/index.php?title=Meat_sandwich" title="Meat sandwich">meat sandwich</a>).</li></ul>
+<h4><span class="mw-headline" id="Combat">Combat</span></h4>
+<p>There may be situations in which combat is inevitable, or equally you may find that a whole street is guarded by only a few <a href="/cdda_wiki/index.php?title=Enemies#zombie" title="Enemies">greens</a>. If so, follow these tips:
+</p>
+<ul><li>Use <a href="/cdda_wiki/index.php?title=Map#tiny_map_tiles" title="Map">terrain</a> to your advantage: <a href="/cdda_wiki/index.php?title=Window" title="Window">Windows</a>, <a href="/cdda_wiki/index.php?title=Shrub" title="Shrub">shrubs</a>, <a href="/cdda_wiki/index.php?title=Counter" title="Counter">counters</a>, <a href="/cdda_wiki/index.php?title=Rubble" class="mw-redirect" title="Rubble">rubble</a> and any number of other impediments can be used to slow down enemies. E<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">x</span>amine them to see how many movement points it costs to cross - the higher the number, the slower the enemy will be. A <a href="/cdda_wiki/index.php?title=Enemies#zombie" title="Enemies">green zombie</a> crossing a window will need almost 6 turns before it can attack you again - plenty of time to kill it with a fast weapon.</li>
+<li>Use choke points to your advantage: Never fight groups of enemies out in the open, when you can take them on individually. The ideal choke point also costs a high number of movement points to cross - windows are the obvious choice in towns, provided the noise of them smashing won't bring on more than you can handle.</li>
+<li>If caught in the open, hit and run: Even if there are no nearby choke points, you are naturally faster than most zombies, so use this to your advantage. Make them follow you so that they become spread out, and then wait on the spot (<span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">.</span> so that an enemy steps into an adjacent tile. Then hit it once, with a fast weapon, and move on. Anything with an attack speed lower than 100 will do. Using this technique, no enemy slower than you will ever get a hit in.</li></ul>
+<p>Remember that combat in static spawn is always worthwhile. A dead zombie will never come back, if properly disposed of, so each kill is a step towards establishing a safezone. Taking damage may seem like a problem, but as long as your health is above the 50% mark, you're unlikely to be in danger.
+</p>
+<h3><span class="mw-headline" id="Stage_2:_Further_Incursions">Stage 2: Further Incursions</span></h3>
+<p>If you manage to loot the outskirts of the town exhaustively, or if you decide that there's a juicy target you just can't ignore deeper in the town, you may want to make some further incursions into the danger zone.
+</p><p>The key thing to remember is that, barring a lucky find, you'll probably not be equipped for prolonged, large scale combat. Your first day incursions should, therefore, be focused on safe entry and retreat, rather than on establishing a presence deeper in the town. 
+</p>
+<h4><span class="mw-headline" id="Choosing_a_Goal">Choosing a Goal</span></h4>
+<p>The first, and most important step is to decide exactly what you are aiming to do. Any of these are worthwhile:
+</p>
+<ul><li>Loot outlying shops: Shops which are separate from the bulk of the town centre can be ripe targets.</li>
+<li>Search outlying <a href="/cdda_wiki/index.php?title=Map#parking_lot" title="Map">parking lots</a>: These have a decent chance to contain a complete <a href="/cdda_wiki/index.php?title=Vehicle" class="mw-redirect" title="Vehicle">vehicle</a>, and as such are always a high-priority target.</li>
+<li>Scout the town: You may simply wish to know the lay of the land for the future.</li>
+<li>Acquire a specific item: You may have a certain play-style in mind, which requires a certain item. Perhaps your initial looting came up short and you need something to supplement it.</li></ul>
+<h4><span class="mw-headline" id="Planning_Your_Approach_2">Planning Your Approach</span></h4>
+<p>Once you have picked a goal, you will want to think through your route ahead of time, and plan for things that might go wrong:
+</p>
+<ul><li>Pick a direct route: Getting to and from your destination quickly will minimise the number of enemies you need to fight.</li>
+<li>Stay hidden: Remember to plan for stealth. Sometimes you can walk right past crowds of Zs by walking through a house.</li>
+<li>Have an escape plan: Remember that a quick exit is the best way to handle overwhelming odds. Bring <a href="/cdda_wiki/index.php?title=Molotov_cocktail" title="Molotov cocktail">molotov cocktails</a> if you have the resources to make them, and leave a series of open doors and windows for yourself to close behind you as you flee.</li></ul>
+<h4><span class="mw-headline" id="Entering_Town_2">Entering Town</span></h4>
+<p>With preparations completed, you can now make your way into town. Remember the following tips, and you should be fine:
+</p>
+<ul><li>Don't rush: There's probably plenty of time before nightfall, and your target isn't going anywhere. Take the time to look ahead of you with <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">k</span> and keep an eye on the enemies in your HUD.</li>
+<li>Walk, don't run: You can take your approach one map square at a time, slowly killing enemies as they appear, or finding ways to avoid them altogether.</li>
+<li>Prepare your escape route: Keep a long line of open doors and windows for your character to run through in an emergency. Likewise, you might want to set up piles of flammable material to light as you run, hopefully damaging some enemies, or perhaps burning them all together in a house.</li></ul>
+<h3><span class="mw-headline" id="Stage_3:_Night_Time">Stage 3: Night Time</span></h3>
+<p>Night time in Static Spawn mode should be handled differently from Dynamic Spawn mode. There's no particular advantage to looting the town at night as all the zombies are already spawned, so although they can't see you, you're also likely to run into them. Obviously this problem is negated by <a href="/cdda_wiki/index.php?title=Implanted_Night_Vision" title="Implanted Night Vision">night vision</a> bionics or mutations, but you are unlikely to have these so early. This means, however, that your first night can be used for any number of other useful pursuits.
+</p><p>Below are some suggestions:
+</p>
+<h4><span class="mw-headline" id="Exploring_the_Countryside">Exploring the Countryside</span></h4>
+<p>The wilderness is comparatively safe at night. If you don't need to sleep for healing purposes, consider wandering the local highways in search of useful spawns like <a href="/cdda_wiki/index.php?title=Parking_lot" title="Parking lot">parking lots</a>, <a href="/cdda_wiki/index.php?title=Farm" title="Farm">farms</a> or <a href="/cdda_wiki/index.php?title=Map#Map_extras" title="Map">map extras</a> like dead scientists and trap stashes. At worst you might encounter <a href="/cdda_wiki/index.php?title=Wolf_(monster)" title="Wolf (monster)">wolves</a>.
+</p><p>Remember that your vision will be limited, so this is really a game of luck, without a <a href="/cdda_wiki/index.php?title=Flashlight" title="Flashlight">flashlight</a>, or a vehicle with <a href="/cdda_wiki/index.php?title=Vehicles#vehicle_parts" title="Vehicles">head lights</a>.
+</p><p>Even if you don't find any items, however, you can still map out a decent amount of land with the right technique. Although you can only reveal overmap squares after dark by directly accessing them, if you move in a zigzag pattern, stepping off the side of the road every so often, you have a good chance of revealing adjacent map features on the overmap, even without them being directly visible to your character.
+</p><p>With some intelligent guesswork, this approach can also help you get a feel for how forests, plains, rivers, and other macro-features are laid out.
+</p>
+<h4><span class="mw-headline" id="Establishing_a_Shelter">Establishing a Shelter</span></h4>
+<p>Have a look for, and then organise, more permanent shelter during the night.
+</p><p>This could mean wandering the countryside, as above, or returning to a building spotted earlier in the day.
+</p><p>You could then use the safety of darkness to lay traps, build fortifications, or organise the day's loot in alphabetical order.
+</p>
+<h4><span class="mw-headline" id="Picking_off_Zombies">Picking off Zombies</span></h4>
+<p>You might choose to use the night to clear out some stray Zs. If so, remember that night time on the first day is not the time for large-scale town clearing, so be cautious, selective, and safe. Try to pick on zombies you have already identified, for example ones in houses, or small groups isolated in the outskirts.
+</p><p>Since fighting in the dark can be a challenge, you may wish to use a <a href="/cdda_wiki/index.php?title=Flashlight" title="Flashlight">flashlight</a> for light, or failing that, set a small fire, to last just long enough to finish off your target.
+</p>
+<h4><span class="mw-headline" id="Raising_skills">Raising skills</span></h4>
+<p>Implying the fact you spent all day to loot the town, you surely have some useful books on you. Because you chose to stay safe in your basement, nighttime is a good opportunity to learn some skills. Of course, you'll need some light. Be aware using the flashlight just for this is a waste of batteries (a <a href="/cdda_wiki/index.php?title=Lightstrip" title="Lightstrip">lightstrip</a> is good for this instead). Read until you're tired enough to have a good sleep. Alternatively, you can use the terminal in the shelter for light, it never runs out of juice.
+</p>
+<h2><span class="mw-headline" id="Taking_on_the_Countryside">Taking on the Countryside</span></h2>
+<p>In contrast to the towns, the countryside is blessedly peaceful.
+</p>
+<h3><span class="mw-headline" id="Gather_supplies">Gather supplies</span></h3>
+<p>Unfortunately, you're on a timer; thirst and starvation await.  As such, unless you happen to spawn in a sufficiently-stocked shelter (most likely due to the efforts of a fallen survivor of yours), you'll probably need to raid the town for some essentials to get going.
+</p>
+<h4><span class="mw-headline" id="Water">Water</span></h4>
+<p>Your most pressing need is water; you won't survive long by drinking from stagnant and polluted pools of water, and it takes a bit of doing to make that water safe to drink.  To do that, you'll need at least one (preferably two) containers for water, and something to boil it with.  Technically, you don't <i>need</i> to enter town for any of this; between survival, cooking, and tailoring, you can make <a href="/cdda_wiki/index.php?title=Waterskin" title="Waterskin">waterskins</a> from <a href="/cdda_wiki/index.php?title=Fur_pelt" title="Fur pelt">fur pelts</a> and a <a href="/cdda_wiki/index.php?title=Stone_pot" title="Stone pot">stone pot</a> from <a href="/cdda_wiki/index.php?title=Rock" title="Rock">rocks</a>.  Unfortunately, these are nontrivial skills (notably, you can't sew pelts into a waterskin without a <a href="/cdda_wiki/index.php?title=Sewing_kit" title="Sewing kit">sewing kit</a>, and the wilderness version, the <a href="/cdda_wiki/index.php?title=Bone_needle" title="Bone needle">bone needle</a>, unlocks at survival 3), so unless you built your character explicitly for wilderness survival, you'll need to raid some houses.  Fortunately, you should find a couple bottles in the fridge of most houses, which is enough to get you started.  If you find a <a href="/cdda_wiki/index.php?title=Pot" title="Pot">pot</a> in the process, so much the better; it takes a good deal of <a href="/cdda_wiki/index.php?title=Sinew" title="Sinew">sinew</a> to craft your way to a stone pot, and you won't be getting much of it until higher levels of survival.  Also keep an eye out for clothing with pockets, or (if you're lucky) a <a href="/cdda_wiki/index.php?title=Backpack" title="Backpack">backpack</a>; if you're not raiding the town actively, you're likely to be extremely limited in your carrying capacity, and every little bit helps.
+</p>
+<h4><span class="mw-headline" id="Food">Food</span></h4>
+<p>In comparison to the water problem, the food problem is easy; the countryside is full of tasty critters.  You'll mostly see rabbits and squirrels, along with the occasional deer.  These can be safely hunted, but they will flee from you.  As such, you'll need a ranged weapon of some kind.  If you've got the inventory to spare, <a href="/cdda_wiki/index.php?title=Wood_spear" title="Wood spear">wood spears</a> make an excellent <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">t</span>hrown weapon, and can get you started.  If not, you can make do with throwing rocks, if you're patient. The <i>true must have</i> is the <a href="/cdda_wiki/index.php?title=Knife_spear" title="Knife spear">knife spear</a>, this can be made from the material you begin with.  Note that without a decent survival ranking, you probably won't get any meat from the smaller critters.  Butcher them all anyways; at the very least you're getting Survival experience, and you might get lucky... but look for a deer when you start to get hungry, since you're more likely to get usable meat there. If you are full, you might want to consider not butchering deer corpses, as they will not rot and you might need the food for later.
+</p>
+<h3><span class="mw-headline" id="Critters">Critters</span></h3>
+<p>While hunting, keep an eye out for <a href="/cdda_wiki/index.php?title=Enemies" title="Enemies">monsters</a>.  In the countryside, this means cougars, wolves, spiders, and <a href="/cdda_wiki/index.php?title=Black_bear" title="Black bear">bears</a>, in roughly ascending order of hazard.  Cougars are <i>almost</i> more annoying than dangerous, and even untrained survivors should be able to beat them barehanded at need, provided they're not already half-dead from some other battle.  If you feel at all confident in your combat ability, feel free to hunt them as you would deer.  Wolves are a bit more dangerous, as they are fast and aggressive, and often found in groups.  If you see a wolf, make sure it's alone before engaging; a wolf pack will probably kill you this early.  Spiders are individually more dangerous than wolves, and their poison can spell doom for even experienced survivors.  Jumping spiders are the weakest and most common, so you might engage these at need.  On the other hand, if you encounter a wolf or <a href="/cdda_wiki/index.php?title=Web_spider" class="mw-redirect" title="Web spider">web spider</a>, just run for it, those things are way more dangerous than the mere zombies you're avoiding in town.  Bears are enormously dangerous, and can easily kill even experienced survivors... but are mostly not very aggressive.  Keep well away from them, and they should ignore you.
+</p>
+<h3><span id="Whats_next_?"></span><span class="mw-headline" id="Whats_next_.3F">Whats next&#160;?</span></h3>
+<p>At this point, you're probably hungry and thirsty, but if everything's gone well, you've got bottles of <a href="/cdda_wiki/index.php?title=Clean_water" title="Clean water">clean water</a> from town and chunks of meat from hunting.  The water you can drink straight with <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">E</span>, but don't eat the raw meat.  Instead, pile some wood outside and <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span>pply your matchbook towards it.  That'll start a nice cheerful fire on which you can cook your meat using the crafting menu <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">&amp;</span>, provided you have either the <a href="/cdda_wiki/index.php?title=Pot" title="Pot">pot</a> or <a href="/cdda_wiki/index.php?title=Frying_pan" title="Frying pan">pan</a> mentioned earlier... or even just a <a href="/cdda_wiki/index.php?title=Wood_spear" title="Wood spear">wood spear</a>, if things didn't go quite so well.  Hot <a href="/cdda_wiki/index.php?title=Cooked_meat" title="Cooked meat">cooked meat</a> is among the best food in the game, so you'll be doing this a lot.  Water is a bit more complicated.  Once your initial containers are empty, you can refill them by <span style="background-color: #F0F0F0; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span>xamining an adjacent water source.  If you're lucky, you've got a river or a pond somewhere nearby that you can get water from (and NOT a swamp); if you're unlucky, you'll have no recourse but to get your water from the overflowing <a href="/cdda_wiki/index.php?title=Toilet" title="Toilet">toilets</a> of the town.  Either way, this water is clearly NOT good for drinking, and you'll need to boil it to make it safe.  This takes a container of dirty water, just called 'water' in your inventory, an empty container to store the clean stuff in, a pot/pan to boil it in, and a fire to boil it over.  Given all these, the process is identical to cooking food, excepting the extra prompt for where you want to store your water.
+</p><p>Once you're able to hunt your own food and boil your own water, you're basically set.  If you're careful, you should be able to survive and build up your skills until you're able to safely raid the town, without the risk inherent in charging straight in. Continue to read <a href="/cdda_wiki/index.php?title=Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland survival</a> if you want to stay out of towns for now..
+</p><p><br />
+
+</p>
+<table class="navbox" cellspacing="0" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Guides" title="Template:Guides"><span title="View this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Guides" title="Template talk:Guides"><span title="Discuss this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit"><span title="Edit this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Choosing_Martial_Arts_Styles" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Example_Character_Builds" title="Example Character Builds">Example Character Builds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_First_Day" title="The First Day">The First Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Dynamic_Spawn_Mode" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">First Day: Static Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Killing_zombies" title="Killing zombies">Killing zombies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Scavenging" title="Scavenging">Scavenging</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Weapons_getting_stuck" title="Weapons getting stuck">Weapons getting stuck</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Archer_Guide" title="Archer Guide">Archer Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Beyond_the_first_day" title="Beyond the first day">Beyond the first day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Brewing" title="Brewing">Brewing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clothing_Encumbrance" title="Clothing Encumbrance">Clothing Encumbrance</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Farming" title="Farming">Farming</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Hunting" title="Hunting">Hunting</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse" title="Hobo&#39;s Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Night_Raids:_Guide" title="Night Raids: Guide">Night Raids</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Power" title="Power">Power</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Recoil" title="Recoil">Recoil</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland Survival</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Melee_Guide" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Category:Advanced_guides" title="Category:Advanced guides">Advanced</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Advanced_Character_Build_Tips" title="Advanced Character Build Tips">Advanced Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clearing_the_city" title="Clearing the city">Clearing the city</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Fungal Bloom</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Broken_Cyborg" title="Guide: Broken Cyborg">Broken Cyborg</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Marloss_Berry" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="/cdda_wiki/index.php?title=Guide:_Mycus" title="Guide: Mycus">Mycus</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Mine" title="Guide: Mine">Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Nudist_Challenge" title="Guide: Nudist Challenge">Nudist Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Strange_Temple" title="Guide: Strange Temple">Strange Temple</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Triffid_Grove" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Vehicles" title="Vehicles">Vehicles</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Driving" title="Driving">Driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Engines" title="Engines">Engines</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_a_Supercar:_Guide" title="Making a Supercar: Guide">Making a Supercar</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer" title="(DRbiG&#39;s) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_construction" title="Vehicle construction">Vehicle construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_modifications" title="Vehicle modifications">Vehicle modifications</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_parts" title="Vehicle parts">Vehicle parts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_repairs" title="Vehicle repairs">Vehicle repairs</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_your_first_vehicle_(The_humble_bicycle)" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Guide:_Seeker_of_the_Arcane" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_How_to_make_a_basic_slime_vehicle" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Technical" class="mw-redirect" title="Technical">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=CataModder" title="CataModder">CataModder</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Cheating" title="Cheating">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Creature_AI" title="Creature AI">Creature AI</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_compile" title="How to compile">How to compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_search_the_sources" title="How to search the sources">How to search the sources</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mod_manager" title="Mod manager">Mod Manager</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Savegame_Editing" title="Savegame Editing">Savegame Editing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Tileset_Support" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20201111021653
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 898/1000000
+Preprocessor generated node count: 10175/1000000
+Post‐expand include size: 37189/2097152 bytes
+Template argument size: 13532/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   94.847      1 -total
+ 48.45%   45.951      1 Template:Guides
+ 44.52%   42.228      1 Template:Navbox
+ 32.76%   31.072      1 Template:Ver
+ 10.38%    9.841      1 Template:Navbar
+  9.79%    9.284      1 Template:Stub
+  9.10%    8.629     48 Template:Md
+  5.82%    5.519     25 Template:K
+  4.83%    4.584      3 Template:Transclude
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:386-0!canonical and timestamp 20201111021653 and revision id 35409
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;oldid=35409">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;oldid=35409</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:Unknown_version" title="Category:Unknown version">Unknown version</a></li><li><a href="/cdda_wiki/index.php?title=Category:Stub" title="Category:Stub">Stub</a></li><li><a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=How+to+survive+your+first+day%3A+Static+Spawn+Mode" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=How+to+survive+your+first+day%3A+Static+Spawn+Mode" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:How_to_survive_your_first_day:_Static_Spawn_Mode&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/How_to_survive_your_first_day:_Static_Spawn_Mode" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/How_to_survive_your_first_day:_Static_Spawn_Mode" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;oldid=35409" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 May 2020, at 03:53.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.208","ppvisitednodes":{"value":898,"limit":1000000},"ppgeneratednodes":{"value":10175,"limit":1000000},"postexpandincludesize":{"value":37189,"limit":2097152},"templateargumentsize":{"value":13532,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   94.847      1 -total"," 48.45%   45.951      1 Template:Guides"," 44.52%   42.228      1 Template:Navbox"," 32.76%   31.072      1 Template:Ver"," 10.38%    9.841      1 Template:Navbar","  9.79%    9.284      1 Template:Stub","  9.10%    8.629     48 Template:Md","  5.82%    5.519     25 Template:K","  4.83%    4.584      3 Template:Transclude"]},"cachereport":{"timestamp":"20201111021653","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":292});});</script>
+</body>
+</html>

@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for A Skill Training Encyclopedia - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"A_Skill_Training_Encyclopedia","wgTitle":"A Skill Training Encyclopedia","wgCurRevisionId":40140,"wgRevisionId":0,"wgArticleId":10118,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"A_Skill_Training_Encyclopedia","wgRelevantArticleId":10118,"wgRequestId":"ZBQJTjqtSRX24E6yybLO6wAAABc","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-A_Skill_Training_Encyclopedia rootpage-A_Skill_Training_Encyclopedia skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for A Skill Training Encyclopedia</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1"> '''Guide was created for {{InlineVer|0.D}}''' Updates have been made, starting May 4th, 2021 to bring it in-line with 0.E. The general approach, along with Tailoring and Fabrication have been expanded significantly, but contributor has withdrawn from this endeavor.
+
+This guide helps provide structure and direction for players looking to train their [[skills]]. There are four main ways to train skills: through crafts, practice, books, and NPC training.
+
+==Training Methods Overview==
+
+NPC Training: In general, NPC training provides the quickest manner to increase a skill. It is dependent on finding a skilled NPC who is amenable to training. Progress does slowdown as the levels grow higher, and there is a significant cool-down time between sessions.
+
+Crafting: Crafts are probably the second quickest way to train a skill. Experience gained is influenced by [[focus]] and base craft time. A single craft may be enough to gain a level, or a few. The key benefits of crafting is that it trains proficiencies and produces some item which may aid in survival.
+
+Books: Books are a convenient but slower way of training skills.  They are easy to find and only require light and sustaining oneself. They are exceptional when one does not have the resources necessary or otherwise does not wish to make a craft available. Some skills, such as Social and Computers, are realistically only raised through reading. Sadly, they do not train proficiencies.
+
+Practice: Practice is the final manner of training skills. In general, experience gained for each attempt is small, but having a large number of opportunities to practice will provide enough experience to grow. Some examples of this are engaging in combat, foraging, butchering, making repairs to items and vehicles, disarming traps, lockpicking, applying first aid, swimming, and driving. 
+
+==Profiencies==
+
+Proficiencies are new addition, added during 0.E experimental. As they are still in development, the following advice is subject to change.
+
+Proficiencies make crafts more challenging. They require mastering skill-related techniques in order to expertly craft items without wasting time or resources. Having an appropriate skill book around can mitigate a lack of proficiency.
+
+As of May 4th, 2021, failing a craft may destroy all components used. Thus, when crafting an item where one lacks several prerequisite proficiencies, it is best to have spare resources available. When seeking to train proficiencies, it is wise to use crafts that are abundant and plentiful. Your extremely rare, time-consuming item to produce can and will be destroyed if you start a craft that you are not proficient in.
+
+==Crafting Skills==
+
+The goal of this section is to suggest crafts that are worthwhile to players in general, in addition to being accessible and providing a respectable amount of experience. The game is still under significant development. In hopes of establishing some resiliency against change, principles will be recommended to help future players make adequate decisions in context of future, potential mechanics.
+
+(Old, but current interpretation of the tables)
+This section mostly refers to items which may be crafted without a recipe. Some notable craftable items, however, are an exception and therefore included due to ease in crafting and acquisition.
+
+Some items listed may have symbols after their name. The meaning for the symbols are as follows:
+
+- : able to deconstruct to get back all materials used in crafting it
+
+-- : requires crafting recipe
+
+===Tailoring===
+
+Overview: Tailoring allows a player to create clothes which provide protection, warmth, and storage. It is utilized in the repair of gear made from textiles.
+
+Making repairs to gear yields a small amount of experience, so the vast majority of it must come from other means. Crafts are recommended as it is always wise to have spares. Playing with and utilizing NPCs means there is another individual to kit out, and creating armor for oneself and them will most likely provide a level, if focus is appropriately managed.
+
+(List updated May 5th, 2021)
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+| style="width: 90%" |
+* [https://nornagon.github.io/cdda-guide/#/item/bandages_makeshift '''Makeshift Bandage''']
+* [https://nornagon.github.io/cdda-guide/#/item/towel Towel]
+* [https://nornagon.github.io/cdda-guide/#/item/bandana Bandana]
+* [https://nornagon.github.io/cdda-guide/#/item/blindfold Blindfold]
+* [https://nornagon.github.io/cdda-guide/#/item/chestwrap Chestwraps], [https://nornagon.github.io/cdda-guide/#/item/footrags Foot Rags], [https://nornagon.github.io/cdda-guide/#/item/gloves_wraps Hand Wraps] 
+* [https://nornagon.github.io/cdda-guide/#/item/patchwork_scarf Patchwork Scarf]
+|-
+| style="text-align: center; width: 10%" | 1->2
+| style="width: 90%" |
+* pair of arm warmers (warmth &amp; for broken limbs)
+* pair of leg warmers (warmth &amp; for broken limbs)
+* pair of safety glasses (defense &amp; future component)
+* pair of light gloves
+* union suit --
+* pair of glove liners --
+* rain hood (wet penalties &amp; future component)
+* rain coat (wet penalties &amp; future component)
+|-
+| style="text-align: center; width: 10%" | 2->3
+| style="width: 90%" |
+* balaclava
+* long underwear bottom
+* long underwear top
+* duffel bag
+* pair of leather armor boots
+* pair of leather armor gauntlets
+* cotton hat
+* leather pouch (storage &amp; future component)
+* chest rig
+|-
+| style="text-align: center; width: 10%" | 3->4
+| style="width: 90%" |
+* boonie hat
+* leather armor guards
+* backpack
+* leather backpack
+* tool belt (good storage and future component)
+* duster (also future component)
+* cargo pants (also future component) --
+* baldric holster
+* ankle sheath
+* ankle holster
+* holster
+* sheath
+* spear strap
+|-
+| style="text-align: center; width: 10%" | 4->5
+| style="width: 90%" |
+* pair of metal armguards
+* drop leg pouches
+* rolled sleeping bag
+* leather armor helmet
+* light nomad gear
+* axe ring holster
+* gambeson
+|-
+| style="text-align: center; width: 10%" | 5->6
+| style="width: 90%" |
+* Tailoring (4) Crafts
+* pair of iron greaves
+* nomad cowl
+* leather body armor
+* nomad gear
+* tac vest
+* light survivor suit, boots, hood, gloves
+* pair of chitin arm guards
+* pair of chitin leg guards
+* XL holster
+* baldric
+* back scabbard
+* scabbard
+* survivor harness
+* pair of biosilicified chitin boots, gauntlets
+|-
+| style="text-align: center; width: 10%" | 6->7
+| style="width: 90%" |
+* Tailoring (5) Crafts
+* survivor suit, boots, hood, gloves
+* winter survivor suit
+* sleeveless leather trenchcoat
+* bone body armor
+* ski mask
+* flame-resistant suit, hood, gloves, socks --
+* chitinous helmet
+* survivor belt, backpack, rucksack
+* pair of biosilicified chitin arm guards, leg guards
+|-
+| style="text-align: center; width: 10%" | 7->8
+| style="width: 90%" |
+* Tailoring (6) Crafts
+* heavy survivor suit, boots, hood, gloves
+* winter survivor hood, gloves, boots
+* survivor wetsuit, hood, gloves, boots
+* survivor duffel bag
+* chitinous armor
+* biosilicified chitin helmet
+|}
+
+===Fabrication===
+
+Overview: Fabrication is the general crafting skill. It covers construction, the vast majority of craftable items, and repairing objects made from plastics, metals, and other materials (wood, stone, bone).
+
+Making repairs to items yields a small amount of experience. As such, it is advised to craft or construct. Because of the list of options are so abundant, this skill will be divided into subsections based on approaches and tools available.
+
+====Construction====
+Construction, no longer a separate skill, has been merged into fabrication. There is plenty of "furniture" that offers real and significant utility. From basics such as being a fire-containment unit and storage, to a primitive "fridge" and food preserving system. There are plenty of projects that are worthwhile for a survivor.
+
+This section is written with the idea of repurposing a discovered location. This may be a static, main base or an outpost that one makes as one explores and raids. Suggested crafts will primarily have defensive or utilitarian purposes.
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0 -> 1
+| style="width: 90%" |
+* deconstruct furniture
+* remove simple furniture
+* board up wooden door
+* clean broken window
+* tape up window
+* remove tape from window
+* board up window
+* build sandbag/earthbag wall
+* fill pit with dirt
+* fence posts
+|-
+| style="text-align: center; width: 10%" | 1 -> 2
+| style="width: 90%" |
+* build door (empty door frame)
+* repair wood door
+* barbed wire fence
+* crate
+* straw bed
+* butchering rack
+* hanging meathook
+* wooden rack
+|-
+| style="text-align: center; width: 10%" | 2 -> 3
+| style="width: 90%" |
+* door (finish building)
+* window (empty window frame/add curtains)
+* metal rack
+* warehouse shelf
+* makeshift bed
+* stone fireplace
+* fermenting vat
+* wooden keg
+* standing tank
+|-
+| style="text-align: center; width: 10%" | 3 -> 4
+| style="width: 90%" |
+* reinforce wood door
+* window (install glass sheet)
+* reinforce boarded window
+* chainlink fence &amp; gate
+* workbench
+* armchair, sofa, 
+* planter
+* charcoal kiln, metal charcoal kiln
+* smoking rack
+* arc furnace
+|-
+| style="text-align: center; width: 10%" | 4 -> 5
+| style="width: 90%" |
+* locker
+* bed from scratch, bunk bed, bed frame, sofa
+* water well
+* clay kiln
+* root cellar
+|-
+| style="text-align: center; width: 10%" | 5 -> 6
+| style="width: 90%" |
+* fabrication (4) constructions
+* rock forge
+* metal grate over window
+|-
+| style="text-align: center; width: 10%" | 6 -> 7
+| style="width: 90%" |
+* fabrication (5) constructions
+* metal door (empty door frame)
+* armor reinforced window
+* bar door
+|-
+| style="text-align: center; width: 10%" | 7 -> 8
+| style="width: 90%" |
+* fabrication (6) constructions
+* reinforced glass window (empty frame)
+* metal door (install door)
+|}
+
+====Low-Resource====
+The list of crafts available via fabrication is extensive. Many of them may require a forge or advanced resources like gunpowder. A survivor who has access to these tools will have no troubles training fabrication while making purposeful crafts. The following list is for individuals who do not have those advanced tools or materials.
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0 -> 1
+| style="width: 90%" |
+* makeshift knife, machete, glaive, crowbar, hammer
+* basic chemistry set, chemistry set
+* butchering kit
+* cudgel, pointy stick, 2-by-sword
+* homewrecker
+* nail bat, barbed wire bat
+* wooden panel
+* bundle of...
+* nailboard, nailboard trap
+* sling
+* slinghot
+* pebbles
+* candle
+* simple knife spear
+* acid bomb
+* fishing hook
+* pair of nail knuckles
+* scrap copper, plastic chunk
+* spike
+* hand-rolled cigarette, joint
+* screwdriver
+|-
+| style="text-align: center; width: 10%" | 1 -> 2
+| style="width: 90%" |
+* clay pellet
+* crude wooden arrow, bolt
+* wooden needle
+* makeshift funnel
+* loose glass caltrops
+* brazier
+* misc repair kit
+* filled charcoal kiln
+* improvised fishing hook
+* charcoal cooker
+* oars
+* wooden frame
+* headlamp
+* gallon jug
+* plastic jerryan
+* bone sewing awl
+* steel sewing awl
+* makeshift pot, copper pot
+* washboard
+* shoulder strap
+* copper knife
+* knife spear
+* sling
+* survival bow
+|-
+| style="text-align: center; width: 10%" | 2 -> 3
+| style="width: 90%" |
+* barbed wire
+* clay crucible
+* survival marker
+* birchbark funnnel
+* survivor mess kit
+* raft boat hull
+* sail
+* foldable wooden frame
+* pair of welding goggles
+* filter mask cartridge, gas mask cartridge
+* steel jerrycan
+* clay pot
+* clay canister
+* quarter staff
+* wooden spear
+* short bow
+|-
+| style="text-align: center; width: 10%" | 3 -> 4
+| style="width: 90%" |
+* simple wooden arrow, bolt
+* loose caltrops
+* stepladder
+* wooden boat hull
+* pair of scrap arm guards, boots, leg guards, helmet, cuirass, suit
+* medium battery mod, light battery mod, heavy battery mod
+* wooden button
+* wind turbine
+* oil lamp
+* staff sling
+* wooden pike, copper pike
+* copper spear
+* homemade halfike
+* wooden javelin
+|-
+| style="text-align: center; width: 10%" | 4 -> 5
+| style="width: 90%" |
+* banded wooden cart wheel
+* wooden dog whistle
+* simple metal arrow, bolt
+* makeshift wooden arrow, bolt
+* wind mill, water mill
+* funnel
+* lamp oil cooker, gaosline cooker
+|-
+| style="text-align: center; width: 10%" | 5 -> 6
+| style="width: 90%" |
+* fabrication (4) crafts
+* plastic boat hull
+* long pole
+* gasoline lantern
+* forward grip
+|-
+| style="text-align: center; width: 10%" | 6 -> 7
+| style="width: 90%" |
+* fabrication (5) crafts
+* light survivor mask, survivor mask
+* large water wheel
+* survivor machete
+* stone spear
+|-
+| style="text-align: center; width: 10%" | 7 -> 8
+| style="width: 90%" |
+* fabrication (6) crafts
+* survivor firemask, divemask, winter survivor mask, heavy survivor mask
+|}
+
+====Forging====
+A forge is a valuable tool. Having one enables one to easily produce a number of metal and other goods. This is an incredibly easy way to raise fabrication while creating purposeful, useful crafts.
+
+===Survival===
+
+Overview: Survival allows you to transform natural resources into something of value, or to enhance the value of these resources. It is a high value skill.
+
+General Principle:
+
+General Recommendation: Raise it and value it. If you're scavenging, it's not vital. But, it does help with butchering, farming, foraging, and a number of other survival related applications.
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+| style="width: 90%" |
+* makeshift sling-
+* bindle-
+* forage underbrush
+|-
+| style="text-align: center; width: 10%" | 1->2
+| style="width: 90%" |
+* plant fiber (from cattail stalks or dogbane)
+* digging stick
+* forage underbrush
+|-
+| style="text-align: center; width: 10%" | 2->3
+| style="width: 90%" |
+* wild vegetable stems
+* any seeds
+* forage underbrush
+|-
+| style="text-align: center; width: 10%" | 3->4
+| style="width: 90%" |
+* bone flute
+* stone axe
+|-
+| style="text-align: center; width: 10%" | 4->5
+| style="width: 90%" |
+* mushroom spores
+|-
+| style="text-align: center; width: 10%" | 5->6
+| style="width: 90%" |
+* mushroom spores
+* morel mushroom spores
+|}
+
+===Food Handling===
+
+(Disclaimer: Certain crafts that are listed are chemistry, and are not under the skill, "Applied Sciences")
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+| style="width: 90%" |
+* clean water
+* cooked meat
+* cooked wild vegetables
+|-
+| style="text-align: center; width: 10%" | 1->2
+| style="width: 90%" |
+* pine nuts
+* boiled egg
+* herbal tea
+* bone broth
+* cooked cattail stalk
+* scrambled eggs
+|-
+| style="text-align: center; width: 10%" | 2->3
+| style="width: 90%" |
+* dehydrated meat
+* acid water
+* cooked dandelion greens
+* broth
+|-
+| style="text-align: center; width: 10%" | 3->4
+| style="width: 90%" |
+* meat jerky
+* lard
+* woods soup
+|-
+| style="text-align: center; width: 10%" | 4->5
+| style="width: 90%" |
+* dog food
+* aspic
+|-
+| style="text-align: center; width: 10%" | 5->6
+| style="width: 90%" |
+* dog food
+* aspic
+* pemmican
+|-
+| style="text-align: center; width: 10%" | 6->7
+| style="width: 90%" |
+* salt
+* pickled meat
+|}
+
+===Electronics===
+
+Overview: Electronics is the skill that involves producing crafts that rely on circuits and electricity. These tools offer many conveniences and utilities that might be hard to acquire otherwise.
+
+Electronics is very dependent on recipes. These can be learned by having an appropriate book available, but they can also be learned by disassembling the item. This skill will likely require reading from a book, or disassembling and reassembling items. To be fair, taking things apart and putting them back together again is an appropriate real-world approach to learning more about these complex tools. It is easy to justify having spares, but basic electronics are quite abundant, and scavenging can easily satisfy one's needs.
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+| style="width: 90%" |
+* antenna
+|-
+| style="text-align: center; width: 10%" | 1->2
+| style="width: 90%" |
+* electric firestarter
+|-
+| style="text-align: center; width: 10%" | 2->3
+| style="width: 90%" |
+* (May make a soldering iron at lv2)
+* electrolysis kit-
+|}
+
+===Mechanics===
+
+
+
+
+===="Pipe" Method====
+
+
+(Credits to Vormithrax, in {{inlineVer|0.E}}
+You first need to damage an object before you can repair it, wield the item and bash a wall). Also works with other solderable weapons.
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+|  style="width: 90%" |
+repair pipe with soldering iron/welder (25 batteries) (approximately 30 minutes)
+|-
+| style="text-align: center; width: 10%" | 1->2
+|  style="width: 90%" |
+repair pipe with soldering iron/welder (75 batteries) (approximately 1 hour 45 minutes)
+|}
+
+===="Disrepair" Method====
+
+If you attempt to repair an item when your skill level is too low, you will be able to increase the skill level, but will gradually damage the item. Some items are composed of two ingredients though and can be repaired with the corresponding tool/skill for either ingredient, so you can damage it this way, then repair it back with another skill you're at a higher level in - Most likely Tailoring. Or you can use up part of the endless supply of zombie loot, some of which you'll cut up for usually no returns anyway, and not worth the soap/detergent to clean it.
+
+===="Car" Method (Variant 1)====
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+|  style="width: 90%" |
+remove [[seatbelt]]s, [[headlight]]s, [[dashboard]] and [[clock]]s from cars, requires a [[screwdriver]] (Recommended to make a homemade suppressor instead if the player has the required parts as it costs significantly less time (only requiring 4 rags, 1 pipe, and approximately 36 seconds per craft))
+|-
+| style="text-align: center; width: 10%" | 1->2
+|  style="width: 90%" |
+repair a pipe with a soldering iron/welder (200 batteries) (approximately 5 hours)
+|-
+| style="text-align: center; width: 10%" | 2->3
+|  style="width: 90%" |
+repair a pipe with a soldering iron/welder (450 batteries) (approximately 10 hours 30 minutes)
+|-
+| style="text-align: center; width: 10%" | 3->4
+|  style="width: 90%" |
+repair a pipe with a soldering iron/welder (450 batteries) (approximately 10 hours 30 minutes)
+|-
+| style="text-align: center; width: 10%" | Note
+|  style="width: 90%" |
+From 1->4, these numbers are times are from 100 a base 100 focus including decay with 0 morale. Higher morale and focus significantly reduce the required repair time to level up.
+|}
+
+
+====Car method variant 2====
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+|  style="width: 90%" |
+* make a light wooden frame, start vehicle construction with it, remove the frame which will disassemble the vehicle and do it again
+
+|-
+| style="text-align: center; width: 10%" | 1->2
+| style="width: 90%" |
+* homemade suppressor
+* remove/reattach car parts
+|-
+| style="text-align: center; width: 10%" | 2->3
+| style="width: 90%" |
+* remove/reattach car parts
+* floodlight, makeshift automotive filter/makeshift air filter/makeshift drive belt
+|-
+| style="text-align: center; width: 10%" | 3->4
+| style="width: 90%" |
+* remove/reattach car parts
+* water purifier
+|}
+
+==Utility Skills==
+
+===Trapping===
+
+Craft a nail-board trap, place, and disarm it repeatedly. This takes a long time in the real world, so training trapping is best done with a macro. This is feasibly done up to 3 (4 if the player has patience). Useful for lower perception characters since 1 trapping = 2 perception for the sake of trap detection.
+
+===First Aid===
+
+If you're the combative type, it's useful to note that you can [[Butcher|dissect]] corpses to gain skill without using up bandages (as of 0.F-2) if you won't use their products, like zombie corpses.
+
+{| class="wikitable" style="width: 100%"
+! style="text-align: center; width: 10%" | Level Progression
+! 
+|-
+| style="text-align: center; width: 10%" | 0->1
+|  style="width: 90%" |
+applying 6 makeshift bandages
+|-
+| style="text-align: center; width: 10%" | 1->2
+| style="width: 90%" |
+* applying 27 makeshift bandages
+* arm-splints
+|-
+| style="text-align: center; width: 10%" | 2->3
+|  style="width: 90%" |
+applying 81 makeshift bandages
+|-
+| style="text-align: center; width: 10%" | Note
+|  style="width: 90%" |
+From 0->3, these numbers are obtained from consecutive crafting from 0 to 3 (from 100 focus 0 morale) without refreshing focus to 100 every level. The number of bandages per iteration is significantly reduced by morale and higher focus.
+|-
+| style="text-align: center; width: 10%" | 4->5
+|  style="width: 90%" |
+applying 144 makeshift bandages (from 100 focus and 0 morale consecutively)
+|}
+
+==Combat Skills==
+
+===Ranged Combat===
+
+* Marksmanship + Archery: May be trained up to 3 along with archery by crafting a bow, and shooting arrows at the floor or a marked target.
+* Throwing: Throw things on the floor or at a practice target to train throwing up to 3 for little in-game time.
+* Handguns:  The same as training Archery. Requires crafting the pistol Crossbow (Recipe locked). Viable up to level 3.
+* Rifles: The same as training Archery. Requires crafting the Crossbow (Recipe locked). Viable up to level 3.
+* Submachine guns: The same as training Archery. Requires crafting the repeating Crossbow (Recipe locked). Viable up to level 3.
+* Launchers: No real way to train other than usage and books.
+* Shotguns: No real way to train other than usage and books.
+
+===Melee Combat===
+
+* Dodging: viably train dodge to 6 by waiting while surrounded by rats while wearing full turnout gear or survivor suit.
+* Melee: No real way to train other than usage and books.
+* Unarmed combat: No real way to train other than usage and books.
+* Bashing Weapons: No real way to train other than usage and books.
+* Cutting Weapons: No real way to train other than usage and books.
+* Piercing weapons: No real way to train other than usage and books.
+* Note: There are no crafting recipes which train combat. However, there are a few ways to train certain skills up without the need to confront enemies (see ranged combat skills).
+
+{{Guides}}
+{{ver|0.D}}
+[[Category:Guides]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides">Template:Guides</a> (<a href="/cdda_wiki/index.php?title=Template:Guides&amp;action=edit" title="Template:Guides">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/A_Skill_Training_Encyclopedia">http://cddawiki.chezzo.com/cdda_wiki/index.php/A_Skill_Training_Encyclopedia</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=A+Skill+Training+Encyclopedia&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=A+Skill+Training+Encyclopedia&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/A_Skill_Training_Encyclopedia" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:A_Skill_Training_Encyclopedia&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/A_Skill_Training_Encyclopedia">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=A_Skill_Training_Encyclopedia&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=A_Skill_Training_Encyclopedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/A_Skill_Training_Encyclopedia" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/A_Skill_Training_Encyclopedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=A_Skill_Training_Encyclopedia&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":291});});</script>
+</body>
+</html>

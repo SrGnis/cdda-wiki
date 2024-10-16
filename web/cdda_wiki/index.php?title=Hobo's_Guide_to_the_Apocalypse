@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Hobo's Guide to the Apocalypse - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hobo's_Guide_to_the_Apocalypse","wgTitle":"Hobo's Guide to the Apocalypse","wgCurRevisionId":27981,"wgRevisionId":27981,"wgArticleId":3257,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unknown version","Guides"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hobo's_Guide_to_the_Apocalypse","wgRelevantArticleId":3257,"wgIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/cdda_wiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/cdda_wiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.26.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd" />
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/cdda_wiki/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hobo_s_Guide_to_the_Apocalypse skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php?title=Category:Unknown_version" title="Category:Unknown version">Unknown version</a></abbr></div></div>
+</div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hobo's Guide to the Apocalypse</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From The Cataclysm: Dark Days Ahead Wiki</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><pre><b>Guide created using an unknown version of Cataclysm DDA.</b>
+The information present here might not apply to the current version of CDDA.
+</pre>
+<p><br />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Character_Creation"><span class="tocnumber">1</span> <span class="toctext">Character Creation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Day_One"><span class="tocnumber">2</span> <span class="toctext">Day One</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Quick_Reference_Checklist"><span class="tocnumber">3</span> <span class="toctext">Quick Reference Checklist</span></a></li>
+</ul>
+</div>
+
+<p>This guide is meant to get you up and running with as many free points as possible to spend on the traits and stats of your choice. As of <a href="/cdda_wiki/index.php?title=0.9_(Ma)" title="0.9 (Ma)">0.9 (Ma)</a> this means taking the Hobo profession, but with the profession rebalance coming up this might change or at least be a little less effective. As proof against this, I'll try to avoid specific numbers or specific build advice where it's not relevant and focus on how you can survive that first day.
+</p><p>This guide is intended for Static mode, as in Dynamic mode this is all much easier, and a lot of it is redundant with normal guides. If you don't need all of that and just want a short version, skip to the checklist.
+</p>
+<h2><span class="mw-headline" id="Character_Creation">Character Creation</span></h2>
+<ul><li> Take whatever stats you're comfortable with; strength and dexterity are marginally more useful here since you'll be using thrown weapons to catch prey and may need to melee a zombie or two, but since the whole point of this guide is to let you focus on your long-term build as painlessly as possible, don't feel obligated.</li></ul>
+<ul><li> For traits, I strongly recommend Fast Learner, especially if you're playing with any kind of skill rust. For three points you get the ability to quickly and easily train multiple skills to level 2-3, at a fraction of the cost of simply taking them at creation. It also stays relevant all game, and benefits literally any build. It's still not mandatory, but not taking it might require you to scavenge an extra day's worth of food and water.</li></ul>
+<ul><li> You can take almost any negative traits you want -- amusingly, due to the way addiction mechanics work, even Addictive Personality isn't <i>that</i> dangerous  -- but avoid Lightweight, as it makes you far more likely to hallucinate, causing constant interruptions to your time- and materials-sensitive crafting requirements.</li></ul>
+<ul><li> Profession is of course Hobo, although other drug addict professions should find most of the advice relevant. For skills, take nothing at all. If you're really struggling with getting this to work, a single point's worth of either Survival or Tailoring can give you a head start, but only if you can't survive (heh) without it.</li></ul>
+<h2><span class="mw-headline" id="Day_One">Day One</span></h2>
+<ul><li> As soon as you spawn, grab a rock, then smash apart one of the lockers in the north of the shelter for a pipe and craft a makeshift crowbar. This serves as a decent bashing weapon if you're strength-spec'd, but more importantly it can be 'a'pplied to doors and windows to open them without making as much noise as just smashing them.</li></ul>
+<ul><li> After that, check the basement. Any clothing that offers storage or torso/head protection is helpful, and finding a sewing kit, frying pan/pot, or any container capable of holding water will put you ahead of schedule.</li></ul>
+<ul><li> Whatever you find, you now want to find the nearest forest. If you spawned near one that's great, if not you may have to wander a bit. Keep a close eye on your focus and morale as you go -- you want to keep your experience gain high, which means taking a drink as soon as you get an alcohol craving. If your alcohol reserves start falling low you may want to space it out a little more (less than half the bottle, say) but for now the morale boost is more important.</li></ul>
+<ul><li> Once you reach the forest, use 'e' to search undergrowth, and keep doing this until you hit Survival 3 -- if you took Fast Learner or starting points in Survival, this shouldn't take long at all, if you didn't it may be a bit of a grind. Grab any fruits or wild vegetables you find in the process, every little bit helps.</li></ul>
+<ul><li> Head back to the shelter and smash out two windows and the rest of the lockers with your crowbar, and use the resulting bits to make a knife spear -- two if you took a low-strength build, one to throw and one to wield. With these you'll want to find an animal larger than a squirrel, kill and butcher it. Deer are low-risk but it can take a long time to whittle them down; if you went with a melee build you might skip the effort and fight a cougar, especially if you can lure them into a bush to waste their action points.</li></ul>
+<ul><li> Once you've found and butchered an animal, craft a bone needle from its remains -- you may fail several times before succeeding, so if you can't carry everything just craft it on the spot you killed it to save time. Once you've got your needle, you can reload it by 'D'isassembling a 3-foot string from one of the windows into 6-inch ones, and then disassembling those into thread. Smashing windows will also have gained you sheets, which you can cut up into rags; with them, craft two blankets. Use another string and some rocks to make a stone hammer, smash up the counters and benches in the shelter, and construct a makeshift bed in the basement, then drop the blanket on top of it. (You don't actually need to wear the second blanket for it to be useful -- just sleeping on a bed with a blanket on the same tile will let you use it to keep warm.) You might also want to board up the now-broken windows with the extra lumber.</li></ul>
+<ul><li> At this point you have a choice: if you aren't confident in your ability to raid the town, and you've spotted a natural source of water such as a swamp or river, you can keep crafting bandanas and towels till you hit tailoring 2, at which point you should go out and hunt some more animals until you have enough pelts to make a pair of waterskins. This takes a lot of time wandering the countryside and a little luck, but if you're especially lucky you might run into a pile of dead scientists or soldiers with enough loot to get you through detox almost by itself. It also lets you avoid fighting zombies. </li></ul>
+<ul><li> The other option, and the one I usually opt for, is to raid the town. If no natural water sources exist nearby it may be your only option, and honestly starting next to a swamp isn't that pleasant anyways thanks to all the giant bugs. Melee combat is extremely lethal when you're almost naked, though, so you might want to craft a few simple articles of clothing first; on the other hand, if it's getting late or you're running low on alcohol, you might just want to make a run for it. Remember to apply your crowbar for breaking and entering rather than just smashing your way in, and keep an eye out for gallon jugs and other large liquid containers. If you must fight a zombie, lure them over a bush or windowsill first to use up their action points.</li></ul>
+<ul><li> Your primary goal is water and tinned food, but any of the following items will make your life much easier: frying pans, pots, hotplates, and of course storage clothing to carry all of this. You can fill your water containers from toilets if you haven't already found a more obvious source, but leave one container empty to hold clean water -- the largest one you have, ideally. You can probably get by on as little as 6 heavy food items (MREs or canned beans are great, potato chips almost worthless) and a similar amount of water, but 10 is safer, and recommended if you took Addictive Personality.</li></ul>
+<ul><li> You should also keep an eye out for plastic bags and bottles, or better yet, a filter mask: alcoholism absolutely destroys your health and catching a cold or the flu will make your recovery much more difficult, but can be totally prevented with a filter mask. If you can't find one, you can craft one from two rags plus a plastic bottle or two plastic bags.</li></ul>
+<ul><li> Once you've got everything you need, head back to the shelter, grab some rocks and craft a stone pot. You may also want to make a stone fireplace, but it's not necessary in the short term unless it starts to rain. Cook up your meat chunks, boil the clean water, and craft your filter mask if you didn't find one. At this point all the crafting you need in the short term is done, so dump the rest of your alcohol and use the bottle to hold more water if you like, or just set it aside for another day.</li></ul>
+<ul><li> Grab your food and drink, head to your bed, and start waiting -- that is, use the wait command. Do NOT go to sleep, as sleeping (whether by oversight or as a deliberate balance mechanic) freezes your addiction countdown. You'll know that you're detoxed when you stop getting "you could really use a drink" messages and when your @ character sheet no longer has "Alcohol Withdrawal" listed as a status effect.</li></ul>
+<ul><li> After detoxing you will almost certainly be exhausted after not sleeping for over 24 hours, so unless you're desperately short on water, sleep your way up to Dead Tired, or even Tired or fully rested if your stockpiles hold up. Remember to eat your perishables first as they will likely rot by the end of the second day at latest, but keep in mind that the hunger clock has a huge gap between Very Hungry and actual starvation, and getting more food is really just a matter of stepping outside and throwing spears at the wildlife.</li></ul>
+<ul><li> Once you're no longer in withdrawal, sick, or exhausted, congratulations -- you've beaten the worst start the early game has to offer and got 2-4 free points of permanent advantages to show for it. You'll probably want to look for a better long-term source of water than toilets as your first priority, but beyond that it's up to you.</li></ul>
+<h2><span class="mw-headline" id="Quick_Reference_Checklist">Quick Reference Checklist</span></h2>
+<ol><li>Make a crowbar.</li>
+<li>Train survival 3 by searching undergrowth.</li>
+<li>Make a knife spear.</li>
+<li>Kill and butcher a large critter.</li>
+<li>Make a bone needle.</li>
+<li>Train tailoring 2.</li>
+<li>Make two blankets, construct a makeshift bed, drop the other blanket on it.</li>
+<li>Train cooking 1.</li>
+<li>Make a stone pot.</li>
+<li>Kill more large critters and craft two waterskins OR find two largish water containers in town.</li>
+<li>Find 10x food, 10x water, make clean water.</li>
+<li>Make and wear a filter mask.</li>
+<li>Wait, but don't sleep to achieve detox.</li>
+<li>Sleep off your exhaustion.</li></ol>
+<p>
+</p>
+<table class="navbox" cellspacing="0" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tr>
+<th style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"> <div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Guides" title="Template:Guides"><span title="View this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Guides" title="Template talk:Guides"><span title="Discuss this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit"><span title="Edit this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"> Beginners
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"> <div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Beginner_Character_Build_Tips" title="Beginner Character Build Tips">Beginner Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Choosing_Martial_Arts_Styles" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Example_Character_Builds" title="Example Character Builds">Example Character Builds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_First_Day" title="The First Day">The First Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Dynamic_Spawn_Mode" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Killing_zombies" title="Killing zombies">Killing zombies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Player_guides_and_tips" title="Player guides and tips">Player guides and tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Weapons_getting_stuck" title="Weapons getting stuck">Weapons getting stuck</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"> Intermediate
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"> <div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Archer_Guide" title="Archer Guide">Archer Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Beyond_the_first_day" title="Beyond the first day">Beyond the first day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Brewing" title="Brewing">Brewing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clothing_Encumbrance" title="Clothing Encumbrance">Clothing Encumbrance</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Farming" title="Farming">Farming</a> &#160;<span style="font-weight:bold;">·</span> <strong class="selflink">Hobo's Guide to the Apocalypse</strong> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Night_Raids:_Guide" title="Night Raids: Guide">Night Raids</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Nomadic_Living:_Guide" title="Nomadic Living: Guide">Nomadic Living</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Power" title="Power">Power</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Recoil" title="Recoil">Recoil</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland Survival</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"> <a href="/cdda_wiki/index.php?title=Category:Advanced_guides" title="Category:Advanced guides">Advanced</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"> <div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Advanced_Character_Build_Tips" title="Advanced Character Build Tips">Advanced Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Fungal Bloom</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Broken_Cyborg" title="Guide: Broken Cyborg">Broken Cyborg</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Marloss_Berry" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="/cdda_wiki/index.php?title=Guide:_Mycus" title="Guide: Mycus">Mycus</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Mine" title="Guide: Mine">Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Nudist_Challenge" title="Guide: Nudist Challenge">Nudist Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Strange_Temple" title="Guide: Strange Temple">Strange Temple</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Triffid_Grove" title="Guide: Triffid Grove">Triffid Grove</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Seeker_of_the_Arcane" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"> <a href="/cdda_wiki/index.php?title=Vehicles" title="Vehicles">Vehicles</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"> <div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Driving" title="Driving">Driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Engines" title="Engines">Engines</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_a_Supercar:_Guide" title="Making a Supercar: Guide">Making a Supercar</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer" title="(DRbiG's) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_construction" title="Vehicle construction">Vehicle construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_modifications" title="Vehicle modifications">Vehicle modifications</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_parts" title="Vehicle parts">Vehicle parts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_repairs" title="Vehicle repairs">Vehicle repairs</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_your_first_vehicle_(The_humble_bicycle)" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"> <a href="/cdda_wiki/index.php?title=Technical" title="Technical" class="mw-redirect">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"> <div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=CataModder" title="CataModder">CataModder</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Cheating" title="Cheating">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Creature_AI" title="Creature AI">Creature AI</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_compile" title="How to compile">How to compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_search_the_sources" title="How to search the sources">How to search the sources</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mod_manager" title="Mod manager">Mod Manager</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Savegame_Editing" title="Savegame Editing">Savegame Editing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Tileset_Support" title="Tileset Support">Tileset Support</a></div>
+</td></tr></table>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20180922202803
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.185 seconds
+Real time usage: 0.207 seconds
+Preprocessor visited node count: 610/1000000
+Preprocessor generated node count: 9605/1000000
+Post‐expand include size: 28224/2097152 bytes
+Template argument size: 12796/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  123.576      1 - -total
+ 80.62%   99.625      1 - Template:Guides
+ 72.64%   89.765      1 - Template:Navbox
+ 15.38%   19.004      1 - Template:Ver
+ 11.90%   14.709      1 - Template:Navbar
+  6.10%    7.541      3 - Template:Transclude
+  4.45%    5.500     46 - Template:Md
+  3.55%    4.387      1 - Template:InlineVer
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3257-0!*!0!!en!*!* and timestamp 20180922202803 and revision id 27981
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;oldid=27981">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;oldid=27981</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:Unknown_version" title="Category:Unknown version">Unknown version</a></li><li><a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Hobo%27s+Guide+to+the+Apocalypse&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Hobo%27s+Guide+to+the+Apocalypse" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse"  title="View the content page [c]" accesskey="c">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Hobo%27s_Guide_to_the_Apocalypse&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Hobo%27s_Guide_to_the_Apocalypse" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Hobo%27s_Guide_to_the_Apocalypse" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;oldid=27981" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2018, at 12:21.</li>
+											<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+											<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31" /></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":350});
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>0.B (Brin) - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"0.B_(Brin)","wgTitle":"0.B (Brin)","wgCurRevisionId":33398,"wgRevisionId":33398,"wgArticleId":4295,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Versions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"0.B_(Brin)","wgRelevantArticleId":4295,"wgRequestId":"XnEbKuivg1C6gc1ibAbaoQAAAKk","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-0_B_Brin rootpage-0_B_Brin skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">0.B (Brin)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><small> <a href="/cdda_wiki/index.php?title=0.C_(Cooper)" title="0.C (Cooper)">‹———— 0.C</a> &#8195; <a href="/cdda_wiki/index.php?title=0.A_(Kaufman)" title="0.A (Kaufman)">0.A ————›</a> </small> <br />
+0.B (Brin) is a version of Cataclysm that was released on November 17, 2014.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Downloads"><span class="tocnumber">1</span> <span class="toctext">Downloads</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Change_Log"><span class="tocnumber">2</span> <span class="toctext">Change Log</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Highlights"><span class="tocnumber">2.1</span> <span class="toctext">Highlights</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Features"><span class="tocnumber">2.2</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Infrastructure"><span class="tocnumber">2.3</span> <span class="toctext">Infrastructure</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Balance"><span class="tocnumber">2.4</span> <span class="toctext">Balance</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Content"><span class="tocnumber">2.5</span> <span class="toctext">Content</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Inferface"><span class="tocnumber">2.6</span> <span class="toctext">Inferface</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Performance"><span class="tocnumber">2.7</span> <span class="toctext">Performance</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Bugfixes"><span class="tocnumber">2.8</span> <span class="toctext">Bugfixes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Downloads">Downloads</span></h2>
+<p><a rel="nofollow" class="external text" href="https://discourse.cataclysmdda.org/t/cataclysm-dark-days-ahead-version-0-b-brin-released-now-with-mac-builds/7916">Release Thread</a>
+</p>
+<h2><span class="mw-headline" id="Change_Log">Change Log</span></h2>
+<h3><span class="mw-headline" id="Highlights">Highlights</span></h3>
+<ul><li>You want speed? We brought the speed.</li>
+<li>You want more buildings? We have more buildings.</li>
+<li>More configurable difficulty? got it.</li>
+<li>Better menus? Way better menus.</li>
+<li>Mutation chains to explore? Tons of em.</li>
+<li>More guns? yep.</li>
+<li>More things to bolt on your deathmobile?</li>
+<li>All over the place.</li></ul>
+<h3><span class="mw-headline" id="Features">Features</span></h3>
+<ul><li>Random characters have professions applied.</li>
+<li>Brewing.</li>
+<li>Wearable tools.</li>
+<li>Martial arts techniques can trigger when wielding appropriate weapons.</li>
+<li>Wing mirrors for vehicles.</li>
+<li>Prototype hordes.</li>
+<li>Adjust zombie speed with mods.</li>
+<li>Made butcher menu's first entry match the butcher hotkey, so you can just hold down the button to butcher all.</li>
+<li>You can dig down stairs with proper equipment.</li>
+<li>Scabbards, holsters and sheathable weapons.</li>
+<li>At high skills you can quick draw/attack with weapons.</li>
+<li>Fish spawn as distinct creatures, and they're used for fishing checks.</li>
+<li>Quivers for arrows.</li>
+<li>Furniture can act as a tool.</li>
+<li>Corpses rot and eventually disappear.</li>
+<li>Armor is assigned to a layer, and armor on different layers doesn't impose layering penalties.</li>
+<li>Destroyed vehicle parts get ripped off the vehicle.</li>
+<li>Player can start at various locations.</li>
+<li>Special support for mapsharing installs:</li>
+<li>lock down debug menu</li>
+<li>lock players to their username</li>
+<li>more configurable file placement</li>
+<li>locks around map files</li>
+<li>Language switch is dynamic now.</li>
+<li>Guns such as revolvers no longer eject casings when fired, they're instead ejected on reload.</li>
+<li>Internal furnace and Battery System CBMs are toggleable so you're less likely to eat random objects by accident.</li>
+<li>Spending more time near traps has incremental chance of finding them, spotted traps are remembered.</li>
+<li>Thrown items above a trap-defined threshold will trigger traps.</li>
+<li>You can now peek through curtains and some doors.</li>
+<li>Smashing a broken window again clears out the broken glass (relatively quietly).</li>
+<li>Autopickup can get at anything you can reach, i.e. adjacent tiles.</li>
+<li>Can set exclusion zones for autopickup, so you can avoid accidentally picking up all your stuff in your base.</li>
+<li>Contents of books are unknown until first read (which is faster than usual).</li>
+<li>Can craft recipes if you have a book in range that provides it.</li>
+<li>Can learn recipes by practicing them.</li>
+<li>Roof of the vehicle you're currently in is not drawn.</li>
+<li>Faction hostility is back.</li>
+<li>Kiln operates without player being nearby.</li>
+<li>Radio operated items.</li>
+<li>Switched to seed-based weather generation.</li>
+<li>Options are only displayed when they are applicable to your build.</li>
+<li>Can perform unspeakable acts upon zombies to turn them into your packmule slave thing.</li>
+<li>Messages give feedback on melee misses.</li>
+<li>Foraging is seasonal, fruits will grow each season, but once picked are gone until the next.</li>
+<li>Pet menu to interact with friendly monsters.</li>
+<li>Starting scenarios stitch together profession, traits, and starting location.</li>
+<li>Picking up and dropping multiple items is now an interruptable activity.</li>
+<li>Activatable mutations.</li>
+<li>Heavily moddable gun platform.</li>
+<li>Fire creates invisible hot air fields, which meander around in enclosed spaces and warm them up.</li>
+<li>Factored windchill and humidity into body temperature calculations.</li>
+<li>Vehicles smash items when they (wheels) run over them.</li>
+<li>Refined vehicle/terrain collisions.</li>
+<li>Hulks and Brutes now have a very damaging fling attack.</li>
+<li>Jumper cables can be used to link together electrical systems of vehicles, including vehicles outside the reality bubble.</li>
+<li>Crafting a large batch of items can apply a discount to the crafting time required.</li>
+<li>Overhaul of "cut up" system:</li>
+<li>Cannot cut up an item if it includes a material that can't be cut up (e.g. shotgun).</li>
+<li>Cutting up returns items from each material that makes up the item.</li>
+<li>Cuting up most items should respect the total volume of the item.</li>
+<li>Most terrain can be smashed now, if you can hit it hard enough.</li>
+<li>Can turn individual vehicle engines on and off.</li>
+<li>Filling an item with water from e.g. a river is now an interruptable action.</li></ul>
+<h3><span class="mw-headline" id="Infrastructure">Infrastructure</span></h3>
+<ul><li>Switched to SDL 2.0.</li>
+<li>Made paths configurable for packaging and installation support.</li>
+<li>Finished pushing martial art definitions out to json.</li>
+<li>JSONized multi-tile building generation, leading to huger buildings.</li>
+<li>Tilesets can provide a per-category fallback tile to handle new monsters/items/whatever.</li>
+<li>Silenced all the warnings, now it's easier to keep new ones from cropping up.</li>
+<li>Lots of string handling infrastructure, making translated string handling easier.</li>
+<li>Missing tiles in tilesets can fall back to ASCII.</li>
+<li>Saner glyph cache handling.</li>
+<li>Components used to craft an item are stored in the item.</li>
+<li>Debug overlay for hordes.</li>
+<li>Improved window handling.</li>
+<li>Generic iuse functors unify many types of iuse functions.</li>
+<li>JSONized bullet pulling recipes.</li>
+<li>Generic support for foldable vehicles, still need support for *crafting* them.</li>
+<li>Encapsulation applied to map accessors.</li>
+<li>JSONized monster drops.</li>
+<li>Damaged fuel tanks leak fuel on the ground.</li>
+<li>Most menus use input context now, and therefore have configurable keybindings.</li>
+<li>Switched build to c++11.</li>
+<li>Items can have a list of iuse methods instead of just one.</li>
+<li>Drug effects can mostly be defined in JSON.</li>
+<li>Scripts for querying json in tools_json_tools.</li>
+<li>Beefed up utf-8 input handling.</li>
+<li>JSONized NPC definitions.</li>
+<li>Unified recipe requirements across constructions and crafting.</li>
+<li>Better error handling when initializing SDL.</li>
+<li>Recipes can have byproducts.</li>
+<li>Added a standalone map layout utility.</li>
+<li>Monsters are saved to the overmap instead of per-submap, clearing the way for horde support.</li>
+<li>Hgamelaunch start script.</li>
+<li>Items can spawn with variable amounts of charge.</li>
+<li>Monster blacklists are applied consistently to all spawn code.</li>
+<li>Different ammunition-bearing monsters (turrets, robots) have customized loadouts of their various ammo types.</li>
+<li>Obsolete mods can be marked as such, preventing debug spam if a save containing them is loaded.</li></ul>
+<h3><span class="mw-headline" id="Balance">Balance</span></h3>
+<ul><li>Give most starting professions decent starting equipment.</li>
+<li>Nether spawns near corpse spawns.</li>
+<li>Capped skill gain from many activities, especially crafting.</li>
+<li>Melee weapons can take wear and tear damage based on their primary material.</li>
+<li>Categorized CBMs you can get from butchering things.</li>
+<li>BEES!</li>
+<li>Armor values nerfed.</li>
+<li>Mutagen spawn rates slashed.</li>
+<li>Overhauled mp3 player morale bonus to make micromanagement of it suboptimal.</li>
+<li>Amount of damage blocked by a block technique based on strength and skill of blocker.</li>
+<li>Removed acid rain until it can be made into a local event.</li>
+<li>Nerfed speed of many zombie animals.</li>
+<li>Starting professions supplied with cold-weather gear to match the expected climate.</li>
+<li>Standing in a fire less likely to ignite clothes.</li>
+<li>Lying in fire (when one or more legs is at 0HP) causes MUCH more damage.</li></ul>
+<h3><span class="mw-headline" id="Content">Content</span></h3>
+<ul><li>New monster, Wraith.</li>
+<li>Hops, barley, and molasses as brewing ingredients.</li>
+<li>Yeast for fermenting brews and baking some bread foods.</li>
+<li>Sugar beet as a renewable source of sugar.</li>
+<li>Fruit wine and Brandy.</li>
+<li>Moonshine and home-brewed beer.</li>
+<li>Grappling hook.</li>
+<li>Many new house layouts.</li>
+<li>Wells and well digging.</li>
+<li>CQB CBM that provides martial art style.</li>
+<li>Warehouse building.</li>
+<li>Decorative terrain and furniture.</li>
+<li>Parasites and diseases from unsafe foods.</li>
+<li>Curtains for vehicle doors and windshields, privacy please!</li>
+<li>Foraging (in bushes, shrubs, trees).</li>
+<li>Towel usable for many handy things (still not at HHGttG level).</li>
+<li>hehe, honey.</li>
+<li>Wearable rx12 auto-injector.</li>
+<li>E-cigs</li>
+<li>Motel locations.</li>
+<li>Slime mutants can slip through tight spaces, spawn friendly slimes.</li>
+<li>Some insect-like mutants can sip nectar from flowers (but at a cost...)</li>
+<li>Mutagen gives you wings! (butterfly wings)</li>
+<li>Bird mutations.</li>
+<li>Zoose</li>
+<li>Killed bots drop (disassemblable) broken bot items instead of corpses.</li>
+<li>Bear mutations.</li>
+<li>Bio operator zombie.</li>
+<li>Spider nest basements.</li>
+<li>Nice looking road ends and roundabouts.</li>
+<li>Exploding gasbag zombies.</li>
+<li>Pizza parlor building.</li>
+<li>Wheelchairs.</li>
+<li>Notes left by other survivors scattered all over.</li>
+<li>Brain blob directs nearby blobs to move intelligently.</li>
+<li>Mall location.</li>
+<li>Several toolbox items to streamline carrying around your crafting needfulls.</li>
+<li>Cotton and many cotton-based recipes and items.</li>
+<li>Plant mutations.</li>
+<li>Audit of all item prices to try and get a sensical baseline for them.</li>
+<li>Supercharged military turrets.</li>
+<li>Make Fedora activatable, m'ilady.</li>
+<li>Road barricades.</li>
+<li>Necropolis.</li>
+<li>Rollerblades and skates.</li>
+<li>Evac center and piles of NPCs and missions.</li>
+<li>Bandit camps.</li>
+<li>RC car and remote-detonated bombs, and a remote controlled lamp.</li>
+<li>Automated gas stations.</li>
+<li>Boats.</li>
+<li>E-ink tablet and laptops can display recipes and act like books.</li>
+<li>Can take pictures of monsters and view them on laptops or tablets.</li>
+<li>Fish traps.</li>
+<li>A "Thrilling" monster easter egg.</li>
+<li>Riot control bot.</li>
+<li>Extensive mutation chain culminating with player effectively joining the Marloss faction.</li>
+<li>Extensive expansion of Marloss monsters/structures.</li>
+<li>Various power substations, with new monsters.</li>
+<li>Diesel added as a vehicle fuel.</li>
+<li>Added craftable pontoon bridges.</li>
+<li>Rat mutants can burrow, Cephalopod mutants can grow a large shell, lizards can regrow limbs.</li>
+<li>Many new starting locations.</li>
+<li>Curing hides and tanning leather.</li>
+<li>Full coverage of tiles in Retrodays and MShock's tilesets!</li></ul>
+<h3><span class="mw-headline" id="Inferface">Inferface</span></h3>
+<ul><li>Expanded armor layering window.</li>
+<li>Added way to swap panes in AIM.</li>
+<li>Animation and duration for smoking activity.</li>
+<li>Action menu that displays all actions in a tree menu.</li>
+<li>Highlight things you can interact with when 'e'xamining.</li>
+<li>Many strings are properly pluralized and have support for doing so when translated as well.</li>
+<li>Standardized overmap building colors.</li>
+<li>Vehicle examine menu shows used/capacity of fuel tanks and cargo space.</li>
+<li>SDL builds can play music.</li>
+<li>Log messages colorized.</li>
+<li>Books colorized by category.</li>
+<li>Different weather types get their own animations.</li>
+<li>Save/load log messages.</li>
+<li>Fuzzy river borders.</li>
+<li>Scrolling text animations when things are damaged and on some effects triggering.</li>
+<li>Lots of menus now have sorting, categories, and search.</li>
+<li>Animation delay option.</li>
+<li>Player can write and read sign items.</li>
+<li>Added a menu displaying martial art style characteristics.</li>
+<li>Perishable and rotting items colorized.</li>
+<li>UPS no longer activatable, now act as passive batteries.</li>
+<li>Prompt to continue studying a book until all recipes learned.</li></ul>
+<h3><span class="mw-headline" id="Performance">Performance</span></h3>
+<ul><li>Greatly sped up construction menu.</li>
+<li>Overmap scrolling speed greatly improved.</li>
+<li>Turn number added to calendar since it's called a gajillion times.</li>
+<li>Switched a lot of large collections to use std::unordered_map() or std::unordered_set().</li>
+<li>SDL framebuffer cache.</li>
+<li>Extracted rain animation code from main drawing code.</li>
+<li>Tile lookup speedups.</li></ul>
+<h3><span class="mw-headline" id="Bugfixes">Bugfixes</span></h3>
+<ul><li>No bleeding effect if your armor absorbs all the damage.</li>
+<li>Make game stop treating trees, walls, etc as hallucinatory with respect to vehicle collisions.</li>
+<li>Prevent dragging furniture from hoovering up items.</li>
+<li>Option to force software rendering to work around hardware support issues.</li>
+<li>Players are ejected from vehicles when their seats are destroyed.</li>
+<li>Contents of items destroyed by interacting with them are dumped instead of being deleted.</li>
+<li>Restored function of area melee attacks.</li>
+<li>Made various battery mods play nice together.</li>
+<li>Prevent segfault in the unlikely case that you miss so badly that you shoot yourself.</li>
+<li>Don't cause blood spatters when the attack does no damage.</li>
+<li>Avoid crashing when loading a corrupted submap.</li>
+<li>Avoid resetting creature speed to 100 when a creature is saved/loaded.</li>
+<li>Option to disable joystick input in case you have a broken joystick.</li>
+<li>Always practice at least one of the melee skill types when attacking.</li>
+<li>Fixed off-by-one error that made 100% coverage armor 99% coverage.</li>
+<li>Move critical multiplier calculaton after armor absorbs damage.</li>
+<li>Added move cost for interacting with computers.</li>
+<li>Use maximum heard sound for effects (such as deafness), not the sum.</li>
+<li>Player graveyard works as intended, most recent player save is moved to the graveyard folder.</li>
+<li>Factored weight of items in furniture into cost of dragging the furniture.</li>
+<li>Gunmods with firing modes finally make correct sounds when fired.</li>
+<li>Guns spawn with ammo when mapgen calls for it.</li>
+<li>Fixed longstanding bug where displayed warmth would fluctuate wildly if your body temperature was optimal.</li>
+<li>Prevent player from taking damage when driving over an acid puddle.</li>
+<li>Taught zombies how to pick the right stairs.</li>
+<li>Fixed bug where zombies can attack at range after a knockback.</li>
+<li>Lots of window refresh cleanup.</li>
+<li>Turrets and vehicle turrets now respect friendly status when burst firing.</li>
+<li>Fixed a bug where monsters could see further than they should in circular distance mode (they still used square dist).</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20200317042625
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.062 seconds
+Real time usage: 0.096 seconds
+Preprocessor visited node count: 39/1000000
+Preprocessor generated node count: 44/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:4295-0!canonical and timestamp 20200317042625 and revision id 33398
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=0.B_(Brin)&amp;oldid=33398">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=0.B_(Brin)&amp;oldid=33398</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:Versions" title="Category:Versions">Versions</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=0.B+%28Brin%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=0.B+%28Brin%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=0.B_(Brin)" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:0.B_(Brin)&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=0.B_(Brin)">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=0.B_(Brin)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=0.B_(Brin)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/0.B_(Brin)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/0.B_(Brin)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=0.B_(Brin)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=0.B_(Brin)&amp;oldid=33398" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=0.B_(Brin)&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 May 2019, at 13:47.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.062","walltime":"0.096","ppvisitednodes":{"value":39,"limit":1000000},"ppgeneratednodes":{"value":44,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20200317042625","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":360});});</script>
+</body>
+</html>

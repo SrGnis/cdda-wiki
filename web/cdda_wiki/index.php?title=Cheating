@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cheating - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cheating","wgTitle":"Cheating","wgCurRevisionId":26222,"wgRevisionId":26222,"wgArticleId":24,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.D (Danny)","Verify","Technical"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cheating","wgRelevantArticleId":24,"wgRequestId":"ZduNl1hbndVOZCTTrL41mwAAAPM","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cheating rootpage-Cheating skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cheating</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Cheating is the use or abuse of the debug system, of various exploitable bugs, doing something another player would not approve of, or anything that causes you to suddenly loathe your own avatar. Only three of these things are true.
+</p>
+<hr />
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cheating_and_you.21"><span class="tocnumber">1</span> <span class="toctext">Cheating and you!</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Being_too_prepared"><span class="tocnumber">2</span> <span class="toctext">Being too prepared</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Using_Game_mechanics_to_the_fullest"><span class="tocnumber">3</span> <span class="toctext">Using Game mechanics to the fullest</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Overdoing_it"><span class="tocnumber">4</span> <span class="toctext">Overdoing it</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Abusing_Save-Points"><span class="tocnumber">5</span> <span class="toctext">Abusing Save-Points</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Copying_old_characters_to_new_worlds"><span class="tocnumber">5.1</span> <span class="toctext">Copying old characters to new worlds</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Creating_a_Story"><span class="tocnumber">6</span> <span class="toctext">Creating a Story</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Exploiting_the_Dead"><span class="tocnumber">7</span> <span class="toctext">Exploiting the Dead</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#The_Debug_Messages"><span class="tocnumber">8</span> <span class="toctext">The Debug Messages</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#The_Scent_Map"><span class="tocnumber">9</span> <span class="toctext">The Scent Map</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#The_Debug_Menu"><span class="tocnumber">10</span> <span class="toctext">The Debug Menu</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Edit_player.2FNPCs"><span class="tocnumber">10.1</span> <span class="toctext">Edit player/NPCs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Exploits"><span class="tocnumber">11</span> <span class="toctext">Exploits</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Cheating_and_you!"></span><span class="mw-headline" id="Cheating_and_you.21">Cheating and you!</span></h2>
+<p>Many new players use the things discussed here to assist in survival. While this is 'approved' for new players, these god-like powers shouldn't be relied upon as you learn to handle problems through the tools available to your avatar.
+</p><p>This page is organized to roughly match the degree of fun you're giving up by cheating on yourself. The methods range from neutral to severe, and the consequences of using them from momentary joy to a complete loss of respect for your performance. Like mutations, cheating creeps up on you. You have been warned!
+</p>
+<h2><span class="mw-headline" id="Being_too_prepared">Being too prepared</span></h2>
+<p>Call this a pro-tip to remind you that there is no reason to rush anything in this world. Taking the time to cook up decent amounts of <a href="/cdda_wiki/index.php/Zombie_pheromone" title="Zombie pheromone">Zombie pheromones</a> so that they will high-five you as you are cleaning out liquor and clothing stores to make a million bandages is very very good form by which your character can gain a high degree of character to ameliorate the deleterious effects of the actions described on the rest of the page.  If you just grinned or went to look up the fancy words then you might just be ok with the info on this page.
+</p>
+<h2><span class="mw-headline" id="Using_Game_mechanics_to_the_fullest">Using Game mechanics to the fullest</span></h2>
+<p>Warning! Understanding that turrets shoot you from 24 or fewer tiles away, messing with the viewport and font-settings so that you get to actually see on-screen what your in-world avatar sees, pulling mobs from far away instead of stumbling into them blindly, digging pits in strategic places and gloating about how you cleaned out an entire town -- doing these things could be thought of as cheating by some people. Ultimately though understanding items, reading the rest of the wiki, starting 20 new games just so you can understand the variety of tweaks offered by Cataclysm, that's to say, being interested in playing this game the way it was designed to, will boost your skills and wean you off of bad habits you might have picked up in other roguelikes. 
+</p>
+<h2><span class="mw-headline" id="Overdoing_it">Overdoing it</span></h2>
+<p>When you first start playing Cataclysm you get what seems to be very few points to invest into your character.  So you crank up that number and look for the least damaging negative traits to boost your guy/gal into the stratosphere.  This will work at first but off all the options on this page, its the one that ruins your long term fun if you keep it up for more than a few games or in-game years.  Since you're on this page, chances are that you have already discovered this way of overdoing it.  So here I'm suggesting that you wean yourself off of it slowly by starting the next character with all the skill-points you want .. but without taking a single negative trait to buy you further advantages.  Its like a bad in-game addiction at first, but you will get over it.  Next, slowly reduce the number of starting points you take so that you're forced to specialize your character's style a bit.  Doing this will give it 'character' that enables you to wind up using some or all of the following ideas without suffering real-life morale penalties!  So, go on, investing fewer points at startup is like taking your vitamins, it keeps you going strong!
+</p>
+<h2><span class="mw-headline" id="Abusing_Save-Points">Abusing Save-Points</span></h2>
+<p>By pressing <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">S</span> to save your game as you run into a difficult situation .. and then closing the program window before you die, you can explore different time-lines and strategies with the only risk being that you will lose your avatar should you die. If you're new to the game, have no idea how a weapon or a drug works, this will speed your learning a lot. Just restrain yourself from using this to min/max outcomes and you might actually be ok with this for your first few games.
+</p>
+<h3><span class="mw-headline" id="Copying_old_characters_to_new_worlds">Copying old characters to new worlds</span></h3>
+<p>If for some reason you want to copy an old character to a new world, you can follow the following <a rel="nofollow" class="external text" href="http://smf.cataclysmdda.com/index.php?topic=4414.msg64132#msg64132">procedure</a>.
+</p>
+<ul><li>Make sure you've got everything you want to bring with you on your character. Leave your artifacts behind; they're stored in a separate file.</li>
+<li>Save and exit the game.</li>
+<li>Go into your game's save/worldname folder and find a file with a name that looks like #Uml2ZXQ=.SAV and make a copy of it.</li>
+<li>Generate a new world like normal.</li>
+<li>Copy the .SAV file into the new world's folder.</li>
+<li>Start the game up and load the save file. Note that you won't begin in a starting shelter, so you may find yourself someplace ‼FUN‼ when you start out.</li></ul>
+<h2><span class="mw-headline" id="Creating_a_Story">Creating a Story</span></h2>
+<p>Making a save-point and then archiving your ./save folder can allow you to play the meta-game of chronicler. Just name your archives '01 (notes' to '99 (notes)' and you can get a memory jogging log of your travels through the land for very little effort. It gets problematic and cheaterish if you wind up relying on your chronicles to explore the map or engage in reckless actions that result in many death.  It might be ok to explore 1000 ways of dying in a newbie situation, but there will come a point when you're better off starting anew. EXIT the program before you restart from an archived game.
+</p>
+<h2><span class="mw-headline" id="Exploiting_the_Dead">Exploiting the Dead</span></h2>
+<p>You will die. And if you revert to a chronicled point you might find yourself in a situation where you are looking at your own dead body. The proper thing to do in this case is to wish for an acid bomb lest you incur the wrath of the RNG by picking up the cloned items. (This does not apply if you have the Cannibal trait and do the unspeakable.)
+</p>
+<h2><span class="mw-headline" id="The_Debug_Messages">The Debug Messages</span></h2>
+<p><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">~</span> — Toggles the sometimes annoying debug messages which can give you some deeper insight into the game mechanics on and off.  Gain insight into the health mechanics here. Eat all your vitamins right away (read about health effects of the provisons too) and revel in the fact that you understand how you have just beaten the number one new player affliction - the common cold! Watch them for a bit longer and maybe you learn some other stuff too!
+</p>
+<h2><span class="mw-headline" id="The_Scent_Map">The Scent Map</span></h2>
+<p><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em"><i>Unassigned</i></span> — <i>Scent map.</i> Shows the trace that forms around you as you linger in a building or move through town. Asks you what scent sensitivity you would like to view your surrounding with and requires that you enter a number from 1 to 9 specifying the 'sensitivity of your nose.' This ranges from <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">1</span> for the greatest smeller to <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">9</span> for the dullest nose. (Entering 0 divides by 0 and causes a crash'). 
+</p>
+<h2><span class="mw-headline" id="The_Debug_Menu">The Debug Menu</span></h2>
+<p>This menu is the most terrible way to <b>CHEAT</b> yourself out of a fun game. Unless you are in a situation caused by bugs (e.g. you spawed in a windowless doorless room) or are testing game features.
+</p><p>To enable this menu, you will need to edit the <a href="/cdda_wiki/index.php/Controls" title="Controls">Controls</a>. Go to the main menu by pressing <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">Esc</span> followed by the keybindings list by pressing <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">1</span>. Close to the bottom of the list will be the Debug Menu which should be in red and unbound. Press <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">+</span> followed by the appropriate letter to assign a key of your choice. Note: many keys are already bound to other features, using the <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">`</span> key is a good option as it's unbound by default<sup><span style="color:red;">Verify&#160;(Not by keybindings.json...)</span></sup> and is in the same place as the Debug messages and Console Commands present in many PC games.
+</p><p><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em"><i>Unassigned</i></span> — <i>Debug menu.</i> Opens up a list and asks you what Debug you want to do.
+</p>
+<dl><dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">1</span><i>: Wish for an item.</i> — Type <i>/hammer</i> to search for "hammer", then press <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">up</span> and <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">down</span> to cycle through jackhammer, hammer, sledge hammer, etc. Hitting enter will exit search, hitting enter again will ask for an amount. Entering a value will add that value times the default stack size number of items to inventory. <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">q</span> exits.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">2</span><i>: Teleport - Short Range</i> — Select a location in sight to move to.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">3</span><i>: Teleport - Long Range</i> — Asks to what <a href="/cdda_wiki/index.php/Map" title="Map">map</a> square you want to move to, then places you randomly in the selected <a href="/cdda_wiki/index.php/Map" title="Map">map</a> square.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">4</span><i>: Reveal map</i> - Instantly explores the current overmap.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">5</span><i>: Spawn NPC</i> - Spawns random NPC nearby.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">6</span><i>: Spawn Monster</i> — It works the same as item wishing for the most part; pressing <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">f</span> will let you make the monster friendly if you want. After making your selection, move the cursor to pick a location to place the monster.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">7</span><i>: Check game state...</i> - Shows game state, planned events, active monsters, active NPCs and locations of these NPCs, and your location.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">8</span><i>: Kill NPCs</i> - Kills all NPCs</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">9</span><i>: Mutate</i> — Allow to toggle your <a href="/cdda_wiki/index.php/Traits" title="Traits">traits</a> &amp; <a href="/cdda_wiki/index.php/Mutation" title="Mutation">mutations</a>. If the mutation requires crossing the threshold, you need to first add the threshold mutation.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">0</span><i>: Spawn a vehicle</i> - Spawn vehicle from the list.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span><i>: Change all <a href="/cdda_wiki/index.php/Skills" title="Skills">skills</a></i> - Allows you to increase and decrease skill values using a menu.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">b</span><i>: Learn all melee styles</i> - Unlocks all melee styles, including a debug one.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">c</span><i>: Unlock all recipes</i> - Unlocks all recipes, including unlearnable recipes.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">d</span><i>: Edit player/NPC</i> - Allows you to edit the player or NPCs. See below for options.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span><i>: Spawn <a href="/cdda_wiki/index.php/Artifact" class="mw-redirect" title="Artifact">Artifact</a></i> — Creates natural artifact and forms anomaly around it.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">f</span><i>: Spawn Clairvoyance <a href="/cdda_wiki/index.php/Artifact" class="mw-redirect" title="Artifact">Artifact</a></i> - Adds clairvoyance artifact to inventory, allowing you to see through walls.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">g</span><i>: Map Editor</i> - Opens <a href="/cdda_wiki/index.php/Map" title="Map">map</a> editor, use <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">q</span> to cancel.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">h</span><i>: Change weather</i> - Select a new weather to start.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">i</span><i>: Kill all monsters</i> - Kills all active monsters. Processes their death effect(s) as normal.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">j</span><i>: Display <a href="/cdda_wiki/index.php?title=Horde&amp;action=edit&amp;redlink=1" class="new" title="Horde (page does not exist)">hordes</a></i> - Displays the hordes on the map. Also displays hordes created by <a href="/cdda_wiki/index.php/Fungal_bloom" title="Fungal bloom">Fungal blooms</a>, <a href="/cdda_wiki/index.php/Anthill" title="Anthill">Anthills</a> etc.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">k</span><i>: Test Item Group</i> - Tests item groups; this submenu is exited by selecting the 'cancel' option.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">l</span><i>: Damage self</i> - Damages torso with inputted amount. Negative values heal.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">m</span><i>: Show Sound Clustering</i></dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">o</span><i>: Display weather</i></dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">p</span><i>: Display overmap scents</i> - Shows player scent values on the overmap.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">q</span><i>: Change time</i> - Change the current year, season, day, hour, minute, and amount of turns.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">r</span><i>: Set automove route</i> - Moves player to selected location, by walking normally.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">m</span><i>: Show mutation category levels</i> - Shows the levels of the various threshold mutations.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">t</span><i>: Overmap editor</i> - Allows you to edit the overmap. Locations in red will not be changed. Follow on-screen instructions.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">u</span><i>: Cancel</i></dd></dl>
+<h3><span id="Edit_player/NPCs"></span><span class="mw-headline" id="Edit_player.2FNPCs">Edit player/NPCs</span></h3>
+<p>Looking at an NPC with this debug feature shows the name, class, destination, internal values (Trust, Fear, Anger, Owed, Aggression, Bravery, Collector, Altruism, and the needs of the NPC.
+</p>
+<dl><dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">s</span><i>: Edit skills</i>: - Allows editing of the NPC, or player skills</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">t</span><i>: Edit Stats</i>: - Edit the player or NPC maximum stats.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">i</span><i>: Grant items</i>: - Grants items using the same interface as the main debug menu item grant mechanics.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">d</span><i>: Delete all items</i>: - Deletes all items and clothing on the character.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">w</span><i>: Wear/Wield an item from NPC/Player's inventory</i>: - Selects item to (un)wear/(un)wield.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">h</span><i>: Set hit points</i>: - Set the hitpoints on a bodypart. Can go over and under natural limits.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">p</span><i>: Cause pain</i>: - Enter a number of pain to cause, negative numbers removes pain.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">a</span><i>: Set health</i>: - Allows you to edit the <a href="/cdda_wiki/index.php/Health" title="Health">health</a> values.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">n</span><i>: Set needs</i>: - Allows you to see and edit the <a href="/cdda_wiki/index.php/Hidden_stats#Hunger" title="Hidden stats">Hunger</a>, <a href="/cdda_wiki/index.php/Hidden_stats#Thirst" title="Hidden stats">Thirst</a>, <a href="/cdda_wiki/index.php/Hidden_stats#Fatigue" title="Hidden stats">Fatigue</a> and <a href="/cdda_wiki/index.php/Hidden_stats#Vitamins" title="Hidden stats">Vitamins</a> levels of the NPC/player.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">u</span><i>: Mutate</i>: - Edits mutations/traits of the NPC/player using the same interface as the previous menu.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">@</span><i>: Status Window</i>: Shows the status window. Same window as the normal <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">@</span> would show.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">e</span><i>: teleport</i>: - Performs short range teleport, like debug feature above.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">m</span><i>: Add mission</i>: - NPC ONLY - Adds a possible mission to the NPC. NPC's can have multiple missions, this mission is probably added to the end of the possible mission list.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">c</span><i>: Randomize with class</i>: - NPC ONLY - Select a new NPC class, and randomizes the NPC given this class. Creates new name and items.</dd>
+<dd><span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">q</span><i>: quit</i>: - Quits this menu.</dd></dl>
+<h2><span class="mw-headline" id="Exploits">Exploits</span></h2>
+<p>These are still some bugs and oversights that people can use to help themselves in seriously cheaty and completely unfair ways. For example, many things with NPCs are broken and are exploitable. Trading with NPCs is one example as it is completely unfair to the NPC. That's not the only thing however and if you read to here and are seriously bored you will eventually discover just how borked the NPC dialogue mechanics are at this point.
+</p><p>Operators of completely spoiled and exploited characters have even been known to read the Cataclysm DDA 'Issues' page on <a rel="nofollow" class="external text" href="https://github.com/CleverRaven/Cataclysm-DDA">Github</a>. The worst offenders will even download the source code and study it to discover even more of the hidden dynamics of this fantastic game. Once you have reached this ultimate level of cheatiness your only redemption is to help the project by fixing the code or posting detailed reports of your devious strategies in the <a rel="nofollow" class="external text" href="https://discourse.cataclysmdda.org/">forum</a> or on github.
+</p><p><br />
+
+</p>
+<table class="navbox" cellspacing="0" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides"><span title="View this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php/Template_talk:Guides" title="Template talk:Guides"><span title="Discuss this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit"><span title="Edit this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php/Category:Guides" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Choosing_Martial_Arts_Styles" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Example_Character_Builds" title="Example Character Builds">Example Character Builds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/The_First_Day" title="The First Day">The First Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_survive_your_first_day:_Dynamic_Spawn_Mode" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_survive_your_first_day:_Static_Spawn_Mode" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Killing_zombies" title="Killing zombies">Killing zombies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Scavenging" title="Scavenging">Scavenging</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/New_Player_Guide" title="New Player Guide">New Player Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Archer_Guide" title="Archer Guide">Archer Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Beyond_the_first_day" title="Beyond the first day">Beyond the first day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Brewing" title="Brewing">Brewing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Clothing_Encumbrance" title="Clothing Encumbrance">Clothing Encumbrance</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Farming" title="Farming">Farming</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Hunting" title="Hunting">Hunting</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Hobo%27s_Guide_to_the_Apocalypse" title="Hobo&#39;s Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Night_Raids:_Guide" title="Night Raids: Guide">Night Raids</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Power" title="Power">Power</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Recoil" title="Recoil">Recoil</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Stealth" title="Stealth">Stealth</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland Survival</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Melee_Guide" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Category:Advanced_guides" title="Category:Advanced guides">Advanced</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Advanced_Character_Build_Tips" title="Advanced Character Build Tips">Advanced Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Clearing_the_city" title="Clearing the city">Clearing the city</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Fungal Bloom</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Broken_Cyborg" title="Guide: Broken Cyborg">Broken Cyborg</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Marloss_Berry" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="/cdda_wiki/index.php/Guide:_Mycus" title="Guide: Mycus">Mycus</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Mine" title="Guide: Mine">Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Nudist_Challenge" title="Guide: Nudist Challenge">Nudist Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Strange_Temple" title="Guide: Strange Temple">Strange Temple</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Trans-Coast_Logistics_Concourse_Challenge" title="Guide: Trans-Coast Logistics Concourse Challenge">Trans-Coast Logistics Concourse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_Triffid_Grove" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Vehicles" title="Vehicles">Vehicles</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Driving" title="Driving">Driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Engines" title="Engines">Engines</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Making_a_Supercar:_Guide" title="Making a Supercar: Guide">Making a Supercar</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/(DRbiG%27s)_Powered_Vehicle_Design_Primer" title="(DRbiG&#39;s) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_construction" title="Vehicle construction">Vehicle construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_modifications" title="Vehicle modifications">Vehicle modifications</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_parts" title="Vehicle parts">Vehicle parts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Vehicle_repairs" title="Vehicle repairs">Vehicle repairs</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Making_your_first_vehicle_(The_humble_bicycle)" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Guides for specific monster types
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Dealing_with_Ferals" title="Dealing with Ferals">Dealing with Ferals</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Dealing_with_Wasps" title="Dealing with Wasps">Dealing with Wasps</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php/Guide:_Seeker_of_the_Arcane" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Guide:_How_to_make_a_basic_slime_vehicle" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a>  &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Magiclysm_:_How_to_be_a_great_magus" title="Magiclysm : How to be a great magus">Magiclysm : How to be a great magus</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php/Technical" class="mw-redirect" title="Technical">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+&#160;<span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Creature_AI" title="Creature AI">Creature AI</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_compile" title="How to compile">How to compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/How_to_search_the_sources" title="How to search the sources">How to search the sources</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Mod_manager" title="Mod manager">Mod Manager</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Savegame_Editing" title="Savegame Editing">Savegame Editing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php/Tileset_Support" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20240224214209
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.127 seconds
+Real time usage: 0.143 seconds
+Preprocessor visited node count: 1068/1000000
+Preprocessor generated node count: 10504/1000000
+Post‐expand include size: 69331/2097152 bytes
+Template argument size: 15057/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.345      1 -total
+ 56.59%   37.548      1 Template:Guides
+ 51.12%   33.916      1 Template:Navbox
+ 19.18%   12.725      1 Debug_Menu
+ 17.84%   11.833      1 Template:Ver
+ 16.09%   10.678      1 Template:Navbar
+ 10.70%    7.100     61 Template:Key
+  8.19%    5.433      3 Template:Transclude
+  4.89%    3.244     52 Template:Md
+  3.99%    2.648      1 Template:Verify
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:24-0!canonical and timestamp 20240224214209 and revision id 26222
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Cheating&amp;oldid=26222">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Cheating&amp;oldid=26222</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:0.D_(Danny)" title="Category:0.D (Danny)">0.D (Danny)</a></li><li><a href="/cdda_wiki/index.php/Category:Verify" title="Category:Verify">Verify</a></li><li><a href="/cdda_wiki/index.php/Category:Technical" title="Category:Technical">Technical</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Cheating" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Cheating" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Cheating" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Cheating" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Cheating">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Cheating&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Cheating&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Cheating" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Cheating" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Cheating&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Cheating&amp;oldid=26222" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Cheating&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 November 2017, at 11:54.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.127","walltime":"0.143","ppvisitednodes":{"value":1068,"limit":1000000},"ppgeneratednodes":{"value":10504,"limit":1000000},"postexpandincludesize":{"value":69331,"limit":2097152},"templateargumentsize":{"value":15057,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   66.345      1 -total"," 56.59%   37.548      1 Template:Guides"," 51.12%   33.916      1 Template:Navbox"," 19.18%   12.725      1 Debug_Menu"," 17.84%   11.833      1 Template:Ver"," 16.09%   10.678      1 Template:Navbar"," 10.70%    7.100     61 Template:Key","  8.19%    5.433      3 Template:Transclude","  4.89%    3.244     52 Template:Md","  3.99%    2.648      1 Template:Verify"]},"cachereport":{"timestamp":"20240224214209","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":68});});</script>
+</body>
+</html>

@@ -1,0 +1,1641 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Missions - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Missions","wgTitle":"Missions","wgCurRevisionId":40797,"wgRevisionId":40796,"wgArticleId":468,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.F (Frank)","Stub","NPCs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Missions","wgRelevantArticleId":468,"wgRequestId":"ZGdFqSMuD4f2BBt8HZ2KBAAAALQ","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Missions rootpage-Missions skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Missions</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 16:57, 7 May 2023 by <a href="/cdda_wiki/index.php?title=User:Chaoticidealism&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Chaoticidealism (page does not exist)"><bdi>Chaoticidealism</bdi></a> <span class="mw-usertoollinks">(<a href="/cdda_wiki/index.php/User_talk:Chaoticidealism" class="mw-usertoollinks-talk" title="User talk:Chaoticidealism">talk</a> | <a href="/cdda_wiki/index.php/Special:Contributions/Chaoticidealism" class="mw-usertoollinks-contribs" title="Special:Contributions/Chaoticidealism">contribs</a>)</span> <span class="comment">(<span dir="auto"><span class="autocomment"><a href="#Scenario_Missions_.280.F-1.29">→‎Scenario Missions (0.F-1)</a></span></span>)</span></div><div id="mw-revision-nav">(<a href="/cdda_wiki/index.php?title=Missions&amp;diff=prev&amp;oldid=40796" title="Missions">diff</a>) <a href="/cdda_wiki/index.php?title=Missions&amp;direction=prev&amp;oldid=40796" title="Missions">← Older revision</a> | <a href="/cdda_wiki/index.php/Missions" title="Missions">Latest revision</a> (<a href="/cdda_wiki/index.php?title=Missions&amp;diff=cur&amp;oldid=40796" title="Missions">diff</a>) | <a href="/cdda_wiki/index.php?title=Missions&amp;direction=next&amp;oldid=40796" title="Missions">Newer revision →</a> (<a href="/cdda_wiki/index.php?title=Missions&amp;diff=next&amp;oldid=40796" title="Missions">diff</a>)</div></div></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="text-align: left; margin: 1em 0; border: 1px solid #333333; border-left:4px solid; padding: .2em 1em .2em 0.6em; border-radius: 0 .7em .7em 0; -moz-border-radius: 0 .7em .7em 0; -webkit-border-radius: 0 .7em .7em 0; background: #FFEDCC; font: 1.1em Consolas, monospace; color: #333333;">
+<tbody><tr>
+<td><b>This page is not complete enough; please help if you can.</b>
+</td></tr></tbody></table>
+<p>Missions are given by <a href="/cdda_wiki/index.php/NPC" title="NPC">NPCs</a>. After completion, the NPC will offer to teach you one of the skills he/she knows or trade one of his/her items.
+</p><p><br />
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Scenario_Missions"><span class="tocnumber">1</span> <span class="toctext">Scenario Missions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Profession_Missions_.280.F-1.29"><span class="tocnumber">2</span> <span class="toctext">Profession Missions (0.F-1)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Background_Missions_.280.F-1.29"><span class="tocnumber">3</span> <span class="toctext">Background Missions (0.F-1)</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Prison_Leader.27s_Quest_.280.F-1.29"><span class="tocnumber">4</span> <span class="toctext">Prison Leader's Quest (0.F-1)</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Opener_Npc.27s_Missions_.280.F-1.29"><span class="tocnumber">5</span> <span class="toctext">Opener Npc's Missions (0.F-1)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Hub_01_Missions_.280.F-1.29"><span class="tocnumber">6</span> <span class="toctext">Hub 01 Missions (0.F-1)</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Refugee_Center_Missions"><span class="tocnumber">7</span> <span class="toctext">Refugee Center Missions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Tacoma_Ranch_Missions"><span class="tocnumber">8</span> <span class="toctext">Tacoma Ranch Missions</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Lumber_Mill_Missions"><span class="tocnumber">9</span> <span class="toctext">Lumber Mill Missions</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Misc._NPC_Missions"><span class="tocnumber">10</span> <span class="toctext">Misc. NPC Missions</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Scenario_Missions">Scenario Missions</span></h2>
+<p>These are the scenario-specific missions given at the start of a new game. Most scenarios do not give missions.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 33;">Mission
+</th>
+<th style="width: 33;">Scenario
+</th>
+<th style="width: 33;">Description
+</th>
+<th style="width: 33;">Requirements
+</th></tr>
+<tr>
+<th>Kill your pursuer
+</th>
+<td>Challenge - Hunted
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Refuel your helicopter
+</th>
+<td>Last Flight
+</td>
+<td>You were flying towards a nearby private airport before your forced landing.  You could still reach it by ground, and scavenge it for fuel.
+</td>
+<td>An airport is highlighted on your map. Go there and bring back fuel for your helicopter. Can also be fulfilled by obtaining and starting a new helicopter.
+</td></tr>
+<tr>
+<th>Ready or Not
+</th>
+<td>Challenge - Mansion Escape
+</td>
+<td>Survive all day from the crazy inhabitants of the mansion.
+</td>
+<td>Completes at midnight of the first day.
+</td></tr>
+<tr>
+<th>Reach The Mansion And Finish This Delivery
+</th>
+<td>The Last Delivery
+</td>
+<td>You have to finish your delivery
+</td>
+<td>Go to the mansion highlighted on your map.
+</td></tr>
+<tr>
+<th>Return to base
+</th>
+<td>Helicopter Crash
+</td>
+<td>Your helicopter was crashed to the ground, communications were lost with ground base, and the rest of your team died while landing, at least you still know the way back to the base.
+</td>
+<td>Go to the location highlighted on your map.
+</td></tr>
+</tbody></table>
+<h2><span id="Profession_Missions_(0.F-1)"></span><span class="mw-headline" id="Profession_Missions_.280.F-1.29">Profession Missions (0.F-1)</span></h2>
+<p>These are the missions that come with specific professions.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 33;">Mission
+</th>
+<th style="width: 33;">Profession
+</th>
+<th style="width: 33;">Description
+</th>
+<th style="width: 33;">Requirements
+</th></tr>
+<tr>
+<th>Become the Protagonist
+</th>
+<td>Otaku
+</td>
+<td>The world has become like an anime!  Zombies, mutants, the end of civilization as we know it…  You must become the protagonist if you want to survive, the plot armor will help you.  Go and kill 50 zombies to show your protagonist potential.
+</td>
+<td>Kill 50 Zombie (the generic monster).
+</td></tr>
+<tr>
+<th>Find a memory of your master
+</th>
+<td>Lost Submissive
+</td>
+<td>Find and wield a whip to remember your master even when separated.
+</td>
+<td>Wield a whip.
+</td></tr>
+<tr>
+<th>Find a real katana
+</th>
+<td>Urban Samurai
+</td>
+<td>The world has ended, but as an authentic samurai you lack a katana, you must find one, quickly.
+</td>
+<td>Obtain Katana.
+</td></tr>
+<tr>
+<th>Finish your mission
+</th>
+<td>Hitman, Assassin
+</td>
+<td>
+</td>
+<td>Follow the map marker and kill the indicated zombie or feral human.
+</td></tr>
+<tr>
+<th>Kill your rivals
+</th>
+<td>Ninja
+</td>
+<td>As a real ninja, you can't allow competitors for the night.  Kill 10 shady zombies and demonstrate who is the real ninja here.
+</td>
+<td>Kill 10 Shady Zombie.
+</td></tr>
+<tr>
+<th>Make the cops pay
+</th>
+<td>Mafia Boss
+</td>
+<td>They wanted to put you behind bars, but are now dead, make them pay with blood, unliving blood.
+</td>
+<td>Kill 10 Zombie Cop.
+</td></tr>
+<tr>
+<th>Social Butterfly
+</th>
+<td>Cheerleader, Major General, Career Politician, Mafia Boss
+</td>
+<td>You have always had good social abilities. Go and recruit 2 followers and establish your leadership among them. Don't forget to order them to build a base of operations for you in the form of a survivor camp.
+</td>
+<td>Have 2 NPC allies and create a faction camp.
+</td></tr></tbody></table>
+<h2><span id="Background_Missions_(0.F-1)"></span><span class="mw-headline" id="Background_Missions_.280.F-1.29">Background Missions (0.F-1)</span></h2>
+<p>These are the missions that come with specific backgrounds.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 33;">Mission
+</th>
+<th style="width: 33;">Background
+</th>
+<th style="width: 33;">Description
+</th>
+<th style="width: 33;">Requirements
+</th></tr>
+<tr>
+<th>Dress with style
+</th>
+<td>Modelling
+</td>
+<td>You need to always dress in style and fashion. Find a gown or tuxedo for your personal use.
+</td>
+<td>Put on the required item of clothing.
+</td></tr>
+<tr>
+<th>Find a tabletop game
+</th>
+<td>Role-Playing
+</td>
+<td>As a Game Master, it's just unacceptable that you now lack the means to play. Find a tabletop game to play with any survivors you could find, even a cards game will suffice.
+</td>
+<td>Obtain one of: D&amp;D, Battlehammer, Battlehammer 40K, deck of cards, Magic cards, chess, checkers, Pictionary, Catan, Battleship, or Clue.
+</td></tr>
+<tr>
+<th>Find some cosplay suits
+</th>
+<td>Cosplay
+</td>
+<td>The world could have ended, but there are still some fantastic costumes out there, just waiting for you to wear them. Search until you find them.
+</td>
+<td>Find and wear one of many costumes available in the world.
+</td></tr>
+<tr>
+<th>Find some skates
+</th>
+<td>Skating, Roller Derby, Roller Hockey
+</td>
+<td>You are a skater at heart, and as such you need some skates to drive by, any kind will suffice.
+</td>
+<td>Wear roller skates, roller blades, or heelys.
+</td></tr>
+</tbody></table>
+<h2><span id="Prison_Leader's_Quest_(0.F-1)"></span><span class="mw-headline" id="Prison_Leader.27s_Quest_.280.F-1.29">Prison Leader's Quest (0.F-1)</span></h2>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission's Name
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Offer
+</th>
+<th style="width: 20;">Goal
+</th>
+<th style="width: 20;">Reward
+</th></tr>
+<tr>
+<th>Get The Thing from the chief's office
+</th>
+<td>Here's the job…
+</td>
+<td>My snitch whispered in my ear that the thing I need is located in the chief's safe in his office.  You need to crack it open and bring the contents to me.  Don't try to use anything you find in there!  Just bring all the stuff to me, and I'll help you.  Deal?
+</td>
+<td>Find a military id card from chief's office and bring it back to the prison leader
+</td>
+<td>The leader gives you a medium can of beans
+</td></tr></tbody></table>
+<h2><span id="Opener_Npc's_Missions_(0.F-1)"></span><span class="mw-headline" id="Opener_Npc.27s_Missions_.280.F-1.29">Opener Npc's Missions (0.F-1)</span></h2>
+<p>This are some missions given by the starter npcs
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission's Name
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Offer
+</th>
+<th style="width: 20;">Goal
+</th>
+<th style="width: 20;">Reward
+</th></tr>
+<tr>
+<th>Retrieve Software
+</th>
+<td>Oh man, I can't believe I forgot to download it…
+</td>
+<td>There's some important software on my computer that I need on USB.
+</td>
+<td>Go to location on map, which is a house to find a terminal, use it(don't forget that you need the USB given to you by the npc) and bring the software back to the npc
+</td>
+<td>The npc's value towards you will increase by 80000, and you can ask the npc for an item from their inventory or teach you something.
+</td></tr>
+<tr>
+<th>Find Inhaler
+</th>
+<td>I'm… short… of breath…
+</td>
+<td>I'm asthmatic.  I need you to get an inhaler for me…
+</td>
+<td>Find an Inhaler and bring it back to the npc before 2 days or the npc will die
+</td>
+<td>The npc's value towards you will increase by 15000, and you can ask the npc for an item from their inventory or teach you something
+</td></tr>
+<tr>
+<th>Find Antibiotics
+</th>
+<td>This infection is bad, very bad…
+</td>
+<td>I'm infected.  Badly.  I need you to get some good antibiotics for me…
+</td>
+<td>Find an antibiotic and bring it back to the npc before 2 days or the npc will die
+</td>
+<td>The npc's value towards you will increase by 15000, and you can ask the npc for an item from their inventory or teach you something
+</td></tr>
+<tr>
+<th>Kill zombie mom
+</th>
+<td>Oh god, I can't believe it happened…
+</td>
+<td>My mom… she's… she was killed, but then she just got back up… she's one of those things now.  Can you put her out of her misery for me?
+</td>
+<td>Go to location on map, which is a house, and kill the zombie tagged with Mom
+</td>
+<td>The npc's value towards you will increase by 120000, and you can ask the npc for an item from their inventory or teach you something
+</td></tr>
+<tr>
+<th>Prove You're A Survivor
+</th>
+<td>Prove you're a survivor by surviving for 10 days after the Cataclysm, and then returning to the person who gave you this mission.
+</td>
+<td>It's hard surviving out here on our own, and we'd probably have a better chance working together.  Problem is, I don't really know you and what you're capable of.  You might have what it takes, or you might not.  Either way, I'm going to need some proof.  Come back in a few days and I'll gladly follow you.  It's basically a win-win for me: either you come back and I'll know you've got what it takes, or you don't and I'll know that I was right not to follow you.
+</td>
+<td>Survive for ten days and then go back to the npc
+</td>
+<td>The npc will join you, and you can ask the npc for an item from their inventory or teach you something.
+</td></tr>
+<tr>
+<th>Find Lost Dog
+</th>
+<td>Oh, my poor puppy…
+</td>
+<td>I left my poor dog in a house, not far from here.  Can you retrieve it?
+</td>
+<td>Go to location on map, and find a dog there, use the whistle given to you by the npc to bring it back to them
+</td>
+<td>The npc's value towards you will increase by 100000, and you can ask the npc for an item from their inventory or teach you something
+</td></tr>
+<tr>
+<th>Find Weather Log
+</th>
+<td>I wonder if a retreat might exist…
+</td>
+<td>Everyone who dies gets back up, right?  Which means that whatever is causing this it must be airborne to have infected everyone.  I believe that if that is the case then there should be regions that were not downwind from where-ever the disease was released.  We need to find a record of all the weather patterns leading up to the outbreak.
+</td>
+<td>Go to location on map which is a radio station, and bring back the weather log.
+</td>
+<td>The npc's value towards you will increase by 50000, and you can ask the npc for an item from their inventory or teach you something.
+</td></tr>
+<tr>
+<th>Find Flag *1
+</th>
+<td>Does our flag still yet wave?
+</td>
+<td>Does our flag still yet wave?  We're battered but not yet out of the fight, we need the old colors!
+</td>
+<td>Find a Flag and bring it back to the npc, You can find one in schools
+</td>
+<td>The npc's value towards you will increase by 100000, and you can ask the npc for an item from their inventory or teach you something, thsi also allows you to follow a mission tree marked in-wiki with *
+</td></tr>
+<tr>
+<th>Retrieve Military Black Box *2
+</th>
+<td>We've got the flag, now we need to locate US forces.
+</td>
+<td>We have the flag but now we need to locate US troops to see what we can do to help.  I haven't seen any but I'm figure'n one of those choppers that were fly'n round during th' outbreak would have a good idea.  If you can get me a black box from one of the wrecks I'll look into where we might open'er at.
+</td>
+<td>Find a black box and bring it back to the npc, You can find one in the map extra crashed military plane
+</td>
+<td>The npc's value towards you will increase by 100000, and you can ask the npc for an item from their inventory or teach you something, * the follow up mission is Retrieve Military Black Box *3
+</td></tr>
+<tr>
+<th>Retrieve Black Box Transcript *3
+</th>
+<td>With the black box in hand, we need to find a lab
+</td>
+<td>Thanks to your searching we've got the black box but now we need to have a look'n-side her.  Now, most buildings don't have power anymore but there are a few that might be of use.  Have you ever seen one of those science labs that have popped up in the middle of nowhere?  Them suckers have a glowing terminal out front so I know they have power somewhere inside'em.  If you can get inside and find a computer lab that still works you ought to be able to find out what's in the black box.
+</td>
+<td>Find a black box transcript in a lab and bring it back to the npc, this is a dangerous mission, it's recommanded to visit <a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Guide:_Lab_Challenge">the lab guide</a>
+</td>
+<td>The npc's value towards you will increase by 150000, and you can ask the npc for an item from their inventory or teach you something, * the follow up mission is Follow Sarcophagus Team *4
+</td></tr>
+<tr>
+<th>Follow Sarcophagus Team *4
+</th>
+<td>You wouldn't believe what I found…
+</td>
+<td>Holy hell, the crash you recovered the black box from wasn't as old as I thought.  Check this out, it was on its approach to pick up a team sent to secure and destroy something called a 'Hazardous Waste Sarcophagus' in the middle of nowhere.  If the bird never picked up the team then we may still have a chance to meet up with them.  It includes an access code for the elevator and an encoded message for the team leader, I guess.  If we want to join up with what remains of the government then now may be our only chance.
+</td>
+<td>Go to the location highlighted in the map, the npc will follow you too
+</td>
+<td>The npc's value towards you will increase by 50000, and you can ask the npc for an item from their inventory or teach you something, * this is the last mission in this mission tree*
+</td></tr>
+<tr>
+<th>Find Corporate Accounts†1
+</th>
+<td>Those twisted snakes…
+</td>
+<td>Our world fell apart because our leaders were as crooked as the con-men that paid for their elections.  Just find me one of those corporate accounting books and I'll show you and the rest of the world just who is at fault
+</td>
+<td>Go to location on map, which is an office tower, and find a corporate accounting book
+</td>
+<td>The npc's value towards you will increase by 140000, and you can ask the npc for an item from their inventory or teach you something, this also allows you to follow a mission tree marked in-wiki with †
+</td></tr>
+<tr>
+<th>Retrieve Deposit Box †2
+</th>
+<td>Those twisted snakes…
+</td>
+<td>Now I don't mean to upset you but I'm not sure what I can do with the accounting ledger at the moment.  We do have a new lead though, the ledger has a safe deposit box under the regional manager's name.  Guess what, dumb sucker wrote down his combination.  Come with me to retrieve the box and you can keep any of the goodies in it that I can't use to press charges against these bastards.
+</td>
+<td>Find the safe box and bring to npc
+</td>
+<td>The npc's value towards you will increase by 30000, and you can ask the npc for an item from their inventory or teach you something, † the follow up mission is Retrieve Find Deputy Badge†3
+</td></tr>
+<tr>
+<th>Find Deputy Badge †3
+</th>
+<td>Those twisted snakes…
+</td>
+<td>I hope you will find use from what you got out of the deposit box but I also have another job for you that might lead you to an opportunity to deal out justice for those who cannot.  First things first, we can't just look like ruffians.  Find us a deputy badge, easy enough?
+</td>
+<td>Find a deputy badge and bring it to the npc, you can find one at police stations
+</td>
+<td>The npc's value towards you will increase by 150000, and you can ask the npc for an item from their inventory or teach you something, †this is the last mission in this mission tree†
+</td></tr>
+<tr>
+<th>Find Patient Records#1
+</th>
+<td>I hope I don't see many names I know…
+</td>
+<td>I've lost so many friends… please find me a patient list from the regional hospital or doctor's office.  I just want to know who might still be out there.
+</td>
+<td>Go to location on map which is a hospital, and bring back the Patient record, hospitals are usually filled with zombies; be carful
+</td>
+<td>The npc's value towards you will increase by 60000, and you can ask the npc for an item from their inventory or teach you something, this also allows you to follow a mission tree marked in-wiki with #
+</td></tr>
+<tr>
+<th>Reach FEMA Camp #2
+</th>
+<td>Maybe they escaped to one of the camps…
+</td>
+<td>I can't thank you enough for bringing me the patient records but I do have another request.  You seem to know your way around… could you take me to one of the FEMA camps?  I know some were overrun but I don't want to believe all of them could have fallen.
+</td>
+<td>Go to the location highlighted in the map, the npc will follow you too, but be carful as the fema camps are filled with high tier zombies
+</td>
+<td>The npc's value towards you will increase by 60000, and you can ask the npc for an item from their inventory or teach you something, # the follow up mission is Reach Farm House #3
+</td></tr>
+<tr>
+<th>Reach Farm House #3
+</th>
+<td>I just need a place to start over…
+</td>
+<td>'ve accepted that everyone I used to know is dead… one way or another.  I really wish I could have done something to save my brother but he was one of the first to go.  I'd like to start over, just rebuild at one of the farms in the countryside.  Can you help me secure one?"
+</td>
+<td>Go to the location highlighted in the map, the npc will follow you too
+</td>
+<td>The npc's value towards you will increase by 60000, and you can ask the npc for an item from their inventory or teach you something, #this is the last mission in this mission tree #
+</td></tr>
+<tr>
+<th>Find Relic%1
+</th>
+<td>St. Michael the archangel defend me in battle…
+</td>
+<td>As the world seems to abandon the reality that we once knew, it becomes plausible that the old superstitions that were cast aside may have had some truth to them.  Please go and find me a religious relic…  I doubt it will be of much use but I've got to hope in something.
+</td>
+<td>Go to location on map which is a Cathedral or a museum, and bring back the relic.
+</td>
+<td>The npc's value towards you will increase by 100000, and you can ask the npc for an item from their inventory or teach you something, this also allows you to follow a mission tree marked in-wiki with%
+</td></tr>
+<tr>
+<th>Recover Priest's Diary" %2
+</th>
+<td>St. Michael the archangel defend me in battle…
+</td>
+<td>From what I understand, the creatures you encountered surrounding this relic were unlike anything I've heard of.  It is laughable that I now consider the living dead to be part of our ordinary reality.  Never-the-less, the church must have some explanation for these events.  I have located the residence of a local clergy man, could you go to this address and recover any items that may reveal what the church's stance is on these events?
+</td>
+<td>Go to the location highlighted in the map, and bring the priest dairy to the npc
+</td>
+<td>The npc's value towards you will increase by 70000, and you can ask the npc for an item from their inventory or teach you something,&#160;% the follow up mission is Investigate Cult%3
+</td></tr>
+<tr>
+<th>Investigate Cult%3
+</th>
+<td>St. Michael the archangel defend me in battle…
+</td>
+<td>You have no idea how interesting this diary is.  I have two very promising leads…  First things first, the Catholic Church has been performing its own investigations into global cult phenomenon and it appears to have become very interested in a local cult as of recently.  Could you investigate a location for me?  I'm not sure what was going on here but the priest seemed fairly worried about it.
+</td>
+<td>Go to the location highlighted in the map, a strange cabin; and retrieve an etched skull
+</td>
+<td>The npc's value towards you will increase by 150000, and you can ask the npc for an item from their inventory or teach you something,% the follow up mission is Investigate Cult%3
+</td></tr>
+<tr>
+<th>Prison Visionary%4
+</th>
+<td>St. Michael the archangel defend me in battle…
+</td>
+<td>I have another task if you are feeling up to it.  There is a prisoner that the priest made special mention of.  I was wondering if you could see what may have happened to him or if he left anything in his cell.  The priest admits the individual is rather unstable, to put it lightly, but the priest personally believed the man was some kind of repentant visionary.  I'm not in a position to cast out the account just yet… it seems the man has prophesied events accurately before concerning the Church of Starry Wisdom.
+</td>
+<td>Go to the location highlighted in the map, a prison; and retrieve the book which is called visions solitude
+</td>
+<td>The npc's value towards you will increase by 150000, and you can ask the npc for an item from their inventory or teach you something, %this is the last mission in this mission tree&#160;%
+</td></tr>
+<tr>
+<th>Kill Jabberwock$1
+</th>
+<td>The eater of the dead… something was ripping zombies to shreds and only leaving a few scattered limbs…
+</td>
+<td>A few days ago another survivor and I were trying to avoid the cities by staying in the woods during the day and foraging for gear at night.  It worked well against the normal zed's but one night something caught onto our trail and chased us for ten minutes or so until we decided to split up and meet-up back here.  My buddy never showed up and I don't have the means to kill whatever it was.  Can you lend a hand?
+</td>
+<td>Go to location on map, and kill the Jabberwock, it's a very dangerous creature soo be carful
+</td>
+<td>The npc's value towards you will increase by 200000, and you can ask the npc for an item from their inventory or teach you something, this also allows you to follow a mission tree marked in-wiki with$
+</td></tr>
+<tr>
+<th>Kill 100 Zombies%2
+</th>
+<td>You seem to know this new world better than most…
+</td>
+<td>You're kitted out better than most… would you be interested in making this world a little better for the rest of us?  The towns have enough supplies for us survivors to start securing a foothold but we don't have anyone with the skills and equipment to thin the masses of undead.  I'll lend you a hand to the best of my ability but you really showed promise taking out that other beast.  You, I, and a 100 zombies laid to rest, what do you say?
+</td>
+<td>Just go and kill 100 zombie, the npc will follow you and fight for you.
+</td>
+<td>The npc's value towards you will increase by 250000, and you can ask the npc for an item from their inventory or teach you something, $ the follow up mission is Kill Horde Master$3
+</td></tr>
+<tr>
+<th>Kill Horde Master$3
+</th>
+<td>I've heard some bad rumors so I hope you are up for another challenge…
+</td>
+<td>Apparently one of the other survivors picked up on an unusually dense horde of undead moving into the area.  At the center of this throng there was a 'leader' of some sort.  The short of it is, kill the son of a bitch.  We don't know what it is capable of or why it is surrounded by other zombies but this thing reeks of trouble.  Do whatever it takes but we can't risk it getting away
+</td>
+<td>go and kill the horde master, the npc will follow you and fight for you, but beware the horde is dangerous
+</td>
+<td>The npc's value towards you will increase by 150000, and you can ask the npc for an item from their inventory or teach you something,% the follow up mission is Recruit Tracker$4
+</td></tr>
+<tr>
+<th>Recruit Tracker$4
+</th>
+<td>You seem to know this new world better than most…
+</td>
+<td>We've got another problem to deal with but I don't think we can handle it on our own.  So, I sent word out and found us a volunteer… of sorts.  He's vain as hell but has a little skill with firearms.  He was supposed to collect whatever he had of value and is going to meet us at a cabin in the woods.  Wasn't sure how long we were going to be so I told him to just camp there until we picked him up.
+</td>
+<td>Go to the cabin and to recruit the tracker, the npc will follow you and fight for you.
+</td>
+<td>The npc's value towards you will increase by 70000, and you can ask the npc for an item from their inventory or teach you something, the follow up mission, Find Deputy Badge$5, is accessed from the tracker
+</td></tr>
+<tr>
+<th>Find Deputy Badge$5
+</th>
+<td>Well damn, you must be the guys here to pick me up…
+</td>
+<td>I got the brief so I know what I'm getting into.  Let me be upfront, treat me like shit and I'm going to cover my own hide.  However, you treat me well and give me something to believe in, even if it's just a shiny bit of metal, and I'll do you right.  Without a strong band a man doesn't stand a chance in this world.  You ready to take charge boss?  This world could use a Sheriff just about now.
+</td>
+<td>Find a deputy badge and bring it to the npc, you can find one at police stations
+</td>
+<td>The npc will follow you, and you can ask the npc for an item from their inventory or teach you something, $this is the last mission in this mission tree $
+</td></tr>
+<tr>
+<th>Prove your worth to Foodperson
+</th>
+<td>Prove your dedication to Foodplace.
+</td>
+<td>Show me the proof of your loyalty to the great Foodplace, and I'll consider you worthy of my friendship.  Ten loyalty cards should be enough, I'm sure you already have much more than that waiting for you at home, right?
+</td>
+<td>Find 10 Foodplace Loyalty Cards. They can often be found in wallets.
+</td>
+<td>Improved NPC relationship.
+</td></tr>
+<tr>
+<th>Gather cattail stalks to create cattail jelly
+</th>
+<td>Gather 80 cattail stalks from the swamp and bring them back to learn how to craft cattail jelly. Raise your survival skill to at least 1 by harvesting cattail stalks. Bring back the provided bag as well.
+</td>
+<td>Did you know that cattails are a source of a jelly that works as an antiseptic and analgesic?  Something like that is likely to be mighty helpful out here.  I want you to take this bag, head to the nearest swamp, collect 80 cattail stalks, and bring them back here.  In exchange, I'll show you how to harvest the jelly.
+</td>
+<td>Be holding 80 cattail stalks and the duffel bag the survivor gave you and have a Survival skill of 1 or higher.
+</td>
+<td>Learn cattail jelly recipe.
+</td></tr>
+<tr>
+<th>Angry Pyromaniac
+</th>
+<td>Oh man, I want to burn it so bad…
+</td>
+<td>I'm so infuriated!  I've got an enemy that ruined my life, and now I want to get revenge!  I don't care about the cataclysm, I just want to burn his house!  Would you help me?
+</td>
+<td>The NPC will start following you. Obtain some gasoline and go to the house indicated.
+</td>
+<td>Improved NPC relationship. NPC will teach skills or trade for items.
+</td></tr></tbody></table>
+<h2><span id="Hub_01_Missions_(0.F-1)"></span><span class="mw-headline" id="Hub_01_Missions_.280.F-1.29">Hub 01 Missions (0.F-1)</span></h2>
+<p><a href="/cdda_wiki/index.php/Hub_01" title="Hub 01">Hub 01</a> missions are given through the intercom
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission's Name
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Offer
+</th>
+<th style="width: 20;">Goal
+</th>
+<th style="width: 20;">Reward
+</th></tr>
+<tr>
+<th>Steal a dead man's mind
+</th>
+<td>Investigate a nearby field and return with Dr. Prado and the robot prototype she was testing.  Failing that, retrieve the I/O recorder stored within the robot.  If the robot remains operational, avoid direct confrontation and use EMP grenades to disable it.
+</td>
+<td>One of our scientists recently left the lab to perform a field test on a prototype robot, but failed to return, and has not been heard of since.  Investigate the test and return with her and the prototype.  Failing that, return with the data recorder that was attached to our prototype.
+</td>
+<td>Go to location highlighted on the map, there you will find a very dangerous robot and a human corpse, you have to disable the robot using emp grenades, you can find some near the corpse and return the I/O recorder
+</td>
+<td>You will become able to trade with the intercom
+</td></tr>
+<tr>
+<th>Steal a dead man's mind
+</th>
+<td>Find the corpse of a Hub 01's AI researcher and use the mind splicer kit to recover the memories stored inside their memory implant.
+</td>
+<td>When the portal storms started, the Government issued an evacuation order for critical XEDRA personnel and sent convoys to retrieve them, with our head of AI research among the recalled.  We recently discovered that he died when the convoy transferring him was ambushed in the initial chaos, but his corpse and memory bionic might remain intact enough for us to extract valuable knowledge.  We want you to travel to the location, make a copy of his Bionic Memory Unit, and return it to us. intercom: We offer the standard hazard pay of 4 HGC for this contract
+</td>
+<td>Go to location highlighted on the map, you will find a military cars wreck, you have to find the person's body and use the mind splicer kit on them and return the data
+</td>
+<td>You will get four RobofacCoins and a new mercenary npc will spawn near the entrance also a free merchants camp will spawn in the parking lot
+</td></tr>
+<tr>
+<th>Light retrieval
+</th>
+<td>Reach the collapsed tower basement, and search the ruins for a photonic circuitry template.  The intercom warned you about heavy enemy presence, and of the existence of a hazardous environment.
+</td>
+<td>Our facility once sourced advanced photonic circuitry from a nearby robotics manufacturer.  Their building suffered major damage during the portal storms, and collapsed almost entirely.  However, preliminary scouting reveals that the basement prototyping lab likely remains intact. intercom: We ask you to investigate the ruins, and if possible, retrieve a template for the fabrication of said photonic circuitry. intercom: Completion of this contract awards 8 HGC, the standard heightened-hazard rate.
+</td>
+<td>Go to location highlighted on the map, you will find a collapsed tower, it's a dangerous place so be careful, go to the lower floor, which filled with radiations and bring the photonics template
+</td>
+<td>You will get eight RobofacCoins
+</td></tr>
+<tr>
+<th>Iron Safari
+</th>
+<td>Disable and retrieve an inactive TALON UGV.  You can intercept the robot indicated by Hub 01, or find an inactive robot somewhere else
+</td>
+<td>We find ourselves in need of a robotic chassis of a TALON UGV.  Our scout drones have already revealed the location of a stray robot that fits our purposes, and we simply ask you to intercept it, disable it, and retrieve it for us.  We will equip you with a prototype gun fit for this purpose, if you accept. intercom: Completion of this contract awards 2, to compensate the cost of the provided gear.
+</td>
+<td>Go to location highlighted on the map, you will find a robot there, using the gun given to you by the intercom you have to shoot the robot, If you manged to hit the robot you will disable it, return the robot to the hub
+</td>
+<td>You will get two RobofacCoins, and keep the gun
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Refugee_Center_Missions">Refugee Center Missions</span></h2>
+<p>Missions involving the refugee center and its occupants.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission Name
+</th>
+<th style="width: 20;">Mission Source
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Requirements
+</th>
+<th style="width: 20;">Reward
+</th></tr>
+
+<tr>
+<th>Reach Refugee Center
+</th>
+<td>[Choose the "Contact Us" option on the Evac Shelter computer.]
+</td>
+<td>n/a
+</td>
+<td>Go to the refugee center (highlighted on your map).
+</td>
+<td>n/a
+</td></tr>
+<tr>
+<th>Alonso must have his special pants
+</th>
+<td>Alonso Lautrec
+</td>
+<td>I think I might know where those special pants might be though… (Alonso got drunk, crashed a party, and lost his pants. He wants them back.)
+</td>
+<td>Bring Alonso one pair of leather pants. The location indicated on your map is an adult bookstore, but any pair of leather pants will do.
+</td>
+<td>Alonso will now offer you his escort services if you have a condom.
+</td></tr>
+<tr>
+<th>Find someone to clean up the back bay.
+</th>
+<td>Boris Borichenko Mission 1
+</td>
+<td>Boris in the refugee center is looking for at least five people to help clear up the back bay.
+</td>
+<td>Get five people to agree to help with the job. Guneet Singh, Aleesha Seward, Garry Villenueve, Uyen Tran, Rhyzaea Johnny, and the Old Guard Representative can be persuaded. The Teamster will agree without persuasion, and Smokes can be given either 5 or 10 Merch to hire the guards to help; 10 Merch will hire two guards and Smokes will also agree.
+</td>
+<td>5 Merch; relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Bring Boris a circular saw.
+</th>
+<td>Boris Borichenko Mission 2
+</td>
+<td>We now have a space to work in, and I have wood and nails to spare.  All I need is a saw.  I would love tablesaw and mitre saw, but I can work with a hand held circular saw for now.  I have looked, and what we have is garbage.  Can you bring me a good one?
+</td>
+<td>Talk to Boris with a Circular Saw in your inventory.
+</td>
+<td>5 Merch; relationship, trade, or training. Boris will now sell training in Carving, Basic Carpentry, and Plumbing.
+</td></tr>
+<tr>
+<th>Bring Boris his son's lost writing.
+</th>
+<td>Boris Borichenko Mission 3
+</td>
+<td>If you can find it, it would mean so much to me.  I will give you directions to the shelter where he left it.  It was barely a shelter, broken and torn apart.  It should just be on the floor where it was dropped.
+</td>
+<td>Go to the location marked and pick up Ash's Laptop Computer. Return it to Boris.
+</td>
+<td>5 Merch; relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find Dana's family sourdough culture
+</th>
+<td>Dana Nunez, after buying some of her sourdough bread, or trading her flour for bread.
+</td>
+<td>If you really like this second-rate bread, you could risk your life for something actually worth it.  I left my actual sourdough starter back in the bakery where I worked.  That baby is a hundred years old, and has been in my family for generations. If you can bring him to me, I'll bake you the finest bread you've ever had.
+</td>
+<td>Go to location highlighted on the map, a bakery, and bring back Dana's family sourdough starter.
+</td>
+<td>After a 14-day wait, Dana will start to sell high-quality sourdough bread.
+</td></tr>
+<tr>
+<th>Bring 40 small cardboard boxes
+</th>
+<td>Dino Dave, Mission 1
+</td>
+<td>Gotta start small right?  Little ones for keeping little things safe.  I could use 'em.  I need a bunch of 'em.  Little ones, you know?  Can you bring me like… like… forty?
+</td>
+<td>Bring Dave 40 of the item "small cardboard box".
+</td>
+<td>Unlocks mission "Bring a roll of duct tape".
+</td></tr>
+<tr>
+<th>Bring a roll of duct tape
+</th>
+<td>Dino Dave, Mission 2
+</td>
+<td>These ones are good, good ones.  They need something to, you know, bind them together.  Surround them, light side, dark side.  Bring me the Force!
+</td>
+<td>Bring Dave 200 units of Duct Tape.
+</td>
+<td>Unlocks mission "Bring 10 Cardboard Boxes".
+</td></tr>
+<tr>
+<th>Bring 10 cardboard boxes
+</th>
+<td>Dino Dave, Mission 3
+</td>
+<td>Ten bigger ones now please.  The list doesn't lie.  You've done so well.  I got a little more on the list, but we're more than half there.
+</td>
+<td>Bring Dave 10 of the item "Cardboard Box".
+</td>
+<td>Unlocks mission "Bring 10 large plastic sheets".
+</td></tr>
+<tr>
+<th>Bring 10 large plastic sheets
+</th>
+<td>Dino Dave, Mission 4
+</td>
+<td>If I can set it up in here I won't need it, but they might drive me out, so I guess I need some plastic just in case.  I don't like it, the sandman can smell through plastic, but I think the cardboard is stronger.
+</td>
+<td>Bring Dave 10 of the item "Large Plastic Sheet". They can be found, among other places, by deconstructing the ground sheets at mass graves.
+</td>
+<td>Unlocks mission "Bring 5 large cardboard boxes"
+</td></tr>
+<tr>
+<th>Bring 5 large cardboard boxes
+</th>
+<td>Dino Dave, Mission 5
+</td>
+<td>This is the last thing I need from you.  I've been collecting the other parts myself, it's been easier with more cardboard around.  Can you bring me five more really big cardboard boxes?
+</td>
+<td>Bring Dave 5 "Large Cardboard Box". These can be taken down where found and folded and unfolded via crafting to make them easier to haul; unfolding them takes duct tape to glue them back together.
+</td>
+<td>Dino Dave builds his cardboard mansion; the other beggars see you as trustworthy.
+</td></tr>
+<tr>
+<th>Bring an acoustic guitar
+</th>
+<td>Draco Dune
+</td>
+<td>I just want a functional acoustic guitar.  Preferably one that hasn't been used to cave in any zombie skulls.
+</td>
+<td>Bring Draco an Acoustic Guitar.
+</td>
+<td>Relationship, trade, or training. Draco will pay 6 Merch instead of 4 for 5 marijuana or 5 joints, and will buy every few days.
+</td></tr>
+<tr>
+<th>Go check out this island
+</th>
+<td>Draco Dune (Mod: Xedra)
+</td>
+<td>This is where the island I agreed to a strange deal is.  I wonder if they're still there.
+</td>
+<td>Go to the location marked on your map.
+</td>
+<td>Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find a copy of the Quran
+</th>
+<td>Fatima al Jadir
+</td>
+<td>I could use a bit of help to find a copy of the Quran.
+</td>
+<td>The Quran is not guaranteed to spawn anywhere, but libraries and bookstores are most likely.
+</td>
+<td>5 Merch. Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find reference materials about air rifles for Jenny.
+</th>
+<td>Jenny Forcette
+</td>
+<td>If you happen to see anything in your travels about high-powered air rifles, it would help a lot.
+</td>
+<td>Jenny wants the book "Pneumatic Pnowledge" or its alternate titles. Try bookstores and libraries.
+</td>
+<td>4 Merch. Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find an electric motor
+</th>
+<td>Jenny Forcette, after giving her the book and waiting a while.
+</td>
+<td>Before I get anything going, I'm going to need to set up a compressor.  I have a lot of the stuff for that, but I need a large tank for air, and a good sized electric motor - about 10 kg or so.  I'm also going to need a 60 liter tank, after that.
+</td>
+<td>Bring Jenny an electric motor, you can find one in electric car or a hybrid car
+</td>
+<td>4 Merch. Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Bring back a 60L metal tank
+</th>
+<td>Jenny Forcette, after giving her the motor and waiting a while.
+</td>
+<td>I can get started building the compressor, but I need a large metal tank to store compressed air centrally.  About 60 liters should do
+</td>
+<td>Bring back a 60L metal tank
+</td>
+<td>5 Merch. Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find a gunsmithing textbook
+</th>
+<td>Jenny Forcette, after giving her the tank
+</td>
+<td>I need a good quality reference book on gunsmithing.  This isn't my area of expertise, and I don't want to blow anybody up.
+</td>
+<td>Bring Jenny the book "Ballistics: Theory, Design, and Application" or one of its alternate titles.
+</td>
+<td>5 Merch. Relationship, trade, or training. The defense turrets Jenny mentions aren't available to the player, but raise refugee happiness.
+</td></tr>
+<tr>
+<th>Find 50 doses of antiseptic
+</th>
+<td>Uyen Tran Mission 1
+</td>
+<td>There's the doc out front helping anyone that can pay but for us up here, money mostly goes to food.  I could do a lot for basic cuts, bruises, and common stuff if I had some supplies to help out.  Could you bring me some antiseptic?  Six bottles would probably be enough to last us a while.
+</td>
+<td>Give Uyen 50 doses of antiseptic. It doesn't matter how many bottles it's in.
+</td>
+<td>7 Merch; relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find 30 bandages
+</th>
+<td>Uyen Tran Mission 2
+</td>
+<td>There's the doc out front helping anyone that can pay but for us up here, money mostly goes to food.  I could do a lot for basic cuts, bruises, and common stuff if I had some supplies to help out.  Could you bring me a few extra bandages?  Thirty would probably be enough to last us a while.
+</td>
+<td>Give Uyen 30 bandages.
+</td>
+<td>7 Merch; relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find 6 bottles of antidepressant
+</th>
+<td>Uyen Tran Mission 3
+</td>
+<td>I probably shouldn't be prescribing things, but there's a ton of people needing help with sleep in here.  If you could get us some antidepressants, Rhyzaea and I can probably make sure they're doled out appropriately without people having to starve to pay for them.  Three month's worth - about 6 bottles - would last us a little while.
+</td>
+<td>Bring Uyen 60 doses of antidepressant.
+</td>
+<td>5 Merch; relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Make a makeshift haircut kit for Vanessa Toby in the refugee center
+</th>
+<td>Vanessa Toby
+</td>
+<td>I didn't think to pack my hairdressing equipment when I was evacuated.  If you could put together a basic hair cutting kit for me, I could do a bit of styling for people around here.  I'll even give you a free haircut for your troubles.
+</td>
+<td>A Makeshift Haircut Kit can be made from thread, leather or fur, cotton, a pair of office scissors, and a hand mirror (can be obtained by removing side-view mirrors from cars). The recipe is available at Fabrication 1.
+</td>
+<td>Relationship, trade, or training. Vanessa will give you one free haircut and will start selling haircuts.
+</td></tr>
+<tr>
+<th>Smokes, Let's Go
+</th>
+<td>[Front room guard]
+</td>
+<td>Make a friend at the refugee center by handing over around five packs - 100 cigarettes.
+</td>
+<td>Talk to the guard while carrying 100 cigarettes.
+</td>
+<td>Improved relationship with the Old Guard Representative.
+</td></tr>
+<tr>
+<th>Kill Bandits
+</th>
+<td>Old Guard Representative Mission 1
+</td>
+<td>A pair of bandits have been preying on locals, based out of a nearby cabin.  Ensure they meet a bitter end along with any associates, but watch out for traps around their hideout.
+</td>
+<td>Go to the location indicated and kill all bandits there. There will be more than two, and they will have set traps.
+</td>
+<td>Improved relationship, tutoring, or trade.
+</td></tr>
+<tr>
+<th>Deal with Informant
+</th>
+<td>Old Guard Representative Mission 2
+</td>
+<td>The Hell's Raiders bandit group may have an informant working inside the Refugee Center.  Investigate and bring them to justice without arousing any suspicions.
+</td>
+<td>Find the guard who looks suspicious. Ask him if he's been hiding something, then use intimidate or persuade to turn him hostile before killing him.
+</td>
+<td>Improved relationship, tutoring, or trade.
+</td></tr>
+<tr>
+<th>Find Source of Robots
+</th>
+<td>Old Guard Representative Mission 3
+</td>
+<td>I don't usually hear much from command, but we got a message by radio recently.  You might be the right choice to look into it for me.  There've been reports of weird robots and things wandering around since things went south.  Dunno how, but apparently command tracked down what they think is the source.  They want someone to go check out who is making these, and if we can get any tech or assistance from them.  This is strictly recon, you understand: could be a hostile entity, so do not engage directly.
+</td>
+<td>Go to the location indicated on your map. Explore the structure you find and talk to the NPC there. Then go back to the Old Guard Representative and tell him about what you found.
+</td>
+<td>Improved relationship, tutoring, or trade.
+</td></tr>
+<tr>
+<th>Secure Trade Route
+</th>
+<td>Old Guard Representative Mission 4
+</td>
+<td>One of the Free Merchants silently disappeared while escorting a trade caravan.  Whoever or whatever is responsible must be quick and quiet - investigate the trade route and eliminate the threat.
+</td>
+<td>Go to the location indicated on your map. Kill the monster you find there.
+</td>
+<td>Improved relationship, tutoring, or trade.
+</td></tr>
+<tr>
+<th>Assassinate Raider Leader
+</th>
+<td>Old Guard Representative Mission 5
+</td>
+<td>The Old Guard have located a Hell's Raiders encampment that is coordinating attacks on the Free Merchants.  Pay them a visit and execute the area leadership.
+</td>
+<td>Go to the location indicated on your map. Kill the numerous raiders you will find there.
+</td>
+<td>Improved relationship, tutoring, or trade; Marshal badge, six-shooter pistol, and US Marshal trait given when mission is assigned.
+</td></tr>
+<tr>
+<th>Unknown Recipient
+</th>
+<td>Smokes
+</td>
+<td>Deliver the FEMA hard drive to the strange group that Smokes mentioned.  Return to the evacuation center when the data's been delivered.
+</td>
+<td>Kill the special zombie in the back bay of the refugee center.
+</td>
+<td>Contact with Hub 01 and its missions
+</td></tr>
+<tr>
+<th>Clear Back Bay
+</th>
+<td>Smokes Mission 1
+</td>
+<td>Clear out the barricaded back area in the refugee center and lay the former leader of the Free Merchants to rest, in exchange for the local currency: Free Merchant certified notes.
+</td>
+<td>Kill the special zombie in the back bay of the refugee center.
+</td>
+<td>25 Merch; relationship, training, or trade.
+</td></tr>
+<tr>
+<th>Missing Caravan
+</th>
+<td>Smokes Mission 2
+</td>
+<td>Investigate the last known location of a disappeared scavenger trading party, and eliminate any bandits or raiders in the vicinity in exchange for 30 certified notes.
+</td>
+<td>Go to the marked location and kill all raiders.
+</td>
+<td>25 Merch; relationship, training, or trade.
+</td></tr>
+<tr>
+<th>Retrieve Prospectus
+</th>
+<td>Smokes Mission 3
+</td>
+<td>Visit the farming commune and bring the foreman's prospectus back to the refugee center, for 50 certified notes.
+</td>
+<td>Go to the farming commune and talk to the foreman for the prospectus, then talk to Smokes.
+</td>
+<td>50 Merch; relationship, training, or trade.
+</td></tr>
+<tr>
+<th>Solar Power
+</th>
+<td>Smokes Mission 4
+</td>
+<td>Deliver 10 solar panels to help the Free Merchants set up a renewable power grid, in exchange for a handsome reward.
+</td>
+<td>Bring 10 Solar Panel to Smokes.
+</td>
+<td>100 Merch; relationship, training, or trade.
+</td></tr>
+<tr>
+<th>In a Pickle
+</th>
+<td>Smokes Mission 5
+</td>
+<td>Deliver 100 0.5L glass jars to the Free Merchants to kickstart their food storage plans.
+</td>
+<td>Bring 100 0.5L Glass Jar to Smokes.
+</td>
+<td>100 Merch; relationship, training, or trade; Broker will now buy glass jars.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Tacoma_Ranch_Missions">Tacoma Ranch Missions</span></h2>
+<p>Missions given by various NPCs at the Tacoma Ranch, a farming community started by the Free Merchants. Completing these quests gradually upgrades the Tacoma Ranch and brings in new NPCs.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission Name
+</th>
+<th style="width: 20;">Mission Source
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Requirements
+</th></tr>
+<tr>
+<th>Cut 200 Planks
+</th>
+<td>Foreman
+</td>
+<td>Our first project is to enclose the barn so that new refugees have a safe place to sleep.  Before we can begin serious improvements, we need lumber to work with.  Enclosing the four barn entrances will take nearly 400 planks… if you could provide half of that, we should be able to take care of the other half and construction.  If you don't have a truck, I'd make finding one your first priority.
+</td>
+<td>Bring back 200 Plank
+</td></tr>
+<tr>
+<th>Find 25 Blankets
+</th>
+<td>Foreman, after Cut 200 Planks is completed
+</td>
+<td>With the barn entrances enclosed, the refugees moving in there should feel safer, but the weather can be bitter here.  We're going to need to build makeshift beds in the stalls to ward off disease and frostbite.  We can take care of the frames, but will need your help looting blankets.  We'd need 25 blankets to provide the most basic sleeping accommodations.
+</td>
+<td>Bring back 25 Blanket
+</td></tr>
+<tr>
+<th>Gather 2500 Nails
+</th>
+<td>Foreman, after Find 25 Blankets is completed
+</td>
+<td>Our supply of nails has been depleted.  I'm going to have to ask you to get us a few more boxes.  Hardware stores should have a few if they haven't been looted.  I suppose you may be able to find handfuls of them in building rubble.  We'd need 2500 to have enough that we won't be sending you back out too soon.
+</td>
+<td>Bring back 2500 Nail
+</td></tr>
+<tr>
+<th>Gather 300 Salt
+</th>
+<td>Foreman, after Gather 2500 Nails is completed
+</td>
+<td>I'm sure you've noticed the new workers that have started trickling in.  The Free Merchant counsel is demanding that we immediately begin projects to become self-sufficient due to limited supplies.  We are going to need to rapidly setup an agricultural industry before winter and starvation catches us unprepared and unsupported.  In order to get a half dozen shovels and a couple of bags of seeds, we are going to have to trade for it.  I've already got the deal lined up, but the only thing they are willing to trade it for is salt.  I negotiated them down from 500 units to 300… we were hoping you might have access to a source.
+</td>
+<td>Bring back 300 Salt
+</td></tr>
+<tr>
+<th>Gather 30 Liquid Fertilizer
+</th>
+<td>Foreman, after Gather 300 Salt is completed
+</td>
+<td>Well, our first crop will be planted shortly, but I'm starting to suspect that our profit margin is going to be much smaller than we expect.  With limited seed for our original crop, our next course of action is to increase the soil's fertility.  Is there any way you could find or produce a basic liquid fertilizer for us?  We'd need at least 30 units to make a significant improvement in our output.
+</td>
+<td>Bring back 30 Liquid Fertilizer.
+</td></tr>
+<tr>
+<th>Gather 75 Rocks
+</th>
+<td>Foreman, after Gather 30 Liquid Fertilizer is completed
+</td>
+<td>Our current assessment for survivability has increased significantly thanks to your efforts.  The next priority issue is securing a cleaner water source.  Drinking from the pond on the back end of the ranch has led to an outbreak of dysentery.  As quickly as possible, we need to improve the sanitary conditions in the camp.  To do so, the first step is to dig a well and construct stone fireplaces in the barn for the migrants to boil water.  We are going to need at least 75 rocks from you if we hope to accomplish the task before we all get sick.  After we have them installed, you will have free access to them, guaranteed.
+</td>
+<td>Bring back 75 rocks
+</td></tr>
+<tr>
+<th>Gather 50 Pipes
+</th>
+<td>Foreman, after Gather 75 Rocks is completed
+</td>
+<td>To fabricate the well's hand pump and construct components for several other projects, we are going to need to find or fabricate a number of steel pipes.  Plumbing is a distant possibility for now, but some form of irrigation will eventually become desirable.  You could assist us with procuring 50 steel pipes, if you so have the chance.
+</td>
+<td>Bring back 50 Pipe
+</td></tr>
+<tr>
+<th>Gather 2 Electric Motors
+</th>
+<td>Foreman, after Gather 50 Pipes is completed
+</td>
+<td>With the well's completion, we are rapidly closing the sustainability gap.  In order to expand from here, we will need massive quantities of lumber to construct fortifications and new buildings.  We have already begun work on a manually operated sawmill, but we will need two electric motors to control the actual blades.  We were hoping you might be able to secure the motors for us.
+</td>
+<td>Bring back 2 Electric Motor. Small, Enhanced, or Large electric motors are not accepted.
+</td></tr>
+<tr>
+<th>Gather 150 Bleach
+</th>
+<td>Foreman, after Gather 2 Electric Motors is completed
+</td>
+<td>Disease and infection remains a persistent problem among the refugees.  Without dedicated medical personnel and facilities, I doubt everyone will be willing to stick around when the next outbreak happens.  Until we can get a former medic or nurse, I'm just going to have to improvise.  Sterilization would be the first step I imagine.  Bring me 5 gallon jugs of bleach so we can get started.
+</td>
+<td>Bring back 150 units of Bleach. Container size doesn't matter.
+</td></tr>
+<tr>
+<th>Gather 36 bandages
+</th>
+<td>Foreman, after Gather 150 Bleach is completed
+</td>
+<td>We've started planning a medical clinic, but we are going to need a lot more supplies if we hope to warrant sending one of the few people with medical experience from the refugee center to our outpost.  I know first aid equipment is rare, but they have all the basic supplies that I'm uncertain of.  If you could bring in thirty-six bandages I'm sure we could supplement them to make theirs last a bit longer.
+</td>
+<td>Bring back 36 bandages. They must be regular bandages, not makeshift or adhesive bandages.
+</td></tr>
+<tr>
+<th>Gather 6 bottles of antiseptic
+</th>
+<td>Foreman, after Gather 36 Bandages is completed
+</td>
+<td>We've started planning a medical clinic, but we are going to need a lot more supplies if we hope to warrant sending one of the few people with medical experience from the refugee center to our outpost.  I know first aid equipment is rare, but they have all the basic supplies that I'm uncertain of.  If you could bring in 6 bottles of antiseptic, I'm sure we could supplement them to make theirs last a bit longer.
+</td>
+<td>Bring back 60 units of antiseptic. Container size doesn't matter.
+</td></tr>
+<tr>
+<th>Find 2 Arc Welders
+</th>
+<td>Foreman, after Gather 6 bottles of antiseptic is completed
+</td>
+<td>The work you have done has swayed the leaders at the refugee center to send someone out to assist with our medical needs.  The next step is for us to get a sort of chop-shop setup so that we can begin using scrap metal to build fortifications and equipment.  We are going to need a pair of arc welders for our mechanics to use."
+</td>
+<td>Bring back 2 Arc Welder
+</td></tr>
+<tr>
+<th>Find 12 Car Batteries
+</th>
+<td>Foreman, after Find 2 Arc Welders is completed
+</td>
+<td>We have the basic equipment that we need, but without a functioning power grid, we are forced to rely on the readily available vehicle batteries.  This is going to be a chore, but I'll need twelve car batteries to swap between charging and powering our equipment.  The good news is that they don't need to be charged; we can take care of that."
+</td>
+<td>Bring back 12 Car Battery. Damaged or drained batteries are OK.
+</td></tr>
+<tr>
+<th>Find 2 Two-Way Radios
+</th>
+<td>Foreman, after Find 12 Car Batteries is completed
+</td>
+<td>Check with the nurse when you get a chance; I know she will need help setting up our clinic.  On the construction front, we are going to need to get dedicated scavenger teams setup to bring in the miscellaneous supplies that we use in small quantities.  We are going to start setting up a junk shop for them behind the sawmill, so we could use your help with that.  Communication is the biggest obstacle for the teams… could you bring in a pair of two-way radios?"
+</td>
+<td>Bring back 2 Two-Way Radio
+</td></tr>
+<tr>
+<th>Gather 5 Backpacks
+</th>
+<td>Foreman, after Find 2 Two-Way Radios is completed
+</td>
+<td>The volunteers for the scavenging teams will need to be issued some basic equipment.  When the boss sets up shop in the junk shed, you should ask him what else he needs for his teams.  In the meantime, we can provide a few backpacks to get them started.  Could you find five backpacks to give to the initial team?
+</td>
+<td>Bring back 5 Backpack. Only generic backpacks are accepted.
+</td></tr>
+<tr>
+<th>Find a copy of Homebrewer's Bible
+</th>
+<td>Foreman, after Gather 5 Backpacks is completed
+</td>
+<td>Growth has lately begun to stall.  We have individuals passing through the outpost, but the prospect of hard labor just to eke out an existence is driving them away.  We've asked around and decided that, despite our pressing needs, building a bar ought to draw some of the less committed individuals to the outpost.  Unlike other settlements, the more hands we have, the more food we can produce… at least in the long term.  Unfortunately, no one here has brewed alcoholic drinks before, so we are going to need you to find a book called the 'Homebrewer's Bible' or something along those lines.
+</td>
+<td>Bring back the book "The Homebrewer's Bible".
+</td></tr>
+<tr>
+<th>Gather 80 Sugar
+</th>
+<td>Foreman, after Find a copy of Homebrewer's Bible is completed
+</td>
+<td>Just flipping through the book, I can tell that one ingredient in most of the alcoholic drinks that we don't have a large supply of is sugar.  What alcohol we have been able to loot isn't going to last us long, so starting our first large batch is a priority.  Could you bring in 80 units of sugar?  That should last us until we can start producing our own supply.
+</td>
+<td>Bring back 80 Sugar.
+</td></tr>
+<tr>
+<th>Collect 30 Glass Sheets
+</th>
+<td>Foreman, after Gather 80 Sugar is completed
+</td>
+<td>Although we are an agricultural outpost, we are restricted to growing plants that are compatible with the New England climate during the warmer months.  The easiest way to work around that is to build greenhouses to supplement our external fields.  There isn't going to be an easy way to build these.  We are going to need a massive number of glass sheets to enclose the frames.  The first house will need 30 sheets of glass if you are still interested.
+</td>
+<td>Bring back 30 Glass Sheet.
+</td></tr>
+<tr>
+<th>Collect 100 Aspirin
+</th>
+<td>Nurse
+</td>
+<td>I've got a handful of bandages and a few first aid kits to work with at the moment… in other words I'm completely unable to treat most serious medical emergencies.  I'm supposed to have priority on any medical supplies that the scavengers bring in, but I imagine the black market for the stuff will prevent me from ever seeing it.  I could use your help getting a few bottles of aspirin to start with.
+</td>
+<td>Bring back 100 Aspirin
+</td></tr>
+<tr>
+<th>Collect 3 Hotplates
+</th>
+<td>Nurse, after completing Collect 100 Aspirin
+</td>
+<td>I was given a few bottles of bleach when I arrived, but I need a number of hotplates to actually sterilize equipment.  I'm sure you can find them in any old house or appliance store.  Three should be enough for now.
+</td>
+<td>Bring back 3 Hot Plates
+</td></tr>
+<tr>
+<th>Collect 200 Multivitamin Pills
+</th>
+<td>Nurse, after completing Collect 3 Hotplates
+</td>
+<td>Disease is spreading rapidly due to poor nutrition and there is little that I can do about it.  With food being scarce, people are willing to survive on whatever they can.  I need to start supplementing the outpost's diet with vitamins to prevent potential deaths indirectly attributable to nutrition.  I know it is a lot, but if you could bring me 200 multivitamin pills, I'd be able to treat the most vulnerable before they spread anything to the rest of us.
+</td>
+<td>Bring back 200 Multivitamin
+</td></tr>
+<tr>
+<th>Make 4 Charcoal Purifiers
+</th>
+<td>Nurse, after completing Collect 200 Multivitamin Pills
+</td>
+<td>Despite my recommendations, we continue to have travelers come in with illnesses that I've been able to trace back to contaminated drinking water.  When boiling water isn't an option, they need some form of charcoal water filter that they can use.  If you could build me four charcoal water filters, I'll distribute them to groups as they pass through.
+</td>
+<td>Bring 4 Charcoal Water Purifier
+</td></tr>
+<tr>
+<th>Find a Chemistry Set
+</th>
+<td>Nurse, after completing Make 4 Charcoal Purifiers
+</td>
+<td>I've been working on producing some of our own medical supplies, but I'm going to need a chemistry set to get everything that I need in order.  Is there any way you could go through one of the school chemistry labs and steal me a chemistry set?"
+</td>
+<td>Bring back 1 Chemistry Set
+</td></tr>
+<tr>
+<th>Find 10 Filter Masks
+</th>
+<td>Nurse, after completing Find a Chemistry Set
+</td>
+<td>The number of airway infections that I've encountered in the past week has depleted my supply of masks.  Could you find me 10 filter masks?  I tend to only distribute them in severe cases, so I'll be sure to make them last.
+</td>
+<td>Bring back 10 Filter Masks
+</td></tr>
+<tr>
+<th>Find 4 Pairs of Rubber Gloves
+</th>
+<td>Nurse, after completing Find 10 Filter Masks
+</td>
+<td>The bodily fluids that I often have to clean up and the caustic chemicals I deal with have done a number on my current pair of gloves.  Could you find me four pairs of heavy rubber gloves?  That should be enough that I can task a few laborers with cleanup details in the event of an outbreak.
+</td>
+<td>Bring back 4 Rubber Gloves
+</td></tr>
+<tr>
+<th>Find 2 Scalpels
+</th>
+<td>Nurse, after Find 4 Pairs of Rubber Gloves
+</td>
+<td>I heard that we may have a physician on his way here.  The workers have already begun expanding the clinic, but I need you to locate a pair of scalpels to use in surgery when he arrives.  I'm sure you should be able to find them in a hospital or craft shop."
+</td>
+<td>Bring back 2 Scalpel
+</td></tr>
+<tr>
+<th>Find Advanced Emergency Care
+</th>
+<td>Nurse, after Find 2 Scalpels
+</td>
+<td>Have you heard of a book called the 'Guide to Advanced Emergency Care?'  I really need a copy.  The doctor is requesting a lot of supplies that I'm not familiar with, but I believe I could make if I could get a copy of the book.
+</td>
+<td>Bring back the book "Guide to Advanced Emergency Care".
+</td></tr>
+<tr>
+<th>Find 10 Syringes
+</th>
+<td>Nurse, after Find Advanced Emergency Care
+</td>
+<td>We are starting to isolate a few natural antibiotic serums, but we don't have the supplies to administer the cocktails.  I need you to bring me 10 empty syringes to use.  I'll take care of cleaning them to prevent transferring infections.
+</td>
+<td>Bring back 10 Syringe
+</td></tr>
+<tr>
+<th>Collect Office Supplies
+</th>
+<td>Doctor
+</td>
+<td>The doctor needs office supplies to keep track of medical records.  Bring them 10 Book binders and 500 paper.
+</td>
+<td>Bring back 10 Book Binder and 500 Paper.
+</td></tr>
+<tr>
+<th>A Crutch to Lean On
+</th>
+<td>Doctor, after Collect Office Supplies is completed.
+</td>
+<td>Bring the doctor some crutches.
+</td>
+<td>Bring back 1 Crutches
+</td></tr>
+<tr>
+<th>Find 5 Pairs of Medical Gloves
+</th>
+<td>Doctor, after A Crutch to Lean On is completed.
+</td>
+<td>Bring the doctor 5 pairs of medical gloves.
+</td>
+<td>Bring back 5 Medical Gloves
+</td></tr>
+<tr>
+<th>Anesthetic for the Doctor
+</th>
+<td>Doctor, after Find 5 Pairs of Medical Gloves is completed.
+</td>
+<td>I want to make sure we are setup to handle any major surgeries that come our way, but pain management is going to be an issue.  For longer surgeries, we're going to need some anesthetic.  Can you bring me 3000 units to start?  We're also going to need an anesthetic machine to deliver it.  Maybe some people around the commune can help with that?
+</td>
+<td>Ask the Scrapper and the Scavenger for help. Bring back 3000 units of Anesthetic.
+</td></tr>
+<tr>
+<th>Make 12 Simple Knife Spears
+</th>
+<td>Scavenger
+</td>
+<td>I can usually use additional survival gear to kit out the new recruits.  The most basic weapon that everyone gets is the simple knife spear… it provides a good mix of range, power, and ease of use when engaging the more common monsters.  Could you make me a dozen of them?  I may need more later, but that should help the first few teams.
+</td>
+<td>Bring back 12 Knife Spears.
+</td></tr>
+<tr>
+<th>Make 5 Headlamps
+</th>
+<td>Scavenger, after bringing knife spears
+</td>
+<td>Night is the ideal time for my team to go on raids, but they are going to need better light sources to speed up their missions.  Could you craft a set of five headlamps for them?  Keeping both hands free greatly helps during combat.
+</td>
+<td>Bring back 5 Headlamps.
+</td></tr>
+<tr>
+<th>Make 3 Leather Body Armor
+</th>
+<td>Scavenger, after bringing headlamps
+</td>
+<td>Clothing that can withstand the wear and tear of climbing through windows and fighting back wild animals is in high demand.  The best that we have been able to find is leather body armor, but it is difficult to make with our limited resources.  Could you craft us three pairs of leather body armor?  The life expectancy of my scavengers would drastically increase if you did.
+</td>
+<td>Bring back 3 Leather Body Armor
+</td></tr>
+<tr>
+<th>Make 12 Molotov Cocktails
+</th>
+<td>Scavenger, after bringing leather body armor
+</td>
+<td>When outnumbered or forced to pull back, my scavengers have been taught to throw Molotov cocktails to keep monsters from chasing them.  We go through one or two on every mission, so we can always use a few more.  Would you be willing to make us a dozen?  I'm willing to pay you what I can for your assistance.
+</td>
+<td>Bring back 12 Molotov Cocktail
+</td></tr>
+<tr>
+<th>Tools for Scrap
+</th>
+<td>Scrapper
+</td>
+<td>The scrapper is willing to part with some scrap to help build an anesthetic machine in exchange for an angle grinder and a hacksaw.
+</td>
+<td>Bring back an angle grinder and a hacksaw. Part of completing the mission Anesthetic for the Doctor.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Lumber_Mill_Missions">Lumber Mill Missions</span></h2>
+<p>Missions given at the Lumber Mill.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission Name
+</th>
+<th style="width: 20;">Mission Source
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Requirements
+</th></tr>
+<tr>
+<th>Find Drive Belts
+</th>
+<td>Logger Foreman
+</td>
+<td>Obtain 3 drive belts in exchange for credit with the loggers.
+</td>
+<td>Return with 3 Drive Belt.
+</td></tr>
+<tr>
+<th>Get 1,000 Nails
+</th>
+<td>Logger Foreman, after Find Drive Belts is completed
+</td>
+<td>Obtain 1,000 nails in exchange for credit with the loggers.
+</td>
+<td>Return with 1000 Nail.
+</td></tr>
+<tr>
+<th>Get 6,800 Nails
+</th>
+<td>Logger Foreman, after Get 1000 Nails is completed
+</td>
+<td>Obtain 6,800 nails in exchange for credit with the loggers.
+</td>
+<td>Return with 6800 Nail
+</td></tr>
+<tr>
+<th>Find 6 Blankets
+</th>
+<td>Logger Foreman, after Get 6800 Nails is completed
+</td>
+<td>Obtain 6 blankets or quilts in exchange for credit with the loggers.
+</td>
+<td>Get 6 of one of these items: Blanket, fur blanket, electric blanket, quilt, or patchwork quilt.
+</td></tr>
+<tr>
+<th>Establish A Trade Route
+</th>
+<td>Logger Foreman, after Find 6 Blankets is completed
+</td>
+<td>Establish trade relations between the loggers and a refugee center, and bring back a writ of the agreement.
+</td>
+<td>Follow the target on your map.
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Misc._NPC_Missions">Misc. NPC Missions</span></h2>
+<p>Missions given by NPCs found around the world.
+</p>
+<table class="wikitable" style="width: 100%;">
+<tbody><tr>
+<th style="width: 20;">Mission Name
+</th>
+<th style="width: 20;">Mission Source
+</th>
+<th style="width: 20;">Description
+</th>
+<th style="width: 20;">Requirements
+</th>
+<th style="width: 20;">Rewards
+</th></tr>
+<tr>
+<th>Find a Basic Analysis Kit
+</th>
+<td>Chemist 1
+</td>
+<td>I need a basic laboratory analysis kit.
+</td>
+<td>Return with a basic laboratory analysis kit.
+</td>
+<td>Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Find some Hydrochloric Acid
+</th>
+<td>Chemist 2
+</td>
+<td>Obtain 15 liters of hydrochloric acid for the chemist.
+</td>
+<td>Return with 60 units of hydrochloric acid.
+</td>
+<td>Relationship, trade, or training. Chemist will now sell to you.
+</td></tr>
+<tr>
+<th>Find some Gasoline
+</th>
+<td>Chemist 3
+</td>
+<td>Obtain 100 liters of gasoline for the chemist.
+</td>
+<td>Return with 500 units of gasoline.
+</td>
+<td>Relationship, trade, or training.
+</td></tr>
+<tr>
+<th>Establish a trade route
+</th>
+<td>Chemist 4
+</td>
+<td>Establish trade relations between the chemist and a refugee center, and bring back a writ of the agreement.
+</td>
+<td>Talk to the Teamster in the refugee center, and return with the writ.
+</td>
+<td>Relationship, trade, or training.
+</td></tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230519094721
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.046 seconds
+Real time usage: 0.054 seconds
+Preprocessor visited node count: 92/1000000
+Preprocessor generated node count: 630/1000000
+Post‐expand include size: 459/2097152 bytes
+Template argument size: 6/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   12.809      1 -total
+ 80.24%   10.278      1 Template:Ver
+ 18.55%    2.376      1 Template:Stub
+-->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Missions&amp;oldid=40796">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Missions&amp;oldid=40796</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:0.F_(Frank)" title="Category:0.F (Frank)">0.F (Frank)</a></li><li><a href="/cdda_wiki/index.php/Category:Stub" title="Category:Stub">Stub</a></li><li><a href="/cdda_wiki/index.php/Category:NPCs" title="Category:NPCs">NPCs</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Missions&amp;returntoquery=oldid%3D40796" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Missions&amp;returntoquery=oldid%3D40796" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Missions" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Missions&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Missions">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Missions&amp;action=edit&amp;oldid=40796" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Missions&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Missions" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Missions" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Missions&amp;oldid=40796&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Missions&amp;oldid=40796" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Missions&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.046","walltime":"0.054","ppvisitednodes":{"value":92,"limit":1000000},"ppgeneratednodes":{"value":630,"limit":1000000},"postexpandincludesize":{"value":459,"limit":2097152},"templateargumentsize":{"value":6,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   12.809      1 -total"," 80.24%   10.278      1 Template:Ver"," 18.55%    2.376      1 Template:Stub"]},"cachereport":{"timestamp":"20230519094721","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":130});});</script>
+</body>
+</html>

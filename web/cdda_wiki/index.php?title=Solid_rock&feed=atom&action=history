@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Solid_rock&amp;feed=atom&amp;action=history</id>
+	<title>Solid rock - Revision history</title>
+	<link rel="self" type="application/atom+xml" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Solid_rock&amp;feed=atom&amp;action=history"/>
+	<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Solid_rock&amp;action=history"/>
+	<updated>2022-07-02T00:07:05Z</updated>
+	<subtitle>Revision history for this page on the wiki</subtitle>
+	<generator>MediaWiki 1.33.1</generator>
+	<entry>
+		<id>http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Solid_rock&amp;diff=3053&amp;oldid=prev</id>
+		<title>BMacZero: (BOT) Creating new page with basic data from 'Terrain types'.</title>
+		<link rel="alternate" type="text/html" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Solid_rock&amp;diff=3053&amp;oldid=prev"/>
+		<updated>2013-05-19T08:18:26Z</updated>
+
+		<summary type="html">&lt;p&gt;(BOT) Creating new page with basic data from &amp;#039;Terrain types&amp;#039;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New page&lt;/b&gt;&lt;/p&gt;&lt;div&gt;{{Terrain&lt;br /&gt;
+ |name=solid rock&lt;br /&gt;
+ |glyph=&amp;lt;nowiki&amp;gt;#&amp;lt;/nowiki&amp;gt;&lt;br /&gt;
+ |color=c_white&lt;br /&gt;
+ |movement=0&lt;br /&gt;
+ |trap=tr_null&lt;br /&gt;
+ |action=none&lt;br /&gt;
+ |flags=noitem supports_roof&lt;br /&gt;
+}}&lt;br /&gt;
+&lt;br /&gt;
+[[Category:Terrain]]&lt;/div&gt;</summary>
+		<author><name>BMacZero</name></author>
+		
+	</entry>
+</feed>

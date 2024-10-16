@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Gameplay Mods - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gameplay_Mods","wgTitle":"Gameplay Mods","wgCurRevisionId":40559,"wgRevisionId":0,"wgArticleId":9485,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gameplay_Mods","wgRelevantArticleId":9485,"wgRequestId":"ZHOAWBXJXjwNwQWAaYQObwAAANs","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gameplay_Mods rootpage-Gameplay_Mods skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Gameplay Mods</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">The base game comes with various mods that change the behaviour of the game. Most of the mods are pretty straightforward and the ingame documentation will describe what it does. But we still have a place on the wiki for various mods.
+
+== Mods which are included on the wiki ==
+
+This does not mean that all the information of the mod is listed on the wiki, just that we have some information on the mod. It might be out of date, or very incomplete. As always, if you can help us out with more information about the mod, please do.
+
+* [[:category:Crazy Cataclysm Mod|Crazy Cataclysm]] - included with base game
+* [[:category:Folding Parts pack|Folding Parts pack]] - obsolete, merged into vanilla (with some exceptions)
+* [[:category:Vehicle Additions Pack|Vehicle Additions Pack]] - obsolete
+* [[:category:Generic Guns|Generic Guns]] - included with base game
+* [[:category:Magiclysm|Magiclysm]] - included with base game (added in {{inlineVer|0.E}}).
+* [[:category:Aftershock|Aftershock]] - included with base game
+* [[:category:Xedra Evolved|Xedra Evolved]] - included with base game.
+* [[:category:Mythical Martial Arts|Mythical Martial Arts]] - included with base game
+* [[:category:Pisskop's Rebalancing Mod|PKs Rebalancing Mod]] -  out of date (last updated 2018)
+* [[:category:Arcana and Magic Items mod|Arcana and Magic Items]]
+
+== Obsolete mods ==
+
+Some mods are listed as obsolete in the game, and cannot be used while playing. The reasons they are obsolete is probably because they are no longer maintained by anybody, and nobody has stepped up trying to keep them up to date.
+
+If you want to continue playing with mods that have been obsoleted, you need to go into data/mods and find the specific folder for the mod you want to edit, edit modinfo.json, and just remove the line for "Obsolete: true"
+
+(See [[Mods status|this table]] to know which mods are obsolete, this will be out of date in the future so don't trust it 100%)
+
+Keep in mind any bugs you experience from this will not be accepted on the issue page as these mods are obsolete, and they will be removed if they do not find a maintainer so back it up if you really like these mods.
+
+== Externally hosted mods==
+
+'''''''WARNING'''' These mods are hosted externally and the wiki is not responsible for wrong information or malicious content on these pages. Always be careful installing third party content. Don't blame us if something from these links breaks your saves, doesn't work, or steals all your bitcoins. You have been warned!'''
+
+Parts of this are from the [https://github.com/Positronic-Girl/Cata-Mods Positronic-Girl's - Cata-Mods modlist], go to this github page for a more up to date list.
+
+'''''''COGNITOHAZARD WARNING '''' No idea what kind of content goes into all of these mods, expect them to be NSFW, or even not safe at all.'''
+
+=== Tilesets ===
+
+* [https://github.com/I-am-Erk/CDDA-Tilesets/ UltiCa, community made Tileset] - being tested in {{inlineVer|0.E}}. You can join [https://discordapp.com/invite/kAXNZuy the discord] if you want to help develop it.
+* [https://github.com/jmz-b/UndeadPeopleTileset MSX UNDEAD PEOPLE Tileset] ([https://github.com/chaosvolt/Cata-MSX-DeadPeopleTileset-Backup another backup]) - Was MSX DEAD PEOPLE tileset.
+**[https://github.com/Theawesomeboophis/UndeadPeopleTileset Currently maintained fork of MSX Undead People.]
+** [https://github.com/Zetsukaze/Zets-Hair-Extensions Zetsukaze's Hair Extensions] - Colored hair for DeadPeopleTileset
+** [https://github.com/Zupercharged/CDDA-Alternate-ear-graphics Alternate Ear Graphics] - Retextured ear mutations for DeadPeopleTileset
+* [https://onedrive.live.com/?authkey=%21AGGg170ZwsbsiuE&amp;cid=35929F9806548B05&amp;id=35929F9806548B05%21973649&amp;parId=root&amp;action=locate Chesthole32] - Updated to December 2020.
+
+=== Content ===
+
+* [https://github.com/chaosvolt/ Chaosvolt]
+**[https://github.com/chaosvolt/cdda-arcana-mod Arcana and Magic Items] - Adds magic and magical items.
+**[https://github.com/chaosvolt/Dorf-Life-CDDA Dorf Life] - Adds caverns branching from subway tunnels
+**[https://github.com/chaosvolt/MST_Extra_Mod More Survival Tools Extra] - A mod that is a continuation of More Survival Tools. Adds assorted additional content and changes that improve quality of life when playing innawoods, adding various interesting ideas variously thought up or suggested to Chaosvolt.
+** [https://github.com/chaosvolt/cdda_medieval_mod_reborn Continuation of Medieval mod]
+** [https://github.com/chaosvolt/cdda-stamina-regen-buff Balance mod made to buff stamina regeneration]
+** [https://github.com/chaosvolt/cdda-tankmod-revived-mod Updated Tank Mod]
+** [https://github.com/chaosvolt/cdda-fewer-farms-mod Fewer Farms Mod]
+** [https://github.com/chaosvolt/CDDA_Nonperishable_Overhaul Non-perishables overhaul]
+
+* [https://github.com/Noctifer-de-Mortem Noctifer]
+**[https://github.com/Noctifer-de-Mortem/nocts_cata_mod Cata++] - Adds a lot of content to the game. It adds new items, buildings, scenarios, monsters, etc. It also reworks and adds alternatives to many things from recipes to scenarios. It also adds a pseudo-story and lore on the works.
+
+* [https://github.com/eilaattwood Eilaattwood]
+** [https://github.com/eilaattwood/EngineeringEssentials Engineering Essentials by Eilaattwood]
+
+* [https://github.com/DangerNoodle DangerNoodle]
+** [https://github.com/DangerNoodle/mining-mod Mining mod] - Adds mineral veins underground to obtain various resources
+
+* [https://github.com/pawnishoovy pawnishoovy]
+** [https://github.com/pawnishoovy/More-Survivor-Stuff More Survivor Stuff]
+
+* [https://github.com/RickyVanz RickyVanz]
+** [https://github.com/RickyVanz/Obscure-Armory Obscure Armory]
+
+* [https://github.com/dissociativity dissociativity]
+** [https://github.com/dissociativity/PKs_Rebalancing PK's Rebalance]  - Overhauls all the little things about C:DDA to make it a new experience while still using the old mechanics.
+
+* [https://github.com/Kenan2000 Kenan2000]
+** [https://github.com/Kenan2000/Secronom-Zombies Secronom Zombies] dreadful new zeds to spice up your world
+
+* [https://github.com/Archeon0716 Archeon0716]
+** [https://github.com/Archeon0716/Vampiric-Stuff Vampiric Stuff] vampire themed stuff with a twist
+
+* [https://discourse.cataclysmdda.org/u/Eirenex/summary Eirenex]
+** [https://discourse.cataclysmdda.org/t/pixels-various-fuckery/16642 Pixel's Various Fuckery] - Slightly risque items and mutations
+
+* [https://github.com/XAVIIIL XAVIIIL]
+** [https://github.com/XAVIIIL/Extended_freeform_mod Extended Freeform mod]
+
+* [https://github.com/EnviousBlade EnviousBlade]
+** [https://github.com/EnviousBlade/Pneumatic-Weapons Pneumatic weapons]
+
+* [https://github.com/Dueu Dueu]
+** [https://github.com/Dueu/Salvaged_Robots_mod_compilation Salvaged Robots Compilation]
+
+* [https://github.com/begginfokillz begginfokillz]
+** [https://github.com/begginfokillz/customBanditKingStartMod Custom Bandit King Start ]
+
+* [https://github.com/TheGoatGod TheGoatGod]
+** [https://github.com/TheGoatGod/Goats-Mod-Compilation Goat Mod Complilation]&lt;!--
+
+End of https://github.com/Positronic-Girl/Cata-Mods content.
+
+-->
+
+* [https://github.com/kettleswordfang Kettleswordfang]
+** [https://github.com/kettleswordfang/reapermod Reaper mod] - Adds a Shinigami / Grim Reaper martial style usable with all scythe weapons.
+
+* [https://github.com/TheMurderUnicorn TheMurderUnicorn]
+** [https://github.com/TheMurderUnicorn/PrepperCache Prepper Cache] - Small "prepper caches" of supplies
+
+* [https://github.com/DracoGriffin DracoGriffin]
+** [https://github.com/DracoGriffin/DG_Mods Draco's Dog Mod] - Dog training, armor, playing with pets.
+
+* [https://github.com/Trivega Trivega]
+** [https://github.com/Trivega/Extra-Scenarios-for-Cataclysm-DDA Extra Scenarios] - More starting scenarios
+
+* [https://discourse.cataclysmdda.org/u/PeevedPenguin Peeved Penguin] (Formerly "Peeved_Penguin" due to lost account credentials.)
+** [https://discourse.cataclysmdda.org/t/mutation-changes-mod/12362/66 Mutation Changes mod] - Changes for serums and mutagens for early/mid game stages. Tweaked and added new mutations
+* [https://github.com/NancokPS2/? Nancok]
+** [https://github.com/NancokPS2/MADA-Mod/? MADA Mod] - Rebalance for bows and crossbows  
+** [https://github.com/NancokPS2/Bat-Mutations/? Bat Mutations] - Adds a new mutation category and the appropriate mutagens.
+** [https://github.com/NancokPS2/Mole-Mutation/? Mole Mutations] - Adds a new mutation category and the appropriate mutagens.
+
+* [https://github.com/Mer1ck Mer1ck]
+** [https://github.com/Mer1ck/FoxMod-Revitalized Fox Mod] - Adds a new mutation category and a special mutagen. Requires Magiclysm.
+
+=== [[Soundpacks]] ===
+{{:Soundpacks}}
+
+== Deprecated/Out of date Mods ==
+
+These mods are no longer being updated and are out of date, use at your own risk.
+
+* [https://discourse.cataclysmdda.org/t/aggregates-mods/14741 Bootleg Walkers and more] - Mods to add robotic walkers, a weapon, and rebalance the Beta National Guard Camp
+* [https://github.com/Lorith/Shardstuff-CDDA-Mod] - XL vehicle parts, air raid siren, robot vision tweaks, mutitile curtains, foldable boom crane, gate controls more durable.
+* [https://github.com/Lorith/AdvancedGear-CDDA-Mod Shard's Unfinished Nanotech Mod]
+* [https://discourse.cataclysmdda.org/t/alec-whites-miscellanea-of-mods-now-with-small-shanty-districts/13726 Alec White's mods] - (drying racks, sewing machine, and others)
+* [https://github.com/Wulfle/Cataclysim-40K WH40k] - Adds elements and objects from the Warhammer 40k universe
+* [https://github.com/Broken-Admin/Cataclysm-DDA-Mods Broken-Admin's mods] - Assorted small content additions
+* [https://github.com/kettleswordfang/lightsabermod Lightsaber mod] - Adds the beam sword, a powerful and difficult to make endgame weapon made from a crystalized portal shard.
+* [https://github.com/Regularitee/Battle-Maid-Redux Battle Maid Redux]
+* [https://github.com/Toltetix/cdda-youkai-mod Youkai mod] - Adds new Japanese demon enemy faction
+* [https://github.com/YukariMindGap/Nechronica_Redux Nechronica] - Content based on the Nechronica tabletop game: "Adds professions, martial arts, monsters including a Queen Zombie, brings back boot sheaths(!!!), an undead mutation category - with dreams, CBMs one of which makes your arms and legs shoot off and attack the enemy, and lots more."
+* [https://discourse.cataclysmdda.org/t/anti-fungus-explosives/17248 Fungus Fight Kit] - Adds equipment to help fight fungus
+* [https://discourse.cataclysmdda.org/t/mod-that-adds-dried-fruits-raisins-and-such-update-02-12-19-now-smoking-rack-craftable-version/17506 Dried Fruits]
+* [https://discourse.cataclysmdda.org/t/armor-up-a-mod-to-make-armor-more-better-new-pa-utilities-pack/15449 Armor Up! PA Utility pack!] - More-powerful late game armor
+* [https://discourse.cataclysmdda.org/t/nimians-manufacture-weapons-mod/10031 Nimian's Manufacture] - A line of guns from a new gun manufacturer
+* [https://github.com/harison86/More_Armor More Armor]
+* [https://github.com/JebiBones/More_military More Military] - (more military professions)
+* [https://github.com/Poragon/No-Freeze Mod No Freeze Mod]
+* [https://github.com/Malkeus/Civilianpowerarmor Civilian power armor]
+* [https://github.com/Maddremor/cdda-tool-bundle Tool bundle]
+* [https://github.com/Lorith/Unnerf_Spears-CDDA-Mod Unnerf spears]
+
+=== Lua ===
+'''''*Warning*'' These mods no longer work in {{inlineVer|0.E}}. As LUA is no longer supported.'''
+
+All links with relation to LUA were moved to this section.
+
+* [https://discourse.cataclysmdda.org/t/cataclysm-dda-lua-updated-on-2017-11-29/14117 CDDA LUA mods] - (nationality, atomic flamethrower, earthquake generator, athletics, nightmares, and more)
+* [https://cdn.discordapp.com/attachments/252368751016542218/435760007028539393/Stats_Through_Killsv2.7z Stats Through Kills] - (A non lua version is now included in {{inlineVer|0.E}})
+* [https://cdn.discordapp.com/attachments/252368751016542218/467399000434409510/speedydex.7z SpeedyDex] - (Configurable dex-based speed bonus)
+* [http://chezzo.com/cdda/mods/ Misc Mods] - (Includes translated japanese mods such as the maid mod and buildable atm/recycler) 
+* [https://github.com/kettleswordfang/hacktheplanet Hacktheplanet] - (portable cash card combiner, make id cards) 
+* [https://github.com/kettleswordfang/gunslingermod Gunslinger mod] - (Broken as of last test)
+* [https://github.com/Regularitee/bookscanner Book Scanner]
+* [https://github.com/Regularitee/KawaiiMaidMod KawaiiMaidMod]
+* [https://translate.google.com/translate?hl=en&amp;sl=ja&amp;u=https://www57.atwiki.jp/cataclyj/&amp;prev=search(edited) Japanese mods] - translated via google translate
+
+== Forks ==
+
+C:DDA started out as a [https://en.wikipedia.org/wiki/Fork_(software_development) fork] of whalesdev's Cataclysm. Thus, it is no suprise that C:DDA has also been forked. Here are some of those forks; while this wiki is for C:DDA, a lot of the information will also apply to these forks:
+
+* [https://github.com/cataclysmbnteam/Cataclysm-BN/releases Cataclysm: Bright Nights] - A fork of Cataclysm: Dark Days Ahead which reverts some of the more controversial changes made to version 0.E in addition to adding some new content, including an ending.
+* [https://github.com/zaimoni/Cataclysm Cataclysm:Z] - (fork of the original Cataclysm)
+* [https://store.steampowered.com/app/1268900/Nearly_Dead/ Nearly dead] - Steam game massively inspired by C:DDA. Not a fork.
+* [https://github.com/stolencatkarma/CataclysmLD Cataclysm: Looming Darkness] - (Multiplayer rewrite)
+
+[[Category:Mods]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Soundpacks" title="Soundpacks">Soundpacks</a> (<a href="/cdda_wiki/index.php?title=Soundpacks&amp;action=edit" title="Soundpacks">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Gameplay_Mods">http://cddawiki.chezzo.com/cdda_wiki/index.php/Gameplay_Mods</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Gameplay+Mods&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Gameplay+Mods&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Gameplay_Mods" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Gameplay_Mods&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Gameplay_Mods">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Gameplay_Mods&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Gameplay_Mods&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Gameplay_Mods" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Gameplay_Mods" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Gameplay_Mods&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94});});</script>
+</body>
+</html>

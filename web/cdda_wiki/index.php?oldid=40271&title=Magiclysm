@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Magiclysm - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Magiclysm","wgTitle":"Magiclysm","wgCurRevisionId":40271,"wgRevisionId":40271,"wgArticleId":10888,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Magiclysm","0.E (Ellison)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Magiclysm","wgRelevantArticleId":10888,"wgRequestId":"ZeDRbR_UTu2lYMP1X9uh9AAAAMg","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Magiclysm rootpage-Magiclysm skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mod" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #669966; background:#996699; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; display: inline-block; background:#FFFFff; padding-left:3px; padding-right:3px;"><a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">Mod: </a><br /><abbr title="This page is about the following mod:"><a href="/cdda_wiki/index.php/Category:Magiclysm" title="Category:Magiclysm">Magiclysm</a></abbr></div></div></div>
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php/0.E_(Ellison)" title="0.E (Ellison)">0.E (Ellison)</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Magiclysm</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 12:43, 8 March 2022 by <a href="/cdda_wiki/index.php?title=User:Blue&amp;action=edit&amp;redlink=1" class="new mw-userlink" title="User:Blue (page does not exist)"><bdi>Blue</bdi></a> <span class="mw-usertoollinks">(<a href="/cdda_wiki/index.php?title=User_talk:Blue&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="User talk:Blue (page does not exist)">talk</a> | <a href="/cdda_wiki/index.php/Special:Contributions/Blue" class="mw-usertoollinks-contribs" title="Special:Contributions/Blue">contribs</a>)</span> <span class="comment">(Continuing edits)</span></div><div id="mw-revision-nav">(<a href="/cdda_wiki/index.php?title=Magiclysm&amp;diff=prev&amp;oldid=40271" title="Magiclysm">diff</a>) <a href="/cdda_wiki/index.php?title=Magiclysm&amp;direction=prev&amp;oldid=40271" title="Magiclysm">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Magiclysm is a in-progress <a href="/cdda_wiki/index.php/Gameplay_Mods" title="Gameplay Mods">mod</a> introduced in <a href="/cdda_wiki/index.php/0.E_(Ellison)" title="0.E (Ellison)">0.E (Ellison)</a>. It adds plenty of fantasy elements incompatible with the base game, such as a spell system and some <i>Dungeons and Dragons</i>-inspired monsters. Planned updates include the addition of supernatural dungeons filled with magical dangers, as well as loot.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Spell_System"><span class="tocnumber">1</span> <span class="toctext">Spell System</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Spell_Classes"><span class="tocnumber">1.1</span> <span class="toctext">Spell Classes</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Spells_By_Class"><span class="tocnumber">1.2</span> <span class="toctext">Spells By Class</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Classless"><span class="tocnumber">1.2.1</span> <span class="toctext">Classless</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Magus"><span class="tocnumber">1.2.2</span> <span class="toctext">Magus</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Animist"><span class="tocnumber">1.2.3</span> <span class="toctext">Animist</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Kelvinist"><span class="tocnumber">1.2.4</span> <span class="toctext">Kelvinist</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Stormshaper"><span class="tocnumber">1.2.5</span> <span class="toctext">Stormshaper</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Technomancer"><span class="tocnumber">1.2.6</span> <span class="toctext">Technomancer</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Earthshaper"><span class="tocnumber">1.2.7</span> <span class="toctext">Earthshaper</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Biomancer"><span class="tocnumber">1.2.8</span> <span class="toctext">Biomancer</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Druid"><span class="tocnumber">1.2.9</span> <span class="toctext">Druid</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Magiclysm_Monsters"><span class="tocnumber">2</span> <span class="toctext">Magiclysm Monsters</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Magiclysm_Craftables"><span class="tocnumber">3</span> <span class="toctext">Magiclysm Craftables</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Magiclysm_Spellbooks"><span class="tocnumber">4</span> <span class="toctext">Magiclysm Spellbooks</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Guides"><span class="tocnumber">5</span> <span class="toctext">Guides</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Spell_System">Spell System</span></h2>
+<p>Spells can be learned from spellbooks (see <a href="#Magiclysm_Spellbooks">below</a>), which have multiple spells, and scrolls, which have a single spell. (Scrolls are <b>NOT</b> single-use items.)
+</p><p>Studying spells raises the <a href="/cdda_wiki/index.php?title=Spellcraft&amp;action=edit&amp;redlink=1" class="new" title="Spellcraft (page does not exist)">Spellcraft</a> skill and gives experience to level the studied spell. Casting a spell awards experience towards leveling that spell. but doesn't raise the Spellcraft skill. Each spell level awards specific bonuses to that spell (such as extra damage, range, duration, area of effect, mana cost, etc.).
+</p><p>The Spellcraft skill is relevant for (magical) crafting and to reduce the chance of spellcasting failure.
+</p><p>Each spell has a set "difficulty", which is in its in-game description. The difficulty is important in determining the chance of spell failure and up to what level the Spellcraft skill can be trained by studying that spell.
+</p>
+<h3><span class="mw-headline" id="Spell_Classes">Spell Classes</span></h3>
+<p>Each spell in Magiclysm is associated with a particular class (except for a few classless spells), each of which represents a school of magic. There are eight classes in Magiclysm, consisting of four pairs of opposing classes. Aligning with one class prevents you from accessing spells from the opposing class.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Class
+</th>
+<th>Opposing Class
+</th></tr>
+<tr>
+<td>Kelvinist
+</td>
+<td>Stormshaper
+</td></tr>
+<tr>
+<td>Biomancer
+</td>
+<td>Druid
+</td></tr>
+<tr>
+<td>Earthshaper
+</td>
+<td>Technomancer
+</td></tr>
+<tr>
+<td>Animist
+</td>
+<td>Magus
+</td></tr></tbody></table>
+<p>Descriptions:
+</p>
+<ul><li><b>Magus</b>: "A tradition as old as magic, the magus focuses on binding and shaping the energy of the universe to their will."</li></ul>
+<ul><li><b>Animist</b>: "The animist tradition is a relatively new school of magical thought, formed through combination of many older ways that focus on harmony and connection to the natural world. This does not mean that animists are passive: the natural world is a savage place."</li></ul>
+<ul><li><b>Kelvinist</b>: "Disciples of the great Archwizard Lord Kelvin. Kelvinists focus their magic on manipulation and control of the temperature of their environment, leading to spectacularly powerful explosions or bone-chilling cold."</li></ul>
+<ul><li><b>Stormshaper</b>: "Stormshapers follow ancient arcane disciplines of meditation and harmony with the winds and tides that shape the planet. Through their deep connection to these forces, they can request powerful changes."</li></ul>
+<ul><li><b>Technomancer</b>: "Technomancers are the new breed of modern magician, blending their arcane might with their advanced knowledge of the fundamental nature of the universe. They use technology to enhance their magic and vice versa."</li></ul>
+<ul><li><b>Earthshaper</b>: "Earthshapers have allowed their minds to sink deep within the stones and metals of the planet, and become one with its secrets. To a master Earthshaper, spells can be as permanent as the stones they are created from, and time is measured in geological eras."</li></ul>
+<ul><li><b>Biomancer</b>: "The Biomancer focuses on manipulating and even absorbing flesh; their own, and that of other living or dead things. Most other wizards find their powers gross and disturbing, but no one can question the potency of their abilities, and certainly not their adaptability to any situation."</li></ul>
+<ul><li><b>Druid</b>: "Druids follow a wild tradition of allegiance and rebirth within the world of nature, especially the cycle of death and rebirth that is the plant world. A powerful druid is as much a part of that world as the human one."</li></ul>
+<h3><span class="mw-headline" id="Spells_By_Class">Spells By Class</span></h3>
+<p>Below is a list of spells for each class. (Some of these are only in <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>; it is not, however, a complete listing of spells in the newest version of Magiclysm.) Classless spells aren't associated with a class.
+</p>
+<h4><span class="mw-headline" id="Classless">Classless</span></h4>
+<p><a href="/cdda_wiki/index.php?title=Acid_Resistance&amp;action=edit&amp;redlink=1" class="new" title="Acid Resistance (page does not exist)">Acid Resistance</a><br />
+<a href="/cdda_wiki/index.php/Aura_of_Protection" title="Aura of Protection">Aura of Protection</a><br />
+<a href="/cdda_wiki/index.php/Blinding_Flash" title="Blinding Flash">Blinding Flash</a><br />
+<a href="/cdda_wiki/index.php/Crystallize_Mana" title="Crystallize Mana">Crystallize Mana</a><br />
+<a href="/cdda_wiki/index.php/Dark_Sight" title="Dark Sight">Dark Sight</a><br />
+<a href="/cdda_wiki/index.php/Ethereal_Grasp" title="Ethereal Grasp">Ethereal Grasp</a><br />
+<a href="/cdda_wiki/index.php?title=Greater_Acid_Resistance&amp;action=edit&amp;redlink=1" class="new" title="Greater Acid Resistance (page does not exist)">Greater Acid Resistance</a><br />
+<a href="/cdda_wiki/index.php/Magical_Light" title="Magical Light">Magical Light</a><br />
+<a href="/cdda_wiki/index.php?title=Megablast&amp;action=edit&amp;redlink=1" class="new" title="Megablast (page does not exist)">Megablast</a><br />
+<a href="/cdda_wiki/index.php/Obfuscated_Body" title="Obfuscated Body">Obfuscated Body</a><br />
+<a href="/cdda_wiki/index.php/Translocate_Self" title="Translocate Self">Translocate Self</a><br />
+</p>
+<h4><span class="mw-headline" id="Magus">Magus</span></h4>
+<p><a href="/cdda_wiki/index.php?title=Baleful_Polymorph&amp;action=edit&amp;redlink=1" class="new" title="Baleful Polymorph (page does not exist)">Baleful Polymorph</a><br />
+<a href="/cdda_wiki/index.php?title=Cat%27s_Grace&amp;action=edit&amp;redlink=1" class="new" title="Cat&#39;s Grace (page does not exist)">Cat's Grace</a><br />
+<a href="/cdda_wiki/index.php?title=Eagle%27s_Sight&amp;action=edit&amp;redlink=1" class="new" title="Eagle&#39;s Sight (page does not exist)">Eagle's Sight</a><br />
+<a href="/cdda_wiki/index.php?title=Escape&amp;action=edit&amp;redlink=1" class="new" title="Escape (page does not exist)">Escape</a><br />
+<a href="/cdda_wiki/index.php?title=Fox%27s_Cunning&amp;action=edit&amp;redlink=1" class="new" title="Fox&#39;s Cunning (page does not exist)">Fox's Cunning</a><br />
+<a href="/cdda_wiki/index.php?title=Gravity_Well&amp;action=edit&amp;redlink=1" class="new" title="Gravity Well (page does not exist)">Gravity Well</a><br />
+<a href="/cdda_wiki/index.php/Haste" title="Haste">Haste</a><br />
+<a href="/cdda_wiki/index.php?title=Jar_of_Force&amp;action=edit&amp;redlink=1" class="new" title="Jar of Force (page does not exist)">Jar of Force</a><br />
+<a href="/cdda_wiki/index.php?title=Impact_Sling&amp;action=edit&amp;redlink=1" class="new" title="Impact Sling (page does not exist)">Impact Sling</a><br />
+<a href="/cdda_wiki/index.php/Magic_Missile" title="Magic Missile">Magic Missile</a><br />
+<a href="/cdda_wiki/index.php/Magus_Rune" title="Magus Rune">Magus Rune</a><br />
+<a href="/cdda_wiki/index.php?title=Mana_Beam&amp;action=edit&amp;redlink=1" class="new" title="Mana Beam (page does not exist)">Mana Beam</a><br />
+<a href="/cdda_wiki/index.php/Mana_Blast" title="Mana Blast">Mana Blast</a><br />
+<a href="/cdda_wiki/index.php?title=Mana_Bolt&amp;action=edit&amp;redlink=1" class="new" title="Mana Bolt (page does not exist)">Mana Bolt</a><br />
+<a href="/cdda_wiki/index.php?title=Ogre%27s_Strength&amp;action=edit&amp;redlink=1" class="new" title="Ogre&#39;s Strength (page does not exist)">Ogre's Strength</a><br />
+<a href="/cdda_wiki/index.php/Phase_Door" title="Phase Door">Phase Door</a><br />
+<a href="/cdda_wiki/index.php/Shadow_Field" title="Shadow Field">Shadow Field</a> (just added to <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>)<br />
+</p>
+<h4><span class="mw-headline" id="Animist">Animist</span></h4>
+<p><a href="/cdda_wiki/index.php/Animist_Rune" title="Animist Rune">Animist Rune</a><br />
+<a href="/cdda_wiki/index.php/Bleed" title="Bleed">Bleed</a> (just added to <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>)<br />
+<a href="/cdda_wiki/index.php?title=Decaying_Boneclub&amp;action=edit&amp;redlink=1" class="new" title="Decaying Boneclub (page does not exist)">Decaying Boneclub</a><br />
+<a href="/cdda_wiki/index.php/Ignus_Fatuus" title="Ignus Fatuus">Ignus Fatuus</a><br />
+<a href="/cdda_wiki/index.php?title=Lesser_Banishment&amp;action=edit&amp;redlink=1" class="new" title="Lesser Banishment (page does not exist)">Lesser Banishment</a> (just added to <a href="/cdda_wiki/index.php/0.G_(Gaiman)" title="0.G (Gaiman)">0.G (Gaiman)</a><br />
+<a href="/cdda_wiki/index.php/Life_Conversion" title="Life Conversion">Life Conversion</a><br />
+<a href="/cdda_wiki/index.php/Mind_over_Pain" title="Mind over Pain">Mind over Pain</a><br />
+<a href="/cdda_wiki/index.php/Necrotic_Gaze" title="Necrotic Gaze">Necrotic Gaze</a><br />
+<a href="/cdda_wiki/index.php/Smite" title="Smite">Smite</a><br />
+<a href="/cdda_wiki/index.php/Soulrend" title="Soulrend">Soulrend</a><br />
+<a href="/cdda_wiki/index.php?title=Summon_Decayed_Pouncer&amp;action=edit&amp;redlink=1" class="new" title="Summon Decayed Pouncer (page does not exist)">Summon Decayed Pouncer</a><br />
+<a href="/cdda_wiki/index.php?title=Summon_Skeleton&amp;action=edit&amp;redlink=1" class="new" title="Summon Skeleton (page does not exist)">Summon Skeleton</a><br />
+<a href="/cdda_wiki/index.php?title=Summon_Zombie&amp;action=edit&amp;redlink=1" class="new" title="Summon Zombie (page does not exist)">Summon Zombie</a><br />
+</p>
+<h4><span class="mw-headline" id="Kelvinist">Kelvinist</span></h4>
+<p><a href="/cdda_wiki/index.php?title=Burning_Hands&amp;action=edit&amp;redlink=1" class="new" title="Burning Hands (page does not exist)">Burning Hands</a><br />
+<a href="/cdda_wiki/index.php/Chilling_Touch" title="Chilling Touch">Chilling Touch</a><br />
+<a href="/cdda_wiki/index.php?title=Cone_of_Cold&amp;action=edit&amp;redlink=1" class="new" title="Cone of Cold (page does not exist)">Cone of Cold</a><br />
+<a href="/cdda_wiki/index.php/Finger_Firelighter" title="Finger Firelighter">Finger Firelighter</a><br />
+<a href="/cdda_wiki/index.php/Fireball" title="Fireball">Fireball</a><br />
+<a href="/cdda_wiki/index.php?title=Flamebreath&amp;action=edit&amp;redlink=1" class="new" title="Flamebreath (page does not exist)">Flamebreath</a><br />
+<a href="/cdda_wiki/index.php?title=Flamesword&amp;action=edit&amp;redlink=1" class="new" title="Flamesword (page does not exist)">Flamesword</a><br />
+<a href="/cdda_wiki/index.php/Freezing_Touch" title="Freezing Touch">Freezing Touch</a> (just added to <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>)<br />
+<a href="/cdda_wiki/index.php?title=Frost_Armor&amp;action=edit&amp;redlink=1" class="new" title="Frost Armor (page does not exist)">Frost Armor</a><br />
+<a href="/cdda_wiki/index.php?title=Frost_Spray&amp;action=edit&amp;redlink=1" class="new" title="Frost Spray (page does not exist)">Frost Spray</a><br />
+<a href="/cdda_wiki/index.php?title=Glide_on_Ice&amp;action=edit&amp;redlink=1" class="new" title="Glide on Ice (page does not exist)">Glide on Ice</a><br />
+<a href="/cdda_wiki/index.php?title=Hoary_Blast&amp;action=edit&amp;redlink=1" class="new" title="Hoary Blast (page does not exist)">Hoary Blast</a><br />
+<a href="/cdda_wiki/index.php?title=Ice_Shield&amp;action=edit&amp;redlink=1" class="new" title="Ice Shield (page does not exist)">Ice Shield</a><br />
+<a href="/cdda_wiki/index.php?title=Ice_Spike&amp;action=edit&amp;redlink=1" class="new" title="Ice Spike (page does not exist)">Ice Spike</a><br />
+<a href="/cdda_wiki/index.php/Kelvinist_Rune" title="Kelvinist Rune">Kelvinist Rune</a><br />
+<a href="/cdda_wiki/index.php/Nova_Flare" title="Nova Flare">Nova Flare</a> (just added to <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>)<br />
+<a href="/cdda_wiki/index.php/Point_Flare" title="Point Flare">Point Flare</a><br />
+</p>
+<h4><span class="mw-headline" id="Stormshaper">Stormshaper</span></h4>
+<p><a href="/cdda_wiki/index.php?title=Call_Stormhammer&amp;action=edit&amp;redlink=1" class="new" title="Call Stormhammer (page does not exist)">Call Stormhammer</a><br />
+<a href="/cdda_wiki/index.php?title=Ionization&amp;action=edit&amp;redlink=1" class="new" title="Ionization (page does not exist)">Ionization</a><br />
+<a href="/cdda_wiki/index.php?title=Jolt&amp;action=edit&amp;redlink=1" class="new" title="Jolt (page does not exist)">Jolt</a><br />
+<a href="/cdda_wiki/index.php/Lightning_Blast" title="Lightning Blast">Lightning Blast</a><br />
+<a href="/cdda_wiki/index.php?title=Lightning_Bolt&amp;action=edit&amp;redlink=1" class="new" title="Lightning Bolt (page does not exist)">Lightning Bolt</a><br />
+<a href="/cdda_wiki/index.php?title=Lightning_Storm&amp;action=edit&amp;redlink=1" class="new" title="Lightning Storm (page does not exist)">Lightning Storm</a><br />
+<a href="/cdda_wiki/index.php?title=Repelling_Arc&amp;action=edit&amp;redlink=1" class="new" title="Repelling Arc (page does not exist)">Repelling Arc</a><br />
+<a href="/cdda_wiki/index.php/Shocking_Lash" title="Shocking Lash">Shocking Lash</a> (just added to <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>)<br />
+<a href="/cdda_wiki/index.php/Stormshaper_Rune" title="Stormshaper Rune">Stormshaper Rune</a><br />
+<a href="/cdda_wiki/index.php/Wall_of_Fog" title="Wall of Fog">Wall of Fog</a><br />
+<a href="/cdda_wiki/index.php?title=Windrunning&amp;action=edit&amp;redlink=1" class="new" title="Windrunning (page does not exist)">Windrunning</a><br />
+<a href="/cdda_wiki/index.php/Windstrike" title="Windstrike">Windstrike</a><br />
+</p>
+<h4><span class="mw-headline" id="Technomancer">Technomancer</span></h4>
+<p><a href="/cdda_wiki/index.php/Animated_Blade" title="Animated Blade">Animated Blade</a><br />
+<a href="/cdda_wiki/index.php/Bless" title="Bless">Bless</a><br />
+<a href="/cdda_wiki/index.php?title=Holographic_Transposition&amp;action=edit&amp;redlink=1" class="new" title="Holographic Transposition (page does not exist)">Holographic Transposition</a><br />
+<a href="/cdda_wiki/index.php?title=Holy_Blade&amp;action=edit&amp;redlink=1" class="new" title="Holy Blade (page does not exist)">Holy Blade</a><br />
+<a href="/cdda_wiki/index.php?title=Improved_Knock&amp;action=edit&amp;redlink=1" class="new" title="Improved Knock (page does not exist)">Improved Knock</a><br />
+<a href="/cdda_wiki/index.php/Invisibility" title="Invisibility">Invisibility</a><br />
+<a href="/cdda_wiki/index.php?title=Knifeshot&amp;action=edit&amp;redlink=1" class="new" title="Knifeshot (page does not exist)">Knifeshot</a><br />
+<a href="/cdda_wiki/index.php?title=Knifeshot_Superior&amp;action=edit&amp;redlink=1" class="new" title="Knifeshot Superior (page does not exist)">Knifeshot Superior</a><br />
+<a href="/cdda_wiki/index.php?title=Knock&amp;action=edit&amp;redlink=1" class="new" title="Knock (page does not exist)">Knock</a><br />
+<a href="/cdda_wiki/index.php/Lamp_(Magiclysm_spell)" title="Lamp (Magiclysm spell)">Lamp</a><br />
+<a href="/cdda_wiki/index.php?title=Laze&amp;action=edit&amp;redlink=1" class="new" title="Laze (page does not exist)">Laze</a><br />
+<a href="/cdda_wiki/index.php/Lesser_Quantum_Tunnel" title="Lesser Quantum Tunnel">Lesser Quantum Tunnel</a><br />
+<a href="/cdda_wiki/index.php?title=Manatricity&amp;action=edit&amp;redlink=1" class="new" title="Manatricity (page does not exist)">Manatricity</a><br />
+<a href="/cdda_wiki/index.php?title=Mirror_Image&amp;action=edit&amp;redlink=1" class="new" title="Mirror Image (page does not exist)">Mirror Image</a><br />
+<a href="/cdda_wiki/index.php?title=Optical_Sneeze_Beam&amp;action=edit&amp;redlink=1" class="new" title="Optical Sneeze Beam (page does not exist)">Optical Sneeze Beam</a><br />
+<a href="/cdda_wiki/index.php?title=Spiritual_Armor&amp;action=edit&amp;redlink=1" class="new" title="Spiritual Armor (page does not exist)">Spiritual Armor</a><br />
+<a href="/cdda_wiki/index.php?title=Summon_Floating_Disk&amp;action=edit&amp;redlink=1" class="new" title="Summon Floating Disk (page does not exist)">Summon Floating Disk</a><br />
+<a href="/cdda_wiki/index.php?title=Summon_Mojocycle&amp;action=edit&amp;redlink=1" class="new" title="Summon Mojocycle (page does not exist)">Summon Mojocycle</a><br />
+<a href="/cdda_wiki/index.php/Synaptic_Stimulation" title="Synaptic Stimulation">Synaptic Stimulation</a><br />
+<a href="/cdda_wiki/index.php/Taze" title="Taze">Taze</a><br />
+<a href="/cdda_wiki/index.php/Technomancer_Rune" title="Technomancer Rune">Technomancer Rune</a><br />
+<a href="/cdda_wiki/index.php?title=X-ray_Vision&amp;action=edit&amp;redlink=1" class="new" title="X-ray Vision (page does not exist)">X-ray Vision</a><br />
+</p>
+<h4><span class="mw-headline" id="Earthshaper">Earthshaper</span></h4>
+<p><a href="/cdda_wiki/index.php?title=Clairvoyance&amp;action=edit&amp;redlink=1" class="new" title="Clairvoyance (page does not exist)">Clairvoyance</a><br />
+<a href="/cdda_wiki/index.php/Earthshaper_Rune" title="Earthshaper Rune">Earthshaper Rune</a><br />
+<a href="/cdda_wiki/index.php?title=Lava_Bomb&amp;action=edit&amp;redlink=1" class="new" title="Lava Bomb (page does not exist)">Lava Bomb</a><br />
+<a href="/cdda_wiki/index.php?title=Move_Earth&amp;action=edit&amp;redlink=1" class="new" title="Move Earth (page does not exist)">Move Earth</a><br />
+<a href="/cdda_wiki/index.php?title=Piercing_Bolt&amp;action=edit&amp;redlink=1" class="new" title="Piercing Bolt (page does not exist)">Piercing Bolt</a><br />
+<a href="/cdda_wiki/index.php?title=Pillar_of_Stone&amp;action=edit&amp;redlink=1" class="new" title="Pillar of Stone (page does not exist)">Pillar of Stone</a><br />
+<a href="/cdda_wiki/index.php/Rockbolt" title="Rockbolt">Rockbolt</a><br />
+<a href="/cdda_wiki/index.php?title=Seismic_Stomp&amp;action=edit&amp;redlink=1" class="new" title="Seismic Stomp (page does not exist)">Seismic Stomp</a><br />
+<a href="/cdda_wiki/index.php?title=Shardstorm&amp;action=edit&amp;redlink=1" class="new" title="Shardstorm (page does not exist)">Shardstorm</a><br />
+<a href="/cdda_wiki/index.php?title=Shardspray&amp;action=edit&amp;redlink=1" class="new" title="Shardspray (page does not exist)">Shardspray</a><br />
+<a href="/cdda_wiki/index.php?title=Stonefist&amp;action=edit&amp;redlink=1" class="new" title="Stonefist (page does not exist)">Stonefist</a><br />
+<a href="/cdda_wiki/index.php?title=Stoneskin&amp;action=edit&amp;redlink=1" class="new" title="Stoneskin (page does not exist)">Stoneskin</a><br />
+<a href="/cdda_wiki/index.php?title=Stone%27s_Endurance&amp;action=edit&amp;redlink=1" class="new" title="Stone&#39;s Endurance (page does not exist)">Stone's Endurance</a><br />
+</p>
+<h4><span class="mw-headline" id="Biomancer">Biomancer</span></h4>
+<p><a href="/cdda_wiki/index.php/Acidic_Spray" title="Acidic Spray">Acidic Spray</a><br />
+<a href="/cdda_wiki/index.php/Biomancer_Rune" title="Biomancer Rune">Biomancer Rune</a><br />
+<a href="/cdda_wiki/index.php?title=Caustic_Aura&amp;action=edit&amp;redlink=1" class="new" title="Caustic Aura (page does not exist)">Caustic Aura</a><br />
+<a href="/cdda_wiki/index.php/Coagulant_Weave" title="Coagulant Weave">Coagulant Weave</a><br />
+<a href="/cdda_wiki/index.php?title=Conjure_Bonespear&amp;action=edit&amp;redlink=1" class="new" title="Conjure Bonespear (page does not exist)">Conjure Bonespear</a><br />
+<a href="/cdda_wiki/index.php/Cure_Light_Wounds" title="Cure Light Wounds">Cure Light Wounds</a><br />
+<a href="/cdda_wiki/index.php?title=Flesh_Pouch&amp;action=edit&amp;redlink=1" class="new" title="Flesh Pouch (page does not exist)">Flesh Pouch</a><br />
+<a href="/cdda_wiki/index.php/Grotesque_Enhancement" title="Grotesque Enhancement">Grotesque Enhancement</a><br />
+<a href="/cdda_wiki/index.php/Pain_Split" title="Pain Split">Pain Split</a><br />
+<a href="/cdda_wiki/index.php/Paralytic_Dart" title="Paralytic Dart">Paralytic Dart</a><br />
+<a href="/cdda_wiki/index.php?title=Vicious_Tentacle&amp;action=edit&amp;redlink=1" class="new" title="Vicious Tentacle (page does not exist)">Vicious Tentacle</a><br />
+<a href="/cdda_wiki/index.php/Visceral_Projection" title="Visceral Projection">Visceral Projection</a><br />
+</p>
+<h4><span class="mw-headline" id="Druid">Druid</span></h4>
+<p><a href="/cdda_wiki/index.php?title=Bag_of_Cats&amp;action=edit&amp;redlink=1" class="new" title="Bag of Cats (page does not exist)">Bag of Cats</a><br />
+<a href="/cdda_wiki/index.php?title=Cause_Bear&amp;action=edit&amp;redlink=1" class="new" title="Cause Bear (page does not exist)">Cause Bear</a><br />
+<a href="/cdda_wiki/index.php/Druid_Rune" title="Druid Rune">Druid Rune</a><br />
+<a href="/cdda_wiki/index.php?title=Feral_Form&amp;action=edit&amp;redlink=1" class="new" title="Feral Form (page does not exist)">Feral Form</a><br />
+<a href="/cdda_wiki/index.php?title=Kill_Fungus&amp;action=edit&amp;redlink=1" class="new" title="Kill Fungus (page does not exist)">Kill Fungus</a> (appears to lack scrolls or spellbooks)<br />
+<a href="/cdda_wiki/index.php?title=Nature%27s_Bow&amp;action=edit&amp;redlink=1" class="new" title="Nature&#39;s Bow (page does not exist)">Nature's Bow</a><br />
+<a href="/cdda_wiki/index.php?title=Nature%27s_Commune&amp;action=edit&amp;redlink=1" class="new" title="Nature&#39;s Commune (page does not exist)">Nature's Commune</a><br />
+<a href="/cdda_wiki/index.php/Nature%27s_Trance" title="Nature&#39;s Trance">Nature's Trance</a><br />
+<a href="/cdda_wiki/index.php?title=Purification_Seed&amp;action=edit&amp;redlink=1" class="new" title="Purification Seed (page does not exist)">Purification Seed</a><br />
+<a href="/cdda_wiki/index.php?title=Root_Strike&amp;action=edit&amp;redlink=1" class="new" title="Root Strike (page does not exist)">Root Strike</a><br />
+<a href="/cdda_wiki/index.php?title=Sacrificial_Healing&amp;action=edit&amp;redlink=1" class="new" title="Sacrificial Healing (page does not exist)">Sacrificial Healing</a><br />
+<a href="/cdda_wiki/index.php?title=Sacrificial_Regrowth&amp;action=edit&amp;redlink=1" class="new" title="Sacrificial Regrowth (page does not exist)">Sacrificial Regrowth</a><br />
+<a href="/cdda_wiki/index.php/Summon_Wolf" title="Summon Wolf">Summon Wolf</a> (just added to <a href="/cdda_wiki/index.php/0.F_(Frank)" title="0.F (Frank)">0.F (Frank)</a>)<br />
+<a href="/cdda_wiki/index.php?title=Tornskin&amp;action=edit&amp;redlink=1" class="new" title="Tornskin (page does not exist)">Tornskin</a><br />
+<a href="/cdda_wiki/index.php?title=Vegetative_Grasp&amp;action=edit&amp;redlink=1" class="new" title="Vegetative Grasp (page does not exist)">Vegetative Grasp</a><br />
+<a href="/cdda_wiki/index.php/Wooden_Shaft_(Magiclysm_spell)" title="Wooden Shaft (Magiclysm spell)">Wooden Shaft</a><br />
+</p>
+<h2><span class="mw-headline" id="Magiclysm_Monsters">Magiclysm Monsters</span></h2>
+<p>The Magiclysm mod brings some monsters: <a href="/cdda_wiki/index.php/Troll/Magiclysm" title="Troll/Magiclysm">Trolls</a>, <a href="/cdda_wiki/index.php/Golem/Magiclysm" title="Golem/Magiclysm">Golems</a>, <a href="/cdda_wiki/index.php/Demon_Spider/Magiclysm" title="Demon Spider/Magiclysm">Demon Spiders</a>, <a href="/cdda_wiki/index.php/Owlbear/Magiclysm" title="Owlbear/Magiclysm">Owlbears</a> and others.
+</p>
+<h2><span class="mw-headline" id="Magiclysm_Craftables">Magiclysm Craftables</span></h2>
+<p>The Magiclysm mod also adds some new options for crafting, such as potions, armor made from dragonhide, spell-class equipment (such as the <a href="/cdda_wiki/index.php?title=Druid_composite_bow&amp;action=edit&amp;redlink=1" class="new" title="Druid composite bow (page does not exist)">Druid composite bow</a> and <a href="/cdda_wiki/index.php?title=Technomancer_toolbar&amp;action=edit&amp;redlink=1" class="new" title="Technomancer toolbar (page does not exist)">Technomancer toolbar</a>) and more.
+</p>
+<h2><span class="mw-headline" id="Magiclysm_Spellbooks">Magiclysm Spellbooks</span></h2>
+<p><a href="/cdda_wiki/index.php/A_Beginners_Guide_to_Magic" title="A Beginners Guide to Magic">A Beginners Guide to Magic</a><br />
+<a href="/cdda_wiki/index.php/A_Technomancers_Guide_to_Debugging_C:DDA" title="A Technomancers Guide to Debugging C:DDA">A Technomancers Guide to Debugging C:DDA</a> (can only be obtained through debugging)<br />
+<a href="/cdda_wiki/index.php/A_Treatise_on_Magical_Elements" title="A Treatise on Magical Elements">A Treatise on Magical Elements</a><br />
+<a href="/cdda_wiki/index.php/An_Introduction_to_Applied_Meteorology" title="An Introduction to Applied Meteorology">An Introduction to Applied Meteorology</a><br />
+<a href="/cdda_wiki/index.php/Complete_Idiot%27s_Guide_to_Technomancy" title="Complete Idiot&#39;s Guide to Technomancy">Complete Idiot's Guide to Technomancy</a><br />
+<a href="/cdda_wiki/index.php/Geospatial_Systems:_The_Lie_Of_Linearity" title="Geospatial Systems: The Lie Of Linearity">Geospatial Systems: The Lie Of Linearity</a><br />
+<a href="/cdda_wiki/index.php?title=Fundamentals_of_Technomancy&amp;action=edit&amp;redlink=1" class="new" title="Fundamentals of Technomancy (page does not exist)">Fundamentals of Technomancy</a><br />
+<a href="/cdda_wiki/index.php/Introduction_to_the_Divine" title="Introduction to the Divine">Introduction to the Divine</a><br />
+<a href="/cdda_wiki/index.php/Necromantic_Minions_for_Dummies" title="Necromantic Minions for Dummies">Necromantic Minions for Dummies</a><br />
+<a href="/cdda_wiki/index.php?title=Nondescript_Spellbook&amp;action=edit&amp;redlink=1" class="new" title="Nondescript Spellbook (page does not exist)">Nondescript Spellbook</a><br />
+<a href="/cdda_wiki/index.php?title=Of_Light_and_Falsehoods&amp;action=edit&amp;redlink=1" class="new" title="Of Light and Falsehoods (page does not exist)">Of Light and Falsehoods</a><br />
+<a href="/cdda_wiki/index.php/Pyromancy_for_Heretics" title="Pyromancy for Heretics">Pyromancy for Heretics</a><br />
+<a href="/cdda_wiki/index.php?title=Runic_Tablet_shard&amp;action=edit&amp;redlink=1" class="new" title="Runic Tablet shard (page does not exist)">Runic Tablet shard</a><br />
+<a href="/cdda_wiki/index.php?title=Smudged_Scroll&amp;action=edit&amp;redlink=1" class="new" title="Smudged Scroll (page does not exist)">Smudged Scroll</a><br />
+<a href="/cdda_wiki/index.php?title=Technomancy_and_the_Electromagnetic_Spectrum&amp;action=edit&amp;redlink=1" class="new" title="Technomancy and the Electromagnetic Spectrum (page does not exist)">Technomancy and the Electromagnetic Spectrum</a><br />
+<a href="/cdda_wiki/index.php/The_Book_of_Trees" title="The Book of Trees">The Book of Trees</a><br />
+<a href="/cdda_wiki/index.php/The_Paladin%27s_Guide_to_Modern_Spellcasting" title="The Paladin&#39;s Guide to Modern Spellcasting">The Paladin's Guide to Modern Spellcasting</a><br />
+<a href="/cdda_wiki/index.php?title=The_Tome_of_Flesh&amp;action=edit&amp;redlink=1" class="new" title="The Tome of Flesh (page does not exist)">The Tome of Flesh</a><br />
+<a href="/cdda_wiki/index.php/The_Tome_of_Magical_Movement" title="The Tome of Magical Movement">The Tome of Magical Movement</a><br />
+<a href="/cdda_wiki/index.php?title=The_Tome_of_The_Battle_Mage&amp;action=edit&amp;redlink=1" class="new" title="The Tome of The Battle Mage (page does not exist)">The Tome of The Battle Mage</a><br />
+<a href="/cdda_wiki/index.php?title=The_Tome_of_the_Hollow_Earth&amp;action=edit&amp;redlink=1" class="new" title="The Tome of the Hollow Earth (page does not exist)">The Tome of the Hollow Earth</a><br />
+<a href="/cdda_wiki/index.php/The_Tome_of_The_Oncoming_Storm" title="The Tome of The Oncoming Storm">The Tome of The Oncoming Storm</a><br />
+<a href="/cdda_wiki/index.php?title=The_Utility_of_Mana_as_an_Energy_Source&amp;action=edit&amp;redlink=1" class="new" title="The Utility of Mana as an Energy Source (page does not exist)">The Utility of Mana as an Energy Source</a><br />
+<a href="/cdda_wiki/index.php?title=Transcendence_of_the_Human_Condition&amp;action=edit&amp;redlink=1" class="new" title="Transcendence of the Human Condition (page does not exist)">Transcendence of the Human Condition</a><br />
+<a href="/cdda_wiki/index.php?title=Winter%27s_Eternal_Grasp&amp;action=edit&amp;redlink=1" class="new" title="Winter&#39;s Eternal Grasp (page does not exist)">Winter's Eternal Grasp</a><br />
+<a href="/cdda_wiki/index.php/Wizarding_Guide_to_Backpacking" title="Wizarding Guide to Backpacking">Wizarding Guide to Backpacking</a><br />
+</p>
+<h2><span class="mw-headline" id="Guides">Guides</span></h2>
+<p><a href="/cdda_wiki/index.php/Magiclysm_:_How_to_be_a_great_magus" title="Magiclysm : How to be a great magus">Magiclysm : How to be a great magus</a>
+</p><p><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20240228234304
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.075 seconds
+Real time usage: 0.089 seconds
+Preprocessor visited node count: 337/1000000
+Preprocessor generated node count: 1403/1000000
+Post‐expand include size: 448/2097152 bytes
+Template argument size: 51/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   30.555      1 -total
+ 42.88%   13.102      1 Template:Mod
+ 28.20%    8.616      9 Template:InlineVer
+ 25.46%    7.779      1 Template:Ver
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:10888-0!canonical and timestamp 20240228234304 and revision id 40271
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Magiclysm&amp;oldid=40271">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Magiclysm&amp;oldid=40271</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:Magiclysm" title="Category:Magiclysm">Magiclysm</a></li><li><a href="/cdda_wiki/index.php/Category:0.E_(Ellison)" title="Category:0.E (Ellison)">0.E (Ellison)</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Magiclysm&amp;returntoquery=oldid%3D40271" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Magiclysm&amp;returntoquery=oldid%3D40271" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Magiclysm" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Magiclysm" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Magiclysm">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Magiclysm&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Magiclysm&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Magiclysm" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Magiclysm" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Magiclysm&amp;oldid=40271&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Magiclysm&amp;oldid=40271" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Magiclysm&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 March 2022, at 12:43.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.075","walltime":"0.089","ppvisitednodes":{"value":337,"limit":1000000},"ppgeneratednodes":{"value":1403,"limit":1000000},"postexpandincludesize":{"value":448,"limit":2097152},"templateargumentsize":{"value":51,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   30.555      1 -total"," 42.88%   13.102      1 Template:Mod"," 28.20%    8.616      9 Template:InlineVer"," 25.46%    7.779      1 Template:Ver"]},"cachereport":{"timestamp":"20240228234304","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":76});});</script>
+</body>
+</html>

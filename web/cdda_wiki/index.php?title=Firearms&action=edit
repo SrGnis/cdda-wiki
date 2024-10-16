@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Firearms - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Firearms","wgTitle":"Firearms","wgCurRevisionId":34508,"wgRevisionId":0,"wgArticleId":56,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Firearms","wgRelevantArticleId":56,"wgRequestId":"Yx_wnutRvKHd7_kmcLmtSQAAAOw","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Firearms rootpage-Firearms skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Firearms</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Firearms" title="Firearms">Firearms</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{Weapons}}
+{{header/ranged}}
+'''Firearms''' are divided into different types with each corresponding to a specific [[skill]] as well as the Firearms skill.  The categories are [[handguns]], [[shotguns]], [[submachine guns]], [[rifles]], launchers (includes [[grenade launchers]] and [[rocket launchers]]), and archery (includes [[bows]] and [[crossbows]]).
+
+The four first categories [[Firearms modifications|can be modified]]. The effectiveness of all firearms heavily depends on the type of the used [[ammunition]]. The amount of mods on a weapon is displayed in the weapons title as '+&lt;number of mods>'. An empty glock with a laser sight and a bayonet shows as {{igs|Glock 17+2 (0)|c_gray}}.
+
+Note that if you shoot through a tile with destructible items, it has a certain chance to destroy them.
+
+== Properties ==
+Each firearm has the following properties:
+
+*'''Damage Bonus'''*
+*'''AP Bonus'''*
+*'''Range Bonus'''*
+*'''[[Dispersion]]'''* indicates how accurate the fired ammunition is. Higher values mean it may drift off away from its target after being fired. 
+*'''Sight Dispersion''' similar to above, but only for firearms. 
+*'''Aim Speed''' cost of improving aim or amount of turns before acquiring a fully aimed shot 
+*'''Recoil Bonus'''*
+*'''Ammunition'''
+*'''Clip size'''
+* '''Reloading time''' of firearms is affected by skill level, each skill level adds 7.5% to bonus modifier. Maximal modifier is 75%. Resulting time cannot be lower than 25 [[moving points]], then hands [[encumberment]] penalty added. Reloading is interrupt able activity.
+** '''Unloading time''' is a half of reloading time, and full clip is unloaded in one action. Unloading is a non-interrupt able activity. You can {{k|shift + U}}nload weapons by standing next to them.
+
+Note that those marked with "*" are values which are summed up with respect to those of the ammunition used.
+
+=== Weapon Modifications ===
+
+A weapon can also have various weapon modification slots, such as {{igs|0/1|c_white}}{{igs| barrel|c_gray}}{{igs| 0/1|c_white}}{{igs| bore|c_gray}}{{igs| 0/1|c_white}}{{igs| grip|c_gray}}, etc. Modifications can be added to this location if they match the locations slot and the weapon type. So you cannot fit a rifle barrel on a pistols barrel slot. The amount of modifications of a weapon show up in the weapons name as a plus. For example: an glock with a laser sight, and extended magazine and a bayonet shows as {{igs|Glock 17+2 (30)|c_gray}}. The extended magazine does not count as a proper modification, it just adjusts the amount of ammo which can fit inside the weapon (in this case 30 rounds). An additional plus doesn't mean the weapon is magical and does additional damage.
+
+Add modifications by {{k|a}}ctivating the mod, remove mods by {{k|a}}ctiviating the modded weapon. There are skill requirements for adding and removing mods from weapons.
+
+== Aiming ==
+When aiming a firearm, the menu shows two main "Confidence" and "Steadiness" bars. The former reflects how well your character has aimed, thus max would mean they have done so to the best of their abilities while the latter is the chance to hit. Asterisks indicate headshot chance, pluses for good hits and dashes for regular.
+
+Various options are available rather than firing immediately (shooting from the hip). Pressing . allows you to pass turns while your confidence increases. Similarly "a", "c" and "p" indicate aimed shot, careful shot and precise shot and will spend an increasing amount of turns before firing.
+
+== Item Browser ==
+
+The [http://cdda-trunk.chezzo.com Item Browser] has an index of [http://cdda-trunk.chezzo.com/gun/archery Ranged weapons].
+
+== Color labeling ==
+
+Firearms can have various colors:
+* a {{igs|green firearm|c_green}} means the firearm has available ammo, or a filled clip/magazine, in inventory.
+* a {{igs|red firearm|c_red}} means the firearm has no filled clip/magazine, but there is an empty clip/magazine available in inventory.
+* a {{igs|gray firearm|c_gray}} no ammo or clip in inventory.
+
+The colors might slightly vary if the weapon accepts both loose cartridges and clips.
+
+=== Magazine color labeling ===
+* a {{igs|green magazine|c_green}} valid firearm in inventory, and valid ammo in inventory.
+* a {{igs|red magazine|c_red}} valid gun in inventory, or ammo in inventory but no gun.
+* a {{igs|gray magazine|c_gray}} no ammo for the magazine.
+
+=== Ammo color labeling ===
+* a {{igs|green ammo|c_green}} valid firearm in inventory.
+* a {{igs|red ammo|c_red}} valid magazine in inventory.
+* a {{igs|gray ammo|c_gray}} no clip or weapon for this ammo in inventory.
+
+== Repairing ==
+
+Damaged firearms can be repaired from one of the following items: inactive craftbuddy, gunsmith repair kit or the firearm repair kit.
+
+== Fouling ==
+
+In {{inlineVer|0.E}} weapons can build up {{igs|fouling|c_red}}, gunpowder residue builds up inside the barrel and mechanisms of the weapon which can cause malfunctions (causing damage to the gun) and reliability issues. Normally this shouldn't be a big problem as modern gunpowder doesn't leave much residue, the cataclysm hardly is a normal situation however. And anybody making gunpowder themselves can run into fouling issues.
+
+A gun with fouling on it has a {{igs|■|}} indication in front of the name, before the damage indicator (if any).
+
+Clean up fouling using a [[pipe cleaner]], a [[Firearm repair kit|firearm]] or [[Gunsmith repair kit|gunsmith repair kit]], and some cleaning liquids. Examine ({{K|i}}) your firearm in your inventory and select {{K|m}}end.
+
+
+{{ranged}}
+[[Category:Firearms]]
+[[Category:Weapons]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Colors" title="Template:Colors">Template:Colors</a> (<a href="/cdda_wiki/index.php?title=Template:Colors&amp;action=edit" title="Template:Colors">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Header/ranged" title="Template:Header/ranged">Template:Header/ranged</a> (<a href="/cdda_wiki/index.php?title=Template:Header/ranged&amp;action=edit" title="Template:Header/ranged">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Igs" class="mw-redirect" title="Template:Igs">Template:Igs</a> (<a href="/cdda_wiki/index.php?title=Template:Igs&amp;action=edit" class="mw-redirect" title="Template:Igs">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ingamestring" title="Template:Ingamestring">Template:Ingamestring</a> (<a href="/cdda_wiki/index.php?title=Template:Ingamestring&amp;action=edit" title="Template:Ingamestring">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:K" title="Template:K">Template:K</a> (<a href="/cdda_wiki/index.php?title=Template:K&amp;action=edit" title="Template:K">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ranged" title="Template:Ranged">Template:Ranged</a> (<a href="/cdda_wiki/index.php?title=Template:Ranged&amp;action=edit" title="Template:Ranged">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Sidebar" title="Template:Sidebar">Template:Sidebar</a> (<a href="/cdda_wiki/index.php?title=Template:Sidebar&amp;action=edit" title="Template:Sidebar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Sidebar/ranged" title="Template:Sidebar/ranged">Template:Sidebar/ranged</a> (<a href="/cdda_wiki/index.php?title=Template:Sidebar/ranged&amp;action=edit" title="Template:Sidebar/ranged">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Weapons" title="Template:Weapons">Template:Weapons</a> (<a href="/cdda_wiki/index.php?title=Template:Weapons&amp;action=edit" title="Template:Weapons">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Firearms" title="Firearms">Firearms</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Firearms">http://cddawiki.chezzo.com/cdda_wiki/index.php/Firearms</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Firearms&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Firearms&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Firearms" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Firearms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Firearms">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Firearms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Firearms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Firearms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Firearms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Firearms&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":483});});</script>
+</body>
+</html>

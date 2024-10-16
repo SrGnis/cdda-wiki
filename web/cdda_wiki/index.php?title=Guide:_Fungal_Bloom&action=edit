@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Guide: Fungal Bloom - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Guide:_Fungal_Bloom","wgTitle":"Guide: Fungal Bloom","wgCurRevisionId":39668,"wgRevisionId":0,"wgArticleId":399,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Guide:_Fungal_Bloom","wgRelevantArticleId":399,"wgRequestId":"ZBVXZYUy-OehYg7Jkz3SrAAAAH8","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Guide_Fungal_Bloom rootpage-Guide_Fungal_Bloom skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Guide: Fungal Bloom</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Guide: Fungal Bloom</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{stub|This guide is now extremely outdated, there are 2 new threats to deal with at a Fungal Bloom, this page needs to be more up to date with {{InlineVer|0.E}}.}}
+ '''Guide based on the 02Feb Bugfix version of Cataclysm DDA, with minor updates from {{InlineVer|0.5}}.'''
+ Some of the information present here might not apply to future versions.
+
+{{spoilers|Conversely, being killed out of nowhere can also ruin the joy of your adventure.  Reader discretion is expected.}}
+
+'''Fungal Blooms''' are areas where a possibly-alien fungus has taken over. (It may instead - or as well? - be a mutated [[wikipedia:Cordyceps|Cordyceps]] or similar.) {{spoiler|It's the former; see [[Guide: Mycus]].}} Given their rapid spread, these may be the single greatest long-term threat to any player camp/faction.
+
+More immediately, even one [[fungaloid]] can create a whole army of them, and they tend to travel in packs.  Cutting off the source is the only realistic long-term solution.
+
+You'll need to get in quick, strike hard, and then get back out quickly.
+
+==Preparation==
+This assumes that you know where the [[Fungal bloom|Bloom]] is located.  If you can't find something, you'll have trouble killing it.  [[Binoculars]], a [[rifle scope]], or various traits can help you reconnoiter more effectively, as can a vehicle.
+
+The fungus' primary threat is the spores its personnel give off: their [[Spores (disease)|Fungal Parasite]] can deal crippling damage to an unprepared player.  By comparison, the [[spore cloud]]s seen flying around are harmless--the most they can do is grow a [[Fungal sporeling]].  With this in mind, the first thing you'll need is a way to remove fungal infection...just in case.  The most obvious way would be [[Fungicide]] and [[Antifungal drug]]s, but the [[Bionics|Blood Filter]] bionic will also eliminate the parasite.
+
+Your barrier-method comes next: if the spores get on your skin they may get into your bloodstream.  Full coverage on every body part is recommended; something like a [[cleansuit]] would be ideal.
+
+OK, that's the infection sorted.  In order to successfully assault the Fungal Bloom, you'll need:
+
+* A way to destroy the heavily armored Fungal Spire.  Incendiaries don't affect the Spire itself, as the core fungus is functionally indistinguishable from rock and effectively fireproof.  High-powered explosives--[[dynamite]] &amp; up--are one option.  If you're a melee fighter, you need a good way to stun the spire or the walls will respawn and push you away. The most practical solution, though, may well be a simple high-powered rifle and a load or two of ammunition: the Spire is surprisingly vulnerable to bullets if you keep your head and shoot quickly and effectively.
+
+* A crowd-control solution.  Despite its inefficiency at killing the Spire, fire works wonders on the rest of the fungus.  You can get away with a simple [[lighter]] applied in a few key spots, if you don't mind walking into the bloom, lighting it, standing off, and waiting an hour or so for the flames to get going.  A [[Molotov cocktail|Molotov]] or three can be handy against crowds, as will any sort of [[flamethrower]]. ''Important safety tip: Flamethrowers shoot a 3x3 (9-square) fireball centered on the square you targeted, with a trail leading back to you.  DO NOT aim them at a square adjacent to you!''
+
+* A way to quickly get to/from the target area.  Even a Bicycle lets you move your gear to a good jump-off point for the actual assault.  Maneuverable vehicles like a Motorcycle or Quad could be used, in conjunction with [[grenade]]s or other such weapons, for bombing runs on the Bloom itself, thought their noise might draw even more fungal opposition to the area.
+
+* Bear in mind that you'll be fighting while encumbered.  If you can take a day or two and practice fighting in your gear, that's probably time well spent, both for the experience in fighting and for you as the player.
+
+Some additional gear isn't strictly necessary, but it helps:
+
+* Bringing a [[fire extinguisher]] might not be a bad idea.  Though it won't help clear the fungus any, it's nice to be able to go attack the Spire once the flames die down, rather than waiting for the bloom to finish burning entirely.
+
+* If you can install [[Thermal Dissipation]] bionic, that's a good contingency-bionic.  Blood Analysis can tell you whether you've got a Fungal Parasite going, potentially saving your resources.
+
+* Extra food and water isn't a bad idea.  Fungal blooms can take a while to burn, and getting out may take longer than planned.  ([[Fungal sporeling]]s' [[plant marrow]] is Tainted, and the "fruit" of a Fungal Bloom isn't precisely safe to eat.)
+
+* If you're using a [[chainsaw]] or JHammer, best of luck with that and remember to bring spare gasoline.  Ditto for bionics and your fuel source.
+
+* If your plans involve a [[mininuke]], remember to pack [[Potassium iodide tablet]]s.  You may have to go through your handiwork and there's no sense in being unprepared.
+
+Once you've got your gear together, look at your map and decide how you want to go about the attack.  If you're a melee fighter, a clear road about 10-15 map squares from the Bloom may make a good jump-off point.  Vehicle-users will want to avoid Forests, but melee-users may prefer to have cover against [[fungal zombie]]s seeing their approach ([[fungaloid]]s are theoretically blind, though they can hear and smell.)  Since fungaloids' spawning tends to rapidly alter the situation, there's no need to account for everything--but at least know how you're going to get out once you've completed your objective.
+
+And as with all serious undertakings in Cataclysm, it's good form to go in Full, Slaked, reasonably well-rested, in good shape and free from pain.  Once you're satisfied, pack up and roll to your staging point.
+
+''Violent action ensues.''
+
+==The Hit==
+Melee-fighters may be able to do this entire op in one long siege.  Road-warriors and ranged-fighters may have to set up a parking/staging area and work from there, but don't go too far lest you break map-tracking.
+
+===Paving the way===
+Even if you're piloting one of those multi-V8 doommobiles, it's probably not a bad idea to torch the Bloom first.  Fungal terrain costs around 150-300 move points, which may make driving in it tricky.  Piles of ash left over after you burn the thing to the ground only cost 100.  (Besides, if this is your first Fungal Bloom, you owe it to yourself to at least try for a [[Marloss berry]].)  A covert approach shouldn't be too difficult if you keep in mind that fungaloids are blind: just keep moving, stay 10 or so tiles away, and they won't know you're there.
+
+Once you reach the Bloom, check for Marloss berries and if any are present in the first two or so outer layers, go for it.  Once you've got the berry/berries, STOP and decide where to send the Molotov or flamethrower shot:
+
+* If there's a large group of fungal troops near you, retreat and torch them once they're at least one tile away.  If any fire got on the fungal terrain, it'll spread, no worries--though feel free to help it along a little.
+
+* If the Fungal Spire is between you and the largest concentration of fungal troops, torch the Fungal Walls nearest the concentration.  The Walls will block a direct attack on the Spire anyway and you'll want to stop the mobile fungus from getting at you.
+
+Once you've started the fire, back off--sticking around risks both fire damage and continued fungaloid attacks.  You can safely give the Bloom a few map squares of distance if you'd like, but don't go too far, either--fire and critter HP-tracking only happen when you're around.  If you need to reload or get your vehicle into position, now's the time.
+
+===The Spire===
+Your previous work paved the Bloom and ensured that there's nothing of value left in that grid square.  Now, you'll need to get in there and do your damage--fast, since the Fungal Walls regenerate quite rapidly.  Bear in mind that the Spire has significant armor against both cutting &amp; bashing attacks, so an unassisted [[combat knife]]...literally isn't going to cut its walls, let alone the Spire itself.  This is why you brought that heavy-duty weapon along, whether it be a [[M320 launcher|grenade launcher]], the railgun, [[M72 LAW]] rockets--even a [[mininuke]] isn't overkill here.  Just do your damage quickly, since the Spire will continue to release spores and thus spawn fungaloids.
+
+===The Flight===
+Though killing the Fungal Spire will stop the continued spawn of fungaloids, those already present will probably have closed in.  Feel free to use additional flame shots where needed, but bear in mind that a typical human is faster than they are, so simply running can work if you've got the room.
+
+==The Payoff==
+Well, there's no artifact involved, but you helped make the world that much safer and may have picked up an [[Marloss Berry|exotic fruit]] or two in the bargain.  Betcha can't wait to try it...but you might do so a map square or two from base.
+
+{{Guides}}
+{{ver|0.5}}
+[[Category:Advanced guides]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:Guides" title="Template:Guides">Template:Guides</a> (<a href="/cdda_wiki/index.php?title=Template:Guides&amp;action=edit" title="Template:Guides">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Md" title="Template:Md">Template:Md</a> (<a href="/cdda_wiki/index.php?title=Template:Md&amp;action=edit" title="Template:Md">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/cdda_wiki/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/cdda_wiki/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoiler" title="Template:Spoiler">Template:Spoiler</a> (<a href="/cdda_wiki/index.php?title=Template:Spoiler&amp;action=edit" title="Template:Spoiler">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Spoilers" title="Template:Spoilers">Template:Spoilers</a> (<a href="/cdda_wiki/index.php?title=Template:Spoilers&amp;action=edit" title="Template:Spoilers">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Stub" title="Template:Stub">Template:Stub</a> (<a href="/cdda_wiki/index.php?title=Template:Stub&amp;action=edit" title="Template:Stub">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/cdda_wiki/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) </li><li><a href="/cdda_wiki/index.php/Template:Ver" title="Template:Ver">Template:Ver</a> (<a href="/cdda_wiki/index.php?title=Template:Ver&amp;action=edit" title="Template:Ver">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Guide: Fungal Bloom</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Guide:_Fungal_Bloom">http://cddawiki.chezzo.com/cdda_wiki/index.php/Guide:_Fungal_Bloom</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Guide%3A+Fungal+Bloom&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Guide%3A+Fungal+Bloom&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Guide:_Fungal_Bloom" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Guide:_Fungal_Bloom&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Guide:_Fungal_Bloom">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Guide:_Fungal_Bloom" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Guide:_Fungal_Bloom" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125});});</script>
+</body>
+</html>

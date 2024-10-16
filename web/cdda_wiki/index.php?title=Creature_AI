@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Creature AI - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Creature_AI","wgTitle":"Creature AI","wgCurRevisionId":39156,"wgRevisionId":39156,"wgArticleId":4227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unknown version","Technical"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Creature_AI","wgRelevantArticleId":4227,"wgRequestId":"YOqSpq51J89MXej1IJQFswAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Creature_AI rootpage-Creature_AI skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-ver" class="mw-indicator"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="/cdda_wiki/index.php?title=Category:Unknown_version" title="Category:Unknown version">Unknown version</a></abbr></div></div></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Creature AI</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><pre><b>Guide created using an unknown version of Cataclysm DDA.</b>
+The information present here might not apply to the current version of CDDA.
+</pre>
+<p><br />
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Action_order"><span class="tocnumber">1</span> <span class="toctext">Action order</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Planning"><span class="tocnumber">2</span> <span class="toctext">Planning</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Pathfinding"><span class="tocnumber">3</span> <span class="toctext">Pathfinding</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Stumbling"><span class="tocnumber">3.1</span> <span class="toctext">Stumbling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Attitude"><span class="tocnumber">4</span> <span class="toctext">Attitude</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Morale"><span class="tocnumber">4.1</span> <span class="toctext">Morale</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Aggressiveness_.28anger.29"><span class="tocnumber">4.2</span> <span class="toctext">Aggressiveness (anger)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Triggers"><span class="tocnumber">4.3</span> <span class="toctext">Triggers</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="Action_order">Action order</span></h1>
+<ul><li>Formulate a plan (find a path ending in some target). Can result in retaining old plans instead</li>
+<li>Use special abilities that aren't on cooldown (here some abilities check if they can be executed, so that stunned zombies won't bite)</li>
+<li>Possibly lose the turn due to:
+<ul><li>Lack of moves</li>
+<li>Stun (this time stumble before losing the turn)</li>
+<li>Being naturally immobile</li></ul></li>
+<li>Execute first action of plan (move/attack/bash)
+<ul><li>If no plan exists, try to find the player by <a href="/cdda_wiki/index.php?title=Scent" title="Scent">scent</a> instead</li>
+<li>If the scent is too weak, try to follow last heard sound</li></ul></li>
+<li>If no action was executed, stumble. Naturally stumbling monsters can stumble even after executing actions (potentially "jumping" a tile)</li></ul>
+<h1><span class="mw-headline" id="Planning">Planning</span></h1>
+<p>Planning involves iterating over all potentially hostile creatures and picking the closest hostile target. During this phase some anger/fear triggers (see below) are also processed.
+</p>
+<h1><span class="mw-headline" id="Pathfinding">Pathfinding</span></h1>
+<p>Currently only NPCs can find their path around obstacles. Zombies can exhibit a pathfinding-like behavior only by following player's scent.
+</p><p>Monsters will always go straight for a visible target or a heard sound (sound's perceived location is randomized). If the target is blocked (for example by wire fence), the monster may instead stumble and take a step in random direction.
+</p>
+<h2><span class="mw-headline" id="Stumbling">Stumbling</span></h2>
+<p>Stumbling is a semi-random move executed by stunned, badly coordinated, purposeless or otherwise confused monsters. Non-aquatic monsters will not stumble into water, but can stumble out of it or onto a dangerous/unfavorable terrain.
+</p><p>Naturally stumbling monsters (such as <a href="/cdda_wiki/index.php?title=Zombies" title="Zombies">Zombies</a>) will stop stumbling when their target is closer than 4 steps away from them (including when the target is a sound, not a seen creature).
+</p>
+<h1><span class="mw-headline" id="Attitude">Attitude</span></h1>
+<p>Monsters have two different sets of attitudes - one set to player and NPCs, the other to any creature.
+</p><p>Attitude to player and NPCs depends on monster's friendliness (currently binary - the creature is either on player's side or not) and morale and anger modified by target's traits (for example, <a href="/cdda_wiki/index.php?title=Terrifying" title="Terrifying">Terrifying</a> or <a href="/cdda_wiki/index.php?title=Animal_Empathy" title="Animal Empathy">Animal Empathy</a>).
+</p><p>Possible attitudes to players and NPCs are:
+</p>
+<ul><li>Friendly - will follow the player when there are no targets around. Can't be achieved with morale, anger and traits alone</li>
+<li>Ignore - not angry or scared enough to act yet</li>
+<li>Passive - can't get angry or scared enough to act (caused by docile state)</li>
+<li>Follow/stalk - not angry enough (or too scared) to attack yet, but will try to stay near the player</li>
+<li>Flee - will run from the nearest creature</li>
+<li>Enslaved - will follow the player, but ignore other creatures</li>
+<li>Hostile - angry enough to attack and not scared enough to stalk</li></ul>
+<p>Attitude to monsters depends on morale and anger and monster faction relations.
+</p><p>Possible attitudes to all creatures are:
+</p>
+<ul><li>Friendly - will ignore the target</li>
+<li>Neutral - either strictly neutral (won't ever get angry at it) or just too scared/not angry enough to act</li>
+<li>Hostile - will attack or flee from the target</li></ul>
+<h2><span class="mw-headline" id="Morale">Morale</span></h2>
+<p>Morale is monster's willingness to fight rather than flee. Many creatures have triggers that lower it ranging from being hurt to simply seeing a hostile being close by. Creatures such as <a href="/cdda_wiki/index.php?title=Zombie" title="Zombie">zombies</a> or <a href="/cdda_wiki/index.php?title=Robot&amp;action=edit&amp;redlink=1" class="new" title="Robot (page does not exist)">robots</a> tend to have constant morale.
+</p><p>Friendly monsters ignore morale stat and are always ready to fight.
+</p>
+<h2><span id="Aggressiveness_(anger)"></span><span class="mw-headline" id="Aggressiveness_.28anger.29">Aggressiveness (anger)</span></h2>
+<p>Aggressiveness or anger (aggressiveness generally refers to monster type, while anger refers to particular monster's current state) is monster's will to hurt non-friendly creatures. As with morale, creatures have anger triggers that make them more (or less) angry. <a href="/cdda_wiki/index.php?title=Zombie" title="Zombie">Zombies</a> (and similar) usually have constantly high anger, while animals tend to get angry when neutral or hostile creatures linger nearby.
+</p><p>Friendly monsters are always hostile towards non-friendly monsters.
+</p>
+<h2><span class="mw-headline" id="Triggers">Triggers</span></h2>
+<p>Triggers are events that change creature's morale or anger.
+</p><p>Triggers can be anger triggers (increase anger by stated number of points), fear triggers (decrease morale) and placate triggers (decrease anger).
+</p><p>Currently the following triggers are implemented:
+</p>
+<ul><li>Stalk - 1 in 20 chance of 1 point, but only if anger &gt; 0</li>
+<li>Hostile nearby - 5 points for every visible hostile or potentially hostile creature within 5 tiles</li>
+<li>Fire nearby - (5*strength) points for every fire (ie. 2 raging fires are 30) within 3 tiles and 49 for player with a torch within 3 tiles</li>
+<li>Hurt - 1 + (damage / 3) (round down) points when damaged</li>
+<li>Friend attacked - (bugged?) 15 points to every monster when a monster of this kind is attacked in melee</li>
+<li>Friend died - 15 points to every monster of same species that sees this monster die</li>
+<li>Sound - number of points equal to (volume - distance) or (2*volume - distance) for creatures with good hearing</li></ul>
+<p class="mw-empty-elt">
+</p>
+<table class="navbox" cellspacing="0" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+
+<tbody><tr>
+<th style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;" colspan="2" class="navbox-title"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="/cdda_wiki/index.php?title=Template:Guides" title="Template:Guides"><span title="View this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">v</span></a></li><li class="nv-talk"><a href="/cdda_wiki/index.php?title=Template_talk:Guides" title="Template talk:Guides"><span title="Discuss this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">t</span></a></li><li class="nv-edit"><a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit"><span title="Edit this template" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="/cdda_wiki/index.php?title=Category:Guides" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Skill_Training_Encyclopedia" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Choosing_Martial_Arts_Styles" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Example_Character_Builds" title="Example Character Builds">Example Character Builds</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=FAQ" title="FAQ">FAQ</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=The_First_Day" title="The First Day">The First Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Dynamic_Spawn_Mode" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_survive_your_first_day:_Static_Spawn_Mode" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Killing_zombies" title="Killing zombies">Killing zombies</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Scavenging" title="Scavenging">Scavenging</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Weapons_getting_stuck" title="Weapons getting stuck">Weapons getting stuck</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=A_Basic_Forging_Guide" title="A Basic Forging Guide">A Basic Forging Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Archer_Guide" title="Archer Guide">Archer Guide</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Beyond_the_first_day" title="Beyond the first day">Beyond the first day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Brewing" title="Brewing">Brewing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clothing_Encumbrance" title="Clothing Encumbrance">Clothing Encumbrance</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Farming" title="Farming">Farming</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Hunting" title="Hunting">Hunting</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Hobo%27s_Guide_to_the_Apocalypse" title="Hobo&#39;s Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Night_Raids:_Guide" title="Night Raids: Guide">Night Raids</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Power" title="Power">Power</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Recoil" title="Recoil">Recoil</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Woodland_Survival:_Guide" title="Woodland Survival: Guide">Woodland Survival</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Melee_Guide" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Category:Advanced_guides" title="Category:Advanced guides">Advanced</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Advanced_Character_Build_Tips" title="Advanced Character Build Tips">Advanced Character Build Tips</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Challenge-Really_Bad_Day" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Clearing_the_city" title="Clearing the city">Clearing the city</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Fungal_Bloom" title="Guide: Fungal Bloom">Fungal Bloom</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Lab_Challenge" title="Guide: Lab Challenge">Lab Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Broken_Cyborg" title="Guide: Broken Cyborg">Broken Cyborg</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Marloss_Berry" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="/cdda_wiki/index.php?title=Guide:_Mycus" title="Guide: Mycus">Mycus</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Mine" title="Guide: Mine">Mine</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Nudist_Challenge" title="Guide: Nudist Challenge">Nudist Challenge</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Strange_Temple" title="Guide: Strange Temple">Strange Temple</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_Triffid_Grove" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Vehicles" title="Vehicles">Vehicles</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Driving" title="Driving">Driving</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Engines" title="Engines">Engines</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_a_Supercar:_Guide" title="Making a Supercar: Guide">Making a Supercar</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer" title="(DRbiG&#39;s) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_construction" title="Vehicle construction">Vehicle construction</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_modifications" title="Vehicle modifications">Vehicle modifications</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_parts" title="Vehicle parts">Vehicle parts</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Vehicle_repairs" title="Vehicle repairs">Vehicle repairs</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Making_your_first_vehicle_(The_humble_bicycle)" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-odd"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=Guide:_Seeker_of_the_Arcane" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Guide:_How_to_make_a_basic_slime_vehicle" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a>  &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Magiclysm_:_How_to_be_a_great_magus" title="Magiclysm : How to be a great magus">Magiclysm : How to be a great magus</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="/cdda_wiki/index.php?title=Technical" class="mw-redirect" title="Technical">Technical</a>
+</td>
+<td style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;" class="navbox-list navbox-even"><div style="padding:0em 0.25em">
+<a href="/cdda_wiki/index.php?title=CataModder" title="CataModder">CataModder</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Cheating" title="Cheating">Cheating</a> &#160;<span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">Creature AI</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_compile" title="How to compile">How to compile</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=How_to_search_the_sources" title="How to search the sources">How to search the sources</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Mod_manager" title="Mod manager">Mod Manager</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Gameplay_Mods" title="Gameplay Mods">Gameplay Mods</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Savegame_Editing" title="Savegame Editing">Savegame Editing</a> &#160;<span style="font-weight:bold;">·</span> <a href="/cdda_wiki/index.php?title=Tileset_Support" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20210710203826
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.095 seconds
+Real time usage: 0.122 seconds
+Preprocessor visited node count: 659/1000000
+Preprocessor generated node count: 9641/1000000
+Post‐expand include size: 31249/2097152 bytes
+Template argument size: 13882/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   71.172      1 -total
+ 65.92%   46.914      1 Template:Guides
+ 56.90%   40.498      1 Template:Navbox
+ 33.64%   23.944      1 Template:Ver
+ 12.23%    8.703      1 Template:Navbar
+  5.94%    4.225      3 Template:Transclude
+  4.05%    2.883     49 Template:Md
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:4227-0!canonical and timestamp 20210710203825 and revision id 39156
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Creature_AI&amp;oldid=39156">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Creature_AI&amp;oldid=39156</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:Unknown_version" title="Category:Unknown version">Unknown version</a></li><li><a href="/cdda_wiki/index.php?title=Category:Technical" title="Category:Technical">Technical</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Creature+AI" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Creature+AI" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Creature_AI" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Creature_AI&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Creature_AI">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Creature_AI&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Creature_AI&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Creature_AI" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Creature_AI" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Creature_AI&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Creature_AI&amp;oldid=39156" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Creature_AI&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 February 2021, at 19:14.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" class="mw-redirect" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.095","walltime":"0.122","ppvisitednodes":{"value":659,"limit":1000000},"ppgeneratednodes":{"value":9641,"limit":1000000},"postexpandincludesize":{"value":31249,"limit":2097152},"templateargumentsize":{"value":13882,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   71.172      1 -total"," 65.92%   46.914      1 Template:Guides"," 56.90%   40.498      1 Template:Navbox"," 33.64%   23.944      1 Template:Ver"," 12.23%    8.703      1 Template:Navbar","  5.94%    4.225      3 Template:Transclude","  4.05%    2.883     49 Template:Md"]},"cachereport":{"timestamp":"20210710203826","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":281});});</script>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nicotine - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nicotine","wgTitle":"Nicotine","wgCurRevisionId":33997,"wgRevisionId":33997,"wgArticleId":1960,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Effects"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nicotine","wgRelevantArticleId":1960,"wgRequestId":"X6yX6TexzAzyErqb-7pKpwAAAh4","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nicotine rootpage-Nicotine skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nicotine</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a class="mw-selflink selflink">Nicotine</a> is a <a href="/cdda_wiki/index.php?title=Effects" title="Effects">status effect</a> that is given for 200 turns per <a href="/cdda_wiki/index.php?title=Cigarette" class="mw-redirect" title="Cigarette">cigarette</a> or <a href="/cdda_wiki/index.php?title=Cigar" class="mw-redirect" title="Cigar">cigar</a> taken.
+</p><p>If duration is lower than 600, then dexterity, intellect, and perception will be increased by 1.
+</p><p>In any other case (there will be related message), strength and dexterity are decreased by 1. If duration is equal to 1200 turns or longer, there is 2% chance to vomit per turn (+3% with the <a href="/cdda_wiki/index.php?title=Traits#Weak_Stomach" title="Traits">Weak Stomach</a> trait and +5% with the <a href="/cdda_wiki/index.php?title=Mutation#Nausea" title="Mutation">Nausea</a> trait).
+</p><p>Nicotine can be detected by <a href="/cdda_wiki/index.php?title=Blood_Analysis" title="Blood Analysis">Blood Analysis</a> and removed by <a href="/cdda_wiki/index.php?title=Blood_Filter" title="Blood Filter">Blood Filter</a> bionics.
+</p><p><br />
+</p>
+<table style="clear: both; margin: 0 auto; width: 100%; font-size: 100%" class="toccolours">
+<tbody><tr>
+<th colspan="2" style="background: #430950"><a href="/cdda_wiki/index.php?title=Effects" title="Effects"><span style="color: #afff90">Various status effects</span></a>
+</th></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Weather
+</th>
+<td><a href="/cdda_wiki/index.php?title=Body_temperature#Body_temperature_problems" title="Body temperature">Body temperature problems</a> · <a href="/cdda_wiki/index.php?title=Glare" title="Glare">Glare</a> · <a href="/cdda_wiki/index.php?title=Wet" title="Wet">Wet</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Mobility
+</th>
+<td><a href="/cdda_wiki/index.php?title=Bear_trap" title="Bear trap">Bear trap</a> · <a href="/cdda_wiki/index.php?title=Crushed" title="Crushed">Crushed</a> · <a href="/cdda_wiki/index.php?title=Grabbed" title="Grabbed">Grabbed</a> · <a href="/cdda_wiki/index.php?title=In_pit" title="In pit">In pit</a> · <a href="/cdda_wiki/index.php?title=Unstable_footing" title="Unstable footing">Unstable footing</a> · <a href="/cdda_wiki/index.php?title=Winded" title="Winded">Winded</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd"><a href="/cdda_wiki/index.php?title=Fields" title="Fields">Field Effects</a>
+</th>
+<td><a href="/cdda_wiki/index.php?title=On_Fire" title="On Fire">On Fire</a> · <a href="/cdda_wiki/index.php?title=Sap-coated" title="Sap-coated">Sap-coated</a> · <a href="/cdda_wiki/index.php?title=Slimed" title="Slimed">Slimed</a> · <a href="/cdda_wiki/index.php?title=Smoke_(disease)" title="Smoke (disease)">Smoke</a> · <a href="/cdda_wiki/index.php?title=Relaxation_gas_(effect)" title="Relaxation gas (effect)">Relaxation gas</a> · <a href="/cdda_wiki/index.php?title=Tear_gas_(disease)" title="Tear gas (disease)">Tear gas</a> · <a href="/cdda_wiki/index.php?title=Webbed" title="Webbed">Webbed</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Attack Effects
+</th>
+<td><a href="/cdda_wiki/index.php?title=Bleeding" title="Bleeding">Bleeding</a> · <a href="/cdda_wiki/index.php?title=Blind" title="Blind">Blind</a> · <a href="/cdda_wiki/index.php?title=Boomered" title="Boomered">Boomered</a> · <a href="/cdda_wiki/index.php?title=Corroding" title="Corroding">Corroding</a> · <a href="/cdda_wiki/index.php?title=Deaf" title="Deaf">Deaf</a> · <a href="/cdda_wiki/index.php?title=Darkness" title="Darkness">Darkness</a> · <a href="/cdda_wiki/index.php?title=Dazed" title="Dazed">Dazed</a> · <a href="/cdda_wiki/index.php?title=Downed" title="Downed">Downed</a> · <a href="/cdda_wiki/index.php?title=Insect_Parasite" title="Insect Parasite">Insect Parasite</a> · <a href="/cdda_wiki/index.php?title=Pain" title="Pain">Pain</a> · <a href="/cdda_wiki/index.php?title=Poison" title="Poison">Poison</a> · <a href="/cdda_wiki/index.php?title=Ratting" title="Ratting">Ratting</a> · <a href="/cdda_wiki/index.php?title=Stung" title="Stung">Stung</a> · <a href="/cdda_wiki/index.php?title=Stunned" title="Stunned">Stunned</a> · <a href="/cdda_wiki/index.php?title=Spores_(disease)" title="Spores (disease)">Spores</a> · <a href="/cdda_wiki/index.php?title=Zapped" title="Zapped">Zapped</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Drug Effects
+</th>
+<td><a href="/cdda_wiki/index.php?title=Addiction" title="Addiction">Addiction</a> · <a href="/cdda_wiki/index.php?title=Alcohol_(disease)" title="Alcohol (disease)">Alcohol Intoxication</a> · <a href="/cdda_wiki/index.php?title=Datura_(effect)" title="Datura (effect)">Datura</a> · <a href="/cdda_wiki/index.php?title=High" title="High">General high</a> · <a class="mw-selflink selflink">Nicotine</a> · <a href="/cdda_wiki/index.php?title=Methamphetamine_(disease)" title="Methamphetamine (disease)">Methamphetamine</a> · <a href="/cdda_wiki/index.php?title=Shakes" title="Shakes">Shakes</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Wound Treatment
+</th>
+<td><a href="/cdda_wiki/index.php?title=Bandaged" title="Bandaged">Bandaged</a> · <a href="/cdda_wiki/index.php?title=Disinfected&amp;action=edit&amp;redlink=1" class="new" title="Disinfected (page does not exist)">Disinfected</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Painkillers
+</th>
+<td><a href="/cdda_wiki/index.php?title=Minor_Painkiller" title="Minor Painkiller">Minor Painkiller</a> · <a href="/cdda_wiki/index.php?title=Moderate_Painkiller" title="Moderate Painkiller">Moderate Painkiller</a> · <a href="/cdda_wiki/index.php?title=Opiate" title="Opiate">Heavy Painkillers/Opiates</a> · <a href="/cdda_wiki/index.php?title=Slow-Release_Painkiller" title="Slow-Release Painkiller">Slow-Release Painkiller</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Pharmaceuticals
+</th>
+<td><a href="/cdda_wiki/index.php?title=Antibiotic" title="Antibiotic">Antibiotic</a> · <a href="/cdda_wiki/index.php?title=Adrenaline_Spike" title="Adrenaline Spike">Adrenaline Spike</a> · <a href="/cdda_wiki/index.php?title=Contact_lenses_(status_effect)" title="Contact lenses (status effect)">Contact lenses</a> · <a href="/cdda_wiki/index.php?title=Diazepam" title="Diazepam">Diazepam</a> · <a href="/cdda_wiki/index.php?title=Flu_medicine&amp;action=edit&amp;redlink=1" class="new" title="Flu medicine (page does not exist)">Flu medicine</a> · <a href="/cdda_wiki/index.php?title=Flu_shot_(effect)" title="Flu shot (effect)">Flu shot</a> · <a href="/cdda_wiki/index.php?title=Heartburn_medicine&amp;action=edit&amp;redlink=1" class="new" title="Heartburn medicine (page does not exist)">Heartburn medicine</a> · <a href="/cdda_wiki/index.php?title=Iodine_Tablets_(disease)" title="Iodine Tablets (disease)">Iodine Tablets</a> · <a href="/cdda_wiki/index.php?title=Prozac_(disease)" title="Prozac (disease)">Prozac</a> · <a href="/cdda_wiki/index.php?title=Prussian_blue&amp;action=edit&amp;redlink=1" class="new" title="Prussian blue (page does not exist)">Prussian blue</a> · <a href="/cdda_wiki/index.php?title=Royal_jelly" title="Royal jelly">Royal jelly</a> · <a href="/cdda_wiki/index.php?title=RX12_Healing_Stimulant&amp;action=edit&amp;redlink=1" class="new" title="RX12 Healing Stimulant (page does not exist)">RX12 Healing Stimulant</a> · <a href="/cdda_wiki/index.php?title=RX11_Stimulant&amp;action=edit&amp;redlink=1" class="new" title="RX11 Stimulant (page does not exist)">RX11 Stimulant</a> · <a href="/cdda_wiki/index.php?title=Stim" title="Stim">Stimulants and Depressants</a> · <a href="/cdda_wiki/index.php?title=Xanax_(disease)" title="Xanax (disease)">Xanax</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd"><a href="/cdda_wiki/index.php?title=Vitamins" title="Vitamins">Vitamins</a>
+</th>
+<td><a href="/cdda_wiki/index.php?title=Anemia" title="Anemia">Anemia</a> · <a href="/cdda_wiki/index.php?title=B12_deficiency" title="B12 deficiency">B12 deficiency</a> · <a href="/cdda_wiki/index.php?title=Gross_food" title="Gross food">Gross food</a> · <a href="/cdda_wiki/index.php?title=Hypervitaminosis" title="Hypervitaminosis">Hypervitaminosis</a> · <a href="/cdda_wiki/index.php?title=Hypocalcemia" title="Hypocalcemia">Hypocalcemia</a> · <a href="/cdda_wiki/index.php?title=Night_blindness" title="Night blindness">Night blindness</a> · <a href="/cdda_wiki/index.php?title=Toxin_Buildup" title="Toxin Buildup">Toxin Buildup</a> · <a href="/cdda_wiki/index.php?title=Scurvy" title="Scurvy">Scurvy</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Infectious Diseases
+</th>
+<td><a href="/cdda_wiki/index.php?title=Infection" title="Infection">Infection</a> · <a href="/cdda_wiki/index.php?title=Low_immunity_diseases" title="Low immunity diseases">Low immunity diseases</a> · <a href="/cdda_wiki/index.php?title=Food_Parasites" title="Food Parasites">Food Parasites</a> · <a href="/cdda_wiki/index.php?title=Tetanus" title="Tetanus">Tetanus</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Medical Conditions
+</th>
+<td><a href="/cdda_wiki/index.php?title=Asthma" title="Asthma">Asthma</a> · <a href="/cdda_wiki/index.php?title=Broken_limb" title="Broken limb">Broken limb</a> · <a href="/cdda_wiki/index.php?title=Blech_(use_effect)" title="Blech (use effect)">Blech</a> · <a href="/cdda_wiki/index.php?title=Plantblech_(use_effect)" title="Plantblech (use effect)">Plant Blech</a> · <a href="/cdda_wiki/index.php?title=Hallucinating" title="Hallucinating">Hallucinating</a> · <a href="/cdda_wiki/index.php?title=Nausea_(status_effect)" title="Nausea (status effect)">Nausea</a> · <a href="/cdda_wiki/index.php?title=Radiation" title="Radiation">Radiation</a> · <a href="/cdda_wiki/index.php?title=Sleep_deprivation" title="Sleep deprivation">Sleep deprivation</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Medical Tags
+</th>
+<td><a href="/cdda_wiki/index.php?title=Assisted&amp;action=edit&amp;redlink=1" class="new" title="Assisted (page does not exist)">Assisted</a> · <a href="/cdda_wiki/index.php?title=Check-up&amp;action=edit&amp;redlink=1" class="new" title="Check-up (page does not exist)">Check-up</a> · <a href="/cdda_wiki/index.php?title=Narcosis" title="Narcosis">Narcosis</a> · <a href="/cdda_wiki/index.php?title=Under_operation&amp;action=edit&amp;redlink=1" class="new" title="Under operation (page does not exist)">Under operation</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Eldritch
+</th>
+<td><a href="/cdda_wiki/index.php?title=Amigara_obsession" title="Amigara obsession">Amigara obsession</a> · <a href="/cdda_wiki/index.php?title=Evil" title="Evil">Evil</a> · <a href="/cdda_wiki/index.php?title=Fear&amp;action=edit&amp;redlink=1" class="new" title="Fear (page does not exist)">Fear</a> · <a href="/cdda_wiki/index.php?title=Netherworld_attention" title="Netherworld attention">Netherworld attention</a> · <a href="/cdda_wiki/index.php?title=Teleglow" title="Teleglow">Teleglow</a>
+</td></tr>
+<tr>
+<th style="padding: 0.2em; color: #000; width: 10em; text-align: left; background: #d8c3dd">Other Effects
+</th>
+<td><a href="/cdda_wiki/index.php?title=Earphones&amp;action=edit&amp;redlink=1" class="new" title="Earphones (page does not exist)">Earphones</a> · <a href="/cdda_wiki/index.php?title=EMP" title="EMP">EMP</a> · <a href="/cdda_wiki/index.php?title=Glowy_LED&amp;action=edit&amp;redlink=1" class="new" title="Glowy LED (page does not exist)">Glowy LED</a> · <a href="/cdda_wiki/index.php?title=Happiness&amp;action=edit&amp;redlink=1" class="new" title="Happiness (page does not exist)">Happiness</a> · <a href="/cdda_wiki/index.php?title=Laser_targeted&amp;action=edit&amp;redlink=1" class="new" title="Laser targeted (page does not exist)">Laser targeted</a> · <a href="/cdda_wiki/index.php?title=Lit_up&amp;action=edit&amp;redlink=1" class="new" title="Lit up (page does not exist)">Lit up</a> · <a href="/cdda_wiki/index.php?title=Playing_instrument&amp;action=edit&amp;redlink=1" class="new" title="Playing instrument (page does not exist)">Playing instrument</a> · <a href="/cdda_wiki/index.php?title=Poor_sight&amp;action=edit&amp;redlink=1" class="new" title="Poor sight (page does not exist)">Poor sight</a> · <a href="/cdda_wiki/index.php?title=Raiding_animal&amp;action=edit&amp;redlink=1" class="new" title="Raiding animal (page does not exist)">Raiding animal</a> · <a href="/cdda_wiki/index.php?title=Sleep" title="Sleep">Sleep</a>
+</td></tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20201111173811
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.045 seconds
+Real time usage: 0.051 seconds
+Preprocessor visited node count: 4/1000000
+Preprocessor generated node count: 20/1000000
+Post‐expand include size: 3924/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.019      1 Template:Effects
+100.00%    4.019      1 -total
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:1960-0!canonical and timestamp 20201111173811 and revision id 33997
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Nicotine&amp;oldid=33997">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Nicotine&amp;oldid=33997</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php?title=Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/cdda_wiki/index.php?title=Category:Effects" title="Category:Effects">Effects</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Nicotine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Nicotine" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php?title=Nicotine" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Nicotine&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Nicotine">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Nicotine&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Nicotine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php?title=Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php?title=Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php?title=Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php?title=Special:WhatLinksHere/Nicotine" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php?title=Special:RecentChangesLinked/Nicotine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php?title=Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Nicotine&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Nicotine&amp;oldid=33997" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Nicotine&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 August 2019, at 12:45.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php?title=CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php?title=CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php?title=CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.045","walltime":"0.051","ppvisitednodes":{"value":4,"limit":1000000},"ppgeneratednodes":{"value":20,"limit":1000000},"postexpandincludesize":{"value":3924,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    4.019      1 Template:Effects","100.00%    4.019      1 -total"]},"cachereport":{"timestamp":"20201111173811","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":324});});</script>
+</body>
+</html>

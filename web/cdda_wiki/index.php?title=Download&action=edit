@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Download - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Download","wgTitle":"Download","wgCurRevisionId":40352,"wgRevisionId":0,"wgArticleId":91,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Download","wgRelevantArticleId":91,"wgRequestId":"Y4e3hNpqZYWwHZ9CZfH-5gAAAI0","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Download rootpage-Download skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Download</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/cdda_wiki/index.php/Download" title="Download">Download</a></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>The action you have requested is limited to users in the group: <a href="/cdda_wiki/index.php?title=CataclysmDDA:Users&amp;action=edit&amp;redlink=1" class="new" title="CataclysmDDA:Users (page does not exist)">Users</a>.
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">== What version should I download? ==
+
+Most people play the experimental versions as they run pretty stable and contain a lot of improvements in comparison to the stable versions. If you prefer stability of everything else, then the stable versions are for you. With the experimentals there is always a slight risk of a gamebreaking bug, or a new feature which just isn't working as well as it should, but most people still play the more recent experimentals because they contain more content. You can always ask for a the latest experimental release people are currently using on [https://discord.gg/jFEc7Yp the C:DDA discord server].
+
+== Link to the most recent stable build ==
+[https://cataclysmdda.org/releases/#:~:text=0.F%2D3%20Download%20Links 0.F-3 Frank-3 Download]
+
+== [[Experimental]] Builds ==
+
+These versions are built each time a push is merged with the GitHub repository. They are the latest development builds available and are in no way guaranteed to be stable, or to support your current save game / world (Though many times they are just as stable as the "Stable" versions, if not moreso, and there is some effort to keep saves compatible). '''Use at your own risk.'''
+
+ '''Experimental Version | Updated Daily'''
+
+=== Downloads ===
+;Windows
+;64 bit
+[http://dev.narc.ro/cataclysm/jenkins-latest/Windows_x64/Tiles/ Download Windows (Graphical 64 bit Experimental)]&lt;br>
+[http://dev.narc.ro/cataclysm/jenkins-latest/Windows_x64/Curses/ Download Windows (Curses (ascii) 64 bit Experimental)] (no longer being updated)
+
+;32 bit
+[http://dev.narc.ro/cataclysm/jenkins-latest/Windows/Tiles/ Download Windows (Graphical Experimental)]&lt;br>
+[http://dev.narc.ro/cataclysm/jenkins-latest/Windows/Curses/ Download Windows (Curses (ascii) Experimental)] (no longer being updated)
+
+;Launcher
+The CDDA Game Launcher, designed by remyroy, contains additional features for managing experimental builds and is available on [https://github.com/remyroy/CDDA-Game-Launcher/releases Github].
+
+;Linux
+;64 bit
+[http://dev.narc.ro/cataclysm/jenkins-latest/Linux_x64/Tiles/ Download Linux (Graphical 64 bit Experimental)]&lt;br/>
+[http://dev.narc.ro/cataclysm/jenkins-latest/Linux_x64/Curses/ Download Linux (Curses (ascii) 64 bit Experimental)]
+
+;32 bit no longer available, was discontinued as of August 3, 2017
+
+;Mac OS X
+[http://dev.narc.ro/cataclysm/jenkins-latest/OSX/Tiles/ Download OS X (Graphical Experimental)]&lt;br>
+[http://dev.narc.ro/cataclysm/jenkins-latest/OSX/Curses/ Download OS X (Curses (ascii) Experimental)]
+
+=== Changelog ===
+
+A changelog is included in the [https://github.com/CleverRaven/Cataclysm-DDA/blob/master/data/changelog.txt Changelog file].
+
+== Version 0.E Ellison-2 (Latest Stable Build (bugfix release)) ==
+
+The versions of the game listed here are the stable, official {{InlineVer|0.E}} releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org main website]. Note that there no longer is a windows curses download, you will have to build it yourself if you need it.
+
+ '''This is a bugfix release'''
+
+=== Downloads ===
+;Main download location
+[https://github.com/CleverRaven/Cataclysm-DDA/tree/0.E-2 https://github.com/CleverRaven/Cataclysm-DDA/tree/0.E-2]
+
+;Windows
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Windows_x64-Tiles-0.E-2.zip Cataclysm DDA Windows 64x (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Windows-Tiles-0.E-2.zip Cataclysm DDA Windows 32x (Curses (ascii) stable)]
+
+;Linux
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Linux_x64-Tiles-0.E-2.tar.gz Cataclysm DDA Linux (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Linux_x64-Curses-0.E-2.tar.gz Cataclysm DDA Linux (Curses (ascii) stable)]
+
+;Mac/OSX
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-OSX-Tiles-0.E-2.dmg Cataclysm DDA OSX (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-OSX-Curses-0.E-2.dmg Cataclysm DDA OSX (Curses (ascii) stable)]
+
+;Android
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Android_arm64-Tiles-0.E-2.apk Cataclysm DDA Android 64x (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Android_arm32-Tiles-0.E-2.apk Cataclysm DDA Android 32x (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E-2/cataclysmdda-0.E-Android_arm-Tiles-bundle-0.E-2.aab Cataclysm DDA Android bundle (Graphical stable)]
+
+=== Changelog compared to 0.E ===
+
+* fixed virtual keyboard issue in Android builds.
+* fixes for several errors and crashes;
+* savegame migration for obsolete items, recipes and overmap terrains;
+* enhanced Android builds.
+
+
+== Version 0.E Ellison ==
+
+The versions of the game listed here are the stable, official {{InlineVer|0.E}} releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org main website]. Note that there no longer is a windows curses download, you will have to build it yourself if you need it.
+
+ '''Released April 1, 2020'''
+
+=== Downloads ===
+;Main download location
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.E https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.E]
+
+;Windows
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/cataclysmdda-0.E-Windows_x64-Tiles-10478.zip Cataclysm DDA Windows 64x (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/cataclysmdda-0.E-Windows-Tiles-10478.zip Cataclysm DDA Windows 32x (Curses (ascii) stable)]
+
+;Linux
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/cataclysmdda-0.E-Linux_x64-Tiles-10478.tar.gz Cataclysm DDA Linux (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/cataclysmdda-0.E-Linux_x64-Curses-10478.tar.gz Cataclysm DDA Linux (Curses (ascii) stable)]
+
+;Mac/OSX
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/Cataclysm-0.E-OSX-Tiles-10478.dmg Cataclysm DDA OSX (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/Cataclysm-0.E-OSX-Curses-10478.dmg Cataclysm DDA OSX (Curses (ascii) stable)]
+
+;Android
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/cataclysmdda-0.E-10478-arm64-v8a-release.apk Cataclysm DDA Android 64x (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.E/cataclysmdda-0.E-10478-armeabi-v7a-release.apk Cataclysm DDA Android (Graphical stable)]
+
+=== Changelog ===
+
+A changelog is included in the [https://discourse.cataclysmdda.org/t/0-e-ellison-release-has-arrived/23092 Release announcement].
+
+
+== Version 0.D Danny ==
+
+The versions of the game listed here are the stable, official {{InlineVer|0.D}} releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org main website].
+
+ '''Released March 8, 2019'''
+
+=== Downloads ===
+;Main download location
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.D https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.D]
+
+;Windows 64
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Win64-Tiles.zip Cataclysm DDA Windows 64x (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Win64-Curses.zip Cataclysm DDA Windows 64x (Curses (ascii) stable)]
+
+;Windows
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Win-Tiles.zip Cataclysm DDA Windows (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Win-Curses.zip Cataclysm DDA Windows (Curses (ascii) stable)]
+
+;Linux
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Linux-Tiles.tar.gz Cataclysm DDA Linux (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Linux-Curses.tar.gz Cataclysm DDA Linux (Curses (ascii) stable)]
+
+;Mac/OSX
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/Cataclysm-0.D-8574-OSX-Tiles.dmg Cataclysm DDA OSX (Graphical stable)]
+
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/Cataclysm-0.D-8574-OSX-Curses.dmg Cataclysm DDA OSX (Curses (ascii) stable)]
+
+;Android
+[https://github.com/CleverRaven/Cataclysm-DDA/releases/download/0.D/cataclysmdda-0.D-8574-Android-Tiles.apk Cataclysm DDA Android (Graphical stable)]
+
+=== Changelog ===
+
+A changelog is included in the [https://discourse.cataclysmdda.org/t/0-danny-is-0-done/19118 Release announcement].
+
+== Version 0.C Cooper ==
+
+The versions of the game listed here are the stable, official {{InlineVer|0.C}} releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org main website].
+
+ '''Released March 11, 2015'''
+
+=== Downloads ===
+;Source
+The source code [https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.C is available at github].
+
+;Windows
+&lt;s>Cataclysm DDA Windows (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Windows (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Linux
+&lt;s>Cataclysm DDA Linux (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Linux (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Mac
+[http://ge.tt/9sYHxvB2/v/0 Unofficial mac binary] - Use at your own risk.
+
+=== Changelog ===
+
+A changelog is included in the [https://discourse.cataclysmdda.org/t/cataclysm-dark-days-ahead-version-0-c-cooper-released-now-with-translations/9094 Release announcement].
+
+== Version 0.B Brin ==
+The versions of the game listed here are the stable, official {{InlineVer|0.B}} releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org main website].
+
+ '''Released November 17, 2014'''
+
+=== Downloads ===
+;Source
+The source code [https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.B is available at github].
+
+;Windows
+&lt;s>Cataclysm DDA Windows (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Windows (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Linux
+&lt;s>Cataclysm DDA Linux (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Linux (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Mac
+&lt;s>Cataclysm DDA Mac (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Mac (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+=== Changelog ===
+
+A changelog is included in the [https://discourse.cataclysmdda.org/t/cataclysm-dark-days-ahead-version-0-b-brin-released-now-with-mac-builds/7916 release announcement].
+
+== Version 0.A Kaufman ==
+
+The versions of the game listed here are the stable, official {{InlineVer|0.A}} releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org main website].
+
+ '''Released March 4, 2014'''
+=== English ===
+;Source
+The source code [https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.A is available at github].
+
+;Windows
+&lt;s>Cataclysm DDA Windows (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Windows (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Linux
+&lt;s>Cataclysm DDA Linux (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Linux (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Mac
+&lt;s>Download Cataclysm DDA Mac (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+=== Other languages ===
+====German====
+[https://discourse.cataclysmdda.org/t/cataclysm-dark-days-ahead-version-0-a-kaufman-now-with-full-german-translation/5439 Release announcement]
+;Windows
+&lt;s>Cataclysm DDA Windows SDL (mit Kachelbildern »Tiles«)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Windows Terminal/Curses&lt;/s> - Sadly this download is no longer available.
+
+;Linux
+&lt;s>Cataclysm DDA Linux SDL (mit Kachelbildern »Tiles«)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Linux Terminal/Curses&lt;/s> - Sadly this download is no longer available.
+
+
+====Traditional Chinese====
+(Includes German as well)
+[https://discourse.cataclysmdda.org/t/traditional-chinese-translation-completed/5517/9 Release announcement]
+;Windows
+&lt;s>Cataclysm DDA Windows SDL (mit Kachelbildern »Tiles«)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Windows Terminal/Curses&lt;/s> - Sadly this download is no longer available.
+;Linux
+&lt;s>Cataclysm DDA Linux SDL (mit Kachelbildern »Tiles«)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Cataclysm DDA Linux Terminal/Curses&lt;/s> - Sadly this download is no longer available.
+
+=== Changelog ===
+
+A changelog is included in the [https://discourse.cataclysmdda.org/t/cataclysm-dark-days-ahead-version-0-a-kaufman-released/5262 release announcement].
+
+=== Bugs ===
+Some users had problems running the stable version. Deleting the Langs folder fixed those issues
+
+== Version 0.9 Ma ==
+The versions of the game listed here are the stable, official 0.9 releases. More information can also be found in the [https://discourse.cataclysmdda.org/c/game-talk/announcements announcements board] of the official forums or in the [http://cataclysmdda.org  main website].
+
+ '''Released: November 15, 2013''' | [[0.9_(Ma)#Change_Log|Changelog]]
+
+=== English ===
+;Source
+The source code [https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.9 is available at github].
+
+;Windows
+&lt;s>Cataclysm DDA Windows (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Download Cataclysm DDA Windows (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Linux
+&lt;s>Download Cataclysm DDA Linux (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+&lt;s>Download Cataclysm DDA Linux (Curses (ascii) stable)&lt;/s> - Sadly this download is no longer available.
+
+;Mac
+&lt;s>Download Cataclysm DDA Mac (Graphical stable)&lt;/s> - Sadly this download is no longer available.
+
+=== Other languages ===
+;Windows 
+[http://pan.baidu.com/share/link?shareid=3793591170&amp;uk=1795431809#dir/path=%2FCDDA_ZH 0.7.1汉化正式版发布]
+
+== Self compile == 
+You can also get the source code from [https://github.com/CleverRaven/Cataclysm-DDA github] and then [https://github.com/CleverRaven/Cataclysm-DDA/blob/master/COMPILING.md compile] it yourself. [[How_to_compile]] contains some outdated information on how to compile, which might help.
+
+Various editions of the source code are tagged on github, for example this leads to [https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.7 the 0.7 source code], with some url manipulation you should be able to find other releases.
+
+== Changing the font (SDL only) ==
+This will only work with trueType fonts.
+
+You have two options:
+# Replace the default one, found in ''data\font'', with the one of your choice (simply delete the existing ''fixedsys.ttf'' one and copy on that folder the one you want to use).
+# Edit the path of the FONTDATA file this way:
+ c:\windows\fonts\&lt; name of your font >
+ &lt; font width >
+ &lt; font height >
+ &lt; font size >
+Example:
+ c:\windows\fonts\lucon.ttf
+ 8
+ 16
+ 14
+
+[[Category:Main]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Template used on this page:
+</p></div><ul>
+<li><a href="/cdda_wiki/index.php/Template:InlineVer" title="Template:InlineVer">Template:InlineVer</a> (<a href="/cdda_wiki/index.php?title=Template:InlineVer&amp;action=edit" title="Template:InlineVer">view source</a>) </li></ul></div><p id="mw-returnto">Return to <a href="/cdda_wiki/index.php/Download" title="Download">Download</a>.</p>
+</div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php/Download">http://cddawiki.chezzo.com/cdda_wiki/index.php/Download</a>"</div>
+		
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Download&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Download&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Download" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk"><span><a href="/cdda_wiki/index.php/Talk:Download" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/cdda_wiki/index.php/Download">Read</a></span></li><li id="ca-viewsource" class="collapsible selected"><span><a href="/cdda_wiki/index.php?title=Download&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Download&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Download" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Download" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Download&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":131});});</script>
+</body>
+</html>

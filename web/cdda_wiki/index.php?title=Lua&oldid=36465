@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lua - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lua","wgTitle":"Lua","wgCurRevisionId":36465,"wgRevisionId":36465,"wgArticleId":3601,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Candidates for deletion","Technical"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lua","wgRelevantArticleId":3601,"wgRequestId":"YuIGco4ZpnTBFnw-11CVHQAAAXY","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/cdda_wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/cdda_wiki/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/cdda_wiki/opensearch_desc.php" title="The Cataclysm: Dark Days Ahead Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="/cdda_wiki/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/cdda_wiki/load.php?lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lua rootpage-Lua skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lua</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From The Cataclysm: Dark Days Ahead Wiki</div>
+		<div id="contentSub"><div class="mw-revision"><div id="mw-revision-info">Revision as of 06:54, 29 August 2020 by <a href="/cdda_wiki/index.php/User:Soyweiser" class="mw-userlink" title="User:Soyweiser"><bdi>Soyweiser</bdi></a> <span class="mw-usertoollinks">(<a href="/cdda_wiki/index.php/User_talk:Soyweiser" class="mw-usertoollinks-talk" title="User talk:Soyweiser">talk</a> | <a href="/cdda_wiki/index.php/Special:Contributions/Soyweiser" class="mw-usertoollinks-contribs" title="Special:Contributions/Soyweiser">contribs</a>)</span> <span class="comment">(added delete notice.)</span></div><div id="mw-revision-nav">(<a href="/cdda_wiki/index.php?title=Lua&amp;diff=prev&amp;oldid=36465" title="Lua">diff</a>) <a href="/cdda_wiki/index.php?title=Lua&amp;direction=prev&amp;oldid=36465" title="Lua">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="metadata plainlinks ambox ambox-delete" style="">
+<tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ambox_deletion.png" decoding="async" width="40" height="40" /></div></td><td class="mbox-text" style=""><span class="mbox-text-span"><b>This page is a candidate for deletion.</b> The given reason is: <i><b>Per <a href="/cdda_wiki/index.php/0.D_(Danny)" title="0.D (Danny)">0.D (Danny)</a> lua is no longer supported in CDDA</b></i>
+<p>This notice should remain for a <b>minimum</b> of 1 week after it was placed on the page. If discussion is still ongoing, it should remain until a consensus is reached, after which the page will either be deleted or this notice removed.
+</p><p>If you disagree with its deletion, please discuss your reasons on this page or on its associated talk page, as applicable.
+</p><p>Remember to check <a href="/cdda_wiki/index.php/Special:WhatLinksHere/Lua" title="Special:WhatLinksHere/Lua">if anything links here</a> and <a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Lua&amp;action=history">the page history</a> before deleting.
+</p><p><small><span class="sysop-show"><i>Administrators: <a rel="nofollow" class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Lua&amp;wpReason=Per+%5B%5B0.D+%28Danny%29%5D%5D+lua+is+no+longer+supported+in+CDDA&amp;action=delete">delete this page</a></i></span></small>
+</p>
+<small>Last edit by <a href="/cdda_wiki/index.php/User:Soyweiser" title="User:Soyweiser">Soyweiser</a> (<a href="/cdda_wiki/index.php/User_talk:Soyweiser" title="User talk:Soyweiser">talk</a> · <a href="/cdda_wiki/index.php/Special:Contributions/Soyweiser" title="Special:Contributions/Soyweiser">contrib</a>) · Last edited on Sat, 29 Aug 2020 06:54:41 +0000</small><span class="hide-when-compact">  </span><span class="hide-when-compact"> </span></span></td></tr></tbody></table>
+<p><br />
+</p><p><br />
+Lua allows you to script behavior for CDDA without having to modify the C++ code. Lua support is currently very limited, so don't expect to be able to do too much with it just yet. If there's something you'd like to do in lua that is currently not possible, please consider creating a <a rel="nofollow" class="external text" href="https://github.com/CleverRaven/Cataclysm-DDA/issues?page=1&amp;state=open">github issue</a>.
+</p><p>To learn more about lua, check out <a rel="nofollow" class="external text" href="http://lua-users.org/wiki/LuaTutorial">the lua tutorial</a>. You can try out lua scripts online <a rel="nofollow" class="external text" href="http://www.lua.org/demo.html">here</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#lua_debug_command"><span class="tocnumber">1</span> <span class="toctext">lua debug command</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#lua_in_mods"><span class="tocnumber">2</span> <span class="toctext">lua in mods</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lua_API"><span class="tocnumber">3</span> <span class="toctext">Lua API</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Global_Functions"><span class="tocnumber">3.1</span> <span class="toctext">Global Functions</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#mongroup"><span class="tocnumber">3.2</span> <span class="toctext">mongroup</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Functions"><span class="tocnumber">3.2.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Attributes"><span class="tocnumber">3.2.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#item"><span class="tocnumber">3.3</span> <span class="toctext">item</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Functions_2"><span class="tocnumber">3.3.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Attributes_2"><span class="tocnumber">3.3.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#uimenu"><span class="tocnumber">3.4</span> <span class="toctext">uimenu</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Functions_3"><span class="tocnumber">3.4.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Attributes_3"><span class="tocnumber">3.4.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#it_gunmod"><span class="tocnumber">3.5</span> <span class="toctext">it_gunmod</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Functions_4"><span class="tocnumber">3.5.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Attributes_4"><span class="tocnumber">3.5.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#point"><span class="tocnumber">3.6</span> <span class="toctext">point</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Functions_5"><span class="tocnumber">3.6.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Attributes_5"><span class="tocnumber">3.6.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#mtype"><span class="tocnumber">3.7</span> <span class="toctext">mtype</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Functions_6"><span class="tocnumber">3.7.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Attributes_6"><span class="tocnumber">3.7.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#map"><span class="tocnumber">3.8</span> <span class="toctext">map</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Functions_7"><span class="tocnumber">3.8.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Attributes_7"><span class="tocnumber">3.8.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#monster"><span class="tocnumber">3.9</span> <span class="toctext">monster</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Functions_8"><span class="tocnumber">3.9.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Attributes_8"><span class="tocnumber">3.9.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-29"><a href="#ter_t"><span class="tocnumber">3.10</span> <span class="toctext">ter_t</span></a>
+<ul>
+<li class="toclevel-3 tocsection-30"><a href="#Functions_9"><span class="tocnumber">3.10.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Attributes_9"><span class="tocnumber">3.10.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="#it_gun"><span class="tocnumber">3.11</span> <span class="toctext">it_gun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Functions_10"><span class="tocnumber">3.11.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Attributes_10"><span class="tocnumber">3.11.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-35"><a href="#Creature"><span class="tocnumber">3.12</span> <span class="toctext">Creature</span></a>
+<ul>
+<li class="toclevel-3 tocsection-36"><a href="#Functions_11"><span class="tocnumber">3.12.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="#Attributes_11"><span class="tocnumber">3.12.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-38"><a href="#player"><span class="tocnumber">3.13</span> <span class="toctext">player</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="#Functions_12"><span class="tocnumber">3.13.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="#Attributes_12"><span class="tocnumber">3.13.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-41"><a href="#it_comest"><span class="tocnumber">3.14</span> <span class="toctext">it_comest</span></a>
+<ul>
+<li class="toclevel-3 tocsection-42"><a href="#Functions_13"><span class="tocnumber">3.14.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-43"><a href="#Attributes_13"><span class="tocnumber">3.14.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-44"><a href="#overmap"><span class="tocnumber">3.15</span> <span class="toctext">overmap</span></a>
+<ul>
+<li class="toclevel-3 tocsection-45"><a href="#Functions_14"><span class="tocnumber">3.15.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="#Attributes_14"><span class="tocnumber">3.15.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-47"><a href="#itype"><span class="tocnumber">3.16</span> <span class="toctext">itype</span></a>
+<ul>
+<li class="toclevel-3 tocsection-48"><a href="#Functions_15"><span class="tocnumber">3.16.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-49"><a href="#Attributes_15"><span class="tocnumber">3.16.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-50"><a href="#it_tool"><span class="tocnumber">3.17</span> <span class="toctext">it_tool</span></a>
+<ul>
+<li class="toclevel-3 tocsection-51"><a href="#Functions_16"><span class="tocnumber">3.17.1</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-3 tocsection-52"><a href="#Attributes_16"><span class="tocnumber">3.17.2</span> <span class="toctext">Attributes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="lua_debug_command">lua debug command</span></h2>
+<p>Let's start by printing messages to the game screen. Run cataclysm, load up a character, and enter the debug menu. Select the "lua command" option. Enter some text, for instance `game.add_msg("Hello, world!")`. You should see your message being printed to the screen.
+</p><p><a rel="nofollow" class="external free" href="http://i.imgur.com/RaFtCjx.png">http://i.imgur.com/RaFtCjx.png</a>
+</p><p>You can print some more useful information, like `game.add_msg(player.health)`. You can also use this for cheating, e.g. you can increase your strength by typing `player.str_cur = 20`.
+</p>
+<h2><span class="mw-headline" id="lua_in_mods">lua in mods</span></h2>
+<p>If you're creating a mod, you can use lua to add scripted features to your mod. For this, you have to create a file called `main.lua` in your mod directory where the .json files are stored. Here is an example of such a `main.lua` that halves the speed of zombies.
+</p>
+<pre>monster_types = { 
+    "mon_zombie", 
+    "mon_zombie_fat", 
+    "mon_zombie_tough", 
+    "mon_zombie_crawler", 
+    "mon_zombie_hazmat", 
+    "mon_zombie_fireman", 
+    "mon_zombie_survivor", 
+    "mon_zombie_rot", 
+    "mon_zombie_cop", 
+    "mon_zombie_shrieker", 
+    "mon_zombie_spitter", 
+    "mon_zombie_electric", 
+    "mon_zombie_smoker", 
+    "mon_zombie_swimmer", 
+    "mon_zombie_dog", 
+    "mon_zombie_brute", 
+    "mon_zombie_hulk"
+}
+
+-- halve the speed of all monster types in the above list
+for _, monster_type in ipairs(monster_types) do
+    game.monster_type(monster_type).speed = game.monster_type(monster_type).speed / 2
+end
+ 
+</pre>
+<h2><span class="mw-headline" id="Lua_API">Lua API</span></h2>
+<p>Below is an automatically generated table of the current lua API.
+</p>
+<h3><span class="mw-headline" id="Global_Functions">Global Functions</span></h3>
+<ul><li><b>uimenu</b> create_uimenu()</li>
+<li><b>it_gunmod</b> get_gunmod_type(string)</li>
+<li><b>int</b> trig_dist(int, int, int, int)</li>
+<li><b>string</b> string_input_popup(string, int, string)</li>
+<li><b>overmap</b> get_current_overmap()</li>
+<li><b>it_tool</b> get_tool_type(string)</li>
+<li><b>int</b> distance(int, int, int, int)</li>
+<li><b>mongroup</b> create_monster_group(overmap, string, int, int, int, int, int)</li>
+<li><b>int</b> rng(int, int)</li>
+<li><b>it_comest</b> get_comestible_type(string)</li>
+<li><b>void</b> add_msg(cstring message)
+<ul><li>Write a message to the game's standard message window.</li></ul></li>
+<li><b>bool</b> one_in(int)</li>
+<li><b>void</b> remove_item(int, int, item)</li>
+<li><b>it_gun</b> get_gun_type(string)</li>
+<li><b>void</b> popup(cstring)</li>
+<li><b>ter_t</b> get_terrain_type(int)</li>
+<li><b>void</b> revive_corpse(int x, int y, int index)
+<ul><li>Revive the corpse at the specified location. The index parameter specifies the index within the item stack that the corpse is located at.</li></ul></li></ul>
+<h3><span class="mw-headline" id="mongroup">mongroup</span></h3>
+<h4><span class="mw-headline" id="Functions">Functions</span></h4>
+<ul><li><b>void</b> inc_interest(int)</li>
+<li><b>void</b> set_interest(int)</li>
+<li><b>void</b> dec_interest(int)</li>
+<li><b>void</b> set_target(int, int)</li></ul>
+<h4><span class="mw-headline" id="Attributes">Attributes</span></h4>
+<ul><li><b>int</b> population</li>
+<li><b>int</b> posz</li>
+<li><b>int</b> radius</li>
+<li><b>bool</b> diffuse</li>
+<li><b>int</b> posy</li>
+<li><b>bool</b> horde</li>
+<li><b>int</b> posx</li>
+<li><b>string</b> type</li>
+<li><b>bool</b> dying</li>
+<li><b>int</b> ty <i>read-only</i></li>
+<li><b>int</b> tx <i>read-only</i></li></ul>
+<h3><span class="mw-headline" id="item">item</span></h3>
+<h4><span class="mw-headline" id="Functions_2">Functions</span></h4>
+<ul><li><b>string</b> tname()</li>
+<li><b>bool</b> made_of(string)</li></ul>
+<h4><span class="mw-headline" id="Attributes_2">Attributes</span></h4>
+<ul><li><b>int</b> charges</li></ul>
+<h3><span class="mw-headline" id="uimenu">uimenu</span></h3>
+<h4><span class="mw-headline" id="Functions_3">Functions</span></h4>
+<ul><li><b>void</b> show()</li>
+<li><b>void</b> query(bool)</li>
+<li><b>void</b> addentry(string)</li></ul>
+<h4><span class="mw-headline" id="Attributes_3">Attributes</span></h4>
+<ul><li><b>string</b> title</li>
+<li><b>int</b> selected <i>read-only</i></li></ul>
+<h3><span class="mw-headline" id="it_gunmod">it_gunmod</span></h3>
+<h4><span class="mw-headline" id="Functions_4">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_4">Attributes</span></h4>
+<ul><li><b>int</b> loudness</li>
+<li><b>int</b> recoil</li>
+<li><b>string</b> newtype</li>
+<li><b>int</b> damage</li>
+<li><b>int</b> burst</li>
+<li><b>string</b> location</li>
+<li><b>int</b> clip</li>
+<li><b>int</b> dispersion</li></ul>
+<h3><span class="mw-headline" id="point">point</span></h3>
+<h4><span class="mw-headline" id="Functions_5">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_5">Attributes</span></h4>
+<ul><li><b>int</b> x</li>
+<li><b>int</b> y</li></ul>
+<h3><span class="mw-headline" id="mtype">mtype</span></h3>
+<h4><span class="mw-headline" id="Functions_6">Functions</span></h4>
+<ul><li><b>bool</b> in_species(string)</li>
+<li><b>bool</b> in_category(string)</li></ul>
+<h4><span class="mw-headline" id="Attributes_6">Attributes</span></h4>
+<ul><li><b>int</b> speed</li>
+<li><b>int</b> armor_cut</li>
+<li><b>int</b> melee_cut</li>
+<li><b>int</b> melee_sides</li>
+<li><b>int</b> morale</li>
+<li><b>int</b> melee_dice</li>
+<li><b>int</b> armor_bash</li>
+<li><b>int</b> agro</li>
+<li><b>int</b> melee_skill</li>
+<li><b>int</b> item_chance</li>
+<li><b>int</b> difficulty</li>
+<li><b>int</b> sk_dodge</li></ul>
+<h3><span class="mw-headline" id="map">map</span></h3>
+<h4><span class="mw-headline" id="Functions_7">Functions</span></h4>
+<ul><li><b>int</b> ter(int, int)</li>
+<li><b>void</b> ter_iset(int, int, int)</li>
+<li><b>void</b> fill_background(string)</li>
+<li><b>void</b> line_furn(string, int, int, int, int)</li>
+<li><b>void</b> furn_set(int, int, string)</li>
+<li><b>void</b> place_items(string, int, int, int, int, int, bool, int)</li>
+<li><b>void</b> rough_circle(string, int, int, int)</li>
+<li><b>void</b> square_ter(string, int, int, int, int)</li>
+<li><b>void</b> square_furn(string, int, int, int, int)</li>
+<li><b>void</b> ter_set(int, int, string)</li>
+<li><b>void</b> line_ter(string, int, int, int, int)</li>
+<li><b>int</b> furn(int, int)</li></ul>
+<h4><span class="mw-headline" id="Attributes_7">Attributes</span></h4>
+<h3><span class="mw-headline" id="monster">monster</span></h3>
+<h4><span class="mw-headline" id="Functions_8">Functions</span></h4>
+<ul><li><b>int</b> posy()</li>
+<li><b>int</b> attack_at(int, int)</li>
+<li><b>int</b> posx()</li>
+<li><b>string</b> name()</li>
+<li><b>void</b> make_friendly()</li></ul>
+<h4><span class="mw-headline" id="Attributes_8">Attributes</span></h4>
+<ul><li><b>int</b> moves</li>
+<li><b>int</b> hp</li>
+<li><b>int</b> friendly</li></ul>
+<h3><span class="mw-headline" id="ter_t">ter_t</span></h3>
+<h4><span class="mw-headline" id="Functions_9">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_9">Attributes</span></h4>
+<ul><li><b>int</b> movecost <i>read-only</i></li>
+<li><b>string</b> name <i>read-only</i></li>
+<li><b>int</b> loadid <i>read-only</i></li>
+<li><b>string</b> id <i>read-only</i></li></ul>
+<h3><span class="mw-headline" id="it_gun">it_gun</span></h3>
+<h4><span class="mw-headline" id="Functions_10">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_10">Attributes</span></h4>
+<ul><li><b>int</b> recoil</li>
+<li><b>int</b> durability</li>
+<li><b>int</b> clip</li>
+<li><b>int</b> pierce</li>
+<li><b>int</b> range</li>
+<li><b>int</b> dmg_bonus</li>
+<li><b>int</b> burst</li>
+<li><b>string</b> ammo</li>
+<li><b>int</b> dispersion</li></ul>
+<h3><span class="mw-headline" id="Creature">Creature</span></h3>
+<h4><span class="mw-headline" id="Functions_11">Functions</span></h4>
+<ul><li><b>int</b> get_speed()</li></ul>
+<h4><span class="mw-headline" id="Attributes_11">Attributes</span></h4>
+<h3><span class="mw-headline" id="player">player</span></h3>
+<h4><span class="mw-headline" id="Functions_12">Functions</span></h4>
+<ul><li><b>int</b> volume_capacity()</li>
+<li><b>int</b> weight_carried()</li>
+<li><b>void</b> rem_disease(string)</li>
+<li><b>bool</b> has_disease(string)</li>
+<li><b>int</b> morale_level()</li>
+<li><b>int</b> volume_carried()</li>
+<li><b>void</b> add_disease(string, int, int, int)</li>
+<li><b>int</b> weight_capacity(bool)</li>
+<li><b>bool</b> is_npc()</li></ul>
+<h4><span class="mw-headline" id="Attributes_12">Attributes</span></h4>
+<ul><li><b>int</b> per_max</li>
+<li><b>int</b> str_cur</li>
+<li><b>int</b> int_max</li>
+<li><b>int</b> posy <i>read-only</i>
+<ul><li>The y position of the player in the reality bubble.</li></ul></li>
+<li><b>int</b> posx <i>read-only</i>
+<ul><li>The x position of the player in the reality bubble.</li></ul></li>
+<li><b>int</b> dex_cur</li>
+<li><b>int</b> per_cur</li>
+<li><b>int</b> health <i>read-only</i></li>
+<li><b>int</b> hunger</li>
+<li><b>string</b> name <i>read-only</i></li>
+<li><b>int</b> int_cur</li>
+<li><b>int</b> dex_max</li>
+<li><b>int</b> stim</li>
+<li><b>int</b> str_max</li>
+<li><b>int</b> thirst</li>
+<li><b>bool</b> male <i>read-only</i></li>
+<li><b>int</b> fatigue</li></ul>
+<h3><span class="mw-headline" id="it_comest">it_comest</span></h3>
+<h4><span class="mw-headline" id="Functions_13">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_13">Attributes</span></h4>
+<ul><li><b>int</b> nutr</li>
+<li><b>int</b> fun</li>
+<li><b>int</b> charges</li>
+<li><b>int</b> addict</li>
+<li><b>int</b> stim</li>
+<li><b>int</b> quench</li>
+<li><b>int</b> brewtime</li>
+<li><b>int</b> spoils</li>
+<li><b>int</b> healthy</li></ul>
+<h3><span class="mw-headline" id="overmap">overmap</span></h3>
+<h4><span class="mw-headline" id="Functions_14">Functions</span></h4>
+<ul><li><b>int</b> get_right_border()</li>
+<li><b>int</b> get_top_border()</li>
+<li><b>int</b> get_left_border()</li>
+<li><b>int</b> get_bottom_border()</li></ul>
+<h4><span class="mw-headline" id="Attributes_14">Attributes</span></h4>
+<h3><span class="mw-headline" id="itype">itype</span></h3>
+<h4><span class="mw-headline" id="Functions_15">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_15">Attributes</span></h4>
+<ul><li><b>int</b> price</li>
+<li><b>string</b> name</li>
+<li><b>int</b> volume</li>
+<li><b>int</b> melee_dam</li>
+<li><b>int</b> melee_cut</li>
+<li><b>int</b> m_to_hit</li>
+<li><b>int</b> weight</li>
+<li><b>int</b> stack_size</li>
+<li><b>string</b> m1</li>
+<li><b>string</b> description</li>
+<li><b>string</b> m2</li></ul>
+<h3><span class="mw-headline" id="it_tool">it_tool</span></h3>
+<h4><span class="mw-headline" id="Functions_16">Functions</span></h4>
+<h4><span class="mw-headline" id="Attributes_16">Attributes</span></h4>
+<ul><li><b>int</b> turns_per_charge</li>
+<li><b>int</b> charges_per_use</li>
+<li><b>int</b> def_charges</li>
+<li><b>string</b> ammo</li>
+<li><b>int</b> max_charges</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20220728032047
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.090 seconds
+Real time usage: 0.110 seconds
+Preprocessor visited node count: 671/1000000
+Preprocessor generated node count: 5127/1000000
+Post‐expand include size: 6545/2097152 bytes
+Template argument size: 3439/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 647/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   48.392      1 Template:Delete
+100.00%   48.392      1 -total
+ 93.47%   45.231      1 Template:Mbox
+ 79.69%   38.564      1 Template:Ambox
+ 38.43%   18.599      1 Template:Category_handler
+ 34.54%   16.712      1 Template:Ambox/core
+ 13.34%    6.457      1 Template:FULLROOTPAGENAME
+ 12.27%    5.936      1 Template:Category_handler/blacklist
+  9.95%    4.813      2 Template:Namespace_detect
+  9.32%    4.508      1 Template:Category_handler/numbered
+-->
+
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3601-0!canonical and timestamp 20220728032047 and revision id 36465
+ -->
+</div></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Lua&amp;oldid=36465">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Lua&amp;oldid=36465</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/cdda_wiki/index.php/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/cdda_wiki/index.php/Category:Candidates_for_deletion" title="Category:Candidates for deletion">Candidates for deletion</a></li><li><a href="/cdda_wiki/index.php/Category:Technical" title="Category:Technical">Technical</a></li></ul></div></div>
+		
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/cdda_wiki/index.php?title=Special:CreateAccount&amp;returnto=Lua&amp;returntoquery=oldid%3D36465" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/cdda_wiki/index.php?title=Special:UserLogin&amp;returnto=Lua&amp;returntoquery=oldid%3D36465" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/cdda_wiki/index.php/Lua" title="View the content page [c]" accesskey="c">Page</a></span></li><li id="ca-talk" class="new"><span><a href="/cdda_wiki/index.php?title=Talk:Lua&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/cdda_wiki/index.php/Lua">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Lua&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/cdda_wiki/index.php?title=Lua&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/cdda_wiki/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/cdda_wiki/index.php/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/cdda_wiki/index.php/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/cdda_wiki/index.php/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/cdda_wiki/index.php/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/cdda_wiki/index.php/Special:WhatLinksHere/Lua" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/cdda_wiki/index.php/Special:RecentChangesLinked/Lua" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/cdda_wiki/index.php/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/cdda_wiki/index.php?title=Lua&amp;oldid=36465&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/cdda_wiki/index.php?title=Lua&amp;oldid=36465" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/cdda_wiki/index.php?title=Lua&amp;action=info" title="More information about this page">Page information</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 August 2020, at 06:54.</li>
+								<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/cdda_wiki/index.php/CataclysmDDA:Privacy_policy" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/cdda_wiki/index.php/CataclysmDDA:About" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+								<li id="footer-places-disclaimer"><a href="/cdda_wiki/index.php/CataclysmDDA:General_disclaimer" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/cdda_wiki/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/cdda_wiki/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/cdda_wiki/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.090","walltime":"0.110","ppvisitednodes":{"value":671,"limit":1000000},"ppgeneratednodes":{"value":5127,"limit":1000000},"postexpandincludesize":{"value":6545,"limit":2097152},"templateargumentsize":{"value":3439,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":647,"limit":5000000},"timingprofile":["100.00%   48.392      1 Template:Delete","100.00%   48.392      1 -total"," 93.47%   45.231      1 Template:Mbox"," 79.69%   38.564      1 Template:Ambox"," 38.43%   18.599      1 Template:Category_handler"," 34.54%   16.712      1 Template:Ambox/core"," 13.34%    6.457      1 Template:FULLROOTPAGENAME"," 12.27%    5.936      1 Template:Category_handler/blacklist","  9.95%    4.813      2 Template:Namespace_detect","  9.32%    4.508      1 Template:Category_handler/numbered"]},"cachereport":{"timestamp":"20220728032047","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":147});});</script>
+</body>
+</html>
