@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>(DRbiG's) Powered Vehicle Design Primer - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"(DRbiG's)_Powered_Vehicle_Design_Primer","wgTitle":"(DRbiG's) Powered Vehicle Design Primer","wgCurRevisionId":31661,"wgRevisionId":31661,"wgArticleId":4303,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.C (Cooper)","Guides","Vehicles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"(DRbiG's)_Powered_Vehicle_Design_Primer","wgRelevantArticleId":4303,"wgRequestId":"ZYdVqRUcku2zb31oGiNdVgAAAYI","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="./en_jquery.makeCollapsible.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles_styles_vector" rel="stylesheet"/>
+<script async="" src="./en_startup_scripts_vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="./en_site.styles_styles_vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.1" name="generator"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="./opensearch_desc.php" rel="search" title="The Cataclysm: Dark Days Ahead Wiki (en)" type="application/opensearchdescription+xml"/>
+<link href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="./index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" type="application/atom+xml"/>
+<!--[if lt IE 9]><script src="./en_html5shiv_scripts_vector_1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-_DRbiG_s_Powered_Vehicle_Design_Primer rootpage-_DRbiG_s_Powered_Vehicle_Design_Primer skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-ver"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="./0.C_(Cooper).html" title="0.C (Cooper)">0.C (Cooper)</a></abbr></div></div></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">(DRbiG's) Powered Vehicle Design Primer</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From The Cataclysm: Dark Days Ahead Wiki</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head.html">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search.html">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>Hello fellow engineers! In this document we'll explore, elaborate and exemplify powered vehicle design concerns.
+</p><p>A fair amount of vehicle construction knowledge is assumed, but hopefully not necessary to gain insight by reading this document. We will be basing our discussion on the latest experimental available, along with the vehicle additions mod. We are doing cutting-edge science here.
+</p><p>(CDDA version: <i><a href="./0.C_(Cooper).html" title="0.C (Cooper)">0.C (Cooper)</a> - 4203</i>, document version: <i>draft-5</i>)
+</p><p><br/>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction.html"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Basics.html"><span class="tocnumber">2</span> <span class="toctext">Basics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Design_concerns.html"><span class="tocnumber">3</span> <span class="toctext">Design concerns</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Size.html"><span class="tocnumber">3.1</span> <span class="toctext">Size</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Utility.html"><span class="tocnumber">3.2</span> <span class="toctext">Utility</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Resources.html"><span class="tocnumber">3.3</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Structural_integrity.html"><span class="tocnumber">3.4</span> <span class="toctext">Structural integrity</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Engines.2C_speed_and_fuel_efficiency.html"><span class="tocnumber">3.5</span> <span class="toctext">Engines, speed and fuel efficiency</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Weapons.html"><span class="tocnumber">3.6</span> <span class="toctext">Weapons</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Practical_design_study.html"><span class="tocnumber">4</span> <span class="toctext">Practical design study</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Looters.2FExplorers.html"><span class="tocnumber">4.1</span> <span class="toctext">Looters/Explorers</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#General_purpose.2FDeathmobiles.html"><span class="tocnumber">4.2</span> <span class="toctext">General purpose/Deathmobiles</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Mobile_bases.html"><span class="tocnumber">4.3</span> <span class="toctext">Mobile bases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Afterword.html"><span class="tocnumber">5</span> <span class="toctext">Afterword</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Contribution_guide.html"><span class="tocnumber">6</span> <span class="toctext"><i>Contribution guide</i></span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Design_blueprints.html"><span class="tocnumber">6.1</span> <span class="toctext"><i>Design blueprints</i></span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Design_analysis.html"><span class="tocnumber">6.2</span> <span class="toctext"><i>Design analysis</i></span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Tips_.26_Tricks.html"><span class="tocnumber">6.3</span> <span class="toctext"><i>Tips &amp; Tricks</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#0.D_.28Danny.29_Updates.html"><span class="tocnumber">7</span> <span class="toctext">0.D (Danny) Updates</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Vehicle_Top_Speed.html"><span class="tocnumber">7.1</span> <span class="toctext">Vehicle Top Speed</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<p>Building an awesome vehicle is a balancing act. You can't have everything, and nothing will fit all roles (but with enough luck and persistence you can have a vehicle for every occasion).
+</p><p>The first question you have to answer yourself before you think about design is "what will be the role of my vehicle?". The answer to that question is crucial to making good trade-offs during the design. Having answered that you need to decide how much are you committed to the design - vehicle parts don't grow on trees, and ad-hoc vehicles, while better than nothing, are usually far from optimal.
+</p><p>We can easily distinguish three main roles:
+</p>
+<ol><li><b>Looters/Explorers</b>
+<dl><dd>These vehicles focus on mobility. Usually no larger than 3x3 and limited in range, but with decent cargo space and very low maintenance costs they are perfect for all the city exploration and looting needs.</dd></dl></li>
+<li><b>General purpose/Deathmobiles</b>
+<dl><dd>These vehicles fall in the middle of the scale. They are too big for great mobility, but too small to hold a proper mobile base. Most vehicles you can find in the world will fall into this category. They serve as a very good basis of going either way on this scale, and are the most customizable role.</dd></dl></li>
+<li><b>Mobile bases</b>
+<dl><dd>The largest vehicles that have everything for you to be completely self-sustainable. They have great range at the expense of mobility and fuel efficiency. The RV, Mobile Meth Lab and the coveted Military Cargo Truck serve as the best base vehicles for this role.</dd></dl></li></ol>
+<p>Being a soft-scale there are no hard definitions except on the ends: a vehicle wider than 2 or 3 tiles will get stuck somewhere sooner or later, and a vehicle that doesn't make you completely self-sustainable is not a mobile base.
+</p><p>In terms of materials always consider the looting vs. crafting angle. You might be better off making a vehicle forge, and hand-making that FOODCO Kitchen Buddy from scratch than scavenging for that one last component you are missing.
+</p>
+<h2><span class="mw-headline" id="Basics">Basics</span></h2>
+<p>Full part names are written in title capitalization, e.g. FOODCO Kitchen Buddy, Water Faucet, Storage Battery.
+</p><p>Quick recap of the important basics:
+</p>
+<ol><li><b>Wheels</b>
+<dl><dd>Can be easily categorized by sturdiness: roller drums, armored, wide, "normal". Remember that roller drums will severely limit what else you can install on the same tile.</dd></dl></li>
+<li><b>Batteries</b>
+<dl><dd>Can be easily categorized by capacity: motorbike, car, truck, storage. The swappable variant of storage battery also needs a case and is not that useful on its own.</dd></dl></li>
+<li><b>Lighting</b>
+<dl><dd>It can be either external or internal. The external lighting is comprised of: the headlight (and its reinforced variant) which is a directional cone, and the floodlight which is a high-power full-dome light at the expense of power draw. The internal lighting is all full-dome, and is comprised of: dome light which comes along with vehicles controls and is low-radius and thus very low power, and aisle light which has more radius but draws more power.</dd></dl></li>
+<li><b>Vision</b>
+<dl><dd>Remember you can extend your vision with Wing Mirrors (easy to get, very fragile) and/or Security Cameras and Camera Monitors (much more sturdy and useful, but also much more rare).</dd></dl></li>
+<li><b>Your safety</b>
+<dl><dd>5-Point Harness whenever possible, Seatbelt otherwise. Never underestimate inertia.</dd></dl></li>
+<li><b>Vehicle mounted tools:</b>
+<dl><dd>The essential bits for mobile bases and any mid-and-up range vehicles.</dd></dl>
+<ol><li><b>Minifridge</b>
+<dl><dd>Essential for preserving perishable items. You should always consider having at least one for anything larger than a motorbike.</dd></dl></li>
+<li><b>Kitchen</b>
+<dl><dd>Basically a vehicle powered Hotplate. Remember that you will still need the usual kitchen utensils (you can keep them in the same tile though).</dd></dl></li>
+<li><b>FOODCO Kitchen Buddy</b>
+<dl><dd>A multi-purpose device with colorful description. Its kitchen functionality includes a Vacuum Sealer and Food Dehydrator. For some reason it also includes Hand Press &amp; Die Set.</dd></dl></li>
+<li><b>Chemistry Set</b>
+<dl><dd>Lets you cook the less edible stuff. Essential if you plan to explore the mutation paths.</dd></dl></li>
+<li><b>Electric Forge</b>
+<dl><dd>For all your melting and casting needs. Remember that you will still need a good bunch of other tools for proper metal working.</dd></dl></li>
+<li><b>Welding Rig</b>
+<dl><dd>Enables your vehicle to be (almost) self-repairing. Remember that you will still need a Pair of Welding Googles and that it only works within 6 tile radius.</dd></dl></li>
+<li><b>UPS-compatible recharging station</b>
+<dl><dd>Often omitted contraption that lets you charge all the battery-powered gizmos - If you install an UPS mod in them.</dd></dl></li></ol></li></ol>
+<h2><span class="mw-headline" id="Design_concerns">Design concerns</span></h2>
+<p>The real business. We will go over the concerns in general order of importance.
+</p>
+<h3><span class="mw-headline" id="Size">Size</span></h3>
+<p>Size is the width and height of your vehicle in tiles. It will influence everything else and as such is not a thing you can easily change mid-way (without starting the design from scratch).
+</p>
+<ol><li><b>Mobility</b>
+<dl><dd>As already indicated a big vehicle will inevitably have problems moving on. This means not only getting stuck in a middle of a Z-filled city centre, but also traversing a forested area. You can offset this with "hard parts" such as roller drums for wheels and rams, but don't relay on it too much (trees are incredibly sturdy, and so are reinforced walls/tonnes of wreckage).</dd></dl></li>
+<li><b>Cargo space</b>
+<dl><dd>To get the same cargo volume as any ground tile you'll need 4 Cargo Carriers. Empirical data shows that around 9 Cargo Carriers (9000 volume) is perfectly fine for a mobile base. Be aware that if you install more you'll just hoard more - without any real increase in utility.</dd></dl></li>
+<li><b>Solid walls</b>
+<dl><dd>Solid walls offer you protection from the outside world but severely limit what else you can put on a tile. Remember that vehicle mounted tools are impassable (but still let light through). You'd most likely like to have the section you plan to sleep in walled off. Walls make much less sense for smaller vehicles.</dd></dl></li>
+<li><b>Mounted tools</b>
+<dl><dd>Important for mobile bases - also limit what else you can put. The arrangement is also crucial for utility (more on that later).</dd></dl></li>
+<li><b>Speed and fuel efficiency</b>
+<dl><dd>Not that important if you can get the right engine(s).</dd></dl></li></ol>
+<h3><span class="mw-headline" id="Utility">Utility</span></h3>
+<p>The second most important factor overall and the most important factor for your happiness.
+</p><p>Utility means everything working together smoothly. It means crafting anything anytime. It means no hauling stuff around. It means knowing exactly what is going on all the time. It means having stuff right where and when you needed it, when you need it. It means your vehicle not coming apart at the worst time possible. It means never having to think about electricity reserves. It means... Yes, it's hard to describe in single sentence, but you'll feel it instantly.
+</p>
+<ol><li><b>Structural design</b>
+<dl><dd>That's the "not falling apart" bit. Remember: the front of your vehicle will be the first thing to hit stuff and be damaged. Also remember about the sides: when you're not aligned along a cardinal direction the outer tiles that are "at angle" will be hitting stuff just as if they were at front. Putting solar panels at the outer edges of your vehicle is therefore not the best idea, same as not having some "crumple zone" in front of your driver's seat.</dd></dl></li>
+<li><b>Item access</b>
+<dl><dd>Keep the stuff you need most close to you. A Reclining Seat might look great as it's essentially a "bed and seat in one", but it won't hold much. Having to go that 3 tiles further into your vehicle for that First Aid Kit will make the difference one day (and that'll be your last day).</dd></dl></li>
+<li><b>Crafting</b>
+<dl><dd>To craft you'll need: tools, proper lighting, raw materials and perhaps books. A high-utility design will have all these placed in a way that'll enable you to craft anything you want, anytime, without ever having to manually haul anything. You can use anything within 6 tiles radius from where you're standing for crafting. Remember Aisle Lights. Think about it, it will pay off tremendously.</dd></dl></li>
+<li><b>Sleeping/Resting area</b>
+<dl><dd>To have an inside tile (and thus be shielded from the elements) you'll need to have the surrounding 8 tiles roofed/walled. That's the reason you'll need at least a 3x3 vehicle to be able to sleep comfortably. You should also consider lighting here (to be able to kill the evenings with reading; and Curtains to sleep well despite the summer sun) and food access (to have that morning coffee quickly).</dd></dl></li>
+<li><b>External access</b>
+<dl><dd>Consider at least the four cardinal directions your vehicle may be parked along. You might need to run away fast, or you might be carrying all that sweet back-breaking loot. Having quick and safe access can make your life so much easier.</dd></dl></li></ol>
+<h3><span class="mw-headline" id="Resources">Resources</span></h3>
+<p>Foremost it's about electricity. You'll need it for your vehicle to even start, you'll need it for lighting, for vehicle mounted tools. Right after that you'll need at least water.
+</p>
+<ol><li><b>Alternators</b>
+<dl><dd>If you have an engine you better have an alternator. The truck alternator gives you most juice and as such should be your default choice for your main engine (as long as that engine can still do its job that is). This obviously doesn't apply to electric vehicles.</dd></dl></li>
+<li><b>Batteries</b>
+<dl><dd>Scaling down for smaller vehicles should be obvious. The other way around you have storage batteries. The swappable variant is not so much of use for most vehicles though. Again remember that more doesn't necessarily mean better.</dd></dl></li>
+<li><b>Solar panels</b>
+<dl><dd>Can give you zero-maintenance electricity if done right. Obviously go for the better grades whenever possible, and remember to keep some spares - they're fragile. Due to that fragility putting them on the outer edges is not the best idea. Optimal designs will have enough panels for your vehicle to easily maintain 90% - 100% electricity levels with "normal daily usage". Again more is not always better. Installing one however is a good way to prevent you from draining your battery to 0 and not being able to start your engine. Just wait some time and it should charge the battery enough to start the engine. You can even add and remove one as needed.</dd></dl></li>
+<li><b>Tanks</b>
+<dl><dd>That is fuel and water tanks. Like with the panels you don't want them to be the first thing to fall off. You should keep them behind your "crumple zone" and off the edges. Remember that water tanks need no piping - you can put Water Faucets wherever they are needed. Given they weigh a lot finding a good balance for your use case will be a trial-and-error affair. You can attach a funnel to a dirty water tank to automatically fill it from rain. Remember that it has to be the funnel that's just a funnel, no makeshift, leather, or metal will work.</dd></dl></li></ol>
+<h3><span class="mw-headline" id="Structural_integrity">Structural integrity</span></h3>
+<p>That's toughness of your vehicle's basic parts.
+</p>
+<ol><li><b>Frames</b>
+<dl><dd>Again more doesn't mean better. The difference in availability between the light and heavy frames is huge. And so is their mass. Putting the heavy stuff at the "crumple zones" and the lightest stuff for auxiliary, out-of-harm's-way things may net you lower initial and maintenance costs as well as lower overall mass.</dd></dl></li>
+<li><b>Plating</b>
+<dl><dd>Always plate your edges. The Military Composite Armor is your best choice, but anything here is better than nothing. Plating interiors along "crumple zones" is worth considering too. But remember the mass and maintenance costs.</dd></dl></li>
+<li><b>Walls and windshields</b>
+<dl><dd>Reinforced Windshields are your default. Stow Boards give you some cargo space, and Quarter Boards exchange protection for vision range and getting light in (and out). Proper composition will yield you protection, utility, vision and optimal mass.</dd></dl></li></ol>
+<h3><span id="Engines,_speed_and_fuel_efficiency"></span><span class="mw-headline" id="Engines.2C_speed_and_fuel_efficiency">Engines, speed and fuel efficiency</span></h3>
+<p>Depend directly on our previous choices and are usually just a matter of finding the right engine(s) for the job.
+</p>
+<ol><li><b>Speed</b>
+<dl><dd>Sure you can get insane "safe speeds" - they are useless. Top safe speed in range of 100 km/h (62 mph) ~ 200 km/h (124 mph) will be more than enough and actually be possible to use safely. Feel free to run your "awesome" vehicle into a river at 600 km/h (372 mph).</dd></dl></li>
+<li><b>Fuel efficiency</b>
+<dl><dd>The less you consume the better. Explorer vehicles should top at 2, mobile bases may go above 4 - if it is justified in utility. Remember you can have multiple engines and switch them on and off independently, however the smallest engine in the set will determine how much power you get and also the efficiency.</dd></dl></li>
+<li><b>Engines</b>
+<dl><dd>Remember to not put your main engine in any of the "crumple zones". Having an additional spare engine is not a bad idea.
+<ul><li>Gasoline is the most abundant high-power fuel and the engines for these range from very small to a large V8. Size will determine how much fuel is used and how much power will be provided.</li>
+<li>Diesel is a bit harder to find but not impossible. The engines for this fuel come in large to very large sizes. They provide a bit more power per size ratio then the gasoline engines, but don't come in any sizes smaller than V6.</li>
+<li>Electric engines are silent, therefore make most sense for smaller vehicles. Don't rely on anything more fancy.</li>
+<li>Plutonium is rare but offer the best size to power ratio.</li></ul></dd></dl></li>
+<li><b>Mufflers</b>
+<dl><dd>You should have at least one for the liquid fuel engines. It reduces the noise and gives you a bit more efficiency. You may add more for redundancy (they are also fragile), but remember to look at speed/weight/fuel consumption factors.</dd></dl></li></ol>
+<p><br/>
+</p>
+<h3><span class="mw-headline" id="Weapons">Weapons</span></h3>
+<p>Unless you have something specific in mind or just want the coolness factor, most weapons are actually of little practical utility.
+</p>
+<ol><li><b>Spikes etc.</b>
+<dl><dd>A better option would be to install a front ram and plate the sides. Spikes will only increase your vehicle size and require additional maintenance for little actual benefit.</dd></dl></li>
+<li><b>M2 Browning HMG</b>
+<dl><dd>Given the high power and relatively accessible ammunition they are worth consideration. Remember though that they are also relatively fragile and that the automated firing may do you more harm than good. On manual fire they do have some utility, but nothing you couldn't replace with other skills and items.</dd></dl></li>
+<li><b>Other guns</b>
+<dl><dd>Mostly coolness factor and additional work. If you find any generally useful purpose for them remember to fill in your lab journal and report back!</dd></dl></li></ol>
+<h2><span class="mw-headline" id="Practical_design_study">Practical design study</span></h2>
+<p>Let's put our theory into practice and analyse some actual designs. All illustrations shows ever vehicle tile (they are animated). <i>Work in progress.</i>
+</p>
+<h3><span id="Looters/Explorers"></span><span class="mw-headline" id="Looters.2FExplorers">Looters/Explorers</span></h3>
+<p><b>Exhibit A</b> - <i>Ninja</i> (by Zorbeltuss)
+</p><p><a class="external free" href="http://i.imgur.com/wcZxCKb.png.html" rel="nofollow">http://i.imgur.com/wcZxCKb.png</a>
+</p><p><i>Dodging Rain</i>:
+</p><p>The Ninja is essentially a 1-tile exploratory car that has everything a car would normally have: an engine with an alternator, a battery, some lighting for night scouting, and even a trunk.
+</p><p>Pros:
+</p>
+<ul><li>Due to its minimal size, it boast maximum maneuverability as well as allowing you to drag it through forests without having to fold it up.</li>
+<li>The Inline-4 engine also allows the Ninja to sip from your gasoline supply giving you more milage while having enough power to push forward should it gets loaded up or something very heavy.</li>
+<li>650 volume is usually enough to raid a single building, grab a heavy object, or even some rare loot if desired.</li></ul>
+<p>Cons:
+</p>
+<ul><li>If it gets hit in any way, something important is likely to get damaged and even destroyed.</li>
+<li>Also while riding it, it is often hard to tell what direction you are facing.</li>
+<li>This may cause you to crash into something which is going to send you flying due to lack of seat belt.</li></ul>
+<p><a class="new" href="./index.php?title=User:Dodging_Rain&amp;action=edit&amp;redlink=1.html" title="User:Dodging Rain (page does not exist)">Dodging Rain</a> (<a href="./User_talk:Dodging_Rain.html" title="User talk:Dodging Rain">talk</a>) 15:13, 13 July 2015 (PDT)
+</p>
+<hr/>
+<p><b>Exhibit B</b> - <i>Pirate</i> (by dRbiG)
+</p><p><a class="external free" href="http://i.imgur.com/jC3pmFW.gif.html" rel="nofollow">http://i.imgur.com/jC3pmFW.gif</a>
+</p><p><i>Dodging Rain</i>:
+</p><p>The pirate is a modified motorcycle to accommodate the needs of a survivor, adding some trunks and making some few changes.
+Pros:
+</p>
+<ul><li>Its slender shape should allow you to weave through the wreckage/vehicle littered streets with ease.</li>
+<li>1300 Volume should let you obtain a good amount of supply and loot from 2-3 buildings.</li>
+<li>The Inline-4 engine drains gasoline at a slow rate.</li></ul>
+<p>Con:
+</p>
+<ul><li>Its 1x3 form is awkward to drag along, notably through thick forest region.</li>
+<li>It will get stuck if its form is aligned next to a building potentially forcing you to dismantle one of the ends.  This is noticable if you drag it into a structure.</li></ul>
+<p>--<a class="new" href="./index.php?title=User:Dodging_Rain&amp;action=edit&amp;redlink=1.html" title="User:Dodging Rain (page does not exist)">Dodging Rain</a> (<a href="./User_talk:Dodging_Rain.html" title="User talk:Dodging Rain">talk</a>) 14:22, 14 July 2015 (PDT)
+</p>
+<hr/>
+<p><b>Exhibit C</b> - <i>Archaeologist</i> (by Zorbeltuss)
+</p><p><a class="external free" href="http://i.imgur.com/WE4s2nH.gif.html" rel="nofollow">http://i.imgur.com/WE4s2nH.gif</a>
+</p><p><i>Dodging Rain</i>:
+</p><p>The Archaeologist can be described as a cluster of trunks with wheels specifically made to hold as much looter as possible while maintaining a small form, living up to its category as a looter.
+</p><p>Pro: 
+</p>
+<ul><li>Over 4500 volume allows you to put in a huge amount of items or a dismantled vehicle.</li>
+<li>The Inline-4 engine drains gasoline at a slow rate.</li></ul>
+<p>Con: 
+</p>
+<ul><li>Due to having a wheel on each tile, its long form may end up damaging or destroying objects unintentionally if you run over it.</li>
+<li>The engine may have trouble handling heavy hauls especially from vehicles, notably large metal or wooden objects.</li>
+<li>Cannot traverse forest region due to its larger form for its category and does not have the power or durability to ram down even shrubs consistently without considerable damage.</li></ul>
+<p>--<a class="new" href="./index.php?title=User:Dodging_Rain&amp;action=edit&amp;redlink=1.html" title="User:Dodging Rain (page does not exist)">Dodging Rain</a> (<a href="./User_talk:Dodging_Rain.html" title="User talk:Dodging Rain">talk</a>) 14:22, 14 July 2015 (PDT)
+</p>
+<h3><span id="General_purpose/Deathmobiles"></span><span class="mw-headline" id="General_purpose.2FDeathmobiles">General purpose/Deathmobiles</span></h3>
+<h3><span class="mw-headline" id="Mobile_bases">Mobile bases</span></h3>
+<h2><span class="mw-headline" id="Afterword">Afterword</span></h2>
+<p>We hope this document prompted you to think more about your powered vehicle design.
+</p><p><i>This document will loose the "(DRbiG's)" part at some points. It should provide higher-level view of vehicle design, prompt thinking and show off some practical designs.</i>
+</p>
+<h2><span class="mw-headline" id="Contribution_guide"><i>Contribution guide</i></span></h2>
+<p>Always welcome contributions:
+</p>
+<ol><li>Grammar and language fixes</li>
+<li>Factual corrections (the guide should follow current experimental builds)</li></ol>
+<p>If you have comments, complaints or other ideas please use the Discussion page (look top of the page, next to the "Page" tab). You can (and should) visit the <a href="./IRC.html" title="IRC">IRC</a> channel to get more live feedback.
+</p>
+<h3><span class="mw-headline" id="Design_blueprints"><i>Design blueprints</i></span></h3>
+<p>We strive for consistent and comprehensive design examples. Therefore the end product is always an animated GIF done according to these rules:
+</p>
+<ol><li>Show only vehicle construction menu in the default layout</li>
+<li>Show every vehicle tile
+<ol><li>Order is top-down, left-right</li>
+<li>5 seconds per frame</li></ol></li>
+<li>Loop the animation</li></ol>
+<p>You should first share your blueprint online and ask the opinion of at least one contributor to the guide. This is a soft-rule to ensure the designs presented here explore different approaches.
+</p><p>If you're not comfortable with making an animated GIF feel free to upload individual frames (according to the applicable rules) in a way that makes it easy to download them all at once (e.g. an album on Imgur).
+</p><p>You can catch the current contributors on <a href="./IRC.html" title="IRC">IRC</a> (as of 2015-07-04).
+</p>
+<h3><span class="mw-headline" id="Design_analysis"><i>Design analysis</i></span></h3>
+<p>Feel free to analyse the examples following the design concerns of this primer. Remember to follow the formatting of other examples and to appropriately indicate your authorship. Please try to follow the style too (we're doing science here!).
+</p><p>Remember that the point here is to provoke thoughts about the trade-offs of each design. Mark your subjectivity clearly, and remember that if it moves it can't be 'utter crap'. And no design will ever be 'perfect' either.
+</p>
+<h3><span id="Tips_&amp;_Tricks"></span><span class="mw-headline" id="Tips_.26_Tricks"><i>Tips &amp; Tricks</i></span></h3>
+<p>Remember there is now a Debug Hammerspace mutation that enables you to craft and construct (including vehicles) without all that pesky requirements like skills, tools or parts.
+</p>
+<h2><span id="0.D_(Danny)_Updates"></span><span class="mw-headline" id="0.D_.28Danny.29_Updates"><a href="./0.D_(Danny).html" title="0.D (Danny)">0.D (Danny)</a> Updates</span></h2>
+<h3><span class="mw-headline" id="Vehicle_Top_Speed">Vehicle Top Speed</span></h3>
+<p>Vehicle top speed has gone done a lot, while vehicle speed in tiles/turn has increased by 2.5x.  That makes it a lot harder to achieve top speeds of 200 mph, but it also means that a cruise speed of 70 mph feels pretty fast.
+</p><p>Top speed depends on a number of factors:
+</p>
+<ul><li>Total combined engine power.  Each additional active engine contributes less power than the previous one, and the decay slope is very steep, so there's not much benefit in running multiple engines and one large engine is always more efficient that two smaller engines.  Total active engine power is displayed in the ENGINES line of the vehicle interaction menu.</li>
+<li>Wheel rolling resistance.  This is very complicated, but more heavy wheels are generally slower than few light wheels, but some very small wheels (especially casters) are extremely slow.  Treads are very bad.  The trade-off is that more and heavier wheels generally gives much better off-road performance: a tank might only reach 50 mph, but it will go 50 mph on pavement or dirt, while a sports bike that can hit 190 mph on pavement might not reach 40 mph on dirt.  The vehicle's rolling resistance is displayed in the "Rolling drag" line of the vehicle interaction menu, the lower the better.</li>
+<li>Wind resistance.  This is also complicated, but wider vehicles have more wind resistance, as do vehicles with turrets, solar panels, full boards, or aisles.  If a passenger is exposed (not indoors), that will also increase wind resistance.  The most efficient design starts with halfboards up front, followed by a windshield, a driver with a roof over his head, and a trunk, and is only 3 tiles wide.  Wind resistance is displayed in the "Air drag" line of the vehicle interaction menu, the lower the better.</li></ul>
+<p>The optional Boats mod enables boats and amphibious vehicles.  While a vehicle is floating, it ignores wheel rolling resistance, but has to deal with water drag.  Water drag depends on vehicle draft and width, and draft is increased by vehicle weight and reduced by vehicle width, vehicle length, and the amount of the vehicle's tiles covered in boat hull parts.  Water drag is displayed in the "Water drag" line of the vehicle interaction menu, the lower the better.  You can't have boat hull parts and wheels in the same tile, so amphibious vehicles will always have slightly more draft than a dedicated boat of the same shape and weight.
+</p><p class="mw-empty-elt">
+</p>
+<table cellspacing="0" class="navbox" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+<tbody><tr>
+<th class="navbox-title" colspan="2" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="./Template:Guides.html" title="Template:Guides"><span style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;" title="View this template">v</span></a></li><li class="nv-talk"><a href="./Template_talk:Guides.html" title="Template talk:Guides"><span style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;" title="Discuss this template">t</span></a></li><li class="nv-edit"><a class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit.html" rel="nofollow"><span style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;" title="Edit this template">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="./Category:Guides.html" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./A_Skill_Training_Encyclopedia.html" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a>  <span style="font-weight:bold;">·</span> <a href="./Choosing_Martial_Arts_Styles.html" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a>  <span style="font-weight:bold;">·</span> <a href="./Example_Character_Builds.html" title="Example Character Builds">Example Character Builds</a>  <span style="font-weight:bold;">·</span> <a href="./FAQ.html" title="FAQ">FAQ</a>  <span style="font-weight:bold;">·</span> <a href="./The_First_Day.html" title="The First Day">The First Day</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_survive_your_first_day:_Dynamic_Spawn_Mode.html" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_survive_your_first_day:_Static_Spawn_Mode.html" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a>  <span style="font-weight:bold;">·</span> <a href="./Killing_zombies.html" title="Killing zombies">Killing zombies</a>  <span style="font-weight:bold;">·</span> <a href="./Scavenging.html" title="Scavenging">Scavenging</a>  <span style="font-weight:bold;">·</span> <a href="./Weapons_getting_stuck.html" title="Weapons getting stuck">Weapons getting stuck</a>  <span style="font-weight:bold;">·</span> <a href="./New_Player_Guide.html" title="New Player Guide">New Player Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./A_Basic_Forging_Guide.html" title="A Basic Forging Guide">A Basic Forging Guide</a>  <span style="font-weight:bold;">·</span> <a href="./Archer_Guide.html" title="Archer Guide">Archer Guide</a>  <span style="font-weight:bold;">·</span> <a href="./Beyond_the_first_day.html" title="Beyond the first day">Beyond the first day</a>  <span style="font-weight:bold;">·</span> <a href="./Brewing.html" title="Brewing">Brewing</a>  <span style="font-weight:bold;">·</span> <a href="./Clothing_Encumbrance.html" title="Clothing Encumbrance">Clothing Encumbrance</a>  <span style="font-weight:bold;">·</span> <a href="./Farming.html" title="Farming">Farming</a>  <span style="font-weight:bold;">·</span> <a href="./Hunting.html" title="Hunting">Hunting</a>  <span style="font-weight:bold;">·</span> <a href="./Hobo%27s_Guide_to_the_Apocalypse.html" title="Hobo's Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a>  <span style="font-weight:bold;">·</span> <a href="./Night_Raids:_Guide.html" title="Night Raids: Guide">Night Raids</a>  <span style="font-weight:bold;">·</span> <a href="./Power.html" title="Power">Power</a>  <span style="font-weight:bold;">·</span> <a href="./Recoil.html" title="Recoil">Recoil</a>  <span style="font-weight:bold;">·</span> <a href="./Woodland_Survival:_Guide.html" title="Woodland Survival: Guide">Woodland Survival</a>  <span style="font-weight:bold;">·</span> <a href="./Melee_Guide.html" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="./Category:Advanced_guides.html" title="Category:Advanced guides">Advanced</a>
+</td>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./Advanced_Character_Build_Tips.html" title="Advanced Character Build Tips">Advanced Character Build Tips</a>  <span style="font-weight:bold;">·</span> <a href="./Challenge-Really_Bad_Day.html" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a>  <span style="font-weight:bold;">·</span> <a href="./Clearing_the_city.html" title="Clearing the city">Clearing the city</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Fungal_Bloom.html" title="Guide: Fungal Bloom">Fungal Bloom</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Lab_Challenge.html" title="Guide: Lab Challenge">Lab Challenge</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Broken_Cyborg.html" title="Guide: Broken Cyborg">Broken Cyborg</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Marloss_Berry.html" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="./Guide:_Mycus.html" title="Guide: Mycus">Mycus</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Mine.html" title="Guide: Mine">Mine</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Nudist_Challenge.html" title="Guide: Nudist Challenge">Nudist Challenge</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Strange_Temple.html" title="Guide: Strange Temple">Strange Temple</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Trans-Coast_Logistics_Concourse_Challenge.html" title="Guide: Trans-Coast Logistics Concourse Challenge">Trans-Coast Logistics Concourse</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Triffid_Grove.html" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="./Vehicles.html" title="Vehicles">Vehicles</a>
+</td>
+<td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./Driving.html" title="Driving">Driving</a>  <span style="font-weight:bold;">·</span> <a href="./Engines.html" title="Engines">Engines</a>  <span style="font-weight:bold;">·</span> <a href="./Making_a_Supercar:_Guide.html" title="Making a Supercar: Guide">Making a Supercar</a>  <span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">Powered Vehicle Design Primer</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_construction.html" title="Vehicle construction">Vehicle construction</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_modifications.html" title="Vehicle modifications">Vehicle modifications</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_parts.html" title="Vehicle parts">Vehicle parts</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_repairs.html" title="Vehicle repairs">Vehicle repairs</a>  <span style="font-weight:bold;">·</span> <a href="./Making_your_first_vehicle_(The_humble_bicycle).html" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="./Gameplay_Mods.html" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./Guide:_Seeker_of_the_Arcane.html" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_How_to_make_a_basic_slime_vehicle.html" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a>   <span style="font-weight:bold;">·</span> <a href="./Magiclysm_:_How_to_be_a_great_magus.html" title="Magiclysm : How to be a great magus">Magiclysm : How to be a great magus</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a class="mw-redirect" href="./Technical.html" title="Technical">Technical</a>
+</td>
+<td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./CataModder.html" title="CataModder">CataModder</a>  <span style="font-weight:bold;">·</span> <a href="./Cheating.html" title="Cheating">Cheating</a>  <span style="font-weight:bold;">·</span> <a href="./Creature_AI.html" title="Creature AI">Creature AI</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_compile.html" title="How to compile">How to compile</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_search_the_sources.html" title="How to search the sources">How to search the sources</a>  <span style="font-weight:bold;">·</span> <a href="./Mod_manager.html" title="Mod manager">Mod Manager</a>  <span style="font-weight:bold;">·</span> <a href="./Gameplay_Mods.html" title="Gameplay Mods">Gameplay Mods</a>  <span style="font-weight:bold;">·</span> <a href="./Savegame_Editing.html" title="Savegame Editing">Savegame Editing</a>  <span style="font-weight:bold;">·</span> <a href="./Tileset_Support.html" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20231223053729
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.078 seconds
+Preprocessor visited node count: 768/1000000
+Preprocessor generated node count: 9930/1000000
+Post‐expand include size: 31981/2097152 bytes
+Template argument size: 14486/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   37.118      1 -total
+ 71.09%   26.387      1 Template:Guides
+ 65.36%   24.259      1 Template:Navbox
+ 19.27%    7.151      1 Template:Ver
+ 17.81%    6.610      1 Template:Navbar
+  8.27%    3.068      2 Template:InlineVer
+  7.92%    2.938      3 Template:Transclude
+  5.85%    2.173     51 Template:Md
+-->
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:4303-0!canonical and timestamp 20231223053729 and revision id 31661
+ -->
+</div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;oldid=31661.html">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;oldid=31661</a>"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="./Special:Categories.html" title="Special:Categories">Categories</a>: <ul><li><a href="./Category:0.C_(Cooper).html" title="Category:0.C (Cooper)">0.C (Cooper)</a></li><li><a href="./Category:Guides.html" title="Category:Guides">Guides</a></li><li><a href="./Category:Vehicles.html" title="Category:Vehicles">Vehicles</a></li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="./index.php?title=Special:CreateAccount&amp;returnto=%28DRbiG%27s%29+Powered+Vehicle+Design+Primer.html" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="./index.php?title=Special:UserLogin&amp;returnto=%28DRbiG%27s%29+Powered+Vehicle+Design+Primer.html" title="You are encouraged to log in; however, it is not mandatory [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="./(DRbiG%27s)_Powered_Vehicle_Design_Primer.html" title="View the content page [c]">Page</a></span></li><li id="ca-talk"><span><a accesskey="t" href="./Talk:(DRbiG%27s)_Powered_Vehicle_Design_Primer.html" rel="discussion" title="Discussion about the content page [t]">Discussion</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="./(DRbiG%27s)_Powered_Vehicle_Design_Primer.html">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="./index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;action=edit.html" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="./index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;action=history.html" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="./index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="./Main_Page.html" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="./Main_Page.html" title="Visit the main page [z]">Main page</a></li><li id="n-recentchanges"><a accesskey="r" href="./Special:RecentChanges.html" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-randompage"><a accesskey="x" href="./Special:Random.html" title="Load a random page [x]">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents.html">Help about MediaWiki</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="./Special:WhatLinksHere/(DRbiG%27s)_Powered_Vehicle_Design_Primer.html" title="A list of all wiki pages that link here [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="./Special:RecentChangesLinked/(DRbiG%27s)_Powered_Vehicle_Design_Primer.html" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-specialpages"><a accesskey="q" href="./Special:SpecialPages.html" title="A list of all special pages [q]">Special pages</a></li><li id="t-print"><a accesskey="p" href="./index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;printable=yes.html" rel="alternate" title="Printable version of this page [p]">Printable version</a></li><li id="t-permalink"><a href="./index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;oldid=31661.html" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="./index.php?title=(DRbiG%27s)_Powered_Vehicle_Design_Primer&amp;action=info.html" title="More information about this page">Page information</a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 January 2019, at 14:15.</li>
+<li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/.html" rel="nofollow">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="./CataclysmDDA:Privacy_policy.html" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="./CataclysmDDA:About.html" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+<li id="footer-places-disclaimer"><a href="./CataclysmDDA:General_disclaimer.html" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://creativecommons.org/licenses/by-sa/3.0/.html"><img alt="Creative Commons Attribution-ShareAlike" height="31" src="./resources/assets/licenses/cc-by-sa.png" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/.html"><img alt="Powered by MediaWiki" height="31" src="./resources/assets/poweredby_mediawiki_88x31.png" srcset="./resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.078","ppvisitednodes":{"value":768,"limit":1000000},"ppgeneratednodes":{"value":9930,"limit":1000000},"postexpandincludesize":{"value":31981,"limit":2097152},"templateargumentsize":{"value":14486,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   37.118      1 -total"," 71.09%   26.387      1 Template:Guides"," 65.36%   24.259      1 Template:Navbox"," 19.27%    7.151      1 Template:Ver"," 17.81%    6.610      1 Template:Navbar","  8.27%    3.068      2 Template:InlineVer","  7.92%    2.938      3 Template:Transclude","  5.85%    2.173     51 Template:Md"]},"cachereport":{"timestamp":"20231223053729","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":80});});</script>
+</body>
+</html>

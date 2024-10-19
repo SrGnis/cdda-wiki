@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Map - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Map","wgTitle":"Map","wgCurRevisionId":40878,"wgRevisionId":40878,"wgArticleId":75,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Unknown version","Candidates for deletion","World"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Map","wgRelevantArticleId":75,"wgRequestId":"ZeC9hcCys4rwGYxd6v5cLgAAAYA","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="./en_mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles_styles_vector" rel="stylesheet"/>
+<script async="" src="./en_startup_scripts_vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="./en_site.styles_styles_vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.1" name="generator"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="./opensearch_desc.php" rel="search" title="The Cataclysm: Dark Days Ahead Wiki (en)" type="application/opensearchdescription+xml"/>
+<link href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="./index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" type="application/atom+xml"/>
+<!--[if lt IE 9]><script src="./en_html5shiv_scripts_vector_1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Map rootpage-Map skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-ver"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="./Category:Unknown_version.html" title="Category:Unknown version">Unknown version</a></abbr></div></div></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Map</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From The Cataclysm: Dark Days Ahead Wiki</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head.html">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search.html">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><br/>
+<b>Overmap</b> is the world map, what you see when you hit the <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">m</span> key, it is essentially endless and can be limited only by external means. <a href="./Character.html" title="Character">Character</a> can see five tiles on the overmap in any direction,  <a href="./Items#binoculars.html" title="Items">binoculars</a> double that distance, but some structures still obstruct range of view. You can also increase the distance further by being on a higher Z-level than the layer of the map you're trying to reveal - the higher the Z-Level, the further the distance. The time of day, and the Cycle of the Moon, will also affect how much of the map will be revealed.
+</p><p>Each overmap tile (e.g. house, crossroad, forest) equates to a single <b>tinymap</b>, or 24x24 player-size tiles. Tinymap is not really used in the code much, but it is available because it is more efficient than a <b>map</b>.
+</p><p><b>Map</b> is 156x156 player-size tiles and used in normal gameplay; the game has a <i>map m</i>, which is the area which is considered "in-play," inside which <a href="./Enemies.html" title="Enemies">monsters</a>, fields, <a href="./Traps.html" title="Traps">traps</a>, etc. will be processed. Other than their respective sizes, map and tinymap are completely identical.
+</p><p>Both tinymap and map are formed of an array of <b>submaps</b>. A submap is 12x12 player-sized tiles, and also keeps track of any fields, items, traps, and computers in that area. Tinymap is made up of 2x2 submaps; map is made up of 13x13 submaps.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overmap_legend.html"><span class="tocnumber">1</span> <span class="toctext">Overmap legend</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Wilderness.html"><span class="tocnumber">1.1</span> <span class="toctext">Wilderness</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Towns.html"><span class="tocnumber">1.2</span> <span class="toctext">Towns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Map_extras.html"><span class="tocnumber">2</span> <span class="toctext">Map extras</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Overmap_legend">Overmap legend</span></h2>
+<h3><span class="mw-headline" id="Wilderness">Wilderness</span></h3>
+<p>Wilderness tiles need some distance from a town to spawn. So if certain locations, like the <a href="./LMOE_shelter.html" title="LMOE shelter">LMOE shelter</a>, or <a href="./Science_lab.html" title="Science lab">labs</a> don't show up, the world settings have too large cities and too little space between them.
+</p><p>The wilderness, also known as the countryside, is the stretches of land and rural areas outside of <a href="./Towns_and_cities.html" title="Towns and cities">cities</a>, compared to the city, it contains more natural resources such as wood, wild plants, and animals, which can be hunted for meat.
+</p><p>The countryside is much safer to stay in than the city, and should be sought after if playing certain scenarios, such as <a href="./Missed.html" title="Missed">Missed</a> and <a href="./Infected.html" title="Infected">Infected</a> <a href="./Scenarios.html" title="Scenarios">scenarios</a>.
+</p><p>Even there, it can have it's fair share of nasty surprises that are unique to the area, ranging from hostile animals, occasional stray zombies, to the extremely dangerous forest dwelling <a href="./Jabberwock.html" title="Jabberwock">Jabberwock</a>.
+</p>
+<table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 0 0 1em 0">
+<tbody><tr style="background-color:lightgreen">
+<th class="unsortable" style="background-color: white; border: 1px solid white">
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white">Name
+</th>
+<th style="border: 1px solid #aaa"><abbr title="See cost, affects how far the player can see in the overmap">See Cost</abbr>
+</th>
+<th style="border: 1px solid #aaa">Extras
+</th></tr>
+<tr id="field" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">.</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Field.html" title="Field">field</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="forest" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">F</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Forest.html" title="Forest">forest</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="forest_trail" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">┘┐┌└├┤┴┬│─┼</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Forest_trail.html" title="Forest trail">forest trail</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="swamp" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">F</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Swamp.html" title="Swamp">swamp</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">4
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+<table class="metadata plainlinks ambox ambox-delete" style="">
+<tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="" decoding="async" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ambox_deletion.png" width="40"/></div></td><td class="mbox-text" style=""><span class="mbox-text-span"><b>This page is a candidate for deletion.</b> The given reason is: <i><b>There are no highways in the game, or if there were, they certainly aren't there anymore.</b></i>
+<p>This notice should remain for a <b>minimum</b> of 1 week after it was placed on the page. If discussion is still ongoing, it should remain until a consensus is reached, after which the page will either be deleted or this notice removed.
+</p><p>If you disagree with its deletion, please discuss your reasons on this page or on its associated talk page, as applicable.
+</p><p>Remember to check <a href="./Special:WhatLinksHere/Map.html" title="Special:WhatLinksHere/Map">if anything links here</a> and <a class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Map&amp;action=history.html" rel="nofollow">the page history</a> before deleting.
+</p><p><small><span class="sysop-show"><i>Administrators: <a class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Map&amp;wpReason=There+are+no+highways+in+the+game%2C+or+if+there+were%2C+they+certainly+aren%27t+there+anymore.&amp;action=delete.html" rel="nofollow">delete this page</a></i></span></small>
+</p>
+<small>Last edit by <a href="./User:Dinnerbeard.html" title="User:Dinnerbeard">Dinnerbeard</a> (<a class="new" href="./index.php?title=User_talk:Dinnerbeard&amp;action=edit&amp;redlink=1.html" title="User talk:Dinnerbeard (page does not exist)">talk</a> · <a href="./Special:Contributions/Dinnerbeard.html" title="Special:Contributions/Dinnerbeard">contrib</a>) · Last edited on Fri, 01 Dec 2023 17:40:59 +0000</small><span class="hide-when-compact"> </span><span class="hide-when-compact"> </span></span></td></tr></tbody></table>
+<p><br/>
+</p><p><br/>
+</p>
+</td></tr>
+<tr id="highway" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">H</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Highway.html" title="Highway">highway</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">road
+</td></tr>
+<tr id="road" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">┘┐┌└├┤┴┬│─┼</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Road.html" title="Road">road</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">road
+</td></tr>
+<tr id="bridge" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">|-</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Bridge.html" title="Bridge">bridge</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">road
+</td></tr>
+<tr id="river" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">R</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./River.html" title="River">river</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">1
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="river_bank" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">R</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./River_bank.html" title="River bank">river bank</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">1
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="cabin" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:DarkGreen; border:1px black solid">C</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Cabin.html" title="Cabin">cabin</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="dirt_lot" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Dirt_lot.html" title="Dirt lot">dirt lot</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">1
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="farm" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:SaddleBrown; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Farm.html" title="Farm">farm</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="farm_field" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:SaddleBrown; border:1px black solid">#</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Farm_field.html" title="Farm field">farm field</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="prison" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:RoyalBlue; border:1px black solid">p</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Prison.html" title="Prison">prison</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="mansion" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">M</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Mansion.html" title="Mansion">mansion</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="FEMA_camp" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:blue; border:1px black solid">F</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./FEMA_camp.html" title="FEMA camp">FEMA camp</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="LMOE_shelter" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./LMOE_shelter.html" title="LMOE shelter">LMOE shelter</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="evac_shelter" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Evac_shelter.html" title="Evac shelter">evac shelter</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="Refugee_center" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Refugee_center.html" title="Refugee center">Refugee center</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="science_lab" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">L</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Science_lab.html" title="Science lab">science lab</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="nuclear_plant" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">N</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Nuclear_plant.html" title="Nuclear plant">nuclear plant</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="military_bunker" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">B</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Military_bunker.html" title="Military bunker">military bunker</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="military_outpost" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">M</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Military_outpost.html" title="Military outpost">military outpost</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="missile_silo" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Missile_silo.html" title="Missile silo">missile silo</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="strange_temple" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">T</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Strange_temple.html" title="Strange temple">strange temple</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sewage_treatment" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">P</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Sewage_treatment.html" title="Sewage treatment">sewage treatment</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="mine_entrance" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">M</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Mine_entrance.html" title="Mine entrance">mine entrance</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="mine_shaft" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Mine_shaft.html" title="Mine shaft">mine shaft</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="mine" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">M</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Mine.html" title="Mine">mine</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="spiral_cavern" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">@</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Spiral_cavern.html" title="Spiral cavern">spiral cavern</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="toxic_waste_dump" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">D</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Toxic_waste_dump.html" title="Toxic waste dump">toxic waste dump</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hazardous_waste_sarcophagus" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">X</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hazardous_waste_sarcophagus.html" title="Hazardous waste sarcophagus">hazardous waste sarcophagus</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">none
+</td></tr>
+<tr id="cave" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">C</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Cave.html" title="Cave">cave</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="rat_cave" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">C</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Rat_cave.html" title="Rat cave">rat cave</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="bee_hive" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">8</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Bee_hive.html" title="Bee hive">bee hive</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">3
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="fungal_bloom" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">T</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Fungal_bloom.html" title="Fungal bloom">fungal bloom</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">Marloss
+</td></tr>
+<tr id="cavern" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">0</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Cavern.html" title="Cavern">cavern</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="anthill" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">%</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Anthill.html" title="Anthill">anthill</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="slime_pit" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">~</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Slime_pit.html" title="Slime pit">slime pit</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="triffid_grove" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">T</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Triffid_grove.html" title="Triffid grove">triffid grove</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="solid_rock" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">%</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Solid_rock.html" title="Solid rock">solid rock</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="rift" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Rift.html" title="Rift">rift</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hellmouth" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">^</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hellmouth.html" title="Hellmouth">hellmouth</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="ant_tunnel" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">┘┐┌└├┤┴┬│─┼</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Ant_tunnel.html" title="Ant tunnel">ant tunnel</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="ant_food_storage" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Ant_food_storage.html" title="Ant food storage">ant food storage</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="ant_larva_chamber" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Ant_larva_chamber.html" title="Ant larva chamber">ant larva chamber</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="ant_queen_chamber" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Ant_queen_chamber.html" title="Ant queen chamber">ant queen chamber</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="sugar_house" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; i-brown; border:1px black solid">S</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Sugar_house.html" title="Sugar house">sugar house</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">0
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr></tbody></table>
+<p><br/>
+</p>
+<h3><span class="mw-headline" id="Towns"><a href="./Towns_and_cities.html" title="Towns and cities">Towns</a></span></h3>
+<p>Villages (when small), the bigger towns, and the even bigger cities are the locations where many modern urban necessities are found, unfortunately they are the epicentre for the biggest <a href="./Zombie.html" title="Zombie">zombie</a> hordes in the game.
+</p><p>They can range from small hamlets with a typical minimum of only two little <a href="./House.html" title="House">houses</a> and few <a href="./Zombies.html" title="Zombies">zombies</a>, to bustling and dangerous cities with an extensive sewage system, subway systems, and tall skyscrapers, filled with thousands of zombies that make escaping the huge city a great challenge.
+</p><p>Cities are much more dangerous than the <a href="./Wilderness.html" title="Wilderness">wilderness</a>, and will get even more dangerous as the days go on due to zombie evolution, but the high quality loot found in cities is highly desirable for before a player retreats for the wilderness, making it much easier to survive for longer periods before a player will want to have another venture back to the cities.
+</p><p>As of <a href="./0.D_(Danny).html" title="0.D (Danny)">0.D (Danny)</a>, towns and cities will spawn with randomly generated names. See the <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">m</span>ap for the names, you can turn off if the names are visible or not.
+</p><p>The <a href="./Necropolis.html" title="Necropolis">Necropolis</a> is a rare city with an organised layout that is always the same when it spawns, as well as the usual zombies found, it is the only place where the rare <a href="./Irradiated_wanderer.html" title="Irradiated wanderer">irradiated wanderer</a> spawns.
+</p>
+<table cellpadding="3" class="sortable" style="border-collapse: collapse; margin: 0 0 1em 0">
+<tbody><tr style="background-color:lightgreen">
+<th class="unsortable" style="background-color: white; border: 1px solid white">
+</th>
+<th style="border: 1px solid #aaa; border-left-color: white">Name
+</th>
+<th style="border: 1px solid #aaa"><abbr title="See cost, affects how far the player can see in the overmap">See Cost</abbr>
+</th>
+<th style="border: 1px solid #aaa">Extras
+</th></tr>
+<tr id="crater" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Crater.html" title="Crater">crater</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">field
+</td></tr>
+<tr id="house" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./House.html" title="House">house</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="parking_lot" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Parking_lot.html" title="Parking lot">parking lot</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">1
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="park" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Park.html" title="Park">park</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="pool" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Pool.html" title="Pool">pool</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="gas_station" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Gas_station.html" title="Gas station">gas station</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="pharmacy" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Pharmacy.html" title="Pharmacy">pharmacy</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="office" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Office.html" title="Office">office</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="apartment_tower" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lime; background:black; border:1px black solid">A</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Apartment_tower.html" title="Apartment tower">apartment tower</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="office_tower" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">Tt</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Office_tower.html" title="Office tower">office tower</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="tower_parking" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">p</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Tower_parking.html" title="Tower parking">tower parking</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="church" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:salmon; background:black; border:1px black solid">C</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Church.html" title="Church">church</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="cathedral" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:salmon; border:1px black solid">C</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Cathedral.html" title="Cathedral">cathedral</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="cathedral_basement" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:salmon; border:1px black solid">C</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Cathedral_basement.html" title="Cathedral basement">cathedral basement</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="grocery_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Grocery_store.html" title="Grocery store">grocery store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="hardware_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hardware_store.html" title="Hardware store">hardware store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="electronics_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Electronics_store.html" title="Electronics store">electronics store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="sporting_goods_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:cyan; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Sporting_goods_store.html" title="Sporting goods store">sporting goods store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="liquor_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:MediumOrchid; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Liquor_store.html" title="Liquor store">liquor store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="gun_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Gun_store.html" title="Gun store">gun store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="clothing_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Clothing_store.html" title="Clothing store">clothing store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="library" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:SaddleBrown; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Library.html" title="Library">library</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="restaurant" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Restaurant.html" title="Restaurant">restaurant</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="fast_food_restaurant" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Fast_food_restaurant.html" title="Fast food restaurant">fast food restaurant</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="coffee_shop" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:magenta; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Coffee_shop.html" title="Coffee shop">coffee shop</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="subway_station" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:black; border:1px black solid">S</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Subway_station.html" title="Subway station">subway station</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">subway
+</td></tr>
+<tr id="garage" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Garage.html" title="Garage">garage</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="police_station" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:yellow; background:blue; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Police_station.html" title="Police station">police station</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="bank" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Bank.html" title="Bank">bank</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="bar" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:MediumOrchid; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Bar.html" title="Bar">bar</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="pawn_shop" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Pawn_shop.html" title="Pawn shop">pawn shop</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="mil._surplus" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:lightgray; border:1px black solid">M</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Mil._surplus.html" title="Mil. surplus">mil. surplus</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="furniture_store" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:SaddleBrown; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Furniture_store.html" title="Furniture store">furniture store</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="abandoned_storefront" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">^&gt;v&lt;</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Abandoned_storefront.html" title="Abandoned storefront">abandoned storefront</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="megastore" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkblue; background:black; border:1px black solid">M</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Megastore.html" title="Megastore">megastore</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="hospital" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:red; background:black; border:1px black solid">H</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hospital.html" title="Hospital">hospital</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="public_works" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">Ww</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Public_works.html" title="Public works">public works</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="regional_school" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">s</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Regional_school.html" title="Regional school">regional school</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hotel_parking" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">h</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hotel_parking.html" title="Hotel parking">hotel parking</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hotel_entrance" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">H</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hotel_entrance.html" title="Hotel entrance">hotel entrance</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hotel_tower" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">H</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hotel_tower.html" title="Hotel tower">hotel tower</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="hotel_basement" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:RoyalBlue; background:black; border:1px black solid">B</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Hotel_basement.html" title="Hotel basement">hotel basement</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="radio_station" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:black; background:lightgray; border:1px black solid">X</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Radio_station.html" title="Radio station">radio station</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr>
+<tr id="evac_shelter" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:white; background:black; border:1px black solid">+</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Evac_shelter.html" title="Evac shelter">evac shelter</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="radio_tower" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:lightgray; background:black; border:1px black solid">X</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Radio_tower.html" title="Radio tower">radio tower</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">2
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+<p>Radio towers are tall structures surrounded by chain link fences. Sometimes a small building exists on the base. The tower has several levels connected by stairs. The top floor sometimes contains loot such as military gear, survivor telescopes and other equipment suggesting either a military sniper ( military gear, rifles, binoculars) or a scouting survivor (survivor telescope, survivor notes). Wasp nests may grow on the upper levels. Using a <a href="./Radio.html" title="Radio">radio</a> near a tower may yield a radio signal. Scan to find it.
+</p><p>The height of the tower allows you to see scout the map of the nearby area. There may be electronic loot in the building at the base. In general it's low risk decent reward as long there's no wasp nest or other hostile entities.
+</p>
+</td></tr>
+<tr id="basement" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Basement.html" title="Basement">basement</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="subway" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DimGray; background:black; border:1px black solid">┘┐┌└├┤┴┬│─┼</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Subway.html" title="Subway">subway</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">subway
+</td></tr>
+<tr id="sewer" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">┘┐┌└├┤┴┬│─┼</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Sewer.html" title="Sewer">sewer</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="tutorial_room" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:darkcyan; background:black; border:1px black solid">O</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Tutorial_room.html" title="Tutorial room">tutorial room</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">
+</td></tr>
+<tr id="candy_shop" style="text-align:left;">
+<td style="border: 1px dashed white; padding: 0.1em 0.2em 0.1em 0; text-align:right"><span style="font: 1em FixedSys, monospace; color:DarkGreen; background:black; border:1px black solid">c</span>
+</td>
+<td style="border: 1px solid #aaa; border-left-color: white; padding: 0.2em 0.5em 0.2em 0.2em"><a href="./Candy_shop.html" title="Candy shop">candy shop</a>
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em; text-align:center">5
+</td>
+<td style="border: 1px solid #aaa; padding: 0.2em 0.5em">building
+</td></tr></tbody></table>
+<p><br/>
+</p>
+<h2><span class="mw-headline" id="Map_extras">Map extras</span></h2>
+<ul><li><a href="./Crash_Site.html" title="Crash Site">Helicopter crash site</a> <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">May contains uncommon bionics, or random guns, or items from dead soldier or scientist.</abbr></span></li>
+<li>Dead military squad <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">2d6 bodies with military equipment, sometimes ID card, and some rare items.</abbr></span></li>
+<li>Dead scientists <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">2d5 bodies with scientific equipment, always ID cards, and some rare items.</abbr></span></li>
+<li>Stash, rounded with traps <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">Trash, wood, drugs, food, ammo, or rare items.</abbr></span></li>
+<li>Dead drug-dealers <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">2x3d3 bodies, sometimes with melee weapons or firearms, and always <b>lots</b> of heroin, meth, cocaine, or weed.</abbr></span></li>
+<li>Supply drop <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">1-5 locked crates with military food, grenades, armor, and rifles.</abbr></span></li>
+<li><a href="./Traps#shimmering_portal.html" title="Traps">Portal</a>, surrounded by rubble <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">Spawn of 0-4 random nether monsters.</abbr></span></li>
+<li><a href="./Land_mine.html" title="Land mine">Minefield</a> <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">Beware of dirt mounds! Look for the signs warning of the minefield.</abbr></span></li>
+<li><a href="./Wolf_(monster).html" title="Wolf (monster)">Wolf pack</a> <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">Spawn of 3-6 beasts.</abbr></span></li>
+<li>Puddle of shallow water</li>
+<li>Crater (these differ from regular ones <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">- they are always highly radioactive</abbr></span>)</li>
+<li><a href="./Lava.html" title="Lava">Fumarole</a> (some lava on the surface)</li>
+<li>One-way portal from Nether world <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">Marloss, and sometimes gelatinous blobs, flaming eyes, krecks, and blank bodies.</abbr></span></li>
+<li>Anomaly <span class="spoiler" style="border-right:1px solid black; border-left:1px solid black; background: black; padding: 0 0.4em; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em;"><abbr title="SPOILER ALERT! (Select the text if you still want to read it)">with natural artifact and traps, which are related to its effects</abbr></span>.</li></ul>
+<p>Chances of appearance by extras flag:
+</p>
+<table border="1" cellpadding="3" style="border-collapse: collapse; border-color: white #aaa #aaa white">
+<tbody><tr>
+<th style="border-color: #aaa">
+</th>
+<th style="border-color: #aaa">%%%
+</th>
+<th style="border-color: #aaa">HEL
+</th>
+<th style="border-color: #aaa">MIL
+</th>
+<th style="border-color: #aaa">SCI
+</th>
+<th style="border-color: #aaa">STA
+</th>
+<th style="border-color: #aaa">DRG
+</th>
+<th style="border-color: #aaa">SUP
+</th>
+<th style="border-color: #aaa">PRT
+</th>
+<th style="border-color: #aaa">MIN
+</th>
+<th style="border-color: #aaa">WLF
+</th>
+<th style="border-color: #aaa">PUD
+</th>
+<th style="border-color: #aaa">CRT
+</th>
+<th style="border-color: #aaa">FUM
+</th>
+<th style="border-color: #aaa">1WY
+</th>
+<th style="border-color: #aaa">ART
+</th></tr>
+<tr style="text-align:right">
+<th style="border-color: #aaa">road
+</th>
+<td style="border-color: #aaa">50
+</td>
+<td style="border-color: #aaa">40
+</td>
+<td style="border-color: #aaa">50
+</td>
+<td style="border-color: #aaa">120
+</td>
+<td style="border-color: #aaa">200
+</td>
+<td style="border-color: #aaa">30
+</td>
+<td style="border-color: #aaa">10
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">80
+</td>
+<td style="border-color: #aaa">20
+</td>
+<td style="border-color: #aaa">200
+</td>
+<td style="border-color: #aaa">10
+</td>
+<td style="border-color: #aaa">8
+</td>
+<td style="border-color: #aaa">2
+</td>
+<td style="border-color: #aaa">3
+</td></tr>
+<tr style="text-align:right">
+<th style="border-color: #aaa">field
+</th>
+<td style="border-color: #aaa">60
+</td>
+<td style="border-color: #aaa">40
+</td>
+<td style="border-color: #aaa">15
+</td>
+<td style="border-color: #aaa">40
+</td>
+<td style="border-color: #aaa">80
+</td>
+<td style="border-color: #aaa">10
+</td>
+<td style="border-color: #aaa">10
+</td>
+<td style="border-color: #aaa">3
+</td>
+<td style="border-color: #aaa">50
+</td>
+<td style="border-color: #aaa">30
+</td>
+<td style="border-color: #aaa">300
+</td>
+<td style="border-color: #aaa">10
+</td>
+<td style="border-color: #aaa">8
+</td>
+<td style="border-color: #aaa">1
+</td>
+<td style="border-color: #aaa">3
+</td></tr>
+<tr style="text-align:right">
+<th style="border-color: #aaa">subway
+</th>
+<td style="border-color: #aaa">75
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">12
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">7
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">120
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">20
+</td>
+<td style="border-color: #aaa">1
+</td>
+<td style="border-color: #aaa">3
+</td></tr>
+<tr style="text-align:right">
+<th style="border-color: #aaa">building
+</th>
+<td style="border-color: #aaa">90
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">12
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">10
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">5
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">0
+</td>
+<td style="border-color: #aaa">60
+</td>
+<td style="border-color: #aaa">8
+</td>
+<td style="border-color: #aaa">1
+</td>
+<td style="border-color: #aaa">3
+</td></tr></tbody></table>
+<p>Chances are relative to each other; e.g. a 200 chance is twice as likely as a 100 chance to appear.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20240229024322
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.745 seconds
+Real time usage: 1.570 seconds
+Preprocessor visited node count: 8561/1000000
+Preprocessor generated node count: 12659/1000000
+Post‐expand include size: 196081/2097152 bytes
+Template argument size: 19557/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 316/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  761.580      1 -total
+ 53.31%  405.968      1 Wilderness
+ 44.08%  335.732      1 Towns_and_cities
+ 26.48%  201.662     98 Template:Row/Map1
+ 16.98%  129.308     98 Template:Igs
+ 12.29%   93.612     98 Template:Colors
+  7.52%   57.268      1 Highway
+  6.95%   52.895      1 Template:Delete
+  6.52%   49.685      1 Template:Mbox
+  5.51%   41.991      1 Template:Ambox
+-->
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:75-0!canonical and timestamp 20240229024321 and revision id 40878
+ -->
+</div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Map&amp;oldid=40878.html">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Map&amp;oldid=40878</a>"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="./Special:Categories.html" title="Special:Categories">Categories</a>: <ul><li><a href="./Category:Unknown_version.html" title="Category:Unknown version">Unknown version</a></li><li><a href="./Category:Candidates_for_deletion.html" title="Category:Candidates for deletion">Candidates for deletion</a></li><li><a href="./Category:World.html" title="Category:World">World</a></li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="./index.php?title=Special:CreateAccount&amp;returnto=Map.html" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="./index.php?title=Special:UserLogin&amp;returnto=Map.html" title="You are encouraged to log in; however, it is not mandatory [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="./Map.html" title="View the content page [c]">Page</a></span></li><li id="ca-talk"><span><a accesskey="t" href="./Talk:Map.html" rel="discussion" title="Discussion about the content page [t]">Discussion</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="./Map.html">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="./index.php?title=Map&amp;action=edit.html" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="./index.php?title=Map&amp;action=history.html" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="./index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="./Main_Page.html" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="./Main_Page.html" title="Visit the main page [z]">Main page</a></li><li id="n-recentchanges"><a accesskey="r" href="./Special:RecentChanges.html" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-randompage"><a accesskey="x" href="./Special:Random.html" title="Load a random page [x]">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents.html">Help about MediaWiki</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="./Special:WhatLinksHere/Map.html" title="A list of all wiki pages that link here [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="./Special:RecentChangesLinked/Map.html" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-specialpages"><a accesskey="q" href="./Special:SpecialPages.html" title="A list of all special pages [q]">Special pages</a></li><li id="t-print"><a accesskey="p" href="./index.php?title=Map&amp;printable=yes.html" rel="alternate" title="Printable version of this page [p]">Printable version</a></li><li id="t-permalink"><a href="./index.php?title=Map&amp;oldid=40878.html" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="./index.php?title=Map&amp;action=info.html" title="More information about this page">Page information</a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 December 2023, at 17:40.</li>
+<li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/.html" rel="nofollow">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="./CataclysmDDA:Privacy_policy.html" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="./CataclysmDDA:About.html" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+<li id="footer-places-disclaimer"><a href="./CataclysmDDA:General_disclaimer.html" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://creativecommons.org/licenses/by-sa/3.0/.html"><img alt="Creative Commons Attribution-ShareAlike" height="31" src="./resources/assets/licenses/cc-by-sa.png" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/.html"><img alt="Powered by MediaWiki" height="31" src="./resources/assets/poweredby_mediawiki_88x31.png" srcset="./resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.745","walltime":"1.570","ppvisitednodes":{"value":8561,"limit":1000000},"ppgeneratednodes":{"value":12659,"limit":1000000},"postexpandincludesize":{"value":196081,"limit":2097152},"templateargumentsize":{"value":19557,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":316,"limit":5000000},"timingprofile":["100.00%  761.580      1 -total"," 53.31%  405.968      1 Wilderness"," 44.08%  335.732      1 Towns_and_cities"," 26.48%  201.662     98 Template:Row/Map1"," 16.98%  129.308     98 Template:Igs"," 12.29%   93.612     98 Template:Colors","  7.52%   57.268      1 Highway","  6.95%   52.895      1 Template:Delete","  6.52%   49.685      1 Template:Mbox","  5.51%   41.991      1 Template:Ambox"]},"cachereport":{"timestamp":"20240229024322","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":66});});</script>
+</body>
+</html>

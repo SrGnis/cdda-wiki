@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Savegame Editing - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Savegame_Editing","wgTitle":"Savegame Editing","wgCurRevisionId":39029,"wgRevisionId":39029,"wgArticleId":3643,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["0.E (Ellison)","Stub","Technical"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Savegame_Editing","wgRelevantArticleId":3643,"wgRequestId":"ZYdVqBUcku2zb31oGiNdMAAAAZI","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="./en_jquery.makeCollapsible.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles_styles_vector" rel="stylesheet"/>
+<script async="" src="./en_startup_scripts_vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="./en_site.styles_styles_vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.1" name="generator"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="./opensearch_desc.php" rel="search" title="The Cataclysm: Dark Days Ahead Wiki (en)" type="application/opensearchdescription+xml"/>
+<link href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="./index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" type="application/atom+xml"/>
+<!--[if lt IE 9]><script src="./en_html5shiv_scripts_vector_1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Savegame_Editing rootpage-Savegame_Editing skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-ver"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:"><a href="./0.E_(Ellison).html" title="0.E (Ellison)">0.E (Ellison)</a></abbr></div></div></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Savegame Editing</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From The Cataclysm: Dark Days Ahead Wiki</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head.html">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search.html">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><pre><b>This guide works for <a href="./0.E_(Ellison).html" title="0.E (Ellison)">0.E (Ellison)</a></b>
+</pre>
+<table style="text-align: left; margin: 1em 0; border: 1px solid #333333; border-left:4px solid; padding: .2em 1em .2em 0.6em; border-radius: 0 .7em .7em 0; -moz-border-radius: 0 .7em .7em 0; -webkit-border-radius: 0 .7em .7em 0; background: #FFEDCC; font: 1.1em Consolas, monospace; color: #333333;">
+<tbody><tr>
+<td><b>This page is not complete enough; please help if you can.</b><br/>The topic needs: more prowling in the source-code, some help on NPCs (doubt it is even really possible without breaking stuff)
+</td></tr></tbody></table>
+<p><br/>
+</p><p><b>Where to find your savegame and world files</b>
+</p><p>Mac OS X: 
+(Home Dir)/Library/Application Support/Cataclysm ... the ~/Library folder is hidden, so you'll have to do Cmd+Shift+. in order to show them if they're not already visible.
+</p><p>Linux: 
+~/.cataclysm-dda
+</p><p>Windows: 
+(C:DDA install directory)\save
+</p><p><br/>
+<b>Editing your savegame</b>
+</p><p>The savegame files for Cataclysm: Dark Days Ahead are all saved on a (most of the time) easily readable format, it is possible to simply open and edit them with any text editor. You can move your character(s) between worlds/versions - useful when using the unstable branch - or edit your location in world. You can add a vehicle someone else made to your map right next to your character or edit such character giving him whatever bionics, mutations and items you wish.
+</p><p>To edit files, you can any text editor which supports large-files (not limited by memory) like <a class="external text" href="http://notepad-plus-plus.org/download/v6.5.5.html" rel="nofollow">Notepad++</a>, <a class="external text" href="http://jedit.org/index.php?page=download.html" rel="nofollow">jEdit</a> (cross-platform), <a class="external text" href="http://www.vim.org/download.php.html" rel="nofollow">Vim</a> or <a class="external text" href="https://www.gnu.org/software/emacs/.html" rel="nofollow">Emacs</a> (a little bit hard to use but most powerful than any of the available Text-Editors on the market, provided you know how to use it). Any compatible Text-Editor is enough, you should use the one you know how to use or the one you're used to.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Editing_your_character.html"><span class="tocnumber">1</span> <span class="toctext"><b>Editing your character</b></span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Moving_characters_and_optionally_vehicle.html"><span class="tocnumber">2</span> <span class="toctext"><b>Moving characters and optionally vehicle</b></span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Transferring_character_and_vehicle_.28plus_contents.29_between_worlds_in_C:DDA.html"><span class="tocnumber">2.1</span> <span class="toctext">Transferring character and vehicle (plus contents) between worlds in C:DDA</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Pre-transfer_instructions:.html"><span class="tocnumber">2.1.1</span> <span class="toctext">Pre-transfer instructions:</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Transfer_step_one:_character_save_files.html"><span class="tocnumber">2.1.2</span> <span class="toctext">Transfer step one: character save files</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Transfer_step_two:_locate_final_important_files.html"><span class="tocnumber">2.1.3</span> <span class="toctext">Transfer step two: locate final important files</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Transfer_step_three:_vehicle_transfer.html"><span class="tocnumber">2.1.4</span> <span class="toctext">Transfer step three: vehicle transfer</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Transfer_step_four:_character_transfer.html"><span class="tocnumber">2.1.5</span> <span class="toctext">Transfer step four: character transfer</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Transfer_step_five:_final_transfer.html"><span class="tocnumber">2.1.6</span> <span class="toctext">Transfer step five: final transfer</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Editing_your_character"><b>Editing your character</b></span></h2>
+<p>To edit your character you only need to edit its associated file:
+</p>
+<ul><li>[character_name].sav</li></ul>
+<p>Cataclysm though uses a different name when saving your character, so the best way to find this file is to save your character and them lookup for the most recently modified '.sav', that will be the one.
+Once you open it, the data is pretty self explanatory. Here are the interesting categories:
+</p><p>"player": Contains all the data of your character, such as stats and effects. Also contains a male = true line you can change if you want to change sex without restarting.
+"traits": Subcategory where you can access your traits
+"skill": Your skills
+"my_bionics": All of your bionics
+</p><p>You can edit this file just as you'd edit any other, but make sure you are using either a plain text editor (notepad) or a source-code editor (Notepad++, Scintilla) else you'll corrupt the file
+</p>
+<h2><span class="mw-headline" id="Moving_characters_and_optionally_vehicle"><b>Moving <a href="./Character.html" title="Character">characters</a> and optionally <a class="mw-redirect" href="./Vehicle.html" title="Vehicle">vehicle</a></b></span></h2>
+<p>Last tested for <a href="./0.E_(Ellison).html" title="0.E (Ellison)">0.E (Ellison)</a> worked for both the vehicle and the character, if you encounter errors, mention them on the talk page please.
+</p><p><br/>
+This is how you can move your character between different worlds on the same or different revisions. Keep in mind strange mysterious things may happen if you move not only to a different world, but to a different version (<a href="./0.8_(Romero).html" title="0.8 (Romero)">0.8 (Romero)</a> or <a href="./0.9_(Ma).html" title="0.9 (Ma)">0.9 (Ma)</a> to <a href="./0.A_(Kaufman).html" title="0.A (Kaufman)">0.A (Kaufman)</a>, for instance). If you want to move between versions and worlds, it is better to first load your old save in the new version, and save that (after working through the bugs) and then transfer your character to a new world. (Moreover, it is best to move one version step at a time - from <a href="./0.C_(Cooper).html" title="0.C (Cooper)">0.C (Cooper)</a> to <a href="./0.D_(Danny).html" title="0.D (Danny)">0.D (Danny)</a> before trying loading into <a href="./0.E_(Ellison).html" title="0.E (Ellison)">0.E (Ellison)</a>, for instance.)
+<b>BACK UP YOUR FILES FIRST!</b>
+</p>
+<h3><span id="Transferring_character_and_vehicle_(plus_contents)_between_worlds_in_C:DDA"></span><span class="mw-headline" id="Transferring_character_and_vehicle_.28plus_contents.29_between_worlds_in_C:DDA">Transferring character and vehicle (plus contents) between worlds in C:DDA</span></h3>
+<p>Terms used:
+</p>
+<ul><li><i>SourceChar</i> (character in old world, to be transferred to new world)</li>
+<li><i>TargetChar</i> (character in new world, sacrifice to be converted into SourceChar, all equipment, skills, and stats, etc will be lost)</li>
+<li><i>SourceCar</i> (car in old world, must have a unique name, if in doubt name it sourcecar before saving your game and doing the transfer)</li>
+<li><i>TargetCar</i> (car in new world that is unimportant, will be removed from reality and replaced with old vehicle, must have a unique name, if in doubt name it targetcar)</li></ul>
+<p>Important files from old save: (The 'encoded_character_name' part which looks like random gibberish is your character name in base-64, and can be read using something such as <a class="external text" href="https://www.base64decode.org/.html" rel="nofollow">an base64 decoder</a>)
+</p>
+<ul><li><i>[encoded_character_name].sav</i></li>
+<li><i>[encoded_character_name].log</i></li>
+<li><i>[encoded_character_name].apu.json</i></li>
+<li><i>artifacts.gsav</i> - optional if you have <a class="mw-redirect" href="./Artifact.html" title="Artifact">artifacts</a></li>
+<li><i>uistate.json</i> - optional if you have filter settings.</li></ul>
+<h4><span class="mw-headline" id="Pre-transfer_instructions:">Pre-transfer instructions:</span></h4>
+<p>First off, go to your vehicle and make sure it has a unique name with the e key, <i>SourceCar</i> is the default used in this guide. After making sure of that, stand outside in open space on the surface (not above or below ground or in a vehicle) and save your game.
+</p><p>Second, create a new world with the same mods (or a compatible modlist, you can usually also add mods) and create a character in that world. Go find a car in a large open space such as in between cities on a road and rename it to a unique name - <i>TargetCar</i> will be used in this guide.
+</p>
+<h4><span class="mw-headline" id="Transfer_step_one:_character_save_files">Transfer step one: character save files</span></h4>
+<p>Find your save in: '[path to cataclysm]\save\[name of your world]'. Backup old save and copy needed files to the new directory. The majority of the files in your old save will not be used, so you can either backup the save, or just copy the few files you need to edit and delete the old save. Inside your old save folder, you will find a number of files with a large 'gibberish' name including .log, .apu.json, .sav -- these are your character data files, and need to be saved. In addition, if you have artifacts you need to copy artifacts.gsav over. If you would like to save your filter settings, also copy over uistate.json.
+</p>
+<h4><span class="mw-headline" id="Transfer_step_two:_locate_final_important_files">Transfer step two: locate final important files</span></h4>
+<p>Next you need to find the specific map file your vehicle is in. The easiest way to do this is to use your computers 'last changed/modified' system for the files. Don't play for a short while, load the game, dropping or picking something up, and save and quit -- this will save just nearby areas, leading to an easy to check 'modified' time - you can then delete everything that was not modified recently and have much less to check. You will see a large number of folders in the map directory, but you can also cut it down further by deleting any that do not end in .0 -- these are ground level, and your vehicle is most likely on the surface. Locate the proper map file (open recently saved ones and search for <i>TargetCar</i> - the file you find it in is the only file you need) and once you have it found, locate your vehicle data inside of it. Do this for both old and new worlds, as we need to access both vehicles.
+</p>
+<h4><span class="mw-headline" id="Transfer_step_three:_vehicle_transfer">Transfer step three: vehicle transfer</span></h4>
+<p>Once you have your vehicle's name located in a .map file, find the full data from the start. This will look something like the following at the start:
+</p>
+<pre>{"type":"car","posx":0,"posy":10,"om_id":0,"faceDir":180,"moveDir":0,"turn_dir":180,"velocity":0,"falling":false,"cruise_velocity":0,"vertical_velocity":0,
+"cruise_on":true,"engine_on":false,"tracking_on":false,"skidding":false,"of_turn_carry":0.000000,"name":"SourceCar","parts":[{ ... etc
+</pre>
+<p>To fully select the vehicle, it is easiest to use something that highlights brackets, such as <a class="external text" href="http://notepad-plus-plus.org/.html" rel="nofollow">Notepad++</a> - we need to copy the entire vehicle data to an empty file to verify it as well as swap out some basic values. For Notepad++, put the cursor before the <i>{"type":"</i> and hit enter to split it onto a new line, then <span style="background-color: #F0F0F0; color: #333333; width: 2em; border: 1px outset #666; border-radius: .3em; -moz-border-radius: .3em; -webkit-border-radius: .3em; margin:0; padding:1px 2px; clear:none; font-family:monospace; font-size:1.2em">ctrl+b</span> to go to the matching bracket, and once behind it, hit enter again to split the vehicle completely out of the mess. For reference, the last bit of the vehicle data should be something similar to <i>"autodrive_local_target":[0,0,0]}</i> with either more vehicle 
+data after that for other vehicles, or <i>]}</i> for the end of the local area. After that, you can easily copy it to a new notepad sheet to work on easier, and it is easy to undo the steps to put it back if you have not made a backup.
+</p><p>Repeat this process to locate your <i>TargetCar</i> in the new save and copy it out of the save into its own empty file as well. Once this is done, you need to copy some values (starting from the <i>posx</i> part up to just before the <i>name</i> part) from the <i>TargetCar</i> to the <i>SourceCar</i> - this makes sure that when you put the vehicle into the new save that it will be facing the same way, same speed, etc. After that is done, place the entire chunk of <i>SourceCar</i> into the map file in the new save where <i>TargetCar</i> came from, and ensure it is back in proper shape (all one line, not missing any brackets) and then save the file. This should place your vehicle from the old save into the new save where the sacrificial <i>TargetCar</i> was sitting.
+</p>
+<h4><span class="mw-headline" id="Transfer_step_four:_character_transfer">Transfer step four: character transfer</span></h4>
+<p>Once that is done, all the remains is the character. In this case, open the 'gibberish'.sav from both your new and old worlds. The following needs to be copied from the <i>TargetChar</i> to <i>SourceChar</i> before moving it:
+</p>
+<pre>mostseen, levx, levy, levz, om_x, om_y, grscent, active_monsters, stair_monsters
+</pre>
+<p>When those have been replaced, search for active_mission and set the value to -1, then you need to delete everything from the following sections (everything between the brackets beside them):
+</p>
+<pre>active_missions, completed_missions, failed_missions, known_traps
+</pre>
+<p>After deleting all those, copy your entire <i>SourceChar</i> and replace <i>TargetChar</i> with it (be careful to copy the files in the folders, not the contents of the .sav files). The changes you have made will prevent any issues with missions by clearing mission data, prevent potential ghost traps by removing remembered trap data, and place your character where the sacrificial character was previously located.
+</p>
+<h4><span class="mw-headline" id="Transfer_step_five:_final_transfer">Transfer step five: final transfer</span></h4>
+<p>Next we simply need to copy over the .log, .apu.json, artifacts.gsav, and uistat.json (last is optional, artifacts.gsav only needed if you or your vehicle has artifacts) -- keep in mind the .log and .apu.json need the same name as the .sav to be properly used, in case you have changed the character name between the worlds.
+</p><p class="mw-empty-elt">
+</p>
+<table cellspacing="0" class="navbox" style="background:transparent; width:100%; vertical-align:middle; border-color: #A5D6D6;;">
+<tbody><tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed" style="width:100%;background:transparent;color:inherit;;">
+<tbody><tr>
+<th class="navbox-title" colspan="2" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;"><div style="float:left; width:6em;text-align:left;"> <div class="noprint plainlinks hlist navbar mini" style=""><ul><li class="nv-view"><a href="./Template:Guides.html" title="Template:Guides"><span style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;" title="View this template">v</span></a></li><li class="nv-talk"><a href="./Template_talk:Guides.html" title="Template talk:Guides"><span style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;" title="Discuss this template">t</span></a></li><li class="nv-edit"><a class="external text" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Template:Guides&amp;action=edit.html" rel="nofollow"><span style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:center;;border:none;" title="Edit this template">e</span></a></li></ul></div> </div> <span style="font-size:110%;"> <a href="./Category:Guides.html" title="Category:Guides">Guides</a></span>
+</th></tr>
+<tr style="height:2px;">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Beginners
+</td>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./A_Skill_Training_Encyclopedia.html" title="A Skill Training Encyclopedia">A Skill Training Encyclopedia</a>  <span style="font-weight:bold;">·</span> <a href="./Choosing_Martial_Arts_Styles.html" title="Choosing Martial Arts Styles">Choosing Martial Arts Styles</a>  <span style="font-weight:bold;">·</span> <a href="./Example_Character_Builds.html" title="Example Character Builds">Example Character Builds</a>  <span style="font-weight:bold;">·</span> <a href="./FAQ.html" title="FAQ">FAQ</a>  <span style="font-weight:bold;">·</span> <a href="./The_First_Day.html" title="The First Day">The First Day</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_survive_your_first_day:_Dynamic_Spawn_Mode.html" title="How to survive your first day: Dynamic Spawn Mode">First Day: Dynamic Spawn Mode</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_survive_your_first_day:_Static_Spawn_Mode.html" title="How to survive your first day: Static Spawn Mode">First Day: Static Spawn Mode</a>  <span style="font-weight:bold;">·</span> <a href="./Killing_zombies.html" title="Killing zombies">Killing zombies</a>  <span style="font-weight:bold;">·</span> <a href="./Scavenging.html" title="Scavenging">Scavenging</a>  <span style="font-weight:bold;">·</span> <a href="./Weapons_getting_stuck.html" title="Weapons getting stuck">Weapons getting stuck</a>  <span style="font-weight:bold;">·</span> <a href="./New_Player_Guide.html" title="New Player Guide">New Player Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;">Intermediate
+</td>
+<td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./A_Basic_Forging_Guide.html" title="A Basic Forging Guide">A Basic Forging Guide</a>  <span style="font-weight:bold;">·</span> <a href="./Archer_Guide.html" title="Archer Guide">Archer Guide</a>  <span style="font-weight:bold;">·</span> <a href="./Beyond_the_first_day.html" title="Beyond the first day">Beyond the first day</a>  <span style="font-weight:bold;">·</span> <a href="./Brewing.html" title="Brewing">Brewing</a>  <span style="font-weight:bold;">·</span> <a href="./Clothing_Encumbrance.html" title="Clothing Encumbrance">Clothing Encumbrance</a>  <span style="font-weight:bold;">·</span> <a href="./Farming.html" title="Farming">Farming</a>  <span style="font-weight:bold;">·</span> <a href="./Hunting.html" title="Hunting">Hunting</a>  <span style="font-weight:bold;">·</span> <a href="./Hobo%27s_Guide_to_the_Apocalypse.html" title="Hobo's Guide to the Apocalypse">Hobo's Guide to the Apocalypse</a>  <span style="font-weight:bold;">·</span> <a href="./Night_Raids:_Guide.html" title="Night Raids: Guide">Night Raids</a>  <span style="font-weight:bold;">·</span> <a href="./Power.html" title="Power">Power</a>  <span style="font-weight:bold;">·</span> <a href="./Recoil.html" title="Recoil">Recoil</a>  <span style="font-weight:bold;">·</span> <a href="./Woodland_Survival:_Guide.html" title="Woodland Survival: Guide">Woodland Survival</a>  <span style="font-weight:bold;">·</span> <a href="./Melee_Guide.html" title="Melee Guide">Melee Guide</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="./Category:Advanced_guides.html" title="Category:Advanced guides">Advanced</a>
+</td>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./Advanced_Character_Build_Tips.html" title="Advanced Character Build Tips">Advanced Character Build Tips</a>  <span style="font-weight:bold;">·</span> <a href="./Challenge-Really_Bad_Day.html" title="Challenge-Really Bad Day">Challenge-Really Bad Day</a>  <span style="font-weight:bold;">·</span> <a href="./Clearing_the_city.html" title="Clearing the city">Clearing the city</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Fungal_Bloom.html" title="Guide: Fungal Bloom">Fungal Bloom</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Lab_Challenge.html" title="Guide: Lab Challenge">Lab Challenge</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Broken_Cyborg.html" title="Guide: Broken Cyborg">Broken Cyborg</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Marloss_Berry.html" title="Guide: Marloss Berry">Marloss Berry</a>/<a href="./Guide:_Mycus.html" title="Guide: Mycus">Mycus</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Mine.html" title="Guide: Mine">Mine</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Nudist_Challenge.html" title="Guide: Nudist Challenge">Nudist Challenge</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Strange_Temple.html" title="Guide: Strange Temple">Strange Temple</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Trans-Coast_Logistics_Concourse_Challenge.html" title="Guide: Trans-Coast Logistics Concourse Challenge">Trans-Coast Logistics Concourse</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_Triffid_Grove.html" title="Guide: Triffid Grove">Triffid Grove</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="./Vehicles.html" title="Vehicles">Vehicles</a>
+</td>
+<td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./Driving.html" title="Driving">Driving</a>  <span style="font-weight:bold;">·</span> <a href="./Engines.html" title="Engines">Engines</a>  <span style="font-weight:bold;">·</span> <a href="./Making_a_Supercar:_Guide.html" title="Making a Supercar: Guide">Making a Supercar</a>  <span style="font-weight:bold;">·</span> <a href="./(DRbiG%27s)_Powered_Vehicle_Design_Primer.html" title="(DRbiG's) Powered Vehicle Design Primer">Powered Vehicle Design Primer</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_construction.html" title="Vehicle construction">Vehicle construction</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_modifications.html" title="Vehicle modifications">Vehicle modifications</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_parts.html" title="Vehicle parts">Vehicle parts</a>  <span style="font-weight:bold;">·</span> <a href="./Vehicle_repairs.html" title="Vehicle repairs">Vehicle repairs</a>  <span style="font-weight:bold;">·</span> <a href="./Making_your_first_vehicle_(The_humble_bicycle).html" title="Making your first vehicle (The humble bicycle)">Making your first vehicle (The humble bicycle)</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a href="./Gameplay_Mods.html" title="Gameplay Mods">Guides for mods</a>
+</td>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./Guide:_Seeker_of_the_Arcane.html" title="Guide: Seeker of the Arcane">Mod Scenario: Seeker of the Arcane</a>  <span style="font-weight:bold;">·</span> <a href="./Guide:_How_to_make_a_basic_slime_vehicle.html" title="Guide: How to make a basic slime vehicle">Vehicle addition pack: How to make a basic slime vehicle</a>   <span style="font-weight:bold;">·</span> <a href="./Magiclysm_:_How_to_be_a_great_magus.html" title="Magiclysm : How to be a great magus">Magiclysm : How to be a great magus</a></div>
+</td></tr>
+<tr style="height:2px">
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style=";background:#A5D6D6; color:#000000; padding-left:1em; padding-right:1em; text-align:right; font-weight: bold; white-space: nowrap;;"><a class="mw-redirect" href="./Technical.html" title="Technical">Technical</a>
+</td>
+<td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd; width:100%;padding:0px;;;"><div style="padding:0em 0.25em">
+<a href="./CataModder.html" title="CataModder">CataModder</a>  <span style="font-weight:bold;">·</span> <a href="./Cheating.html" title="Cheating">Cheating</a>  <span style="font-weight:bold;">·</span> <a href="./Creature_AI.html" title="Creature AI">Creature AI</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_compile.html" title="How to compile">How to compile</a>  <span style="font-weight:bold;">·</span> <a href="./How_to_search_the_sources.html" title="How to search the sources">How to search the sources</a>  <span style="font-weight:bold;">·</span> <a href="./Mod_manager.html" title="Mod manager">Mod Manager</a>  <span style="font-weight:bold;">·</span> <a href="./Gameplay_Mods.html" title="Gameplay Mods">Gameplay Mods</a>  <span style="font-weight:bold;">·</span> <a class="mw-selflink selflink">Savegame Editing</a>  <span style="font-weight:bold;">·</span> <a href="./Tileset_Support.html" title="Tileset Support">Tileset Support</a></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20231223194628
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.090 seconds
+Real time usage: 0.105 seconds
+Preprocessor visited node count: 857/1000000
+Preprocessor generated node count: 10070/1000000
+Post‐expand include size: 33079/2097152 bytes
+Template argument size: 14728/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   65.960      1 -total
+ 58.60%   38.655      1 Template:Guides
+ 54.54%   35.975      1 Template:Navbox
+ 18.61%   12.275      1 Template:Ver
+ 13.30%    8.770      1 Template:Navbar
+ 11.62%    7.662      8 Template:InlineVer
+  6.50%    4.285      3 Template:Transclude
+  5.12%    3.374      1 Template:Stub
+  4.26%    2.807     51 Template:Md
+  3.80%    2.504      1 Template:K
+-->
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:3643-0!canonical and timestamp 20231223194628 and revision id 39029
+ -->
+</div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Savegame_Editing&amp;oldid=39029.html">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Savegame_Editing&amp;oldid=39029</a>"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="./Special:Categories.html" title="Special:Categories">Categories</a>: <ul><li><a href="./Category:0.E_(Ellison).html" title="Category:0.E (Ellison)">0.E (Ellison)</a></li><li><a href="./Category:Stub.html" title="Category:Stub">Stub</a></li><li><a href="./Category:Technical.html" title="Category:Technical">Technical</a></li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="./index.php?title=Special:CreateAccount&amp;returnto=Savegame+Editing.html" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="./index.php?title=Special:UserLogin&amp;returnto=Savegame+Editing.html" title="You are encouraged to log in; however, it is not mandatory [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="./Savegame_Editing.html" title="View the content page [c]">Page</a></span></li><li class="new" id="ca-talk"><span><a accesskey="t" href="./index.php?title=Talk:Savegame_Editing&amp;action=edit&amp;redlink=1.html" rel="discussion" title="Discussion about the content page (page does not exist) [t]">Discussion</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="./Savegame_Editing.html">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="./index.php?title=Savegame_Editing&amp;action=edit.html" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="./index.php?title=Savegame_Editing&amp;action=history.html" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="./index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="./Main_Page.html" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="./Main_Page.html" title="Visit the main page [z]">Main page</a></li><li id="n-recentchanges"><a accesskey="r" href="./Special:RecentChanges.html" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-randompage"><a accesskey="x" href="./Special:Random.html" title="Load a random page [x]">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents.html">Help about MediaWiki</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="./Special:WhatLinksHere/Savegame_Editing.html" title="A list of all wiki pages that link here [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="./Special:RecentChangesLinked/Savegame_Editing.html" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-specialpages"><a accesskey="q" href="./Special:SpecialPages.html" title="A list of all special pages [q]">Special pages</a></li><li id="t-print"><a accesskey="p" href="./index.php?title=Savegame_Editing&amp;printable=yes.html" rel="alternate" title="Printable version of this page [p]">Printable version</a></li><li id="t-permalink"><a href="./index.php?title=Savegame_Editing&amp;oldid=39029.html" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="./index.php?title=Savegame_Editing&amp;action=info.html" title="More information about this page">Page information</a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 13 February 2021, at 15:09.</li>
+<li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/.html" rel="nofollow">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="./CataclysmDDA:Privacy_policy.html" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="./CataclysmDDA:About.html" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+<li id="footer-places-disclaimer"><a href="./CataclysmDDA:General_disclaimer.html" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://creativecommons.org/licenses/by-sa/3.0/.html"><img alt="Creative Commons Attribution-ShareAlike" height="31" src="./resources/assets/licenses/cc-by-sa.png" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/.html"><img alt="Powered by MediaWiki" height="31" src="./resources/assets/poweredby_mediawiki_88x31.png" srcset="./resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.090","walltime":"0.105","ppvisitednodes":{"value":857,"limit":1000000},"ppgeneratednodes":{"value":10070,"limit":1000000},"postexpandincludesize":{"value":33079,"limit":2097152},"templateargumentsize":{"value":14728,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   65.960      1 -total"," 58.60%   38.655      1 Template:Guides"," 54.54%   35.975      1 Template:Navbox"," 18.61%   12.275      1 Template:Ver"," 13.30%    8.770      1 Template:Navbar"," 11.62%    7.662      8 Template:InlineVer","  6.50%    4.285      3 Template:Transclude","  5.12%    3.374      1 Template:Stub","  4.26%    2.807     51 Template:Md","  3.80%    2.504      1 Template:K"]},"cachereport":{"timestamp":"20231223194628","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":60});});</script>
+</body>
+</html>

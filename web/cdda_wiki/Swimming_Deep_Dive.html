@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Swimming Deep Dive - The Cataclysm: Dark Days Ahead Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Swimming_Deep_Dive","wgTitle":"Swimming Deep Dive","wgCurRevisionId":40304,"wgRevisionId":40304,"wgArticleId":11666,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Game Mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Swimming_Deep_Dive","wgRelevantArticleId":11666,"wgRequestId":"ZeuZbFt70fEM8GAjjy1x7wAAAQw","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="./en_mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles_styles_vector" rel="stylesheet"/>
+<script async="" src="./en_startup_scripts_vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="./en_site.styles_styles_vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.33.1" name="generator"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="./opensearch_desc.php" rel="search" title="The Cataclysm: Dark Days Ahead Wiki (en)" type="application/opensearchdescription+xml"/>
+<link href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="./index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" type="application/atom+xml"/>
+<!--[if lt IE 9]><script src="./en_html5shiv_scripts_vector_1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Swimming_Deep_Dive rootpage-Swimming_Deep_Dive skin-vector action-view">
+<div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-ver"><div style="font-size:70%; text-align:center; float:right; border:thin solid #CFCFCF; background:#E6E6E6; color:#000000; padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:3px;">
+<div style="text-align:center; width:6em; background:#FFFFff; padding-left:1em; padding-right:1em;"><abbr title="Page last updated this release version:">0.E Experimental</abbr></div></div></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Swimming Deep Dive</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From The Cataclysm: Dark Days Ahead Wiki</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head.html">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search.html">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>Swimming is a method of moving over deep water without using a boat. While boats are often preferred for travelling over deep water, sometimes it is hard to find a boat, or sometimes you start on an island without access to a boat. Also, when exploring, sometimes you might want to cross a river.
+</p>
+<h3><span class="mw-headline" id="Overview_and_Maths">Overview and Maths</span></h3>
+<p>So how do you swim? Simple: move onto deep water, and if your movement time in deep water is over 500, or if you are wearing swim fins, you swim. It is important to note that movement time is the number of time units it takes to move one square, so at 500, it takes you 5 seconds to move one tile. Thus, note that a lower number is faster. If you have a movement time above 500 and don’t have fins, you sink like a rock. If you are swimming, you can choose to dive under the water (unless you are wearing a flotation vest). No matter how you go underwater, your vision range is reduced to one square (unless you have goggles or some mutations/cybernetics), other monsters will struggle to see you (although some can see through water, like most fish), you start to drown, and your swimming skill levels up twice as fast. If your swimming time is below 500, you also get a bonus 50 reduction to swimming time while diving. Note that diving under water does not change your z-level, although multi-z-level lakes seem to be something that is being developed very soon.
+Swimming Movement Time
+</p><p>So what is your movement time in water? Well, if your swimming skill is less than 11, it is:
+</p><p>(440 + (Weight/60g))*MCSM – 50*(Skill) – 6*STR – 4*DEX + (50 – 2*(Skill))*(Sum of BOTH leg encumbrance / 10) + (80 – 3*(Skill))*(Torso Encumbrance / 10) + (10-(Skill))*(Clothing Volume / 125mL)
+</p><p>Weight is the total weight of all equipment you have (carried AND worn, but not your characters mass), Skill is your swimming skill, and Clothing Volume is the combined volume of all clothing you are wearing, individually rounded down to the nearest 125mL. MCSM is movecost_swim_modifier. This is normally 1 (so it can be ignored), but lots of mutations reduce it (usually things that effect your skin, like scaly or fat (the mutation, not being obese)). In general, if the mutation description says it helps you swim, and isn’t paws, large paws or webbed paws, it reduces your MCSM.
+</p><p>There are a few other ways to reduce swimming time. Wearing swim fins reduces your swimming time by 15*STR (in addition to allowing you to swim on the surface at slower than a swimming time of 500), and flotation vests cap your swimming time to a minimum of 200 units and a maximum of 400 units. If you have the Paws, Large Paws, or Webbed Paws, your swimming time is reduced by 20+STR*3, 20+STR*4, or 60+STR*5 respectively if both hands are free, or half that if you are wielding a one-handed weapon.
+</p><p>If you are crouching, your swim time is increased by 50. If you are sprinting, your swim time is decreased by 80. Sprinting does allow you to swim if you otherwise couldn’t if you were walking, so you can tell if you are close to swimming by quickly sprinting. Note that sprinting while swimming drains stamina like nothing else, and when you get winded, you can no longer sprint AND you start having pain which drops your stats AND the winded status also drops your stats meaning your swim time increases, so it is very dangerous unless you only need to cross about a dozen tiles, or you do the exploity tip in the '<a href="#Strategy.html">Strategy</a>' section
+</p><p>Finally, your minimum swimming time is capped to 30, and if your swimming skill is above 11, the last term is ignored (but the torso encumbrance modifier and the leg encumbrance modifiers are not ignored if your skills exceed 27 and 25 respectively, meaning above those skill levels, increased torso and leg encumbrance can make you swim faster)
+</p>
+<h3><span class="mw-headline" id="Drowning">Drowning</span></h3>
+<p>When you are underwater, your oxygen levels (which are different to your stamina levels) are ‘effectively’ set to 25+2*STR. Every second you are underwater, you lose 1 oxygen (unless you have gills). Rebreathers act a bit weird: if you have less than 7 seconds left, it will give you another 12 seconds of oxygen. If you have cybernetic gills, instead of taking damage, you drain 25kJ of energy and gain 5 more seconds of oxygen. Finally, if you have no way to stave off drowning, you take 1d4 damage to your torso.
+</p>
+<h3><span class="mw-headline" id="Strategy">Strategy</span></h3>
+<ul><li>Unless you have one of the three hand mutations that help with swimming, carrying things in your hands does not effect swimming in the slightest.</li>
+<li>The single largest problem with swimming in most cases is clothing volume. At level 2 swimming, and with no mutations, 1L of worn clothing (64 time penalty) is worse than losing 10 strength, or losing 15 DEX, or carrying 3.83kg of extra stuff, or losing a swimming skill. 1L of worn clothing is not much: socks, panties, bra, dress shoes, and a dress shirt is 3L (although half of that are the dress shoes, and half of what remains is the dress shirt).</li>
+<li>Most cotton clothing is 'non-rigid', meaning that it's contents increase its volume, and thus making it harder to swim. However, clothing that is wielded in your hands is not 'worn', and doesn't count towards the clothing volume.</li>
+<li>Leg encumbrance is also nasty, remember that if you have 5 encumbrance on either leg, they add up to 10 encumbrance, and then add nearly 50 to the swimming time, nearly a full swimming skill!</li>
+<li>Both encumbrance values are reduced to the nearest 10 (both legs being added before being rounded). This means there is no difference between 11 encumbrance and 19 encumbrance, although clothing volume will usually be higher for the higher encumbrance equipment</li>
+<li>The ideal way to swim long distances is to remove all gear from your pockets, put it into a light-weight high volume bag, and then carry the bag (unless you are a high strength mutated thing with some form of paws).</li>
+<li>Another way to swim which is a bit hacky is to sprint, and just before you run out of stamina, hit ‘.’ (stay where you are). You can only sink due to slow speed if you move, so as long as you don’t move while walking, you can always sprint across the water. This is dangerous, if you get winded or mess up, you will be far away from shore and drowning, with only seconds to dump ballast and surface.</li>
+<li>Swimming skill helps in three ways: it gives a flat 50 reduction to swimming speed, reduces the time penalty due to encumbrance, and reduces the time penalty due to clothing volume. It does not reduce the time penalty due to weight.</li>
+<li>Aside from clothing volume, wearing encumbering shoes does not effect swim speed. This is probably by design, as swim fins are one of the most encumbering types of footwear there is.</li>
+<li>Interesting tit-bit: there is code that covers the case if you are wearing one swim fin (not possible, as far as I can tell, in an un-modded game). If you do, however, your time reduction from fins is reduced from 15*STR to 7.5*STR, and you have a 50% chance of floating if you move with a swim time of over 500 (which theoretically would cause you to keep bobbing up and down in water, although you can always surface if you have only one fin)</li>
+<li>Your land movement speed and swimming movement speed are independent. In particular, effects that reduce your speed do not directly reduce your swimming speed (although often things that reduce movement speed also reduce your stats as side effects, which increases your swimming time slightly)</li></ul>
+<p><br/>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20240308230412
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.020 seconds
+Real time usage: 0.023 seconds
+Preprocessor visited node count: 66/1000000
+Preprocessor generated node count: 592/1000000
+Post‐expand include size: 53/2097152 bytes
+Template argument size: 48/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   13.359      1 Template:Ver
+100.00%   13.359      1 -total
+-->
+<!-- Saved in parser cache with key chezzoco_CDDAwiki-wiki_:pcache:idhash:11666-0!canonical and timestamp 20240308230412 and revision id 40304
+ -->
+</div></div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Swimming_Deep_Dive&amp;oldid=40304.html">http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Swimming_Deep_Dive&amp;oldid=40304</a>"</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="./Special:Categories.html" title="Special:Categories">Category</a>: <ul><li><a href="./Category:Game_Mechanics.html" title="Category:Game Mechanics">Game Mechanics</a></li></ul></div></div>
+<div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-createaccount"><a href="./index.php?title=Special:CreateAccount&amp;returnto=Swimming+Deep+Dive.html" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="./index.php?title=Special:UserLogin&amp;returnto=Swimming+Deep+Dive.html" title="You are encouraged to log in; however, it is not mandatory [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="./Swimming_Deep_Dive.html" title="View the content page [c]">Page</a></span></li><li class="new" id="ca-talk"><span><a accesskey="t" href="./index.php?title=Talk:Swimming_Deep_Dive&amp;action=edit&amp;redlink=1.html" rel="discussion" title="Discussion about the content page (page does not exist) [t]">Discussion</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<ul class="menu">
+</ul>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="./Swimming_Deep_Dive.html">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="./index.php?title=Swimming_Deep_Dive&amp;action=edit.html" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="./index.php?title=Swimming_Deep_Dive&amp;action=history.html" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<ul class="menu">
+</ul>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="./index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search The Cataclysm: Dark Days Ahead Wiki" title="Search The Cataclysm: Dark Days Ahead Wiki [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="./Main_Page.html" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="./Main_Page.html" title="Visit the main page [z]">Main page</a></li><li id="n-recentchanges"><a accesskey="r" href="./Special:RecentChanges.html" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-randompage"><a accesskey="x" href="./Special:Random.html" title="Load a random page [x]">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents.html">Help about MediaWiki</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="./Special:WhatLinksHere/Swimming_Deep_Dive.html" title="A list of all wiki pages that link here [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="./Special:RecentChangesLinked/Swimming_Deep_Dive.html" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-specialpages"><a accesskey="q" href="./Special:SpecialPages.html" title="A list of all special pages [q]">Special pages</a></li><li id="t-print"><a accesskey="p" href="./index.php?title=Swimming_Deep_Dive&amp;printable=yes.html" rel="alternate" title="Printable version of this page [p]">Printable version</a></li><li id="t-permalink"><a href="./index.php?title=Swimming_Deep_Dive&amp;oldid=40304.html" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="./index.php?title=Swimming_Deep_Dive&amp;action=info.html" title="More information about this page">Page information</a></li> </ul>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 13 April 2022, at 09:55.</li>
+<li id="footer-info-copyright">Content is available under <a class="external" href="https://creativecommons.org/licenses/by-sa/3.0/.html" rel="nofollow">Creative Commons Attribution-ShareAlike</a> unless otherwise noted.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="./CataclysmDDA:Privacy_policy.html" title="CataclysmDDA:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="./CataclysmDDA:About.html" title="CataclysmDDA:About">About The Cataclysm: Dark Days Ahead Wiki</a></li>
+<li id="footer-places-disclaimer"><a href="./CataclysmDDA:General_disclaimer.html" title="CataclysmDDA:General disclaimer">Disclaimers</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://creativecommons.org/licenses/by-sa/3.0/.html"><img alt="Creative Commons Attribution-ShareAlike" height="31" src="./resources/assets/licenses/cc-by-sa.png" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/.html"><img alt="Powered by MediaWiki" height="31" src="./resources/assets/poweredby_mediawiki_88x31.png" srcset="./resources/assets/poweredby_mediawiki_132x47.png 1.5x, /cdda_wiki/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.020","walltime":"0.023","ppvisitednodes":{"value":66,"limit":1000000},"ppgeneratednodes":{"value":592,"limit":1000000},"postexpandincludesize":{"value":53,"limit":2097152},"templateargumentsize":{"value":48,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   13.359      1 Template:Ver","100.00%   13.359      1 -total"]},"cachereport":{"timestamp":"20240308230412","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":115});});</script>
+</body>
+</html>
