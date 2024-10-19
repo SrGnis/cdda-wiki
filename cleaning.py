@@ -6,6 +6,54 @@ from bs4 import BeautifulSoup
 from typing import Callable
 from html import escape
 
+# Sigh... sorry about this
+style_files = {
+'load.php?debug=false&lang=en&modules=jquery.accessKeyLabel,client|mediawiki.RegExp,notify,util|mediawiki.legacy.wikibits&skin=vector&version=6281194730bd': True,
+'load.php?debug=false&lang=en&modules=jquery|jquery.cookie|mediawiki.cookie,toc&skin=vector&version=085xbfw': True,
+'load.php?debug=false&lang=en&modules=jquery|jquery.makeCollapsible&skin=vector&version=0e5dzdn': True,
+'load.php?debug=false&lang=en&modules=jquery&skin=vector&version=0w5wrgy': True,
+'load.php?debug=false&lang=en&modules=jquery.tabIndex,throttle-debounce|mediawiki.page.startup|skins.vector.js&skin=vector&version=4fe37926d110': True,
+'load.php?debug=false&lang=en&modules=jquery.tablesorter|mediawiki.language.months&skin=vector&version=e2016b07e9c2': True,
+'load.php?debug=false&lang=en&modules=mediawiki.action.view.categoryPage.styles|mediawiki.helplink,sectionAnchor|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?debug=false&lang=en&modules=mediawiki.action.view.filepage|mediawiki.legacy.commonPrint,shared|mediawiki.sectionAnchor|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?debug=false&lang=en&modules=mediawiki.legacy.commonPrint,shared|mediawiki.sectionAnchor|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?debug=false&lang=en&modules=site&only=styles&skin=vector': True,
+'load.php?debug=false&lang=en&modules=site.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=jquery.makeCollapsible.styles|mediawiki.action.view.categoryPage.styles|mediawiki.helplink|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=jquery.makeCollapsible.styles|mediawiki.diff.styles|mediawiki.interface.helpers.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=jquery.makeCollapsible.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles&only=styles&printable=1&skin=vector': True,
+'load.php?lang=en&modules=jquery.makeCollapsible.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=jquery.makeCollapsible.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&printable=1&skin=vector': True,
+'load.php?lang=en&modules=jquery.makeCollapsible.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.action.view.categoryPage.styles|mediawiki.helplink|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&printable=1&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.action.view.categoryPage.styles|mediawiki.helplink|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.action.view.filepage|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.action.view.redirectPage|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.diff.styles|mediawiki.interface.helpers.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.helplink|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.helplink,special|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.interface.helpers.styles|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles&only=styles&printable=1&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|mediawiki.toc.styles|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&printable=1&skin=vector': True,
+'load.php?lang=en&modules=mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles&only=styles&skin=vector': True,
+'load.php?lang=en&modules=site.styles&only=styles&printable=1&skin=vector': True,
+'load.php?lang=en&modules=site.styles&only=styles&skin=vector': True,
+}
+
+script_files = {
+'load.php?debug=false&lang=en&modules=html5shiv&only=scripts&skin=vector&sync=1': True,
+'load.php?debug=false&lang=en&modules=jquery,mediawiki&only=scripts&skin=vector&version=0kyhxuv': True,
+'load.php?debug=false&lang=en&modules=jquery,mediawiki&only=scripts&skin=vector&version=0suxib7': True,
+'load.php?debug=false&lang=en&modules=jquery,mediawiki&only=scripts&skin=vector&version=133tzap': True,
+'load.php?debug=false&lang=en&modules=jquery,mediawiki&only=scripts&skin=vector&version=M1PPA2qs': True,
+'load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector': True,
+'load.php?lang=en&modules=html5shiv&only=scripts&skin=vector&sync=1': True,
+'load.php?lang=en&modules=startup&only=scripts&printable=1&skin=vector': True,
+'load.php?lang=en&modules=startup&only=scripts&safemode=1&skin=vector': True,
+'load.php?lang=en&modules=startup&only=scripts&skin=vector': True,
+}
+
 deleted_files = 0
 deleted_dirs = 0
 renamed = 0
@@ -117,11 +165,21 @@ def rename_get_query_files(directory, keyword):
         keyword (str): The keyword to look for at the beginning of each filename.
     """
     global renamed
+    global script_files
+    global style_files
 
     for item in os.listdir(directory):
         if item.startswith(keyword):
             old_path = os.path.join(directory, item)
             new_name = "_".join(list(parse_get_query(item).values()))
+            
+            extension = ""
+            if(script_files.get(item,False)):
+                extension = ".js"
+            if(style_files.get(item,False)):
+                extension = ".css"
+            new_name = new_name+extension
+
             new_path = os.path.join(directory, new_name)
             shutil.move(old_path, new_path)
             renamed += 1
