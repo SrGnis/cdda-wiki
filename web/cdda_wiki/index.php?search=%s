@@ -7,9 +7,9 @@
 <script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Search","wgNamespaceNumber":-1,"wgPageName":"Special:Search","wgTitle":"Search","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Search","wgRelevantArticleId":0,"wgRequestId":"YhCreuAi_BuZuWKQvdEA6gAAAQ4","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"searchTerm":"%s"});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.helplink":"ready","mediawiki.special":"ready","mediawiki.special.search.styles":"ready","mediawiki.ui":"ready","mediawiki.ui.button":"ready","mediawiki.ui.input":"ready","mediawiki.widgets.SearchInputWidget.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","oojs-ui.styles.textures":"ready","mediawiki.widgets.styles":"ready","oojs-ui.styles.icons-content":"ready","oojs-ui.styles.icons-alerts":"ready","oojs-ui.styles.icons-interactions":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });RLPAGEMODULES=["mediawiki.special.search","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
 <link rel="stylesheet" href="./load.php?lang=en&amp;modules=mediawiki.helplink%2Cspecial%2Cui%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special.search.styles%7Cmediawiki.ui.button%2Cinput%7Cmediawiki.widgets.SearchInputWidget.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons-alerts%2Cicons-content%2Cicons-interactions%2Cindicators%2Ctextures%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="./en_startup_scripts_vector"></script>
+<script async="" src="./en_startup_scripts_vector.js"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="./en_site.styles_styles_vector"/>
+<link rel="stylesheet" href="./en_site.styles_styles_vector.css"/>
 <meta name="generator" content="MediaWiki 1.33.1"/>
 <meta name="robots" content="noindex,nofollow"/>
 <link rel="shortcut icon" href="/favicon.ico"/>
@@ -17,7 +17,7 @@
 <link rel="EditURI" type="application/rsd+xml" href="http://cddawiki.chezzo.com/cdda_wiki/api.php?action=rsd"/>
 <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
 <link rel="alternate" type="application/atom+xml" title="The Cataclysm: Dark Days Ahead Wiki Atom feed" href="./index.php?title=Special:RecentChanges&amp;feed=atom"/>
-<!--[if lt IE 9]><script src="./en_html5shiv_scripts_vector_1"></script><![endif]-->
+<!--[if lt IE 9]><script src="./en_html5shiv_scripts_vector_1.js"></script><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Search page-Special_Search rootpage-Special_Search skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
