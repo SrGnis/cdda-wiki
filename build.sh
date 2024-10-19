@@ -17,3 +17,15 @@ rm -rf web
 
 # Moeve the cleaned data into the main repo
 mv .tmp/web ./
+
+# Prepare the index.html
+
+> web/index.html
+
+cat >> web/index.html << EOF
+<html>
+  <head>
+    <META http-equiv="refresh" content="0;URL=./cdda_wiki/Main_Page.html">
+  </head>
+</html>"
+EOF
